@@ -19,7 +19,11 @@ const formattedDate = publishDate.toLocaleDateString('en-GB', {
 
 <BaseLayout title={title} description={description} image={image} type="article">
   <article class="blog-article">
-    <header class="article-header">
+    <header
+      class="article-header"
+      style={image ? `background-image: url('${image}')` : ''}
+    >
+      {image && <div class="article-header-overlay" aria-hidden="true"></div>}
       <div class="article-header-inner">
         <div class="article-meta-top">
           <a href="/blog" class="back-link">← Blog</a>
@@ -34,12 +38,6 @@ const formattedDate = publishDate.toLocaleDateString('en-GB', {
         </div>
       </div>
     </header>
-
-    {image && (
-      <div class="article-hero-img">
-        <img src={image} alt={title} width="1200" height="630" loading="eager" />
-      </div>
-    )}
 
     <div class="article-body">
       <div class="prose">
@@ -59,61 +57,86 @@ const formattedDate = publishDate.toLocaleDateString('en-GB', {
 
 <style>
   .article-header {
-    background: var(--nd-forest);
-    padding: 72px 48px 80px;
+    background-color: var(--nd-forest);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 80px 48px 96px;
     position: relative;
     overflow: hidden;
+    min-height: 480px;
+    display: flex;
+    align-items: flex-end;
   }
-  .article-header::before {
+
+  /* Gradient overlay when image is present */
+  .article-header-overlay {
+    position: absolute; inset: 0;
+    background: linear-gradient(
+      to bottom,
+      rgba(10, 24, 16, 0.35) 0%,
+      rgba(10, 24, 16, 0.55) 40%,
+      rgba(10, 24, 16, 0.82) 100%
+    );
+    z-index: 0;
+  }
+
+  /* Subtle radial glow for no-image state */
+  .article-header:not([style])::before {
     content: '';
     position: absolute; top: -80px; right: -80px;
     width: 400px; height: 400px;
     background: radial-gradient(circle, rgba(196,98,58,0.25) 0%, transparent 65%);
     pointer-events: none;
   }
+
   .article-header-inner {
     max-width: var(--content-w);
+    width: 100%;
     margin: 0 auto;
     position: relative; z-index: 1;
   }
+
   .article-meta-top {
     display: flex; align-items: center; gap: 16px;
     margin-bottom: 28px;
   }
   .back-link {
     font-size: 13px; font-weight: 500;
-    color: rgba(255,255,255,0.55);
+    color: rgba(255,255,255,0.65);
     text-decoration: none;
     transition: color 0.2s;
   }
-  .back-link:hover { color: rgba(255,255,255,0.9); }
+  .back-link:hover { color: #fff; }
   .article-category {
-    background: rgba(196,98,58,0.3); color: var(--nd-terra-light);
+    background: rgba(196,98,58,0.4);
+    color: var(--nd-terra-light);
     text-transform: capitalize;
+    backdrop-filter: blur(4px);
   }
   .article-title {
     font-family: var(--font-serif);
-    font-size: clamp(30px, 4vw, 52px);
+    font-size: clamp(30px, 4vw, 56px);
     font-weight: 900;
     color: #fff;
-    line-height: 1.1;
+    line-height: 1.08;
     letter-spacing: -0.03em;
     margin-bottom: 20px;
+    text-shadow: 0 2px 16px rgba(0,0,0,0.35);
   }
   .article-desc {
     font-size: 17px; font-weight: 300;
-    color: rgba(255,255,255,0.6);
+    color: rgba(255,255,255,0.72);
     line-height: 1.65;
     margin-bottom: 24px;
     max-width: 580px;
+    text-shadow: 0 1px 8px rgba(0,0,0,0.3);
   }
   .article-byline {
-    font-size: 13px; color: rgba(255,255,255,0.45);
+    font-size: 13px; color: rgba(255,255,255,0.5);
     display: flex; align-items: center; gap: 8px;
   }
-  .article-hero-img img {
-    width: 100%; max-height: 480px; object-fit: cover;
-  }
+
   .article-body {
     max-width: var(--content-w);
     margin: 0 auto;
@@ -125,7 +148,7 @@ const formattedDate = publishDate.toLocaleDateString('en-GB', {
     border-top: 1px solid var(--nd-border);
   }
   @media (max-width: 640px) {
-    .article-header { padding: 48px 20px 60px; }
+    .article-header { padding: 48px 20px 64px; min-height: 360px; }
     .article-body { padding: 40px 20px 60px; }
   }
 </style>
