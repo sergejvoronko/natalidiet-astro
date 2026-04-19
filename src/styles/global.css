@@ -63,7 +63,7 @@
   --font-sans:        'DM Sans', system-ui, sans-serif;
 
   /* Layout */
-  --nav-height:       80px;
+  --nav-height:       90px;
   --max-w:            1200px;
   --content-w:        800px;
 
@@ -310,6 +310,14 @@ h4, h5, h6 { font-family: var(--font-sans); font-weight: 600; color: var(--nd-te
 .prose a { color: var(--nd-terra); text-decoration: underline; text-underline-offset: 3px; }
 .prose strong { font-weight: 600; color: var(--nd-forest); }
 .prose em { font-style: italic; }
+.prose hr { border: none; border-top: 1px solid var(--nd-border); margin: 40px 0; }
+.prose table { width: 100%; border-collapse: collapse; font-size: 15px; margin-bottom: 28px; }
+.prose table th { background: var(--nd-forest); color: #fff; padding: 10px 14px; text-align: left; font-size: 12px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; }
+.prose table td { padding: 10px 14px; border-bottom: 1px solid var(--nd-border); }
+.prose table tr:nth-child(even) td { background: rgba(45,74,62,0.04); }
+
+/* FAQ — Q: / A: paragraphs get card treatment */
+.prose p:has(> strong:first-child) { margin-bottom: 0; }
 
 /* ── Scrollbar ──────────────────────────────────────────────── */
 ::-webkit-scrollbar { width: 6px; }

@@ -17,32 +17,306 @@ const d = plan.data;
 
 <BaseLayout title={d.title} description={d.description}>
   <article class="meal-plan-page">
+
+    <!-- ── Header ─────────────────────────────────────────────── -->
     <header class="plan-header">
       <div class="plan-header-inner">
-        <a href="/meal-plans" class="back-link">← Meal Plans</a>
-        <div class="plan-badge">{d.days}-day plan</div>
+        <a href="/meal-plans" class="back-link">← All Meal Plans</a>
+
+        <div class="plan-meta-row">
+          <span class="plan-badge">{d.days}-day plan</span>
+          {d.totalCalories && <span class="plan-kcal-badge">~{d.totalCalories} kcal / day</span>}
+        </div>
+
         <h1 class="plan-title">{d.title}</h1>
         <p class="plan-desc">{d.description}</p>
-        {d.totalCalories && <div class="plan-kcal">~{d.totalCalories} kcal per day</div>}
+
+        <div class="plan-stats">
+          <div class="pstat">
+            <span class="pstat-v">{d.days}</span>
+            <span class="pstat-l">Days</span>
+          </div>
+          <div class="pstat-div"></div>
+          <div class="pstat">
+            <span class="pstat-v">{d.days * 4}</span>
+            <span class="pstat-l">Meals</span>
+          </div>
+          <div class="pstat-div"></div>
+          <div class="pstat">
+            <span class="pstat-v">{d.totalCalories ?? 1450}</span>
+            <span class="pstat-l">Avg kcal</span>
+          </div>
+          <div class="pstat-div"></div>
+          <div class="pstat">
+            <span class="pstat-v">Free</span>
+            <span class="pstat-l">PDF soon</span>
+          </div>
+        </div>
       </div>
     </header>
+
+    <!-- ── Book CTA strip ─────────────────────────────────────── -->
+    <div class="book-strip">
+      <div class="book-strip-inner">
+        <span class="book-strip-text">Want all 8 days + 32 full recipes in one beautiful PDF?</span>
+        <a href="/book" class="book-strip-btn">Get the Recipe Book — €24.99 →</a>
+      </div>
+    </div>
+
+    <!-- ── Body ───────────────────────────────────────────────── -->
     <div class="plan-body">
-      <div class="prose">
+      <div class="plan-prose">
         <Content />
       </div>
     </div>
+
   </article>
 </BaseLayout>
 
 <style>
-  .plan-header { background: var(--nd-forest); padding: 60px 48px 72px; }
-  .plan-header-inner { max-width: var(--content-w); margin: 0 auto; }
-  .back-link { display: inline-block; margin-bottom: 24px; font-size: 13px; color: rgba(255,255,255,0.5); text-decoration: none; transition: color 0.2s; }
-  .back-link:hover { color: rgba(255,255,255,0.9); }
-  .plan-badge { display: inline-block; background: rgba(196,98,58,0.25); color: var(--nd-terra-light); font-size: 12px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; padding: 6px 16px; border-radius: 100px; margin-bottom: 20px; }
-  .plan-title { font-family: var(--font-serif); font-size: clamp(32px, 4vw, 52px); font-weight: 900; color: #fff; line-height: 1.1; margin-bottom: 16px; }
-  .plan-desc { font-size: 17px; font-weight: 300; color: rgba(255,255,255,0.6); line-height: 1.7; margin-bottom: 20px; }
-  .plan-kcal { display: inline-flex; background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.75); font-size: 14px; font-weight: 600; padding: 8px 18px; border-radius: 100px; }
-  .plan-body { max-width: var(--content-w); margin: 0 auto; padding: 56px 48px 100px; }
-  @media (max-width: 640px) { .plan-header { padding: 40px 20px 52px; } .plan-body { padding: 40px 20px 72px; } }
+/* ── Header ─────────────────────────────────────────────────── */
+.plan-header {
+  background: #0e1a12;
+  padding: 64px 48px 72px;
+  position: relative; overflow: hidden;
+}
+.plan-header::before {
+  content: '';
+  position: absolute; top: -120px; right: -80px;
+  width: 480px; height: 480px;
+  background: radial-gradient(circle, rgba(196,98,58,0.18) 0%, transparent 65%);
+  pointer-events: none;
+}
+.plan-header::after {
+  content: '';
+  position: absolute; bottom: 0; left: 0; right: 0; height: 2px;
+  background: linear-gradient(90deg, var(--nd-terra), var(--nd-forest), var(--nd-gold), var(--nd-terra));
+}
+.plan-header-inner { max-width: 800px; margin: 0 auto; position: relative; z-index: 1; }
+
+.back-link {
+  display: inline-block; margin-bottom: 28px;
+  font-size: 13px; color: rgba(255,255,255,0.4);
+  text-decoration: none; transition: color 0.2s;
+  letter-spacing: 0.02em;
+}
+.back-link:hover { color: rgba(255,255,255,0.85); }
+
+.plan-meta-row { display: flex; align-items: center; gap: 12px; margin-bottom: 22px; }
+
+.plan-badge {
+  display: inline-flex; align-items: center;
+  background: rgba(196,98,58,0.22);
+  color: var(--nd-terra-light);
+  font-size: 11px; font-weight: 700;
+  letter-spacing: 0.12em; text-transform: uppercase;
+  padding: 6px 16px; border-radius: 100px;
+}
+.plan-kcal-badge {
+  display: inline-flex; align-items: center;
+  background: rgba(255,255,255,0.08);
+  color: rgba(255,255,255,0.55);
+  font-size: 11px; font-weight: 600;
+  letter-spacing: 0.08em;
+  padding: 6px 16px; border-radius: 100px;
+}
+
+.plan-title {
+  font-family: var(--font-serif);
+  font-size: clamp(32px, 5vw, 60px);
+  font-weight: 900; color: #fff;
+  line-height: 1.06; letter-spacing: -0.03em;
+  margin-bottom: 18px;
+}
+
+.plan-desc {
+  font-size: 17px; font-weight: 300;
+  color: rgba(255,255,255,0.55);
+  line-height: 1.75; max-width: 580px;
+  margin-bottom: 44px;
+}
+
+.plan-stats {
+  display: flex; align-items: center; gap: 28px;
+  padding-top: 32px;
+  border-top: 1px solid rgba(255,255,255,0.1);
+}
+.pstat-div { width: 1px; height: 32px; background: rgba(255,255,255,0.1); flex-shrink: 0; }
+.pstat-v {
+  font-family: var(--font-serif);
+  font-size: 26px; font-weight: 900;
+  color: #fff; letter-spacing: -0.03em;
+  line-height: 1; display: block;
+}
+.pstat-l {
+  font-size: 11px; font-weight: 500;
+  color: rgba(255,255,255,0.38);
+  letter-spacing: 0.08em; text-transform: uppercase;
+  margin-top: 4px; display: block;
+}
+
+/* ── Book strip ──────────────────────────────────────────────── */
+.book-strip {
+  background: var(--nd-forest);
+  border-bottom: 1px solid rgba(255,255,255,0.07);
+}
+.book-strip-inner {
+  max-width: 800px; margin: 0 auto;
+  padding: 14px 48px;
+  display: flex; align-items: center; justify-content: space-between; gap: 20px;
+  flex-wrap: wrap;
+}
+.book-strip-text { font-size: 13px; color: rgba(255,255,255,0.6); font-weight: 300; }
+.book-strip-btn {
+  display: inline-flex; align-items: center;
+  background: var(--nd-terra); color: #fff;
+  padding: 9px 22px; border-radius: 100px;
+  font-size: 13px; font-weight: 600;
+  text-decoration: none; white-space: nowrap;
+  transition: background 0.2s;
+  flex-shrink: 0;
+}
+.book-strip-btn:hover { background: #d96f45; }
+
+/* ── Body ────────────────────────────────────────────────────── */
+.plan-body {
+  background: var(--nd-cream);
+  padding: 64px 48px 100px;
+}
+.plan-prose {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* ── Prose overrides for meal plan ──────────────────────────── */
+.plan-prose { font-size: 16px; line-height: 1.8; color: var(--nd-text); font-weight: 300; }
+
+.plan-prose h2 {
+  font-family: var(--font-serif);
+  font-size: clamp(22px, 3vw, 32px);
+  font-weight: 900;
+  color: #fff;
+  line-height: 1.12; letter-spacing: -0.02em;
+  background: var(--nd-forest);
+  margin: 52px -24px 0;
+  padding: 22px 28px 8px;
+  border-radius: 18px 18px 0 0;
+}
+
+.plan-prose h2 + table {
+  margin-top: 0;
+  border-radius: 0 0 18px 18px;
+  overflow: hidden;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+}
+
+.plan-prose h3 {
+  font-family: var(--font-sans);
+  font-size: 13px; font-weight: 700;
+  color: var(--nd-terra);
+  letter-spacing: 0.12em; text-transform: uppercase;
+  margin: 16px 0 0;
+  padding: 12px 28px 20px;
+  background: rgba(196,98,58,0.06);
+  border-radius: 0 0 18px 18px;
+  margin-left: -24px; margin-right: -24px;
+}
+
+.plan-prose table {
+  width: calc(100% + 48px);
+  margin-left: -24px; margin-right: -24px;
+  border-collapse: collapse;
+  font-size: 14px;
+  background: #fff;
+}
+.plan-prose table thead th {
+  background: rgba(45,74,62,0.85);
+  color: rgba(255,255,255,0.8);
+  padding: 10px 20px;
+  text-align: left;
+  font-size: 11px; font-weight: 700;
+  letter-spacing: 0.1em; text-transform: uppercase;
+}
+.plan-prose table tbody tr:nth-child(even) td { background: rgba(45,74,62,0.03); }
+.plan-prose table tbody tr:last-child td {
+  font-weight: 600;
+  color: var(--nd-forest);
+  background: rgba(45,74,62,0.07);
+  border-top: 1px solid rgba(45,74,62,0.15);
+}
+.plan-prose table td {
+  padding: 12px 20px;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+  vertical-align: middle;
+}
+.plan-prose table td:last-child { text-align: right; font-weight: 600; color: var(--nd-terra); }
+
+.plan-prose p { margin-bottom: 20px; }
+
+.plan-prose hr {
+  border: none;
+  border-top: 2px dashed rgba(45,74,62,0.12);
+  margin: 52px 0 20px;
+}
+
+/* Overview table (no day header above it) */
+.plan-prose > p:first-child + table { margin-top: 24px; }
+
+/* Shopping list */
+.plan-prose ul {
+  padding-left: 0;
+  list-style: none;
+  margin-bottom: 24px;
+}
+.plan-prose ul li {
+  display: flex; align-items: flex-start; gap: 10px;
+  padding: 8px 0;
+  border-bottom: 1px dashed rgba(0,0,0,0.07);
+  font-size: 14px;
+}
+.plan-prose ul li::before {
+  content: '';
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  background: var(--nd-terra);
+  flex-shrink: 0; margin-top: 7px;
+}
+
+/* Ordered list for prep guide */
+.plan-prose ol {
+  padding-left: 0;
+  list-style: none;
+  counter-reset: step-counter;
+  display: flex; flex-direction: column; gap: 12px;
+  margin-bottom: 24px;
+}
+.plan-prose ol li {
+  display: flex; align-items: flex-start; gap: 14px;
+  counter-increment: step-counter;
+  font-size: 14px; line-height: 1.65;
+}
+.plan-prose ol li::before {
+  content: counter(step-counter);
+  width: 26px; height: 26px;
+  border-radius: 50%;
+  background: var(--nd-forest);
+  color: #fff;
+  font-size: 11px; font-weight: 700;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0; margin-top: 1px;
+}
+
+.plan-prose strong { font-weight: 600; color: var(--nd-forest); }
+.plan-prose em { font-style: italic; color: var(--nd-terra); }
+
+/* Mobile */
+@media (max-width: 640px) {
+  .plan-header { padding: 48px 20px 56px; }
+  .plan-body { padding: 40px 20px 72px; }
+  .book-strip-inner { padding: 12px 20px; }
+  .plan-prose h2 { margin-left: -6px; margin-right: -6px; }
+  .plan-prose table { width: calc(100% + 12px); margin-left: -6px; margin-right: -6px; }
+  .plan-prose h3 { margin-left: -6px; margin-right: -6px; }
+  .plan-stats { gap: 16px; flex-wrap: wrap; }
+}
 </style>
