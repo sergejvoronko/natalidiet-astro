@@ -46,9 +46,15 @@ Per serving (3 deruny with 1 tbsp low-fat sour cream):
 DIET LABELS: Vegetarian  |  Gluten-Free (oat flour)  |  Lower Fat than Traditional
 
 ## Frequently Asked Questions
-Q: Why are my baked deruny not crispy?
+
+**Q: Why are my baked deruny not crispy?**
+
 A: Four common causes: not enough moisture squeezed out; oven too cool (minimum 220°C); tray overcrowded (steam builds up); pancakes too thick (max 1cm). Address these four things and they will be crispy every time.
-Q: Can I make deruny ahead?
+
+**Q: Can I make deruny ahead?**
+
 A: Make the batter up to 2 hours ahead with a squeeze of lemon juice to prevent greying. Cooked deruny reheat well in a hot oven for 5 minutes — do not use a microwave.
-Q: What is the difference between deruny and latkes?
+
+**Q: What is the difference between deruny and latkes?**
+
 A: Both are grated potato pancakes — deruny is Ukrainian, latkes is Jewish Ashkenazi. Key difference: deruny often include cottage cheese in the batter. Both benefit enormously from the moisture-squeezing technique.

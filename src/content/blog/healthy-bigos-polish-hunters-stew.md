@@ -47,9 +47,15 @@ Per serving (without rye bread):
 DIET LABELS: Gluten-Free  |  High Fibre  |  High Protein  |  Probiotic-Rich  |  Freezer-Friendly
 
 ## Frequently Asked Questions
-Q: Is bigos healthy?
+
+**Q: Is bigos healthy?**
+
 A: Fundamentally yes — it is mostly fermented and fresh cabbage with modest meat, seasoned with mushrooms and spices. With lean substitutions, bigos becomes a genuinely impressive diet food: high protein, high fibre, probiotic-rich, filling.
-Q: Can I make vegetarian bigos?
+
+**Q: Can I make vegetarian bigos?**
+
 A: Yes — omit meat, use smoked paprika and extra dried mushrooms for depth. Add 400g cooked white beans or chickpeas for protein. Vegetarian bigos is a staple in Polish households during Lent.
-Q: What wine for bigos?
+
+**Q: What wine for bigos?**
+
 A: Any dry red. Traditional bigos uses Polish red wine or Madeira. A simple Merlot or Cabernet works well. Without alcohol: 150ml extra broth + 1 tbsp balsamic vinegar.

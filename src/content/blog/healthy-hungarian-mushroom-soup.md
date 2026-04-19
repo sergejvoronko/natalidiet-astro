@@ -55,13 +55,21 @@ DIET LABELS: Vegan option  |  Gluten-Free  |  Low-Calorie  |  Low-Fat  |  High S
 Replace Greek yogurt with unsweetened cashew cream or coconut yogurt. Use vegetable broth. The soup is naturally vegan except for the dairy component.
 
 ## Frequently Asked Questions
-Q: What makes this soup taste creamy without cream?
+
+**Q: What makes this soup taste creamy without cream?**
+
 A: Two techniques: first, the partially blended potato acts as a natural thickener and gives a silky body to the soup. Second, the off-heat Greek yogurt adds just enough dairy richness without the calories of cream. Most people genuinely cannot tell the difference.
-Q: Can I use any type of mushrooms?
+
+**Q: Can I use any type of mushrooms?**
+
 A: Yes — but the variety matters for flavour. Chestnut or cremini mushrooms give the best flavour. Button mushrooms work but are milder. The dried porcini are the secret weapon — even a small amount adds incredible depth that fresh mushrooms alone cannot replicate.
-Q: Is mushroom soup good for the immune system?
+
+**Q: Is mushroom soup good for the immune system?**
+
 A: Yes! Mushrooms are one of the few non-animal food sources of vitamin D, and they contain beta-glucans — polysaccharides shown in research to support immune function. The selenium content in mushrooms is also important for thyroid health and immune response.
-Q: Can I make this soup ahead of time?
+
+**Q: Can I make this soup ahead of time?**
+
 A: Yes — this soup keeps beautifully in the fridge for 3–4 days. Store without the yogurt added. When reheating, warm gently on the stovetop and add the yogurt fresh just before serving.
 
 — End of Pillar 1: Healthy Soups & Broths —

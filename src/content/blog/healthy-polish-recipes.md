@@ -41,9 +41,15 @@ Polish Christmas Eve (Wigilia) traditionally features 12 meatless dishes. Severa
 - Pierogi z kapustą i grzybami — mushroom-sauerkraut pierogi, baked not fried (~260 kcal)
 
 ## Frequently Asked Questions
-Q: What is the healthiest traditional Polish food?
+
+**Q: What is the healthiest traditional Polish food?**
+
 A: Barszcz czerwony (plain beet broth) is the lowest calorie at approximately 80 kcal per bowl. For a complete meal, żurek is the most nutritionally impressive — 190 calories with 18g protein and genuine probiotic fermented rye. Chłodnik (cold kefir-beet soup) is extraordinary for summer at 130 calories and full of probiotics.
-Q: Is Polish food heavy?
+
+**Q: Is Polish food heavy?**
+
 A: Traditional Polish food has a heavy reputation, but like all Eastern European cuisines, the heaviness is concentrated in specific dishes — heavy smoked meats, lard, thick sour cream. The vast majority of the Polish culinary tradition — its soups, its fermented vegetables, its fish dishes, its egg and dairy preparations — is genuinely light and nutritious.
-Q: Where can I buy authentic fermented Polish pickles outside Poland?
+
+**Q: Where can I buy authentic fermented Polish pickles outside Poland?**
+
 A: Look for the words 'kiszone' (fermented) not 'konserwowe' (preserved/pickled in vinegar). The best sources are Polish delicatessens, Eastern European grocery stores, and farmers markets in areas with Polish communities. Online Polish food retailers ship across Europe. In health food stores, look for naturally fermented sauerkraut in the refrigerated section — the same suppliers usually carry fermented pickles.

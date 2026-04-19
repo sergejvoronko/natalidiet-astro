@@ -65,13 +65,21 @@ DIET LABELS: Gluten-Free  |  Very High Protein  |  Dairy-Free  |  Low-Carb  |  H
 - Mushroom jus: Deglaze the pan with 100ml white wine + 100ml broth + sautéed mushrooms — reduce to a sauce (adds ~40 kcal)
 
 ## Frequently Asked Questions
-Q: Is pork tenderloin really leaner than chicken breast?
+
+**Q: Is pork tenderloin really leaner than chicken breast?**
+
 A: Yes — in fact, a 100g serving of raw pork tenderloin contains approximately 143 kcal and 3.5g fat, compared to 165 kcal and 3.6g fat for raw chicken breast. They are essentially identical in nutritional profile. Pork tenderloin is one of the most underrated lean proteins in healthy cooking.
-Q: Can I cook this in a slow cooker?
+
+**Q: Can I cook this in a slow cooker?**
+
 A: Pork tenderloin is actually not ideal for slow cookers — it is so lean that it dries out with extended moist heat. For slow cookers, choose pork shoulder or leg instead (which is fattier and tolerates longer cooking). The oven method is strongly recommended for tenderloin.
-Q: What traditional Slovak dishes does this recipe draw from?
+
+**Q: What traditional Slovak dishes does this recipe draw from?**
+
 A: This recipe is inspired by several Slovak classics: the caraway and garlic marinade is traditional for Slovak roast pork; the mustard is characteristic of Central European cooking. The vegetable accompaniments replace the traditional potato dumplings (halušky) for a lighter version. This is authentic Slovak flavour in a modern, lighter format.
-Q: How do I know when pork tenderloin is cooked?
+
+**Q: How do I know when pork tenderloin is cooked?**
+
 A: A meat thermometer is by far the most reliable method. The USDA considers 63°C / 145°F safe for whole pork cuts, and at this temperature the meat will have a slight pink blush — which is normal and safe. Cooking to 71°C / 160°F produces fully white, slightly firmer meat. Avoid going above 74°C / 165°F — the meat will be dry.
 
 — End of Pillar 2: Healthy Eastern European Main Dishes —

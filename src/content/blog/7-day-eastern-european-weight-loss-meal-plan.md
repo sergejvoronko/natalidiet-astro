@@ -86,9 +86,15 @@ Note: Calories are estimates. Use a tracking app (MyFitnessPal, Cronometer) to c
 ## Daily Nutrition Summary
 
 ## Frequently Asked Questions
-Q: How much weight can I lose on this meal plan?
+
+**Q: How much weight can I lose on this meal plan?**
+
 A: At 1,400–1,600 kcal/day most women will be in a 400–600 kcal daily deficit, producing safe, sustainable loss of approximately 0.5–0.7kg per week. Most people also notice significantly reduced bloating within the first few days from the high fibre and probiotic content.
-Q: Can I follow this plan as a vegetarian?
+
+**Q: Can I follow this plan as a vegetarian?**
+
 A: Yes — replace chicken paprikash with tofu or tempeh in the same sauce. The holubtsi can be filled with lentils and mushrooms. Goulash can be made with mushrooms and root vegetables. The buckwheat dish and soups are already plant-based. Protein levels remain strong with generous eggs, cottage cheese, and kefir.
-Q: Do I have to follow the days in order?
+
+**Q: Do I have to follow the days in order?**
+
 A: Not at all. The plan is designed around batch cooking so rearrange freely based on what is in your fridge. The only constraint is freshness: borscht and paprikash keep up to 5 days; holubtsi up to 4 days.

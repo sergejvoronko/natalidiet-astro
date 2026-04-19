@@ -44,11 +44,17 @@ Romanian sarmale are stuffed cabbage rolls similar to Ukrainian holubtsi — but
 The fermented cabbage wrapper adds deep sour flavour, probiotics, and vitamin C. Combined with a lean pork-and-turkey filling and a slow tomato braise, Romanian sarmale at approximately 270 calories are one of the most satisfying and nutritious dishes in this entire blog.
 
 ## Frequently Asked Questions
-Q: What makes Romanian ciorbă different from borscht?
+
+**Q: What makes Romanian ciorbă different from borscht?**
+
 A: Borscht is primarily a beet-based soup — the sourness and colour come from beets. Romanian ciorbă is a category of sour soups where the sourness comes from borș (fermented wheat bran water), lemon juice, or vinegar, and can be made with almost any vegetables or meat. Ciorbă does not use beets as a primary ingredient. Both traditions share the sour flavour profile but arrive at it through completely different ingredients.
-Q: What is borș and can I make it?
+
+**Q: What is borș and can I make it?**
+
 A: Borș (not to be confused with borscht) is a fermented liquid made from wheat bran, corn bran, or bread crusts fermented in water. It is the traditional souring agent for Romanian ciorbă. You can make it by fermenting 200g wheat bran in 1 litre of warm water for 3–4 days at room temperature, then straining. It will smell pleasantly sour like vinegar. If unavailable, substitute with lemon juice or apple cider vinegar.
-Q: Is Romanian food spicy?
+
+**Q: Is Romanian food spicy?**
+
 A: Surprisingly, no — despite its Balkan and Ottoman influences, Romanian food is generally not spicy hot. The bold flavours come from fermented and sour elements, aromatic herbs (lovage, thyme, dill), and slow cooking rather than chilli heat. The one exception is mici (grilled sausages) which contain mustard and sometimes red pepper — but even these are more aromatic than hot.
 
 — End of Pillar 5: Country-Specific Recipe Guides —

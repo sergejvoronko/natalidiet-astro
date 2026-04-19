@@ -60,11 +60,19 @@ DIET LABELS: Gluten-Free  |  Low-Fat  |  High-Fibre  |  Vegetarian (Vegan option
 - Batch cooking: This recipe doubles and triples beautifully. Make a big pot on Sunday.
 
 ## Frequently Asked Questions
-Q: Is borscht good for weight loss?
+
+**Q: Is borscht good for weight loss?**
+
 A: Yes! At only 160 calories per large bowl, borscht is one of the most filling low-calorie meals you can eat. Beets, cabbage, and carrots are all very low in calories and high in water and fibre, which means you feel satisfied for hours after eating. Many people use borscht as their lunch on weight-loss plans.
-Q: Can I make borscht without beets?
+
+**Q: Can I make borscht without beets?**
+
 A: Technically yes, but then it would not really be borscht — beets are the defining ingredient. Without beets you would simply have a vegetable soup. If you do not like the earthy taste of beets, try roasting them first before adding to the soup, which brings out their natural sweetness.
-Q: Why did my borscht turn brown?
+
+**Q: Why did my borscht turn brown?**
+
 A: Brown borscht usually means you added the acid too early (it needs to go in at the very end), or you boiled it too vigorously for too long. Always simmer gently and add vinegar or lemon juice only in the last 5 minutes of cooking.
-Q: How many calories are in traditional borscht with sour cream?
+
+**Q: How many calories are in traditional borscht with sour cream?**
+
 A: Traditional borscht made with lard and full-fat sour cream can be 280–380 calories per serving. My healthy version uses olive oil and low-fat Greek yogurt to bring it down to 160 kcal without sacrificing any flavour.

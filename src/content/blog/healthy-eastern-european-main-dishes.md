@@ -57,13 +57,21 @@ These dishes are ideal for weekly batch cooking. Here is a simple framework:
 - Keep a jar of sauerkraut in the fridge as your daily probiotic side dish.
 
 ## Frequently Asked Questions
-Q: Are Eastern European main dishes good for weight loss?
+
+**Q: Are Eastern European main dishes good for weight loss?**
+
 A: Yes — with the right approach. The traditional cuisine is based on lean proteins, slow-cooked vegetables, and wholegrains like buckwheat and rye. The main culprits in the traditional diet are lard, heavy sour cream, and very large portions. Replace those three things and you have some of the most satisfying, protein-rich, calorie-efficient meals in European cooking.
-Q: Which Eastern European dish has the most protein?
+
+**Q: Which Eastern European dish has the most protein?**
+
 A: Slovak-style pork tenderloin tops this list at 42g of protein per serving. Chicken paprikash comes second at 38g. If you are following a high-protein diet, both of these dishes are exceptional choices. Even the plant-based buckwheat and mushroom dish provides a solid 14g of plant protein.
-Q: Can I make these dishes in advance?
+
+**Q: Can I make these dishes in advance?**
+
 A: Absolutely — these dishes are designed for batch cooking. Goulash, cabbage rolls, and paprikash all taste significantly better the next day as the flavours deepen. Store in the fridge up to 4 days, or freeze for up to 3 months. The one exception is varenyky — freeze uncooked, never pre-cooked.
-Q: Are these dishes suitable for a gluten-free diet?
+
+**Q: Are these dishes suitable for a gluten-free diet?**
+
 A: Most of them adapt easily. Paprikash, goulash, cabbage rolls, buckwheat, and pork tenderloin are all naturally gluten-free or easily made so. Varenyky/pierogi require a gluten-free flour blend. Always check that your paprika and sausage products are certified gluten-free.
 
 ## Explore the Full Recipes

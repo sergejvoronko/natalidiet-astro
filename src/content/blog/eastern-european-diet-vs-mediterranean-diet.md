@@ -37,9 +37,15 @@ The Mediterranean diet's emphasis on fatty fish (salmon, sardines, mackerel) two
 The Mediterranean diet recommendation of 30+ different plant foods per week dramatically increases microbiome diversity. Traditional Eastern European cooking, while heavy in fermented plants, tends to use a narrower vegetable range. Consciously widening the palette significantly improves the Eastern European approach.
 
 ## Frequently Asked Questions
-Q: Is the Eastern European diet the same as Mediterranean?
+
+**Q: Is the Eastern European diet the same as Mediterranean?**
+
 A: No — they are completely distinct dietary traditions. The Mediterranean diet is defined by olive oil, legumes, fish, and fresh southern European vegetables. Eastern European is built on fermented foods, buckwheat, rye, root vegetables, and hearty broths. They share the principle of whole, minimally processed food, but differ significantly in specific ingredients.
-Q: Can you follow the Eastern European diet and have good heart health?
+
+**Q: Can you follow the Eastern European diet and have good heart health?**
+
 A: Yes, with modern adaptations. The key changes are: replacing lard with olive oil, choosing lean pork cuts, eating oily fish once or twice a week, and increasing the proportion of vegetables at every meal. With these adjustments the Eastern European diet pattern is genuinely heart-healthy.
-Q: Is kefir as healthy as Greek yogurt?
+
+**Q: Is kefir as healthy as Greek yogurt?**
+
 A: Both are excellent probiotic foods. Kefir typically contains 12+ strains of bacteria and yeasts versus 2–3 in commercial yogurt; it is also naturally lower in lactose. Greek yogurt wins on protein content per serving. Both are excellent daily foods and in this blog I use both.

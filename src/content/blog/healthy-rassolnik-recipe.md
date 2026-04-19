@@ -49,9 +49,15 @@ Rassolnik is only 145 calories per generous serving, and the pickle brine base g
 Per serving (with chicken, without sour cream):
 
 ## Frequently Asked Questions
-Q: Why is rassolnik good for digestion?
+
+**Q: Why is rassolnik good for digestion?**
+
 A: The fermented pickle brine contains naturally occurring probiotics and digestive enzymes that support healthy gut bacteria. Barley adds prebiotic fibre that feeds beneficial gut microbes. Together, they make rassolnik genuinely supportive of digestive health, not just a folk remedy.
-Q: Can I make rassolnik gluten-free?
+
+**Q: Can I make rassolnik gluten-free?**
+
 A: Yes — replace the pearl barley with brown rice or certified gluten-free oats. Add the rice at the same point as the barley but check for doneness earlier as rice cooks faster. The soup will be slightly thinner in texture.
-Q: Is the salty brine bad for my health?
+
+**Q: Is the salty brine bad for my health?**
+
 A: In moderation, naturally fermented brine is a genuine health food — it contains electrolytes, probiotics, and nutrients. However, if you are watching sodium intake for medical reasons, reduce the brine to 50ml and use a low-sodium broth. The total sodium in this recipe is moderate for a one-pot meal.

@@ -38,9 +38,15 @@ Each article in this pillar is a complete standalone guide to the healthiest dis
 - Links to full recipes where they exist on this blog
 
 ## Frequently Asked Questions
-Q: Which Eastern European country has the healthiest cuisine?
+
+**Q: Which Eastern European country has the healthiest cuisine?**
+
 A: Every national tradition has genuine strengths and genuine challenges. Ukraine scores highest on fermented food diversity (daily kefir, sauerkraut, pickles, fermented bread). Hungary scores highest on high-protein dishes (paprikash, stuffed peppers). Poland scores highest on probiotic richness and fibre from bigos and żurek. Romania has some of the lightest overall calorie profiles thanks to the sour broth (ciorbă) tradition.
-Q: Can I combine recipes from different Eastern European countries?
+
+**Q: Can I combine recipes from different Eastern European countries?**
+
 A: Absolutely — the cuisines are complementary. A Ukrainian borscht starter with Hungarian chicken paprikash as the main is a completely natural and delicious combination. A Slovak cottage cheese and buckwheat dish alongside Polish bigos is genuinely harmonious. Eastern European cuisines travel well together on the same table.
-Q: Do I need to know how to cook Eastern European food to start?
+
+**Q: Do I need to know how to cook Eastern European food to start?**
+
 A: Not at all. Every recipe on this blog is written for people who have never cooked Eastern European food before — with explanations of unfamiliar ingredients, sourcing tips, and technique guides. Start with borscht (the most approachable cornerstone recipe) and go from there.

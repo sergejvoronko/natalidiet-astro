@@ -40,9 +40,15 @@ Ukrainian soups almost always finish with acid — apple cider vinegar, lemon ju
 The naturally-fermented brine from your pickle jar is one of the most powerful flavour enhancers in the Ukrainian kitchen. Add a tablespoon to soups, vinegrets, dressings. Use it as the acid finish in borscht. It is salty, sour, complex — and full of probiotics.
 
 ## Frequently Asked Questions
-Q: What are the most popular Ukrainian dishes for weight loss?
+
+**Q: What are the most popular Ukrainian dishes for weight loss?**
+
 A: Borscht (160 kcal), green borshch (120 kcal), and vinegret salad (130 kcal) are the three lightest traditional Ukrainian dishes. For main courses: buckwheat with mushrooms (290 kcal) and holubtsi in tomato sauce (280 kcal). These five dishes alone can build an entire weight-loss weekly meal plan with completely authentic Ukrainian flavours.
-Q: Is Ukrainian food good for gut health?
+
+**Q: Is Ukrainian food good for gut health?**
+
 A: Exceptionally so — perhaps better than any other European national cuisine for gut health. The combination of daily kefir, naturally fermented sauerkraut, fermented dill pickles, sourdough rye bread, and fermented beet kvass provides a daily stream of diverse probiotic cultures and prebiotic fibre that supports a diverse, healthy gut microbiome.
-Q: Where can I find Ukrainian ingredients outside Ukraine?
+
+**Q: Where can I find Ukrainian ingredients outside Ukraine?**
+
 A: Naturally fermented pickles and sauerkraut: health food stores, Polish/Ukrainian delis, and increasingly mainstream supermarkets. Kefir: most supermarkets now stock it. Buckwheat: health food stores, Eastern European shops, and online. Tvaroh/cottage cheese: any supermarket. The only harder-to-find ingredient is fresh sorrel for green borshch — replace with spinach plus lemon juice if unavailable.

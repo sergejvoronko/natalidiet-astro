@@ -57,9 +57,15 @@ DIET LABELS: Vegan  |  Gluten-Free  |  High Fibre  |  High Magnesium  |  Plant-B
 - BUCKWHEAT BOWL: Serve cold over salad greens with a lemon-dill vinaigrette for a lunch salad
 
 ## Frequently Asked Questions
-Q: Does buckwheat taste like wheat?
+
+**Q: Does buckwheat taste like wheat?**
+
 A: Not at all — despite the name, buckwheat is completely unrelated to wheat. Toasted buckwheat (kasha) has a distinctly nutty, earthy, slightly bitter flavour that is entirely its own. Many people find it more interesting and complex than rice or quinoa once they have tried it properly toasted and cooked with aromatics.
-Q: Is buckwheat good for weight loss?
+
+**Q: Is buckwheat good for weight loss?**
+
 A: Yes — buckwheat has a low glycaemic index, which means it causes a slow, sustained rise in blood sugar rather than a spike. This helps control hunger and reduces cravings. It is also high in fibre and protein for a grain, both of which increase satiety. Studies suggest that regular buckwheat consumption is associated with healthier blood sugar and body weight.
-Q: Where can I buy buckwheat groats?
+
+**Q: Where can I buy buckwheat groats?**
+
 A: In Eastern or Central European countries, buckwheat is in every supermarket. In Western countries, look in: health food stores, Eastern European grocery shops, online (Amazon, ethnic food retailers), or the 'world foods' aisle of larger supermarkets. It is usually very affordable.

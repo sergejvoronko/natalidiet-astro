@@ -52,9 +52,15 @@ DIET LABELS: Gluten-Free  |  Low-Calorie  |  High Vitamin C  |  Vegetarian  |  S
 - Leftover green borshch can be served cold in summer — add a dash of buttermilk for a refreshing cold soup.
 
 ## Frequently Asked Questions
-Q: What does green borshch taste like?
+
+**Q: What does green borshch taste like?**
+
 A: Green borshch has a bright, tangy, slightly sour flavour from the sorrel — think lemon-kissed spring vegetables. It is lighter and more refreshing than red borscht, with an almost herby freshness. The hard-boiled egg and yogurt add creaminess and richness.
-Q: Is green borshch a detox soup?
+
+**Q: Is green borshch a detox soup?**
+
 A: While 'detox' is a broad term, green borshch is genuinely a cleansing spring meal. Sorrel is a natural diuretic, rich in vitamin C and iron. The lean broth, fresh greens, and absence of heavy fats make it one of the lightest, most nutrient-dense soups in Eastern European cuisine.
-Q: Can I make green borshch without sorrel?
+
+**Q: Can I make green borshch without sorrel?**
+
 A: Yes — the closest substitute is a mix of baby spinach and fresh lemon juice. Use 150g spinach and 3 tbsp lemon juice. The colour will be brighter green and the flavour slightly milder, but it is still a delicious and nutritious soup.

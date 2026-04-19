@@ -49,9 +49,15 @@ The key to efficient Eastern European meal prep is sequencing. Everything simmer
 * Freeze paprikash WITHOUT the yogurt sauce — dairy separates when frozen. Add fresh yogurt only when reheating the thawed dish.
 
 ## Frequently Asked Questions
-Q: Does borscht taste good the next day?
+
+**Q: Does borscht taste good the next day?**
+
 A: Better. Borscht is one of those dishes — like most stews and slow-cooked soups — that deepens in flavour overnight as the spices meld and vegetables fully absorb the broth. Many Ukrainian and Eastern European cooks consider day-two borscht to be superior to freshly made. It is one of the ideal batch-cook foods.
-Q: How do I stop borscht losing its colour when reheating?
+
+**Q: How do I stop borscht losing its colour when reheating?**
+
 A: Reheat gently on the stovetop over medium-low heat — never boil vigorously, never microwave. High heat destroys the betalain pigments in beets that give borscht its deep red colour. Add a few drops of lemon juice before serving to brighten and refresh the colour.
-Q: Can I freeze borscht?
+
+**Q: Can I freeze borscht?**
+
 A: Yes — beautifully, for up to 3 months. Freeze WITHOUT any dairy (add fresh at serving) and ideally WITHOUT potato pieces (they go grainy when frozen). Add fresh cubed potato when reheating from frozen. Defrost overnight in the fridge and reheat gently on the stovetop.

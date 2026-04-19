@@ -49,11 +49,17 @@ Per serving (1/6 of recipe):
 DIET LABELS: High Protein  |  Lower Fat  |  Gluten-Free  |  Make-Ahead  |  Party-Friendly
 
 ## Frequently Asked Questions
-Q: Can you really taste the difference between yogurt and mayonnaise dressing?
+
+**Q: Can you really taste the difference between yogurt and mayonnaise dressing?**
+
 A: With egg yolks whisked into the yogurt — honestly, the difference is minimal for most people. The egg yolks add the fat and richness that makes mayonnaise taste the way it does. The yogurt version is slightly lighter and tangier, which actually brightens the whole salad.
-Q: What protein works best?
+
+**Q: What protein works best?**
+
 A: Poached or roasted chicken breast is the best choice — neutral flavour, excellent protein, low fat. Lean turkey works equally well. Avoid bologna or processed meat — they add sodium without improving flavour.
-Q: Is Olivier salad the same as Russian salad?
+
+**Q: Is Olivier salad the same as Russian salad?**
+
 A: Essentially yes — 'Russian salad' in Western European delis is based on the same concept. The original was created by chef Lucien Olivier in 1860s Moscow and has become the defining party dish of the entire former Soviet region. Every family has their own version.
 
 — End of Pillar 4: Traditional Foods Made Healthy —

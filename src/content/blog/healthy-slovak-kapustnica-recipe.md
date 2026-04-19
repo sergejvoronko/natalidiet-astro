@@ -48,9 +48,15 @@ Per serving (without sour cream or bread):
 DIET LABELS: Gluten-Free  |  High Protein  |  High Fibre  |  Probiotic-Rich  |  Dairy-Free option
 
 ## Frequently Asked Questions
-Q: Is kapustnica healthy?
+
+**Q: Is kapustnica healthy?**
+
 A: Very much so — especially in this lighter version. Sauerkraut is one of the most probiotic-rich foods in European cuisine, supporting gut health, immunity, and even mood. The lean turkey sausage provides protein without excessive saturated fat, and the mushroom broth adds deep minerals without calories.
-Q: Can I make kapustnica vegetarian?
+
+**Q: Can I make kapustnica vegetarian?**
+
 A: Yes — simply omit the kielbasa and use mushroom broth. Double the dried mushrooms for more substance. The soup will still be deeply flavourful from the smoked paprika, caraway, and sauerkraut. You can also add a can of drained white beans for protein.
-Q: What makes this different from regular cabbage soup?
+
+**Q: What makes this different from regular cabbage soup?**
+
 A: The key difference is sauerkraut versus fresh cabbage. Sauerkraut's fermentation process creates a complex, tangy, umami-rich flavour that fresh cabbage simply cannot replicate. It also brings probiotic benefits that fresh cabbage does not have.

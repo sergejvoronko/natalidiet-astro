@@ -73,11 +73,19 @@ DIET LABELS: Gluten-Free  |  High Fibre  |  High Protein  |  Meal-Prep Friendly 
 - Reheat: Always reheat with the lid on to prevent drying out.
 
 ## Frequently Asked Questions
-Q: Are cabbage rolls good for weight loss?
+
+**Q: Are cabbage rolls good for weight loss?**
+
 A: Yes — cabbage rolls are an excellent weight-loss meal. Cabbage is extremely low in calories (about 25 kcal per 100g) and very high in volume and fibre. The meat and rice filling provides protein and slow-release carbohydrates. Two rolls at 280 calories is a very filling, high-protein, high-fibre meal that keeps you satisfied for hours.
-Q: Can I make holubtsi in a slow cooker?
+
+**Q: Can I make holubtsi in a slow cooker?**
+
 A: Absolutely — a slow cooker is actually ideal for cabbage rolls. Assemble the rolls and place in the slow cooker, pour the tomato sauce over. Cook on LOW for 6–8 hours or HIGH for 3–4 hours. The result is meltingly tender rolls.
-Q: Why are my cabbage rolls falling apart?
+
+**Q: Why are my cabbage rolls falling apart?**
+
 A: Most common cause: the cabbage leaves were not softened enough before rolling. They need to be pliable and flexible. Also, make sure you are rolling firmly (not loosely) and placing them seam-side DOWN in the pot. If they still unfurl, secure with a toothpick.
-Q: What is the difference between holubtsi, gołąbki, and sarmale?
+
+**Q: What is the difference between holubtsi, gołąbki, and sarmale?**
+
 A: These are all national variations of the same dish. Ukrainian holubtsi use a tomato-based sauce and often include a mix of beef and rice. Polish gołąbki are nearly identical. Romanian sarmale traditionally use sauerkraut leaves instead of fresh cabbage and include more pork. All are delicious.

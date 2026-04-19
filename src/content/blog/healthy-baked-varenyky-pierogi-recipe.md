@@ -70,9 +70,15 @@ The best way to have these on demand:
 - To cook from frozen: boil directly in salted water for 7–8 minutes (they take 2–3 minutes longer than fresh). Then bake as normal.
 
 ## Frequently Asked Questions
-Q: How many calories are in traditional fried pierogi?
+
+**Q: How many calories are in traditional fried pierogi?**
+
 A: Traditional boiled-then-pan-fried pierogi in butter typically contain 400–500 calories for 5 pieces, and even more with a full dollop of full-fat sour cream. This baked version brings that down to 320 calories for 5 pieces — a meaningful saving, especially if you eat them regularly.
-Q: Can I make the dough without eggs?
+
+**Q: Can I make the dough without eggs?**
+
 A: Yes — replace the egg with 2 extra tablespoons of warm water plus 1 teaspoon of olive oil. The dough will be slightly less elastic but still workable. Or use 1 tablespoon of aquafaba (the liquid from a can of chickpeas) as a binder, which works surprisingly well.
-Q: What are other traditional fillings I can use?
+
+**Q: What are other traditional fillings I can use?**
+
 A: The possibilities are endless: sauerkraut and mushroom (very traditional, low calorie); blueberry or strawberry (sweet version); spinach and feta (a delicious modern twist); spiced lentils with caramelised onion (vegetarian); or a classic cottage cheese with a touch of vanilla and sugar for a sweet dessert version.

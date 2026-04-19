@@ -54,9 +54,15 @@ Slovak pork tenderloin (150g) + roasted vegetables + 2–3 naturally fermented p
 Daily Total: ~1,450 kcal  |  ~105g protein  |  ~35g fibre
 
 ## Frequently Asked Questions
-Q: Is Central European food too heavy for weight loss?
+
+**Q: Is Central European food too heavy for weight loss?**
+
 A: At its authentic roots, no. The heaviness comes from modern additions: too much lard, oversized portions, daily fried foods, constant sweet pastries. The original Central European peasant diet — buckwheat, root vegetable soups, fermented cabbage, modest portions of meat — is a perfectly sound weight-loss framework.
-Q: What is the best Central European food for reducing belly fat?
+
+**Q: What is the best Central European food for reducing belly fat?**
+
 A: No single food targets belly fat — this is a myth. However, daily kefir (probiotics linked to reduced abdominal fat), buckwheat (low GI prevents fat-storing insulin spikes), and high-fibre vegetable soups together create a dietary pattern that genuinely supports visceral fat reduction over time.
-Q: Can I drink beer and still lose weight?
+
+**Q: Can I drink beer and still lose weight?**
+
 A: One or two beers per week will not derail progress. The Central European habit of 2–3 large beers daily adds 600–900 empty calories. Reduce to 1–2 per week and replace daily beer with kefir, herbal tea, or sparkling water.

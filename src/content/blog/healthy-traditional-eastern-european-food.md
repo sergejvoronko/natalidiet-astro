@@ -32,9 +32,15 @@ Many traditional dishes are pan-fried throughout. The healthy modern technique: 
 Low-fat Greek yogurt replaces full-fat sour cream in all cooked applications — always off the heat, stabilised with a little cornstarch. In cold applications (dressings, cold dips), low-fat sour cream performs better than yogurt.
 
 ## Frequently Asked Questions
-Q: Can traditional Eastern European food be genuinely light?
+
+**Q: Can traditional Eastern European food be genuinely light?**
+
 A: Yes — and the historical evidence is clear. Pre-industrial peasant cooking was light because fat was scarce and expensive. The heavy versions we associate with these cuisines are largely a product of the 20th century. The original dishes are often beautifully lean.
-Q: Do these healthier versions taste like the real thing?
+
+**Q: Do these healthier versions taste like the real thing?**
+
 A: For most dishes in this pillar — yes, very closely. Baked deruny taste nearly identical to fried ones. Syrniki with oat flour are genuinely excellent. The dish where the healthy version differs most noticeably is svíčková — the cream sauce is distinctive and the yogurt version, while delicious, is somewhat lighter in texture.
-Q: Which dish is easiest to make healthy?
+
+**Q: Which dish is easiest to make healthy?**
+
 A: Syrniki are the easiest — the original is already quite lean. Bigos is the most forgiving for batch cooking. Deruny require the most technique (moisture removal) but once you learn it the technique is simple.

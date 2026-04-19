@@ -29,9 +29,15 @@ Save this page. Return to it whenever you are adapting a recipe from your grandm
 ## Category 5: Flavour and Seasoning
 
 ## Frequently Asked Questions
-Q: Will these swaps change the authentic taste?
+
+**Q: Will these swaps change the authentic taste?**
+
 A: For most substitutions — no, not noticeably. The biggest taste difference you might detect is the lard-to-olive-oil swap, which produces a very slightly different mouthfeel. Adding smoked paprika to olive oil compensates very effectively. The full-fat to low-fat dairy swap is genuinely undetectable in most cooked dishes when the yogurt is added properly off the heat.
-Q: Which single swap makes the biggest calorie difference?
+
+**Q: Which single swap makes the biggest calorie difference?**
+
 A: Replacing lard or large pours of oil with an avocado oil spray makes the largest single difference — easily 100–200 fewer calories per meal. Second most impactful: full-fat sour cream to low-fat Greek yogurt, saving 60+ calories per serving in every dish that traditionally uses a generous dollop of cream.
-Q: Is low-fat Greek yogurt a good substitute for sour cream in all Eastern European recipes?
+
+**Q: Is low-fat Greek yogurt a good substitute for sour cream in all Eastern European recipes?**
+
 A: In almost all cooked dishes where sour cream is stirred in off the heat — yes, absolutely. The critical technique: remove the pot from heat, cool 2 minutes, then stir in yogurt mixed with a little cornstarch. In cold applications (cucumber salad with smetana, cold dips), use low-fat sour cream instead, as yogurt can be too tangy in cold dishes.

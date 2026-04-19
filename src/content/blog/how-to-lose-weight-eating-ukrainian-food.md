@@ -57,13 +57,21 @@ Already one of the healthiest traditional Ukrainian breakfasts — primarily cot
 Replace full-fat mayonnaise with a 50/50 mix of low-fat Greek yogurt and a teaspoon of Dijon mustard. Add more vegetables (cucumber, peas, carrots) and reduce the potato volume. Use chicken breast instead of fatty ham. The result tastes remarkably close to the original at approximately half the calories.
 
 ## Frequently Asked Questions
-Q: Can I eat salo (cured pork fat) on a diet?
+
+**Q: Can I eat salo (cured pork fat) on a diet?**
+
 A: Yes — occasionally. A small slice (20–30g) of salo as an occasional treat will not derail a diet. What causes problems is eating salo every day in large quantities. The Ukrainian tradition of a thin slice of salo on dark rye bread with garlic and a pickle is, in moderation, a culturally meaningful and not excessive indulgence.
-Q: Is Ukrainian bread healthy?
+
+**Q: Is Ukrainian bread healthy?**
+
 A: Traditional Ukrainian sourdough rye bread is genuinely nutritious — high in fibre, lower GI than wheat bread, fermented with a sourdough starter. One or two slices per day is completely compatible with weight loss. The problem is eating 4–5 thick slices at every meal. Portion it thoughtfully.
-Q: How do I handle family meals where I cannot control the food?
+
+**Q: How do I handle family meals where I cannot control the food?**
+
 A: This is a real and emotionally complex challenge — declining food in Eastern European cultures can feel like rejecting love. My approach: eat a smaller portion of everything with genuine appreciation. Ask for the recipe so you can make a lighter version at home. Bring a dish you have made healthily to share. Frame it as honouring the tradition by cooking it more often yourself, not as rejecting the food.
-Q: What is the most weight-loss-friendly traditional Ukrainian meal?
+
+**Q: What is the most weight-loss-friendly traditional Ukrainian meal?**
+
 A: Green borshch with a hard-boiled egg at approximately 120 calories is the single most diet-friendly traditional Ukrainian meal. Close second: plain buckwheat kasha with braised mushrooms and a side of sauerkraut — approximately 250 calories of extraordinarily nutritious, filling, deeply traditional food.
 
 — End of Pillar 3: Meal Plans & Diet Guides —

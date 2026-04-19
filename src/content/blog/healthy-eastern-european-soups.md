@@ -64,15 +64,25 @@ Research consistently shows that starting a meal with a low-calorie broth-based 
 - Traditional Eastern European soups typically contain no ultra-processed ingredients
 
 ## Frequently Asked Questions
-Q: Are Eastern European soups healthy?
+
+**Q: Are Eastern European soups healthy?**
+
 A: Yes — extremely so. Traditional Eastern European soups are built on vegetables, lean broths, and fermented ingredients. They are naturally low in calories, high in fibre, and rich in vitamins and minerals. The key is making simple modern swaps: replace lard with olive oil, use low-fat dairy, and reduce added salt.
-Q: Can I eat borscht and other Eastern European soups on a weight loss diet?
+
+**Q: Can I eat borscht and other Eastern European soups on a weight loss diet?**
+
 A: Absolutely. Most Eastern European soups are between 110–250 calories per generous serving, making them ideal for calorie-controlled eating. They are also very filling due to their high water and fibre content, so you are less likely to snack afterwards.
-Q: Are Eastern European soups gluten-free?
+
+**Q: Are Eastern European soups gluten-free?**
+
 A: Most traditional vegetable soups — borscht, green borshch, mushroom soup — are naturally gluten-free. Polish zurek is the notable exception as it is based on fermented rye flour. Kapustnica and rassolnik can be made gluten-free easily by omitting barley or using certified GF oats instead.
-Q: What is the difference between borscht and borshch?
+
+**Q: What is the difference between borscht and borshch?**
+
 A: Both spellings refer to the same beet-based soup, just transliterated differently from Cyrillic. 'Borscht' is the Yiddish-influenced English spelling. 'Borshch' is a more direct Ukrainian transliteration. In this blog I use both — they are the same delicious soup!
-Q: How do I make Eastern European soups vegan?
+
+**Q: How do I make Eastern European soups vegan?**
+
 A: Most of these soups adapt easily to vegan versions. Replace meat broth with mushroom or vegetable broth (dried porcini mushrooms create incredible depth). Skip meat or replace with beans or tofu. Use coconut yogurt or cashew cream instead of sour cream.
 
 ## Internal Links in This Series

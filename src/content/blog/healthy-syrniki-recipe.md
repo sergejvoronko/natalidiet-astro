@@ -50,9 +50,15 @@ DIET LABELS: Vegetarian  |  High Protein  |  Gluten-Free adaptable  |  Quick (20
 - BAKED VERSION: Place shaped syrniki on oiled parchment, bake 200°C for 15 min each side.
 
 ## Frequently Asked Questions
-Q: Why are my syrniki falling apart?
+
+**Q: Why are my syrniki falling apart?**
+
 A: Almost always the cottage cheese was too wet. Drain longer and add 1 extra tbsp of flour. The batter should hold a firm shape when scooped — if it spreads immediately, it needs more draining or flour.
-Q: Can I make syrniki the night before?
+
+**Q: Can I make syrniki the night before?**
+
 A: Yes — make the batter the night before and refrigerate. Chilled batter is actually easier to shape. Shaped raw syrniki can also sit overnight in the fridge and be cooked fresh in the morning in under 10 minutes.
-Q: Are syrniki nutritious for breakfast?
+
+**Q: Are syrniki nutritious for breakfast?**
+
 A: Exceptionally so. The cottage cheese base provides excellent protein with modest calories, along with calcium, selenium, and B vitamins. At 220 calories and 18g protein per serving they are one of the best traditional breakfasts for a high-protein eating plan.

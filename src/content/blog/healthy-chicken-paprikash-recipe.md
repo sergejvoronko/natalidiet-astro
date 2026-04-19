@@ -68,11 +68,19 @@ DIET LABELS: Gluten-Free  |  High Protein  |  Low-Fat  |  Diabetic-Friendly  |  
 - Meal prep tip: Make a double batch on Sunday. Portion over cauliflower mash in containers — ready in 2 minutes each day.
 
 ## Frequently Asked Questions
-Q: What is the difference between chicken paprikash and goulash?
+
+**Q: What is the difference between chicken paprikash and goulash?**
+
 A: Both are Hungarian paprika-based dishes, but they are quite different. Goulash is a beef-based stew, usually served as a soup or with potato. Paprikash uses chicken (or veal) in a creamy paprika-yogurt sauce, and is typically served over egg noodles or dumplings. Paprikash is lighter and creamier; goulash is bolder and beefier.
-Q: Can I use chicken breasts instead of thighs?
+
+**Q: Can I use chicken breasts instead of thighs?**
+
 A: Yes, but thighs are strongly preferred. Chicken thighs contain more connective tissue that breaks down during slow cooking, keeping the meat juicy and tender. Breasts can dry out quickly. If using breasts, reduce the cooking time after adding to the sauce to 20–25 minutes and avoid overcooking.
-Q: Why is my paprikash sauce too thin?
+
+**Q: Why is my paprikash sauce too thin?**
+
 A: A few fixes: (1) Cook uncovered for the last 10 minutes to let the sauce reduce. (2) Add the cornstarch-yogurt mixture — the starch thickens the sauce as well as stabilising the dairy. (3) Mix 1 tsp cornstarch with 2 tbsp cold water and stir into the simmering sauce before adding yogurt.
-Q: Is chicken paprikash a traditional weight-loss food?
+
+**Q: Is chicken paprikash a traditional weight-loss food?**
+
 A: In traditional form, no — it was made with lard and full-fat sour cream. But the structure of the dish — lean chicken protein, vegetable-based sauce, minimal fat — makes it naturally suited to healthy cooking. In this version, the calories are just 310 per serving with 38g protein, making it genuinely excellent for weight management.
