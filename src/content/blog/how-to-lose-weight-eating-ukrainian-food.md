@@ -8,6 +8,7 @@ tags: ["ukrainian-food", "weight-loss", "diet", "borscht", "kefir", "traditional
 pillar: 3
 publishDate: 2024-04-28
 featured: false
+image: "/images/blog/how-to-lose-weight-eating-ukrainian-food.webp"
 ---
 
 SEO Meta Description: Can you eat varenyky, borscht, salo, and holubtsi and lose weight? Yes. Here is exactly how — a practical, honest, culturally respectful guide from someone who grew up eating this food.

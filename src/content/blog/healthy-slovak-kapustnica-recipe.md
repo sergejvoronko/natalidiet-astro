@@ -8,6 +8,7 @@ tags: ["kapustnica", "slovak", "sauerkraut", "probiotic", "gluten-free", "christ
 pillar: 1
 publishDate: 2024-02-20
 featured: false
+image: "/images/blog/healthy-slovak-kapustnica-recipe.webp"
 ---
 
 SEO Meta Description: Kapustnica is a traditional Slovak sauerkraut and sausage soup. This healthy version has only 180 calories and is packed with probiotics and fibre. Ready in 45 minutes.

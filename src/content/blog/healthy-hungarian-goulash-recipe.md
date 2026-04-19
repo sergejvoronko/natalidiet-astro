@@ -8,6 +8,7 @@ tags: ["goulash", "hungarian", "beef-stew", "gluten-free", "high-iron", "340-cal
 pillar: 2
 publishDate: 2024-03-20
 featured: false
+image: "/images/blog/healthy-hungarian-goulash-recipe.webp"
 ---
 
 SEO Meta Description: This healthy Hungarian goulash has all the rich paprika flavour with only 340 calories and 32g of protein. Slow-cooked beef stew with vegetables. Gluten-free, freezer-friendly.

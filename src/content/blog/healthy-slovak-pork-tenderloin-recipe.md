@@ -8,6 +8,7 @@ tags: ["pork-tenderloin", "slovak", "high-protein", "gluten-free", "lean", "360-
 pillar: 2
 publishDate: 2024-03-28
 featured: false
+image: "/images/blog/healthy-slovak-pork-tenderloin-recipe.webp"
 ---
 
 SEO Meta Description: This healthy Slovak-style pork tenderloin is marinated in caraway, garlic and mustard, then oven-baked. Only 360 calories and 42g protein. The leanest pork dish in Eastern European cooking.

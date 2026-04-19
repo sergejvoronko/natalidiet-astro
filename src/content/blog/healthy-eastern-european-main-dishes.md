@@ -8,6 +8,7 @@ tags: ["main-dishes", "eastern-european", "pillar-guide", "healthy", "weight-los
 pillar: 2
 publishDate: 2024-03-05
 featured: false
+image: "/images/blog/healthy-eastern-european-main-dishes.webp"
 ---
 
 SEO Meta Description: Discover lighter versions of Eastern European classics — chicken paprikash, goulash, cabbage rolls, pierogi and more. All under 400 calories. Full nutrition facts and weight-loss tips.

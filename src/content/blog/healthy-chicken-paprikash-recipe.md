@@ -8,6 +8,7 @@ tags: ["chicken-paprikash", "hungarian", "gluten-free", "high-protein", "310-cal
 pillar: 2
 publishDate: 2024-03-10
 featured: false
+image: "/images/blog/healthy-chicken-paprikash-recipe.webp"
 ---
 
 SEO Meta Description: This healthy chicken paprikash uses Greek yogurt instead of sour cream — only 310 calories, 38g protein. Authentic Hungarian flavour without the guilt. Easy 45-minute recipe.

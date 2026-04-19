@@ -8,6 +8,7 @@ tags: ["varenyky", "pierogi", "ukrainian", "polish", "vegetarian", "baked", "dum
 pillar: 2
 publishDate: 2024-03-25
 featured: false
+image: "/images/blog/healthy-baked-varenyky-pierogi-recipe.webp"
 ---
 
 SEO Meta Description: Love pierogi but watching your calories? These healthy baked varenyky are only 320 calories for 5 dumplings. Potato and cottage cheese filling. Gluten-free option included.

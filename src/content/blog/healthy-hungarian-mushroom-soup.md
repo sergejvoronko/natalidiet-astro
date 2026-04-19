@@ -8,6 +8,7 @@ tags: ["mushroom-soup", "hungarian", "vegan", "gluten-free", "immune-health", "1
 pillar: 1
 publishDate: 2024-02-28
 featured: false
+image: "/images/blog/healthy-hungarian-mushroom-soup.webp"
 ---
 
 SEO Meta Description: This healthy Hungarian mushroom soup is velvety, rich, and only 110 calories per bowl. Made with paprika, dill, and low-fat yogurt. Vegan option. Ready in 35 minutes.

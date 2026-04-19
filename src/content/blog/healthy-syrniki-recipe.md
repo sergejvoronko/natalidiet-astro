@@ -8,6 +8,7 @@ tags: ["syrniki", "cottage-cheese-pancakes", "ukrainian", "high-protein", "veget
 pillar: 4
 publishDate: 2024-05-15
 featured: false
+image: "/images/blog/healthy-syrniki-recipe.webp"
 ---
 
 SEO Meta Description: Healthy syrniki using low-fat cottage cheese and oat flour. Only 220 calories per serving and 18g protein. The authentic Ukrainian cottage cheese pancake — lighter and just as delicious.

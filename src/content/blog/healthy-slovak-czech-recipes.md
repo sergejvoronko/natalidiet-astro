@@ -8,6 +8,7 @@ tags: ["slovak-recipes", "czech-recipes", "central-european", "healthy", "kapust
 pillar: 5
 publishDate: 2024-06-20
 featured: false
+image: "/images/blog/healthy-slovak-czech-recipes.webp"
 ---
 
 SEO Meta Description: A complete guide to the healthiest Slovak and Czech recipes — kapustnica, bryndzové halušky, svíčková, kulajda and more. Central European food made diet-friendly without losing character.

@@ -8,6 +8,7 @@ tags: ["ukrainian-recipes", "ukraine", "healthy", "borscht", "varenyky", "kefir"
 pillar: 5
 publishDate: 2024-06-10
 featured: false
+image: "/images/blog/healthy-ukrainian-recipes.webp"
 ---
 
 SEO Meta Description: A complete guide to the healthiest traditional Ukrainian recipes — borscht, holubtsi, varenyky, buckwheat, kefir, syrniki and more. Authentic Ukrainian food made lighter without losing the soul.

@@ -8,6 +8,7 @@ tags: ["polish-recipes", "poland", "healthy", "bigos", "zurek", "pierogi", "bars
 pillar: 5
 publishDate: 2024-06-25
 featured: false
+image: "/images/blog/healthy-polish-recipes.webp"
 ---
 
 SEO Meta Description: A complete guide to the healthiest traditional Polish recipes — bigos, żurek, barszcz, gołąbki, pierogi and more. Authentic Polish food made diet-friendly with full nutrition facts.

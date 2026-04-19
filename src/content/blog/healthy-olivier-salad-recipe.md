@@ -8,6 +8,7 @@ tags: ["olivier-salad", "eastern-european", "potato-salad", "yogurt-dressing", "
 pillar: 4
 publishDate: 2024-05-28
 featured: false
+image: "/images/blog/healthy-olivier-salad-recipe.webp"
 ---
 
 SEO Meta Description: A healthy Olivier (Stolichny) salad with yogurt-mustard dressing instead of mayonnaise. Only 180 calories per serving. The classic Eastern European party salad — lighter and just as delicious.

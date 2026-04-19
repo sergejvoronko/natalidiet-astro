@@ -8,6 +8,7 @@ tags: ["bigos", "polish", "hunters-stew", "sauerkraut", "probiotic", "gluten-fre
 pillar: 4
 publishDate: 2024-05-25
 featured: false
+image: "/images/blog/healthy-bigos-polish-hunters-stew.webp"
 ---
 
 SEO Meta Description: A healthy bigos recipe with all the authentic depth of Poland's national dish — only 260 calories and 22g protein. Lean pork, turkey kielbasa, double sauerkraut, dried mushrooms.

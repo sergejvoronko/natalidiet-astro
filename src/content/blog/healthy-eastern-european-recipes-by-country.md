@@ -8,6 +8,7 @@ tags: ["eastern-european-recipes", "country-guide", "ukraine", "hungary", "polan
 pillar: 5
 publishDate: 2024-06-05
 featured: false
+image: "/images/blog/healthy-eastern-european-recipes-by-country.webp"
 ---
 
 SEO Meta Description: Discover the healthiest dishes from Ukraine, Hungary, Slovakia, Poland, Czech Republic and Romania. A country-by-country guide to Eastern European cooking for weight loss and health.

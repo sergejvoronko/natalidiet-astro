@@ -8,6 +8,7 @@ tags: ["svíčková", "czech", "braised-beef", "cream-sauce", "high-protein", "3
 pillar: 4
 publishDate: 2024-05-28
 featured: false
+image: "/images/blog/healthy-svieckova-czech-beef-cream-sauce.webp"
 ---
 
 SEO Meta Description: A lighter Czech svíčková — tender braised beef topside in a root vegetable and yogurt sauce. Only 380 calories and 36g protein. The classic Czech comfort food made healthier.

@@ -8,6 +8,7 @@ tags: ["meal-plan", "weight-loss", "eastern-european", "7-day", "batch-cooking",
 pillar: 3
 publishDate: 2024-04-05
 featured: false
+image: "/images/blog/7-day-eastern-european-weight-loss-meal-plan.webp"
 ---
 
 SEO Meta Description: A complete 7-day Eastern European meal plan for weight loss. Borscht, goulash, buckwheat, paprikash and more — all under 400 kcal per meal. Full shopping list and Sunday prep guide included.

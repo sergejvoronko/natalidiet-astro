@@ -8,6 +8,7 @@ tags: ["borscht", "ukrainian", "beet-soup", "healthy", "gluten-free", "vegan", "
 pillar: 1
 publishDate: 2024-02-10
 featured: false
+image: "/images/blog/healthy-borscht-recipe.webp"
 ---
 
 SEO Meta Description: This authentic healthy borscht recipe is only 160 calories per serving. Rich, filling Ukrainian beet soup — perfect for weight loss. Gluten-free, easy to make vegan. Full nutrition facts included.

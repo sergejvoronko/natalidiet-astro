@@ -8,6 +8,7 @@ tags: ["green-borshch", "sorrel-soup", "ukrainian", "spring", "detox", "gluten-f
 pillar: 1
 publishDate: 2024-02-15
 featured: false
+image: "/images/blog/healthy-green-borshch-sorrel-soup.webp"
 ---
 
 SEO Meta Description: Green borshch (sorrel soup) is a light, tangy Ukrainian spring soup with only 120 calories. High in vitamin C and iron. Easy recipe with hard-boiled eggs, ready in 30 minutes.

@@ -8,6 +8,7 @@ tags: ["deruny", "potato-pancakes", "ukrainian", "baked", "gluten-free", "low-ca
 pillar: 4
 publishDate: 2024-05-10
 featured: false
+image: "/images/blog/healthy-deruny-ukrainian-potato-pancakes.webp"
 ---
 
 SEO Meta Description: These healthy deruny are baked not fried — only 130 calories each. Golden crispy Ukrainian potato pancakes with authentic flavour and none of the grease. Gluten-free adaptable.

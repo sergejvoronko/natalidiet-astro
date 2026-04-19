@@ -8,6 +8,7 @@ tags: ["mediterranean-diet", "eastern-european-diet", "comparison", "heart-healt
 pillar: 3
 publishDate: 2024-04-10
 featured: false
+image: "/images/blog/eastern-european-diet-vs-mediterranean-diet.webp"
 ---
 
 SEO Meta Description: A detailed, honest comparison of the Eastern European and Mediterranean diets for weight loss, heart health, gut health, and affordability. Which should you follow?

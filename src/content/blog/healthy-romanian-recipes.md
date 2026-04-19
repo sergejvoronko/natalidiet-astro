@@ -8,6 +8,7 @@ tags: ["romanian-recipes", "romania", "healthy", "ciorbă", "sarmale", "mămăli
 pillar: 5
 publishDate: 2024-06-28
 featured: false
+image: "/images/blog/healthy-romanian-recipes.webp"
 ---
 
 SEO Meta Description: A complete guide to the healthiest traditional Romanian recipes — ciorbă, sarmale, mămăligă, mici and more. Romanian cuisine made diet-friendly — including the famous sour broth tradition.

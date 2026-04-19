@@ -8,6 +8,7 @@ tags: ["meal-prep", "batch-cooking", "sunday", "eastern-european", "storage", "b
 pillar: 3
 publishDate: 2024-04-20
 featured: false
+image: "/images/blog/eastern-european-meal-prep-for-the-week.webp"
 ---
 
 SEO Meta Description: How to batch-cook borscht, goulash, holubtsi, and buckwheat in one Sunday session. Step-by-step timeline, storage guide, and reheating tips for the perfect Eastern European meal prep.

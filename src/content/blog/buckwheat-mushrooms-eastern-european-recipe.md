@@ -8,6 +8,7 @@ tags: ["buckwheat", "mushrooms", "vegan", "gluten-free", "plant-based", "superfo
 pillar: 2
 publishDate: 2024-03-28
 featured: false
+image: "/images/blog/buckwheat-mushrooms-eastern-european-recipe.webp"
 ---
 
 SEO Meta Description: Buckwheat with forest mushrooms is a traditional Eastern European plant-based main dish. Only 290 calories, high in magnesium and plant protein. Vegan, gluten-free, 30 minutes.

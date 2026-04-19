@@ -8,6 +8,7 @@ tags: ["zurek", "polish", "fermented-rye", "probiotic", "easter", "190-calories"
 pillar: 1
 publishDate: 2024-02-28
 featured: false
+image: "/images/blog/healthy-polish-zurek-recipe.webp"
 ---
 
 SEO Meta Description: Zurek is a famous tangy Polish fermented rye soup. This healthy version has 190 calories, is high in protein and probiotics. Step-by-step recipe with nutrition facts.

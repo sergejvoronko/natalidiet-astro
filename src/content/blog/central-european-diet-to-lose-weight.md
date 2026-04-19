@@ -8,6 +8,7 @@ tags: ["central-european", "weight-loss", "diet-guide", "slovak", "czech", "hung
 pillar: 3
 publishDate: 2024-04-15
 featured: false
+image: "/images/blog/central-european-diet-to-lose-weight.webp"
 ---
 
 SEO Meta Description: Can you lose weight eating Slovak, Czech, Hungarian and Polish food? Yes — here is exactly how with 5 practical rules, a food list, and a sample day of eating.

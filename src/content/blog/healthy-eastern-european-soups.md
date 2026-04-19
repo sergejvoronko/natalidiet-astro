@@ -8,6 +8,7 @@ tags: ["soups", "eastern-european", "healthy", "broths", "weight-loss", "pillar-
 pillar: 1
 publishDate: 2024-02-05
 featured: false
+image: "/images/blog/healthy-eastern-european-soups.webp"
 ---
 
 SEO Meta Description: Discover 15+ traditional Eastern European soups made healthy — borscht, kapustnica, rassolnik and more. Low-calorie recipes with full nutrition facts. Perfect for weight loss.

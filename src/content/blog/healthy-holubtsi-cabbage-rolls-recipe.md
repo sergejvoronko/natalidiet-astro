@@ -8,6 +8,7 @@ tags: ["holubtsi", "cabbage-rolls", "ukrainian", "gluten-free", "meal-prep", "fr
 pillar: 2
 publishDate: 2024-03-15
 featured: false
+image: "/images/blog/healthy-holubtsi-cabbage-rolls-recipe.webp"
 ---
 
 SEO Meta Description: Holubtsi are traditional Ukrainian stuffed cabbage rolls. This healthy version has just 280 calories, is packed with protein and fibre. Easy to make and perfect for meal prep.

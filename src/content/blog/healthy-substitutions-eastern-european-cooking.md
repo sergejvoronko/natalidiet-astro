@@ -8,6 +8,7 @@ tags: ["ingredient-swaps", "healthy-substitutions", "eastern-european", "calorie
 pillar: 3
 publishDate: 2024-04-25
 featured: false
+image: "/images/blog/healthy-substitutions-eastern-european-cooking.webp"
 ---
 
 SEO Meta Description: The complete guide to making Eastern European recipes healthier. 30 practical ingredient swaps with calorie savings for each one — no flavour sacrificed.

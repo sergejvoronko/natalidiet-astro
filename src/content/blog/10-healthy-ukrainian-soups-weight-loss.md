@@ -8,6 +8,7 @@ tags: ["ukrainian", "soups", "weight-loss", "low-calorie"]
 pillar: 1
 publishDate: 2026-04-01
 featured: true
+image: "/images/blog/10-healthy-ukrainian-soups-weight-loss.webp"
 ---
 
 Ukrainian cuisine is built around soup. From the ruby-red borscht to the tangy rassolnik, Ukrainian soups are warming, deeply flavourful, and — as it turns out — surprisingly well-suited to healthy eating.

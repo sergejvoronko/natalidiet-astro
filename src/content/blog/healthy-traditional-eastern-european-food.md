@@ -8,6 +8,7 @@ tags: ["traditional", "makeover", "eastern-european", "healthy-techniques", "pil
 pillar: 4
 publishDate: 2024-05-05
 featured: false
+image: "/images/blog/healthy-traditional-eastern-european-food.webp"
 ---
 
 SEO Meta Description: How to make traditional Eastern European dishes healthier without losing authentic flavour. Deruny, syrniki, bigos, stuffed peppers and more — lighter versions with full techniques.

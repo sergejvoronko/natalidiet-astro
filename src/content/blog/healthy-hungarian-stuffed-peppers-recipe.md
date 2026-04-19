@@ -8,6 +8,7 @@ tags: ["stuffed-peppers", "hungarian", "töltött-paprika", "turkey", "gluten-fr
 pillar: 4
 publishDate: 2024-05-20
 featured: false
+image: "/images/blog/healthy-hungarian-stuffed-peppers-recipe.webp"
 ---
 
 SEO Meta Description: Healthy Hungarian stuffed peppers with lean turkey mince and a rich tomato sauce — only 290 calories and 26g protein. Gluten-free and freezer-friendly.

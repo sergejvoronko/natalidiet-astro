@@ -8,6 +8,7 @@ tags: ["rassolnik", "pickle-soup", "ukrainian", "digestion", "gut-health", "glut
 pillar: 1
 publishDate: 2024-02-25
 featured: false
+image: "/images/blog/healthy-rassolnik-recipe.webp"
 ---
 
 SEO Meta Description: Rassolnik is a tangy Ukrainian pickle soup with barley — only 145 calories. Made with kidney-cleansing cucumber brine. Easy, hearty, and surprisingly delicious for weight loss.

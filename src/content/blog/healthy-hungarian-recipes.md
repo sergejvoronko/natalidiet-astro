@@ -8,6 +8,7 @@ tags: ["hungarian-recipes", "hungary", "healthy", "paprikash", "goulash", "papri
 pillar: 5
 publishDate: 2024-06-15
 featured: false
+image: "/images/blog/healthy-hungarian-recipes.webp"
 ---
 
 SEO Meta Description: A complete guide to the healthiest traditional Hungarian recipes — chicken paprikash, goulash, stuffed peppers, lángos and more. Authentic Magyar flavours made diet-friendly.
