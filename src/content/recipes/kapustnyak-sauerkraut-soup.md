@@ -17,6 +17,7 @@ category: "healthy-soups"
 tip: "Rinse the sauerkraut if you want a milder flavour, or use it straight from the jar for maximum tang and probiotics."
 publishDate: 2026-04-14
 featured: false
+image: "/images/kapustnyak-sauerkraut-soup.webp"
 ingredients:
   - amount: "300g"
     name: "sauerkraut, roughly chopped"

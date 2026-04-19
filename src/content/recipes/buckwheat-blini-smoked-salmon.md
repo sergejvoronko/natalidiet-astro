@@ -17,6 +17,7 @@ category: "healthy-main-dishes"
 tip: "Let the batter rest 10 minutes before cooking — this allows the buckwheat flour to hydrate fully and makes lighter, more pliable blini."
 publishDate: 2026-04-15
 featured: false
+image: "/images/buckwheat-blini-smoked-salmon.webp"
 ingredients:
   - amount: "120g"
     name: "buckwheat flour"

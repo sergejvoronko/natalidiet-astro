@@ -17,6 +17,7 @@ category: "healthy-main-dishes"
 tip: "The drier your cottage cheese, the better the syrniki hold together. Drain it through a cheesecloth for 30 minutes if it is very wet."
 publishDate: 2026-04-13
 featured: false
+image: "/images/syrniki-cottage-cheese-pancakes.webp"
 ingredients:
   - amount: "250g"
     name: "low-fat cottage cheese (dry-curd)"
