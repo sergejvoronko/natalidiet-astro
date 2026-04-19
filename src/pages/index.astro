@@ -256,13 +256,15 @@ const heroCards = [
     ) : (
       <div class="placeholder-grid reveal">
         {[
-          { emoji: '🥣', name: 'Golden Buckwheat Porridge with Berries & Honey', course: 'Breakfast', kcal: 280, time: '10 min', hue: 'breakfast' },
-          { emoji: '🥗', name: 'Light Summer Borscht with Rye Crispbread',        course: 'Lunch',     kcal: 210, time: '25 min', hue: 'lunch'     },
-          { emoji: '🍗', name: 'Kefir Chicken Paprikash with Buckwheat',           course: 'Dinner',    kcal: 380, time: '35 min', hue: 'dinner'    },
-          { emoji: '🍓', name: 'Berry Cottage Cheese Bowl',                        course: 'Snack',     kcal: 150, time: '5 min',  hue: 'snack'     },
+          { img: '/images/buckwheat-porridge.webp', name: 'Golden Buckwheat Porridge with Berries & Honey', course: 'Breakfast', kcal: 280, time: '10 min', hue: 'breakfast' },
+          { img: '/images/summer-borscht.webp',     name: 'Light Summer Borscht with Rye Crispbread',        course: 'Lunch',     kcal: 210, time: '25 min', hue: 'lunch'     },
+          { img: '/images/chicken-paprikash.webp',  name: 'Kefir Chicken Paprikash with Buckwheat',           course: 'Dinner',    kcal: 380, time: '35 min', hue: 'dinner'    },
+          { img: '/images/berry-cottage.webp',      name: 'Berry Cottage Cheese Bowl',                        course: 'Snack',     kcal: 150, time: '5 min',  hue: 'snack'     },
         ].map(r => (
           <a href="/recipes" class={`ph-card ph-${r.hue}`}>
-            <div class="ph-visual">{r.emoji}</div>
+            <div class="ph-visual ph-visual-img">
+              <img src={r.img} alt={r.name} loading="lazy" />
+            </div>
             <div class="ph-body">
               <div class="ph-course">{r.course}</div>
               <div class="ph-name">{r.name}</div>
@@ -702,8 +704,10 @@ const heroCards = [
 .ph-card:hover { transform: translateY(-5px); box-shadow: var(--shadow-hover); }
 .ph-visual {
   height: 170px; display: flex; align-items: center; justify-content: center;
-  font-size: 60px;
+  font-size: 60px; overflow: hidden;
 }
+.ph-visual-img { padding: 0; }
+.ph-visual-img img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .ph-breakfast .ph-visual { background: linear-gradient(135deg, #FFF0EB 0%, #FFD9CC 100%); }
 .ph-lunch     .ph-visual { background: linear-gradient(135deg, #EBF2EF 0%, #C8DDD5 100%); }
 .ph-dinner    .ph-visual { background: linear-gradient(135deg, #EEE9F8 0%, #D5C9EF 100%); }

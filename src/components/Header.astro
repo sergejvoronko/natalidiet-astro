@@ -13,7 +13,8 @@ const navItems = [
 
 <header class="nd-header" id="nd-header">
   <a href="/" class="nav-logo" aria-label="Natali Diet home">
-    <img src="/images/logo.png" alt="Natali Diet" class="nav-logo-img" width="44" height="44" />
+    <img src="/images/logo.png" alt="" class="nav-logo-img" width="56" height="56" />
+    <span class="nav-logo-text">Natali Diet</span>
   </a>
 
   <nav class="nav-links" id="nav-links" aria-label="Main navigation">
@@ -53,18 +54,28 @@ const navItems = [
   .nd-header.scrolled { padding-top: 14px; padding-bottom: 14px; }
 
   .nav-logo {
-    display: flex; align-items: center;
+    display: flex; align-items: center; gap: 12px;
     text-decoration: none; flex-shrink: 0;
   }
 
   .nav-logo-img {
-    width: 44px; height: 44px;
+    width: 56px; height: 56px;
     border-radius: 50%;
     object-fit: cover;
     display: block;
     transition: transform 0.2s;
+    flex-shrink: 0;
   }
   .nav-logo:hover .nav-logo-img { transform: scale(1.05); }
+
+  .nav-logo-text {
+    font-family: var(--font-serif);
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--nd-forest);
+    letter-spacing: -0.02em;
+    line-height: 1;
+  }
 
   .nav-links {
     display: flex; align-items: center; gap: 36px;
