@@ -13,10 +13,7 @@ const navItems = [
 
 <header class="nd-header" id="nd-header">
   <a href="/" class="nav-logo" aria-label="Natali Diet home">
-    <div class="nav-badge" aria-hidden="true">
-      <span>N<br>D</span>
-    </div>
-    <span class="nav-name">Natali Diet</span>
+    <img src="/images/logo.png" alt="Natali Diet" class="nav-logo-img" width="44" height="44" />
   </a>
 
   <nav class="nav-links" id="nav-links" aria-label="Main navigation">
@@ -56,31 +53,18 @@ const navItems = [
   .nd-header.scrolled { padding-top: 14px; padding-bottom: 14px; }
 
   .nav-logo {
-    display: flex; align-items: center; gap: 12px;
+    display: flex; align-items: center;
     text-decoration: none; flex-shrink: 0;
   }
 
-  .nav-badge {
+  .nav-logo-img {
     width: 44px; height: 44px;
-    background: var(--nd-dark);
     border-radius: 50%;
-    display: flex; align-items: center; justify-content: center;
-    flex-shrink: 0;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.2s;
   }
-
-  .nav-badge span {
-    color: #fff;
-    font-family: var(--font-serif);
-    font-size: 12px; font-weight: 700;
-    text-align: center; line-height: 1.1;
-  }
-
-  .nav-name {
-    font-family: var(--font-serif);
-    font-size: 19px; font-weight: 700;
-    color: var(--nd-forest);
-    letter-spacing: -0.3px;
-  }
+  .nav-logo:hover .nav-logo-img { transform: scale(1.05); }
 
   .nav-links {
     display: flex; align-items: center; gap: 36px;
