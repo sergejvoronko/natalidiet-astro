@@ -17,6 +17,7 @@ category: "healthy-main-dishes"
 tip: "Add a pinch of vanilla powder and the result is indistinguishable from dessert — at 150 calories."
 publishDate: 2026-04-04
 featured: true
+image: "/images/berry-cottage.webp"
 ingredients:
   - amount: "150g"
     name: "low-fat cottage cheese"

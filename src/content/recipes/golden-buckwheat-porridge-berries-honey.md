@@ -17,6 +17,7 @@ category: "healthy-soups"
 tip: "Toast the dry buckwheat in a dry pan for 2 minutes before adding water — it intensifies the nutty flavour dramatically."
 publishDate: 2026-04-01
 featured: true
+image: "/images/buckwheat-porridge.webp"
 ingredients:
   - amount: "80g"
     name: "raw buckwheat groats"

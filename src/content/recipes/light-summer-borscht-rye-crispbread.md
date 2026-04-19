@@ -17,6 +17,7 @@ category: "healthy-soups"
 tip: "Always add lemon juice at the very end — it preserves the vivid ruby colour and brightens the whole flavour."
 publishDate: 2026-04-02
 featured: true
+image: "/images/summer-borscht.webp"
 ingredients:
   - amount: "150g"
     name: "raw beetroot, grated"
