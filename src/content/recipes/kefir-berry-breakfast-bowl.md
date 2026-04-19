@@ -17,6 +17,7 @@ category: "healthy-main-dishes"
 tip: "Use full-fat kefir for a creamier texture — the extra fat is minimal but the difference in satiety is significant."
 publishDate: 2026-04-03
 featured: true
+image: "/images/kefir-berry-breakfast-bowl.webp"
 ingredients:
   - amount: "200ml"
     name: "plain kefir"
