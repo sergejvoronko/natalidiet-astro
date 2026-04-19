@@ -1,0 +1,111 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import RecipeCard from '../../components/RecipeCard.astro';
+import { getCollection } from 'astro:content';
+
+const allRecipes = await getCollection('recipes');
+allRecipes.sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
+
+const courses = ['breakfast', 'lunch', 'dinner', 'snack'];
+---
+
+<BaseLayout
+  title="Free Recipes"
+  description="Browse 200+ Eastern European recipes adapted for healthy eating. Calorie-counted, nutritionist-crafted, and genuinely delicious."
+>
+  <div class="recipes-page">
+    <header class="page-header">
+      <div class="page-header-inner">
+        <span class="section-label" style="color: var(--nd-terra-light);">Free recipes</span>
+        <h1 class="page-title">Eat well.<br><em>Every day.</em></h1>
+        <p class="page-desc">
+          Every recipe is calorie-counted, nutritionist-crafted, and rooted in Eastern European tradition.
+        </p>
+        <div class="filter-row">
+          <a href="/recipes" class="filter-btn active">All</a>
+          {courses.map(c => (
+            <a href={`/recipes#${c}`} class="filter-btn">{c.charAt(0).toUpperCase() + c.slice(1)}</a>
+          ))}
+        </div>
+      </div>
+    </header>
+
+    <div class="recipes-content">
+      {allRecipes.length > 0 ? (
+        <div class="recipes-grid">
+          {allRecipes.map(r => (
+            <RecipeCard
+              title={r.data.title}
+              slug={r.id}
+              description={r.data.description}
+              course={r.data.course}
+              calories={r.data.calories}
+              totalTime={r.data.totalTime}
+              tags={r.data.tags}
+              image={r.data.image}
+              featured={r.data.featured}
+            />
+          ))}
+        </div>
+      ) : (
+        <div class="empty-state">
+          <div class="empty-emoji">🥗</div>
+          <h2>Recipes coming soon</h2>
+          <p>We're adding recipes weekly. Subscribe below to get the first ones in your inbox.</p>
+          <a href="/#newsletter" class="btn-primary">Get notified →</a>
+        </div>
+      )}
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .page-header {
+    background: var(--nd-forest);
+    padding: 72px 48px 80px;
+    position: relative; overflow: hidden;
+  }
+  .page-header::before {
+    content: '';
+    position: absolute; top: -80px; right: -80px;
+    width: 400px; height: 400px;
+    background: radial-gradient(circle, rgba(196,98,58,0.25) 0%, transparent 65%);
+    pointer-events: none;
+  }
+  .page-header-inner { max-width: var(--max-w); margin: 0 auto; position: relative; z-index: 1; }
+  .page-title {
+    font-family: var(--font-serif); font-size: clamp(40px, 5vw, 64px);
+    font-weight: 900; color: #fff; line-height: 1.08;
+    letter-spacing: -0.03em; margin-bottom: 20px;
+  }
+  .page-title em { font-style: italic; color: var(--nd-terra-light); }
+  .page-desc { font-size: 17px; font-weight: 300; color: rgba(255,255,255,0.6); max-width: 480px; line-height: 1.7; margin-bottom: 36px; }
+  .filter-row { display: flex; gap: 10px; flex-wrap: wrap; }
+  .filter-btn {
+    padding: 8px 20px; border-radius: 100px;
+    font-size: 13px; font-weight: 600;
+    color: rgba(255,255,255,0.55); text-decoration: none;
+    border: 1px solid rgba(255,255,255,0.15);
+    transition: all 0.2s;
+  }
+  .filter-btn:hover, .filter-btn.active {
+    background: var(--nd-terra); color: #fff; border-color: var(--nd-terra);
+  }
+
+  .recipes-content { max-width: var(--max-w); margin: 0 auto; padding: 64px 48px 100px; }
+  .recipes-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+
+  .empty-state { text-align: center; padding: 80px 24px; }
+  .empty-emoji { font-size: 72px; margin-bottom: 24px; }
+  .empty-state h2 { font-family: var(--font-serif); font-size: 28px; color: var(--nd-forest); margin-bottom: 14px; }
+  .empty-state p { font-size: 16px; color: var(--nd-muted); max-width: 400px; margin: 0 auto 28px; line-height: 1.7; }
+
+  @media (max-width: 900px) {
+    .page-header { padding: 48px 20px 60px; }
+    .recipes-content { padding: 40px 20px 72px; }
+    .recipes-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; }
+  }
+  @media (max-width: 540px) {
+    .recipes-grid { grid-template-columns: 1fr; }
+  }
+</style>

@@ -1,0 +1,40 @@
+---
+import { getCollection, render } from 'astro:content';
+import RecipeLayout from '../../layouts/RecipeLayout.astro';
+
+export async function getStaticPaths() {
+  const recipes = await getCollection('recipes');
+  return recipes.map(r => ({
+    params: { slug: r.id },
+    props: { recipe: r },
+  }));
+}
+
+const { recipe } = Astro.props;
+const { Content } = await render(recipe);
+const d = recipe.data;
+---
+
+<RecipeLayout
+  title={d.title}
+  description={d.description}
+  image={d.image}
+  course={d.course}
+  prepTime={d.prepTime}
+  cookTime={d.cookTime}
+  totalTime={d.totalTime}
+  servings={d.servings}
+  calories={d.calories}
+  protein={d.protein}
+  carbs={d.carbs}
+  fat={d.fat}
+  fibre={d.fibre}
+  tags={d.tags}
+  category={d.category}
+  tip={d.tip}
+  publishDate={d.publishDate}
+  ingredients={d.ingredients}
+  steps={d.steps}
+>
+  <Content />
+</RecipeLayout>

@@ -1,0 +1,48 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const plans = await getCollection('meal-plans');
+  return plans.map(p => ({
+    params: { slug: p.id },
+    props: { plan: p },
+  }));
+}
+
+const { plan } = Astro.props;
+const { Content } = await render(plan);
+const d = plan.data;
+---
+
+<BaseLayout title={d.title} description={d.description}>
+  <article class="meal-plan-page">
+    <header class="plan-header">
+      <div class="plan-header-inner">
+        <a href="/meal-plans" class="back-link">← Meal Plans</a>
+        <div class="plan-badge">{d.days}-day plan</div>
+        <h1 class="plan-title">{d.title}</h1>
+        <p class="plan-desc">{d.description}</p>
+        {d.totalCalories && <div class="plan-kcal">~{d.totalCalories} kcal per day</div>}
+      </div>
+    </header>
+    <div class="plan-body">
+      <div class="prose">
+        <Content />
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .plan-header { background: var(--nd-forest); padding: 60px 48px 72px; }
+  .plan-header-inner { max-width: var(--content-w); margin: 0 auto; }
+  .back-link { display: inline-block; margin-bottom: 24px; font-size: 13px; color: rgba(255,255,255,0.5); text-decoration: none; transition: color 0.2s; }
+  .back-link:hover { color: rgba(255,255,255,0.9); }
+  .plan-badge { display: inline-block; background: rgba(196,98,58,0.25); color: var(--nd-terra-light); font-size: 12px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; padding: 6px 16px; border-radius: 100px; margin-bottom: 20px; }
+  .plan-title { font-family: var(--font-serif); font-size: clamp(32px, 4vw, 52px); font-weight: 900; color: #fff; line-height: 1.1; margin-bottom: 16px; }
+  .plan-desc { font-size: 17px; font-weight: 300; color: rgba(255,255,255,0.6); line-height: 1.7; margin-bottom: 20px; }
+  .plan-kcal { display: inline-flex; background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.75); font-size: 14px; font-weight: 600; padding: 8px 18px; border-radius: 100px; }
+  .plan-body { max-width: var(--content-w); margin: 0 auto; padding: 56px 48px 100px; }
+  @media (max-width: 640px) { .plan-header { padding: 40px 20px 52px; } .plan-body { padding: 40px 20px 72px; } }
+</style>

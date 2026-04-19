@@ -1,0 +1,78 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const plans = await getCollection('meal-plans');
+plans.sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
+---
+
+<BaseLayout
+  title="Meal Plans — Healthy Eastern European Eating"
+  description="Done-for-you meal plans with shopping lists. Healthy Eastern European recipes organized by day, week, and calorie goal."
+>
+  <div class="meal-plans-page">
+    <header class="page-header">
+      <div class="page-header-inner">
+        <span class="section-label" style="color: var(--nd-terra-light);">Meal Plans</span>
+        <h1 class="page-title">Done-for-you<br><em>eating plans.</em></h1>
+        <p class="page-desc">Remove the guesswork. Every plan comes with a shopping list and exact calorie counts per meal.</p>
+      </div>
+    </header>
+
+    <div class="plans-content">
+      {plans.length > 0 ? (
+        <div class="plans-grid">
+          {plans.map(plan => (
+            <a href={`/meal-plans/${plan.id}`} class="plan-card card">
+              <div class="plan-icon" aria-hidden="true">📅</div>
+              <div class="plan-days">{plan.data.days}-day plan</div>
+              <h2 class="plan-title">{plan.data.title}</h2>
+              <p class="plan-desc">{plan.data.description}</p>
+              {plan.data.totalCalories && (
+                <div class="plan-kcal">~{plan.data.totalCalories} kcal/day</div>
+              )}
+              <span class="plan-link">View plan →</span>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <div class="empty-state">
+          <div class="empty-emoji" aria-hidden="true">📅</div>
+          <h2>Meal plans coming soon</h2>
+          <p>We're building complete weekly plans with shopping lists. Subscribe to get them first.</p>
+          <a href="/#newsletter" class="btn-primary">Get notified →</a>
+        </div>
+      )}
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .page-header { background: var(--nd-forest); padding: 72px 48px 80px; position: relative; overflow: hidden; }
+  .page-header::before { content: ''; position: absolute; top: -80px; right: -80px; width: 400px; height: 400px; background: radial-gradient(circle, rgba(196,98,58,0.25) 0%, transparent 65%); pointer-events: none; }
+  .page-header-inner { max-width: var(--max-w); margin: 0 auto; position: relative; z-index: 1; }
+  .page-title { font-family: var(--font-serif); font-size: clamp(40px, 5vw, 64px); font-weight: 900; color: #fff; line-height: 1.08; letter-spacing: -0.03em; margin-bottom: 16px; }
+  .page-title em { font-style: italic; color: var(--nd-terra-light); }
+  .page-desc { font-size: 17px; font-weight: 300; color: rgba(255,255,255,0.6); max-width: 480px; line-height: 1.7; }
+
+  .plans-content { max-width: var(--max-w); margin: 0 auto; padding: 64px 48px 100px; }
+  .plans-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+  .plan-card { text-decoration: none; padding: 36px; display: flex; flex-direction: column; gap: 12px; }
+  .plan-icon { font-size: 40px; }
+  .plan-days { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: var(--nd-terra); }
+  .plan-title { font-family: var(--font-serif); font-size: 22px; font-weight: 700; color: var(--nd-forest); line-height: 1.25; }
+  .plan-desc { font-size: 14px; color: var(--nd-muted); line-height: 1.65; font-weight: 300; }
+  .plan-kcal { font-size: 13px; font-weight: 600; color: var(--nd-forest); background: rgba(45,74,62,0.08); padding: 6px 14px; border-radius: 100px; width: fit-content; }
+  .plan-link { font-size: 14px; font-weight: 600; color: var(--nd-terra); margin-top: auto; }
+
+  .empty-state { text-align: center; padding: 80px 0; }
+  .empty-emoji { font-size: 64px; margin-bottom: 20px; }
+  .empty-state h2 { font-family: var(--font-serif); font-size: 28px; color: var(--nd-forest); margin-bottom: 12px; }
+  .empty-state p { font-size: 15px; color: var(--nd-muted); max-width: 380px; margin: 0 auto 28px; line-height: 1.7; }
+
+  @media (max-width: 820px) {
+    .page-header { padding: 48px 20px 60px; }
+    .plans-content { padding: 40px 20px 72px; }
+    .plans-grid { grid-template-columns: 1fr; }
+  }
+</style>

@@ -1,0 +1,176 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Get the Recipe Book — €24.99"
+  description="200+ Eastern European recipes adapted for healthy eating. Calorie-counted, nutritionist-crafted, with a 4-week meal plan and shopping lists."
+>
+  <div class="book-page">
+    <!-- Hero -->
+    <section class="book-hero">
+      <div class="book-hero-inner">
+        <div class="book-hero-left">
+          <span class="section-label" style="color: var(--nd-terra-light);">The Recipe Book</span>
+          <h1 class="book-title">200+ healthy recipes.<br><em>One beautiful book.</em></h1>
+          <p class="book-desc">
+            Eastern and Central European cuisine adapted for healthy eating. Every recipe is calorie-counted,
+            macro-balanced, and designed to actually taste good.
+          </p>
+          <div class="book-includes">
+            <div class="include-item"><span aria-hidden="true">✓</span> 200+ recipes across 5 pillars</div>
+            <div class="include-item"><span aria-hidden="true">✓</span> 4-week meal plan with shopping lists</div>
+            <div class="include-item"><span aria-hidden="true">✓</span> Nutrition guide & macro calculator</div>
+            <div class="include-item"><span aria-hidden="true">✓</span> Instant PDF download</div>
+            <div class="include-item"><span aria-hidden="true">✓</span> Lifetime updates</div>
+          </div>
+          <div class="book-cta-row">
+            <div class="book-price">
+              <span class="price-amount">€24.99</span>
+              <span class="price-sub">One-time · Instant download</span>
+            </div>
+            <a href="#buy" class="btn-primary btn-large">Get the Book →</a>
+          </div>
+          <p class="book-guarantee">30-day money-back guarantee. No questions asked.</p>
+        </div>
+        <div class="book-hero-right" aria-hidden="true">
+          <div class="book-visual">
+            <div class="book-cover">
+              <div class="book-cover-inner">
+                <div class="book-emoji">📗</div>
+                <div class="book-cover-title">Natali Diet</div>
+                <div class="book-cover-sub">200+ Healthy Eastern European Recipes</div>
+              </div>
+            </div>
+            <div class="book-shadow"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- What's inside -->
+    <section class="inside-section">
+      <div class="inside-inner">
+        <div class="inside-header">
+          <span class="section-label">What's inside</span>
+          <h2 class="section-title">Everything you need to<br>transform how you <em>eat</em></h2>
+        </div>
+        <div class="inside-grid">
+          {[
+            { icon: '🥣', title: 'Healthy Soups', desc: '40+ soup recipes including borscht, rassolnik, solyanka, and more — all under 400 kcal.' },
+            { icon: '🍳', title: 'Main Dishes',   desc: '60+ main course recipes with full macro profiles and easy-to-follow instructions.' },
+            { icon: '📅', title: 'Meal Plans',    desc: '4-week done-for-you plan with daily menus, prep tips, and weekly shopping lists.' },
+            { icon: '🥟', title: 'Traditional Classics', desc: 'Varenyky, syrniki, bigos, deruny — reimagined lighter without losing the soul.' },
+            { icon: '📊', title: 'Nutrition Guide', desc: 'Understand macros, calories, and how to adapt recipes to your personal goals.' },
+            { icon: '🌍', title: 'Country Guides',  desc: 'Deep dives into Ukrainian, Slovak, Polish, and Russian healthy food traditions.' },
+          ].map(item => (
+            <div class="inside-card">
+              <div class="inside-icon" aria-hidden="true">{item.icon}</div>
+              <h3 class="inside-title">{item.title}</h3>
+              <p class="inside-desc">{item.desc}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- Testimonials -->
+    <section class="book-testi">
+      <div class="book-testi-inner">
+        <h2 class="section-title" style="text-align: center; margin-bottom: 48px;">What readers say</h2>
+        <div class="testi-row">
+          {[
+            { text: "I lost 12kg in 4 months and genuinely love cooking now. This is not a diet book — it's a lifestyle.", name: 'Olena M.', loc: 'Kyiv, Ukraine' },
+            { text: "The only cookbook I've cooked from more than twice. Fast, kid-friendly, and actually delicious.", name: 'Monika K.', loc: 'Bratislava' },
+            { text: 'I had no idea buckwheat could taste this good. My gut health has improved dramatically.', name: 'James T.', loc: 'London, UK' },
+          ].map(t => (
+            <div class="mini-testi">
+              <p class="mini-text">"{t.text}"</p>
+              <div class="mini-author">{t.name} · {t.loc}</div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- Buy section -->
+    <section class="buy-section" id="buy">
+      <div class="buy-inner">
+        <span class="section-label">Get it now</span>
+        <h2 class="section-title">Start your <em>journey</em> today</h2>
+        <p class="section-body" style="margin-bottom: 36px; max-width: 400px;">
+          Instant PDF download. Works on any device. 30-day money-back guarantee.
+        </p>
+        <div class="buy-price-box">
+          <div class="buy-price">€24.99</div>
+          <div class="buy-price-note">One-time payment · No subscription</div>
+          <a href="https://gumroad.com/natalidiet" target="_blank" rel="noopener" class="btn-primary btn-large">
+            Buy Now — €24.99 →
+          </a>
+          <p class="buy-guarantee">🛡️ 30-day money-back guarantee</p>
+        </div>
+      </div>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .book-hero { background: var(--nd-forest); padding: 80px 48px; }
+  .book-hero-inner { max-width: var(--max-w); margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center; }
+  .book-title { font-family: var(--font-serif); font-size: clamp(36px, 4.5vw, 58px); font-weight: 900; color: #fff; line-height: 1.08; letter-spacing: -0.03em; margin-bottom: 20px; }
+  .book-title em { font-style: italic; color: var(--nd-terra-light); }
+  .book-desc { font-size: 17px; font-weight: 300; color: rgba(255,255,255,0.6); line-height: 1.7; margin-bottom: 32px; max-width: 440px; }
+  .book-includes { display: flex; flex-direction: column; gap: 10px; margin-bottom: 36px; }
+  .include-item { display: flex; align-items: center; gap: 12px; font-size: 15px; color: rgba(255,255,255,0.8); font-weight: 400; }
+  .include-item span { color: var(--nd-terra-light); font-weight: 700; }
+  .book-cta-row { display: flex; align-items: center; gap: 28px; flex-wrap: wrap; margin-bottom: 16px; }
+  .price-amount { font-family: var(--font-serif); font-size: 36px; font-weight: 900; color: #fff; display: block; }
+  .price-sub { font-size: 12px; color: rgba(255,255,255,0.45); display: block; }
+  .book-guarantee { font-size: 13px; color: rgba(255,255,255,0.4); }
+
+  .book-visual { position: relative; }
+  .book-cover {
+    width: 280px; height: 380px;
+    background: linear-gradient(135deg, var(--nd-terra) 0%, #8B3A1E 100%);
+    border-radius: 4px 16px 16px 4px;
+    display: flex; align-items: center; justify-content: center;
+    box-shadow: -8px 12px 40px rgba(0,0,0,0.5);
+    position: relative; z-index: 1;
+  }
+  .book-cover-inner { text-align: center; padding: 24px; }
+  .book-emoji { font-size: 72px; margin-bottom: 20px; }
+  .book-cover-title { font-family: var(--font-serif); font-size: 20px; font-weight: 900; color: #fff; margin-bottom: 8px; }
+  .book-cover-sub { font-size: 12px; color: rgba(255,255,255,0.7); line-height: 1.4; }
+  .book-shadow { position: absolute; bottom: -20px; left: 20px; right: -20px; height: 40px; background: rgba(0,0,0,0.3); border-radius: 50%; filter: blur(16px); z-index: 0; }
+
+  .inside-section { padding: 100px 48px; }
+  .inside-inner { max-width: var(--max-w); margin: 0 auto; }
+  .inside-header { text-align: center; margin-bottom: 60px; }
+  .inside-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+  .inside-card { background: var(--nd-warm-white); border-radius: 20px; padding: 32px; box-shadow: var(--shadow-card); }
+  .inside-icon { font-size: 40px; margin-bottom: 16px; }
+  .inside-title { font-family: var(--font-serif); font-size: 19px; font-weight: 700; color: var(--nd-forest); margin-bottom: 10px; }
+  .inside-desc { font-size: 14px; color: var(--nd-muted); line-height: 1.65; font-weight: 300; }
+
+  .book-testi { background: #F2ECE3; padding: 80px 48px; }
+  .book-testi-inner { max-width: var(--max-w); margin: 0 auto; }
+  .testi-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+  .mini-testi { background: #fff; border-radius: 16px; padding: 28px; box-shadow: var(--shadow-card); }
+  .mini-text { font-size: 15px; font-style: italic; color: var(--nd-text); line-height: 1.7; font-weight: 300; margin-bottom: 16px; }
+  .mini-author { font-size: 13px; font-weight: 600; color: var(--nd-muted); }
+
+  .buy-section { padding: 100px 48px; text-align: center; background: var(--nd-cream); }
+  .buy-inner { max-width: 480px; margin: 0 auto; }
+  .buy-price-box { background: var(--nd-warm-white); border: 2px solid var(--nd-border); border-radius: 24px; padding: 48px 36px; margin-top: 24px; }
+  .buy-price { font-family: var(--font-serif); font-size: 56px; font-weight: 900; color: var(--nd-forest); letter-spacing: -0.03em; margin-bottom: 4px; }
+  .buy-price-note { font-size: 14px; color: var(--nd-muted); margin-bottom: 32px; }
+  .buy-guarantee { font-size: 14px; color: var(--nd-muted); margin-top: 20px; }
+
+  @media (max-width: 900px) {
+    .book-hero { padding: 48px 20px; }
+    .book-hero-inner { grid-template-columns: 1fr; gap: 48px; }
+    .book-hero-right { display: flex; justify-content: center; }
+    .inside-section, .book-testi, .buy-section { padding: 72px 20px; }
+    .inside-grid, .testi-row { grid-template-columns: 1fr; }
+  }
+</style>

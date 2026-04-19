@@ -1,0 +1,73 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Privacy Policy"
+  description="Privacy policy for natalidiet.eu — how we collect, use, and protect your personal data."
+  noIndex={true}
+>
+  <div class="policy-page">
+    <header class="policy-header">
+      <div class="policy-header-inner">
+        <h1 class="policy-title">Privacy Policy</h1>
+        <p class="policy-date">Last updated: April 2026</p>
+      </div>
+    </header>
+    <div class="policy-body">
+      <div class="prose">
+        <h2>1. Who we are</h2>
+        <p>Natali Diet operates the website natalidiet.eu. This privacy policy explains how we collect, use, and protect your personal data in accordance with the General Data Protection Regulation (GDPR).</p>
+
+        <h2>2. Data we collect</h2>
+        <p>We collect data in the following situations:</p>
+        <ul>
+          <li><strong>Newsletter sign-up:</strong> your email address, for the purpose of sending you weekly recipe newsletters via Mailerlite. You may unsubscribe at any time.</li>
+          <li><strong>Contact form:</strong> your name, email address, and message content, for the purpose of responding to your enquiry.</li>
+          <li><strong>Analytics (after consent):</strong> anonymised page view data via Google Analytics 4. Analytics are only loaded after you accept the cookie consent banner.</li>
+        </ul>
+
+        <h2>3. Legal basis</h2>
+        <ul>
+          <li>Newsletter: <strong>Consent</strong> (Art. 6(1)(a) GDPR)</li>
+          <li>Contact enquiries: <strong>Legitimate interest</strong> (Art. 6(1)(f) GDPR)</li>
+          <li>Analytics: <strong>Consent</strong> (Art. 6(1)(a) GDPR)</li>
+        </ul>
+
+        <h2>4. Third-party processors</h2>
+        <ul>
+          <li><strong>Mailerlite</strong> — newsletter delivery (EU data centres)</li>
+          <li><strong>Google Analytics 4</strong> — site analytics (only after consent)</li>
+          <li><strong>Cloudflare Pages</strong> — website hosting and CDN</li>
+        </ul>
+
+        <h2>5. Google Fonts</h2>
+        <p>We load fonts from Google Fonts. This may send your IP address to Google servers. We aim to self-host fonts to avoid this and will update this policy when complete.</p>
+
+        <h2>6. Cookies</h2>
+        <p>We use a cookie consent banner to control which cookies are set. Essential cookies (e.g., your consent preference stored in localStorage) are always set. Analytics cookies are only set after your explicit consent.</p>
+
+        <h2>7. Your rights</h2>
+        <p>Under GDPR you have the right to: access your data, correct inaccurate data, request deletion, restrict processing, and data portability. To exercise any of these rights, email <a href="mailto:contact@natalidiet.eu">contact@natalidiet.eu</a>.</p>
+
+        <h2>8. Data retention</h2>
+        <p>Contact form submissions are retained for up to 12 months. Newsletter subscriber data is retained until you unsubscribe. Analytics data follows Google's default retention settings.</p>
+
+        <h2>9. Contact</h2>
+        <p>For any privacy-related questions, contact: <a href="mailto:contact@natalidiet.eu">contact@natalidiet.eu</a></p>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .policy-header { background: var(--nd-forest); padding: 64px 48px; }
+  .policy-header-inner { max-width: var(--content-w); margin: 0 auto; }
+  .policy-title { font-family: var(--font-serif); font-size: clamp(32px, 4vw, 48px); font-weight: 900; color: #fff; margin-bottom: 10px; }
+  .policy-date { font-size: 13px; color: rgba(255,255,255,0.5); }
+  .policy-body { max-width: var(--content-w); margin: 0 auto; padding: 56px 48px 100px; }
+  @media (max-width: 640px) {
+    .policy-header { padding: 48px 20px; }
+    .policy-body { padding: 40px 20px 72px; }
+  }
+</style>

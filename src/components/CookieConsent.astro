@@ -1,0 +1,70 @@
+---
+---
+
+<div id="cookie-banner" class="cookie-banner" hidden>
+  <div class="cookie-inner">
+    <p class="cookie-text">
+      We use cookies from third-party services (analytics) for site improvement.
+      No advertising cookies. Analytics only load after your consent.
+      <a href="/privacy-policy">Privacy Policy</a>
+    </p>
+    <div class="cookie-actions">
+      <button id="cookie-accept" class="cookie-btn accept">Accept</button>
+      <button id="cookie-decline" class="cookie-btn decline">Decline</button>
+    </div>
+  </div>
+</div>
+
+<style>
+  .cookie-banner {
+    position: fixed; bottom: 0; left: 0; right: 0; z-index: 9999;
+    background: var(--nd-dark);
+    border-top: 2px solid rgba(196,98,58,0.4);
+    padding: 16px 20px;
+  }
+  .cookie-inner {
+    max-width: var(--max-w);
+    margin: 0 auto;
+    display: flex; align-items: center;
+    justify-content: space-between; gap: 24px; flex-wrap: wrap;
+  }
+  .cookie-text {
+    font-size: 13px; color: rgba(255,255,255,0.6); line-height: 1.6; margin: 0;
+    max-width: 680px;
+  }
+  .cookie-text a { color: var(--nd-terra-light); }
+  .cookie-actions { display: flex; gap: 10px; flex-shrink: 0; }
+  .cookie-btn {
+    font-family: var(--font-sans); font-size: 13px; font-weight: 600;
+    padding: 8px 20px; border-radius: 100px; border: none;
+    cursor: pointer; transition: background 0.15s, transform 0.15s;
+  }
+  .cookie-btn:hover { transform: translateY(-1px); }
+  .cookie-btn.accept { background: var(--nd-terra); color: #fff; }
+  .cookie-btn.accept:hover { background: var(--nd-terra-light); }
+  .cookie-btn.decline { background: transparent; color: rgba(255,255,255,0.5); border: 1px solid rgba(255,255,255,0.15); }
+  .cookie-btn.decline:hover { border-color: rgba(255,255,255,0.4); color: #fff; }
+</style>
+
+<script>
+  const banner = document.getElementById('cookie-banner') as HTMLElement;
+  const acceptBtn = document.getElementById('cookie-accept') as HTMLButtonElement;
+  const declineBtn = document.getElementById('cookie-decline') as HTMLButtonElement;
+
+  if (!localStorage.getItem('nd-cookie-consent')) banner.hidden = false;
+
+  acceptBtn.addEventListener('click', () => {
+    localStorage.setItem('nd-cookie-consent', 'accepted');
+    banner.hidden = true;
+    // Load GA4 after consent
+    const s = document.createElement('script');
+    s.src = 'https://www.googletagmanager.com/gtag/js?id=G-PLACEHOLDER';
+    s.async = true;
+    document.head.appendChild(s);
+  });
+
+  declineBtn.addEventListener('click', () => {
+    localStorage.setItem('nd-cookie-consent', 'declined');
+    banner.hidden = true;
+  });
+</script>

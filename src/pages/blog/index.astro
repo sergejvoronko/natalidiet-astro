@@ -1,0 +1,138 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('blog');
+posts.sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
+
+const categories = [
+  { slug: 'healthy-soups',           label: 'Healthy Soups',              icon: '🥣' },
+  { slug: 'healthy-main-dishes',     label: 'Healthy Main Dishes',        icon: '🍳' },
+  { slug: 'meal-plans-guides',       label: 'Meal Plans & Guides',        icon: '📅' },
+  { slug: 'traditional-foods-healthy', label: 'Traditional Made Healthy', icon: '🥟' },
+  { slug: 'country-recipe-guides',   label: 'Country Guides',             icon: '🌍' },
+];
+
+const url = Astro.url;
+const selectedCat = url.searchParams.get('category') ?? '';
+const filtered = selectedCat ? posts.filter(p => p.data.category === selectedCat) : posts;
+
+const formatDate = (d: Date) => d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+---
+
+<BaseLayout
+  title="Blog — Healthy Eastern European Recipes & Guides"
+  description="Articles, guides, and deep dives on healthy Eastern European cooking. Meal plans, ingredient spotlights, and country-specific recipe guides."
+>
+  <div class="blog-page">
+    <header class="page-header">
+      <div class="page-header-inner">
+        <span class="section-label" style="color: var(--nd-terra-light);">Articles & guides</span>
+        <h1 class="page-title">Eat smarter.<br><em>Cook better.</em></h1>
+        <p class="page-desc">In-depth guides on healthy Eastern European cooking, meal planning, and nutrition.</p>
+      </div>
+    </header>
+
+    <div class="blog-layout">
+      <!-- Category sidebar -->
+      <aside class="blog-sidebar">
+        <div class="sidebar-title">Categories</div>
+        <nav>
+          <a href="/blog" class:list={['cat-link', { active: !selectedCat }]}>All articles</a>
+          {categories.map(c => (
+            <a
+              href={`/blog?category=${c.slug}`}
+              class:list={['cat-link', { active: selectedCat === c.slug }]}
+            >
+              <span aria-hidden="true">{c.icon}</span> {c.label}
+            </a>
+          ))}
+        </nav>
+      </aside>
+
+      <!-- Posts grid -->
+      <main class="blog-main">
+        {filtered.length > 0 ? (
+          <div class="posts-grid">
+            {filtered.map(post => (
+              <article class="post-card">
+                {post.data.image && (
+                  <div class="post-img-wrap">
+                    <img src={post.data.image} alt={post.data.title} width="600" height="340" loading="lazy" class="post-img" />
+                  </div>
+                )}
+                <div class="post-info">
+                  <div class="post-meta">
+                    <span class="post-cat pill">{post.data.category.replace(/-/g, ' ')}</span>
+                    <time class="post-date" datetime={post.data.publishDate.toISOString()}>{formatDate(post.data.publishDate)}</time>
+                  </div>
+                  <h2 class="post-title">
+                    <a href={`/blog/${post.id}`}>{post.data.title}</a>
+                  </h2>
+                  <p class="post-desc">{post.data.description}</p>
+                  <a href={`/blog/${post.id}`} class="read-more">Read article →</a>
+                </div>
+              </article>
+            ))}
+          </div>
+        ) : (
+          <div class="empty-state">
+            <p>No articles yet in this category. Check back soon!</p>
+          </div>
+        )}
+      </main>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .page-header {
+    background: var(--nd-forest);
+    padding: 72px 48px 80px;
+    position: relative; overflow: hidden;
+  }
+  .page-header::before {
+    content: '';
+    position: absolute; top: -80px; right: -80px;
+    width: 400px; height: 400px;
+    background: radial-gradient(circle, rgba(196,98,58,0.25) 0%, transparent 65%);
+    pointer-events: none;
+  }
+  .page-header-inner { max-width: var(--max-w); margin: 0 auto; position: relative; z-index: 1; }
+  .page-title { font-family: var(--font-serif); font-size: clamp(40px, 5vw, 64px); font-weight: 900; color: #fff; line-height: 1.08; letter-spacing: -0.03em; margin-bottom: 16px; }
+  .page-title em { font-style: italic; color: var(--nd-terra-light); }
+  .page-desc { font-size: 17px; font-weight: 300; color: rgba(255,255,255,0.6); max-width: 480px; line-height: 1.7; }
+
+  .blog-layout { max-width: var(--max-w); margin: 0 auto; padding: 56px 48px 100px; display: grid; grid-template-columns: 220px 1fr; gap: 56px; align-items: start; }
+
+  .sidebar-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.12em; color: var(--nd-muted); margin-bottom: 16px; }
+  .cat-link { display: flex; align-items: center; gap: 10px; font-size: 14px; font-weight: 500; color: var(--nd-muted); text-decoration: none; padding: 10px 14px; border-radius: 10px; transition: all 0.2s; margin-bottom: 4px; }
+  .cat-link:hover { color: var(--nd-terra); background: rgba(196,98,58,0.06); }
+  .cat-link.active { color: var(--nd-terra); background: rgba(196,98,58,0.1); font-weight: 600; }
+
+  .posts-grid { display: flex; flex-direction: column; gap: 32px; }
+  .post-card { background: var(--nd-warm-white); border-radius: 20px; overflow: hidden; box-shadow: var(--shadow-card); transition: transform 0.25s, box-shadow 0.25s; }
+  .post-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-hover); }
+  .post-img-wrap { height: 220px; overflow: hidden; }
+  .post-img { width: 100%; height: 100%; object-fit: cover; }
+  .post-info { padding: 28px 32px 32px; }
+  .post-meta { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; }
+  .post-cat { text-transform: capitalize; font-size: 11px; }
+  .post-date { font-size: 12px; color: var(--nd-muted); }
+  .post-title { font-family: var(--font-serif); font-size: 24px; font-weight: 700; color: var(--nd-forest); line-height: 1.25; letter-spacing: -0.02em; margin-bottom: 12px; }
+  .post-title a { text-decoration: none; color: inherit; transition: color 0.2s; }
+  .post-title a:hover { color: var(--nd-terra); }
+  .post-desc { font-size: 15px; color: var(--nd-muted); line-height: 1.7; font-weight: 300; margin-bottom: 20px; }
+  .read-more { font-size: 14px; font-weight: 600; color: var(--nd-terra); text-decoration: none; transition: gap 0.2s; }
+  .read-more:hover { text-decoration: underline; }
+
+  .empty-state { padding: 80px 0; text-align: center; color: var(--nd-muted); font-size: 16px; }
+
+  @media (max-width: 820px) {
+    .blog-layout { grid-template-columns: 1fr; padding: 32px 20px 72px; gap: 32px; }
+    .blog-sidebar { display: flex; flex-wrap: wrap; gap: 8px; }
+    .blog-sidebar .sidebar-title { width: 100%; }
+    .cat-link { padding: 6px 14px; }
+    .page-header { padding: 48px 20px 60px; }
+  }
+</style>

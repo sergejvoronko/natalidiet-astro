@@ -1,0 +1,134 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="About Natali"
+  description="Natali is a certified nutritionist from Ukraine, on a mission to show the world that Eastern European food can be both delicious and healthy."
+>
+  <div class="about-page">
+    <header class="about-header">
+      <div class="about-header-inner">
+        <span class="section-label" style="color: var(--nd-terra-light);">About</span>
+        <h1 class="about-title">Born in Ukraine.<br><em>Cooking for the world.</em></h1>
+      </div>
+    </header>
+
+    <div class="about-content">
+      <div class="about-grid">
+        <div class="about-photo-col">
+          <div class="photo-card">
+            <div class="photo-emoji" aria-hidden="true">👩‍🍳</div>
+            <div class="photo-caption">
+              <div class="photo-name">Natali</div>
+              <div class="photo-role">Certified Nutritionist · Founder</div>
+            </div>
+          </div>
+          <div class="credentials">
+            <div class="cred-item">
+              <div class="cred-icon" aria-hidden="true">🎓</div>
+              <div>
+                <div class="cred-title">Certified Nutritionist</div>
+                <div class="cred-body">Formal training in dietetics & nutritional science</div>
+              </div>
+            </div>
+            <div class="cred-item">
+              <div class="cred-icon" aria-hidden="true">📍</div>
+              <div>
+                <div class="cred-title">Originally from Ukraine</div>
+                <div class="cred-body">Now based in Central Europe</div>
+              </div>
+            </div>
+            <div class="cred-item">
+              <div class="cred-icon" aria-hidden="true">🌱</div>
+              <div>
+                <div class="cred-title">Whole Food Philosophy</div>
+                <div class="cred-body">No supplements — just real, seasonal ingredients</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="about-text-col">
+          <h2 class="about-h2">My story</h2>
+          <p>I grew up in a family where food was love. Borscht simmering all Sunday. Fresh bread that filled the whole apartment. My grandmother's varenyky on special occasions. Food wasn't fuel — it was a language we spoke together.</p>
+
+          <p>But I also grew up watching people I love struggle with their weight, thinking that healthy eating meant giving up everything they enjoyed. Sad salads. Bland chicken. Endless restriction.</p>
+
+          <p>It doesn't have to be that way.</p>
+
+          <p>After studying nutritional science and spending years experimenting in the kitchen, I discovered something that sounds obvious but most diets get wrong: <strong>the best diet is the one you actually enjoy.</strong></p>
+
+          <h2 class="about-h2">Why Eastern European cuisine?</h2>
+          <p>Because it's genuinely, surprisingly, perfectly suited for healthy eating — and nobody talks about it.</p>
+
+          <p>Buckwheat. Kefir. Borscht. Fermented vegetables. Syrniki. These are foods that Central European grandmothers have been eating for centuries, and modern nutrition science keeps rediscovering why they're so good for you: fibre, probiotics, complete proteins, minimal processing.</p>
+
+          <p>My mission is to take that culinary heritage, adapt it for modern kitchens and modern calorie awareness, and make it accessible to a global audience — in English, for the first time.</p>
+
+          <h2 class="about-h2">What I believe</h2>
+          <ul class="belief-list">
+            <li>Healthy food should taste good. Full stop.</li>
+            <li>Recipes should be honest about calories and macros — but not obsessive.</li>
+            <li>Traditional food cultures carry wisdom that modern diets have forgotten.</li>
+            <li>Cooking for yourself is one of the best things you can do for your body.</li>
+          </ul>
+
+          <div class="about-cta-box">
+            <h3>Ready to start?</h3>
+            <p>Browse free recipes or get the full book with 200+ recipes and a 4-week meal plan.</p>
+            <div class="cta-btns">
+              <a href="/recipes" class="btn-primary">Browse free recipes</a>
+              <a href="/book" class="btn-outline">Get the book — €24.99</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .about-header { background: var(--nd-forest); padding: 72px 48px 80px; position: relative; overflow: hidden; }
+  .about-header::before { content: ''; position: absolute; top: -80px; right: -80px; width: 400px; height: 400px; background: radial-gradient(circle, rgba(196,98,58,0.25) 0%, transparent 65%); pointer-events: none; }
+  .about-header-inner { max-width: var(--max-w); margin: 0 auto; position: relative; z-index: 1; }
+  .about-title { font-family: var(--font-serif); font-size: clamp(38px, 5vw, 60px); font-weight: 900; color: #fff; line-height: 1.1; letter-spacing: -0.03em; }
+  .about-title em { font-style: italic; color: var(--nd-terra-light); }
+
+  .about-content { max-width: var(--max-w); margin: 0 auto; padding: 64px 48px 100px; }
+  .about-grid { display: grid; grid-template-columns: 320px 1fr; gap: 72px; align-items: start; }
+
+  /* Left col */
+  .photo-card {
+    background: var(--nd-forest); border-radius: 28px; padding: 48px 36px 36px;
+    text-align: center; margin-bottom: 24px; position: relative; overflow: hidden;
+  }
+  .photo-card::before { content: ''; position: absolute; inset: 0; background: radial-gradient(circle at 50% 30%, rgba(196,98,58,0.3) 0%, transparent 60%); }
+  .photo-emoji { font-size: 100px; position: relative; z-index: 1; margin-bottom: 20px; display: block; }
+  .photo-caption { position: relative; z-index: 1; }
+  .photo-name { font-family: var(--font-serif); font-size: 22px; font-weight: 700; color: #fff; margin-bottom: 4px; }
+  .photo-role { font-size: 12px; color: rgba(255,255,255,0.55); font-weight: 500; }
+  .credentials { display: flex; flex-direction: column; gap: 14px; }
+  .cred-item { display: flex; align-items: flex-start; gap: 14px; background: var(--nd-warm-white); border-radius: 14px; padding: 16px; }
+  .cred-icon { font-size: 24px; flex-shrink: 0; }
+  .cred-title { font-size: 13px; font-weight: 600; color: var(--nd-forest); margin-bottom: 2px; }
+  .cred-body { font-size: 12px; color: var(--nd-muted); line-height: 1.5; }
+
+  /* Right col */
+  .about-text-col p { font-size: 16px; line-height: 1.8; color: var(--nd-text); font-weight: 300; margin-bottom: 18px; }
+  .about-text-col strong { font-weight: 600; color: var(--nd-forest); }
+  .about-h2 { font-family: var(--font-serif); font-size: 26px; font-weight: 700; color: var(--nd-forest); margin: 40px 0 18px; letter-spacing: -0.02em; }
+  .belief-list { list-style: none; display: flex; flex-direction: column; gap: 12px; margin-bottom: 20px; }
+  .belief-list li { display: flex; align-items: flex-start; gap: 12px; font-size: 16px; color: var(--nd-text); line-height: 1.6; font-weight: 300; }
+  .belief-list li::before { content: '→'; color: var(--nd-terra); font-weight: 600; flex-shrink: 0; margin-top: 1px; }
+  .about-cta-box { background: var(--nd-cream); border: 1px solid var(--nd-border); border-radius: 20px; padding: 36px; margin-top: 48px; }
+  .about-cta-box h3 { font-family: var(--font-serif); font-size: 22px; font-weight: 700; color: var(--nd-forest); margin-bottom: 10px; }
+  .about-cta-box p { font-size: 15px; color: var(--nd-muted); margin-bottom: 24px; }
+  .cta-btns { display: flex; gap: 14px; flex-wrap: wrap; }
+
+  @media (max-width: 820px) {
+    .about-header { padding: 48px 20px 60px; }
+    .about-content { padding: 40px 20px 72px; }
+    .about-grid { grid-template-columns: 1fr; }
+  }
+</style>

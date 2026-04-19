@@ -1,0 +1,167 @@
+---
+const currentPath = Astro.url.pathname;
+const isActive = (href: string) =>
+  href === '/' ? currentPath === '/' : currentPath.startsWith(href);
+
+const navItems = [
+  { label: 'Recipes',    href: '/recipes' },
+  { label: 'Meal Plans', href: '/meal-plans' },
+  { label: 'Blog',       href: '/blog' },
+  { label: 'About',      href: '/about' },
+];
+---
+
+<header class="nd-header" id="nd-header">
+  <a href="/" class="nav-logo" aria-label="Natali Diet home">
+    <div class="nav-badge" aria-hidden="true">
+      <span>N<br>D</span>
+    </div>
+    <span class="nav-name">Natali Diet</span>
+  </a>
+
+  <nav class="nav-links" id="nav-links" aria-label="Main navigation">
+    {navItems.map(item => (
+      <a
+        href={item.href}
+        class:list={['nav-link', { active: isActive(item.href) }]}
+        aria-current={isActive(item.href) ? 'page' : undefined}
+      >
+        {item.label}
+      </a>
+    ))}
+    <a href="/book" class="nav-cta">Get the Book</a>
+  </nav>
+
+  <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="nav-links">
+    <span class="burger"></span>
+    <span class="burger"></span>
+    <span class="burger"></span>
+  </button>
+</header>
+
+<style>
+  .nd-header {
+    position: fixed; top: 0; left: 0; right: 0; z-index: 900;
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 20px 48px;
+    background: rgba(250, 246, 239, 0.95);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(196, 98, 58, 0.1);
+    transition: padding 0.3s;
+    animation: slideDown 0.7s ease both;
+    height: var(--nav-height);
+  }
+
+  .nd-header.scrolled { padding-top: 14px; padding-bottom: 14px; }
+
+  .nav-logo {
+    display: flex; align-items: center; gap: 12px;
+    text-decoration: none; flex-shrink: 0;
+  }
+
+  .nav-badge {
+    width: 44px; height: 44px;
+    background: var(--nd-dark);
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0;
+  }
+
+  .nav-badge span {
+    color: #fff;
+    font-family: var(--font-serif);
+    font-size: 12px; font-weight: 700;
+    text-align: center; line-height: 1.1;
+  }
+
+  .nav-name {
+    font-family: var(--font-serif);
+    font-size: 19px; font-weight: 700;
+    color: var(--nd-forest);
+    letter-spacing: -0.3px;
+  }
+
+  .nav-links {
+    display: flex; align-items: center; gap: 36px;
+  }
+
+  .nav-link {
+    font-size: 14px; font-weight: 500;
+    color: var(--nd-muted);
+    text-decoration: none; letter-spacing: 0.02em;
+    transition: color 0.2s;
+    padding: 4px 0;
+    border-bottom: 1.5px solid transparent;
+  }
+  .nav-link:hover, .nav-link.active { color: var(--nd-terra); }
+  .nav-link.active { border-bottom-color: var(--nd-terra); }
+
+  .nav-cta {
+    background: var(--nd-terra);
+    color: #fff !important;
+    padding: 10px 22px;
+    border-radius: 100px;
+    font-size: 14px; font-weight: 600;
+    text-decoration: none;
+    transition: background 0.2s, transform 0.2s;
+  }
+  .nav-cta:hover { background: var(--nd-forest); transform: translateY(-1px); }
+
+  /* Hamburger */
+  .nav-toggle {
+    display: none;
+    flex-direction: column; gap: 5px;
+    background: none; border: none;
+    padding: 6px;
+  }
+  .burger {
+    display: block; width: 22px; height: 2px;
+    background: var(--nd-forest);
+    transition: transform 0.25s, opacity 0.25s;
+  }
+  .nav-toggle[aria-expanded="true"] .burger:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+  .nav-toggle[aria-expanded="true"] .burger:nth-child(2) { opacity: 0; }
+  .nav-toggle[aria-expanded="true"] .burger:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+  @media (max-width: 820px) {
+    .nd-header { padding: 16px 20px; }
+    .nav-toggle { display: flex; margin-left: auto; }
+    .nav-links {
+      display: none;
+      position: fixed;
+      top: var(--nav-height); left: 0; right: 0;
+      flex-direction: column; align-items: flex-start;
+      gap: 4px;
+      background: var(--nd-warm-white);
+      border-bottom: 1px solid var(--nd-border);
+      padding: 16px 20px 24px;
+    }
+    .nav-links.open { display: flex; }
+    .nav-link { font-size: 16px; padding: 10px 0; width: 100%; }
+    .nav-cta { margin-top: 8px; }
+  }
+</style>
+
+<script>
+  const header = document.getElementById('nd-header') as HTMLElement;
+  const toggle = document.getElementById('nav-toggle') as HTMLButtonElement;
+  const links  = document.getElementById('nav-links') as HTMLElement;
+
+  window.addEventListener('scroll', () => {
+    header.classList.toggle('scrolled', window.scrollY > 60);
+  }, { passive: true });
+
+  toggle?.addEventListener('click', () => {
+    const open = toggle.getAttribute('aria-expanded') === 'true';
+    toggle.setAttribute('aria-expanded', String(!open));
+    links.classList.toggle('open', !open);
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && links.classList.contains('open')) {
+      links.classList.remove('open');
+      toggle.setAttribute('aria-expanded', 'false');
+    }
+  });
+</script>
