@@ -13,7 +13,7 @@ const navItems = [
 
 <header class="nd-header" id="nd-header">
   <a href="/" class="nav-logo" aria-label="Natali Diet home">
-    <img src="/images/logo.png" alt="" class="nav-logo-img" width="68" height="68" />
+    <img src="/images/logo.png" alt="" class="nav-logo-img" width="120" height="120" />
     <span class="nav-logo-text">Natali Diet</span>
   </a>
 
@@ -41,7 +41,7 @@ const navItems = [
   .nd-header {
     position: fixed; top: 0; left: 0; right: 0; z-index: 900;
     display: flex; align-items: center; justify-content: space-between;
-    padding: 11px 48px;
+    padding: 10px 48px;
     background: rgba(250, 246, 239, 0.95);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
@@ -51,7 +51,7 @@ const navItems = [
     height: var(--nav-height);
   }
 
-  .nd-header.scrolled { padding-top: 8px; padding-bottom: 8px; }
+  .nd-header.scrolled { padding-top: 6px; padding-bottom: 6px; }
 
   .nav-logo {
     display: flex; align-items: center; gap: 12px;
@@ -59,7 +59,7 @@ const navItems = [
   }
 
   .nav-logo-img {
-    width: 68px; height: 68px;
+    width: 120px; height: 120px;
     border-radius: 50%;
     object-fit: cover;
     display: block;
@@ -70,7 +70,7 @@ const navItems = [
 
   .nav-logo-text {
     font-family: var(--font-serif);
-    font-size: 22px;
+    font-size: 26px;
     font-weight: 700;
     color: var(--nd-forest);
     letter-spacing: -0.02em;
