@@ -1,0 +1,69 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Health & Nutrition Disclaimer"
+  description="Important information about nutritional values, dietary advice, and allergens on natalidiet.eu."
+  noIndex={true}
+>
+  <div class="policy-page">
+    <header class="policy-header">
+      <div class="policy-header-inner">
+        <h1 class="policy-title">Health &amp; Nutrition Disclaimer</h1>
+        <p class="policy-date">Last updated: April 2026</p>
+      </div>
+    </header>
+    <div class="policy-body">
+      <div class="prose">
+        <h2>1. Not medical advice</h2>
+        <p>The content published on natalidiet.eu — including all recipes, meal plans, articles, nutritional information, and related materials — is provided for general informational and educational purposes only. Nothing on this website constitutes or is intended to constitute medical advice, clinical dietary therapy, or a professional nutritional consultation.</p>
+        <p>You should not rely on information from this website as a substitute for advice from a qualified healthcare professional, registered dietitian, or medical doctor. Always seek appropriate professional guidance before making significant changes to your diet, particularly if you have or suspect a medical condition.</p>
+
+        <h2>2. Nutritional values are estimates</h2>
+        <p>All calorie counts, macronutrient figures (protein, carbohydrates, fat, fibre), and micronutrient values displayed on this website are approximate estimates calculated using standard nutritional databases. Actual values may differ by <strong>±10–15%</strong> or more depending on:</p>
+        <ul>
+          <li>The specific brand or variety of ingredients used</li>
+          <li>Regional differences in food composition</li>
+          <li>Cooking method, cooking time, and temperature</li>
+          <li>Exact portion weights and how servings are measured</li>
+          <li>Natural variation in fresh produce and animal products</li>
+        </ul>
+        <p>These figures are not verified by a clinical laboratory and should be treated as guidance only, not as precise nutritional data for therapeutic purposes.</p>
+
+        <h2>3. Allergen information</h2>
+        <p>Natali Diet makes reasonable efforts to identify common allergens present in each recipe. However, we cannot guarantee that any recipe is free from a specific allergen or that the information is complete and current.</p>
+        <p><strong>If you have a food allergy, intolerance, or sensitivity, you must:</strong></p>
+        <ul>
+          <li>Always check the ingredient labels of every product you purchase, as formulations and manufacturing processes change</li>
+          <li>Be aware that cross-contamination may occur during food preparation at home</li>
+          <li>Consult your doctor or a registered allergy specialist before trying any recipe that may contain a food you react to</li>
+        </ul>
+        <p>Natali Diet accepts no liability for any allergic reaction, intolerance response, or adverse health event arising from the use of any recipe, meal plan, or ingredient suggestion published on this website.</p>
+
+        <h2>4. Individual results vary</h2>
+        <p>The meal plans and nutritional guidance on this website are designed for healthy adults with no specific medical conditions. Individual dietary needs vary significantly based on age, sex, body composition, activity level, health status, and medications. A calorie target or macronutrient split that is appropriate for one person may be unsuitable for another.</p>
+        <p>We strongly recommend consulting a registered dietitian or nutritionist for personalised dietary advice tailored to your individual circumstances.</p>
+
+        <h2>5. No liability</h2>
+        <p>To the fullest extent permitted by applicable law, Natali Diet, its author, and contributors shall not be liable for any direct, indirect, incidental, or consequential damages arising from your use of or reliance on the content of this website, including but not limited to adverse health outcomes, allergic reactions, or decisions made based on nutritional information provided here.</p>
+        <p>By using this website you acknowledge that you do so at your own discretion and risk.</p>
+
+        <h2>6. Contact</h2>
+        <p>If you have questions about the health or nutritional content of any recipe, please contact us at <a href="mailto:contact@natalidiet.eu">contact@natalidiet.eu</a>.</p>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .policy-header { background: var(--nd-forest); padding: 64px 48px; }
+  .policy-header-inner { max-width: var(--content-w); margin: 0 auto; }
+  .policy-title { font-family: var(--font-serif); font-size: clamp(32px, 4vw, 48px); font-weight: 900; color: #fff; margin-bottom: 10px; }
+  .policy-date { font-size: 13px; color: rgba(255,255,255,0.5); }
+  .policy-body { max-width: var(--content-w); margin: 0 auto; padding: 56px 48px 100px; }
+  @media (max-width: 640px) {
+    .policy-header { padding: 48px 20px; }
+    .policy-body { padding: 40px 20px 72px; }
+  }
+</style>
