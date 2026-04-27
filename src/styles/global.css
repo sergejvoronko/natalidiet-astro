@@ -73,6 +73,10 @@
   --shadow-btn:       0 4px 16px rgb(var(--nd-terra-rgb) / 0.25);
 }
 
+@media (max-width: 820px) {
+  :root { --nav-height: 70px; }
+}
+
 /* ── Reset ──────────────────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }

@@ -18,7 +18,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       <div class="about-grid">
         <div class="about-photo-col">
           <div class="photo-card">
-            <div class="photo-emoji" aria-hidden="true">👩‍🍳</div>
+            <img
+              src="/images/natali-profile.webp"
+              alt="Natali — certified nutritionist and founder of Natali Diet"
+              class="photo-portrait"
+              width="280" height="280"
+              loading="eager"
+            />
             <div class="photo-caption">
               <div class="photo-name">Natali</div>
               <div class="photo-role">Certified Nutritionist · Founder</div>
@@ -76,7 +82,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
           <div class="about-cta-box">
             <h3>Ready to start?</h3>
-            <p>Browse free recipes or get the full book with 200+ recipes and a 4-week meal plan.</p>
+            <p>Browse free recipes or get the full 8-day meal plan book with 32 calorie-counted Eastern European recipes.</p>
             <div class="cta-btns">
               <a href="/recipes" class="btn-primary">Browse free recipes</a>
               <a href="/book" class="btn-outline">Get the book — €24.99</a>
@@ -89,8 +95,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 </BaseLayout>
 
 <style>
-  .about-header { background: var(--nd-forest); padding: 72px 48px 80px; position: relative; overflow: hidden; }
-  .about-header::before { content: ''; position: absolute; top: -80px; right: -80px; width: 400px; height: 400px; background: radial-gradient(circle, rgba(196,98,58,0.25) 0%, transparent 65%); pointer-events: none; }
+  .about-header { background: var(--nd-forest) url('/images/hero-about.webp') center/cover no-repeat; padding: 72px 48px 80px; position: relative; overflow: hidden; }
+  .about-header::before { content: ''; position: absolute; inset: 0; background: linear-gradient(to right, rgba(20,35,25,0.82) 50%, rgba(20,35,25,0.55) 100%); pointer-events: none; }
   .about-header-inner { max-width: var(--max-w); margin: 0 auto; position: relative; z-index: 1; }
   .about-title { font-family: var(--font-serif); font-size: clamp(38px, 5vw, 60px); font-weight: 900; color: #fff; line-height: 1.1; letter-spacing: -0.03em; }
   .about-title em { font-style: italic; color: var(--nd-terra-light); }
@@ -100,12 +106,17 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
   /* Left col */
   .photo-card {
-    background: var(--nd-forest); border-radius: 28px; padding: 48px 36px 36px;
+    background: var(--nd-forest); border-radius: 28px; padding: 0 0 28px;
     text-align: center; margin-bottom: 24px; position: relative; overflow: hidden;
   }
-  .photo-card::before { content: ''; position: absolute; inset: 0; background: radial-gradient(circle at 50% 30%, rgba(196,98,58,0.3) 0%, transparent 60%); }
-  .photo-emoji { font-size: 100px; position: relative; z-index: 1; margin-bottom: 20px; display: block; }
-  .photo-caption { position: relative; z-index: 1; }
+  .photo-card::before { content: ''; position: absolute; inset: 0; background: radial-gradient(circle at 50% 30%, rgba(196,98,58,0.2) 0%, transparent 60%); }
+  .photo-portrait {
+    width: 100%; height: auto; display: block;
+    border-radius: 16px 16px 0 0;
+    position: relative; z-index: 1;
+    margin-bottom: 0;
+  }
+  .photo-caption { position: relative; z-index: 1; padding-top: 20px; }
   .photo-name { font-family: var(--font-serif); font-size: 22px; font-weight: 700; color: #fff; margin-bottom: 4px; }
   .photo-role { font-size: 12px; color: rgba(255,255,255,0.55); font-weight: 500; }
   .credentials { display: flex; flex-direction: column; gap: 14px; }

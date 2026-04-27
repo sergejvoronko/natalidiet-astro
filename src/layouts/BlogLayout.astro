@@ -1,5 +1,7 @@
 ---
 import BaseLayout from './BaseLayout.astro';
+import ShareButtons from '../components/ShareButtons.astro';
+import AuthorBlock from '../components/AuthorBlock.astro';
 
 interface Props {
   title: string;
@@ -51,6 +53,9 @@ const formattedDate = publishDate.toLocaleDateString('en-GB', {
           ))}
         </div>
       )}
+
+      <ShareButtons title={title} />
+      <AuthorBlock />
     </div>
   </article>
 </BaseLayout>

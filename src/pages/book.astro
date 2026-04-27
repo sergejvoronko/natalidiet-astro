@@ -4,7 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 <BaseLayout
   title="Get the Recipe Book — €24.99"
-  description="200+ Eastern European recipes adapted for healthy eating. Calorie-counted, nutritionist-crafted, with a 4-week meal plan and shopping lists."
+  description="32 calorie-counted Eastern European recipes in an 8-day meal plan. Nutritionist-crafted, macro-balanced, with a complete shopping list. PDF download."
 >
   <div class="book-page">
     <!-- Hero -->
@@ -12,17 +12,17 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       <div class="book-hero-inner">
         <div class="book-hero-left">
           <span class="section-label" style="color: var(--nd-terra-light);">The Recipe Book</span>
-          <h1 class="book-title">200+ healthy recipes.<br><em>One beautiful book.</em></h1>
+          <h1 class="book-title">32 healthy recipes.<br><em>One beautiful plan.</em></h1>
           <p class="book-desc">
-            Eastern and Central European cuisine adapted for healthy eating. Every recipe is calorie-counted,
-            macro-balanced, and designed to actually taste good.
+            Eastern European cuisine adapted for healthy eating — 8 days, 4 meals a day.
+            Every recipe is calorie-counted, macro-balanced, and designed to actually taste good.
           </p>
           <div class="book-includes">
-            <div class="include-item"><span aria-hidden="true">✓</span> 200+ recipes across 5 pillars</div>
-            <div class="include-item"><span aria-hidden="true">✓</span> 4-week meal plan with shopping lists</div>
-            <div class="include-item"><span aria-hidden="true">✓</span> Nutrition guide & macro calculator</div>
+            <div class="include-item"><span aria-hidden="true">✓</span> 32 recipes across an 8-day plan</div>
+            <div class="include-item"><span aria-hidden="true">✓</span> Breakfast, lunch, snack &amp; dinner every day</div>
+            <div class="include-item"><span aria-hidden="true">✓</span> Full nutrition info — protein, carbs, fat, fibre</div>
+            <div class="include-item"><span aria-hidden="true">✓</span> Complete shopping list included</div>
             <div class="include-item"><span aria-hidden="true">✓</span> Instant PDF download</div>
-            <div class="include-item"><span aria-hidden="true">✓</span> Lifetime updates</div>
           </div>
           <div class="book-cta-row">
             <div class="book-price">
@@ -35,12 +35,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         </div>
         <div class="book-hero-right" aria-hidden="true">
           <div class="book-visual">
-            <div class="book-cover">
-              <div class="book-cover-inner">
-                <div class="book-emoji">📗</div>
-                <div class="book-cover-title">Natali Diet</div>
-                <div class="book-cover-sub">200+ Healthy Eastern European Recipes</div>
-              </div>
+            <div class="book-cover-wrap">
+              <img src="/images/book-cover.webp" alt="Natali Diet Recipe Book" class="book-cover-photo" width="280" height="373" loading="eager" />
             </div>
             <div class="book-shadow"></div>
           </div>
@@ -57,12 +53,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         </div>
         <div class="inside-grid">
           {[
-            { icon: '🥣', title: 'Healthy Soups', desc: '40+ soup recipes including borscht, rassolnik, solyanka, and more — all under 400 kcal.' },
-            { icon: '🍳', title: 'Main Dishes',   desc: '60+ main course recipes with full macro profiles and easy-to-follow instructions.' },
-            { icon: '📅', title: 'Meal Plans',    desc: '4-week done-for-you plan with daily menus, prep tips, and weekly shopping lists.' },
-            { icon: '🥟', title: 'Traditional Classics', desc: 'Varenyky, syrniki, bigos, deruny — reimagined lighter without losing the soul.' },
-            { icon: '📊', title: 'Nutrition Guide', desc: 'Understand macros, calories, and how to adapt recipes to your personal goals.' },
-            { icon: '🌍', title: 'Country Guides',  desc: 'Deep dives into Ukrainian, Slovak, Polish, and Russian healthy food traditions.' },
+            { icon: '🥣', title: 'Soups & Light Lunches', desc: 'Cold okroshka, sauerkraut broth, mushroom barley — all under 300 kcal and ready in under 30 minutes.' },
+            { icon: '🍳', title: 'Breakfasts & Snacks',   desc: 'Syrniki, kefir porridge, rye crispbreads — proper Eastern European starts that keep you full until lunch.' },
+            { icon: '📅', title: '8-Day Meal Plan',        desc: 'Every day has breakfast, lunch, snack, and dinner — all planned, all calorie-counted, ready to follow.' },
+            { icon: '🥟', title: 'Traditional Classics',   desc: 'Varenyky, kotlety, vinegret, stuffed peppers — reimagined lighter without losing the soul.' },
+            { icon: '📊', title: 'Full Nutrition Data',    desc: 'Every recipe shows calories, protein, carbs, fat, and fibre per serving. No guesswork.' },
+            { icon: '🛒', title: 'Complete Shopping List', desc: 'One master list covering all 32 recipes — organised by category so you can shop in one go.' },
           ].map(item => (
             <div class="inside-card">
               <div class="inside-icon" aria-hidden="true">{item.icon}</div>
@@ -129,18 +125,15 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   .book-guarantee { font-size: 13px; color: rgba(255,255,255,0.4); }
 
   .book-visual { position: relative; }
-  .book-cover {
-    width: 280px; height: 380px;
-    background: linear-gradient(135deg, var(--nd-terra) 0%, #8B3A1E 100%);
+  .book-cover-wrap {
+    width: 280px;
     border-radius: 4px 16px 16px 4px;
-    display: flex; align-items: center; justify-content: center;
-    box-shadow: -8px 12px 40px rgba(0,0,0,0.5);
+    overflow: hidden;
+    box-shadow: -8px 12px 40px rgba(0,0,0,0.5), 5px 0 0 rgba(255,255,255,0.04) inset;
+    border-left: 6px solid rgba(255,255,255,0.06);
     position: relative; z-index: 1;
   }
-  .book-cover-inner { text-align: center; padding: 24px; }
-  .book-emoji { font-size: 72px; margin-bottom: 20px; }
-  .book-cover-title { font-family: var(--font-serif); font-size: 20px; font-weight: 900; color: #fff; margin-bottom: 8px; }
-  .book-cover-sub { font-size: 12px; color: rgba(255,255,255,0.7); line-height: 1.4; }
+  .book-cover-photo { width: 100%; height: auto; display: block; }
   .book-shadow { position: absolute; bottom: -20px; left: 20px; right: -20px; height: 40px; background: rgba(0,0,0,0.3); border-radius: 50%; filter: blur(16px); z-index: 0; }
 
   .inside-section { padding: 100px 48px; }

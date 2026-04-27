@@ -11,14 +11,14 @@ const pillars = [
   { icon: '🥣', title: 'Healthy Soups',           slug: '/blog?category=healthy-soups',             count: '7 articles', active: true  },
   { icon: '🍳', title: 'Healthy Main Dishes',      slug: '/blog?category=healthy-main-dishes',       count: '7 articles', active: true  },
   { icon: '📅', title: 'Meal Plans & Guides',      slug: '/meal-plans',                              count: '6 articles', active: true  },
-  { icon: '🥟', title: 'Traditional Made Healthy', slug: '/blog?category=traditional-foods-healthy', count: '7 articles', active: false },
-  { icon: '🌍', title: 'Country Recipe Guides',    slug: '/blog?category=country-recipe-guides',     count: '6 articles', active: false },
+  { icon: '🥟', title: 'Traditional Made Healthy', slug: '/blog?category=traditional-foods-healthy', count: '7 articles', active: true },
+  { icon: '🌍', title: 'Country Recipe Guides',    slug: '/blog?category=country-recipe-guides',     count: '6 articles', active: true },
 ];
 
 const heroCards = [
-  { emoji: '🥣', name: 'Golden Buckwheat Porridge', kcal: 280, time: '10 min', hue: 'breakfast' },
-  { emoji: '🥗', name: 'Light Summer Borscht',       kcal: 210, time: '25 min', hue: 'lunch'     },
-  { emoji: '🍗', name: 'Herb Chicken & Roasted Veg', kcal: 380, time: '35 min', hue: 'dinner'    },
+  { emoji: '🥣', name: 'Golden Buckwheat Porridge', kcal: 280, time: '10 min', hue: 'breakfast', slug: 'golden-buckwheat-porridge' },
+  { emoji: '🥗', name: 'Light Summer Borscht',       kcal: 210, time: '25 min', hue: 'lunch',     slug: 'light-summer-borscht'       },
+  { emoji: '🍗', name: 'Herb Chicken & Roasted Veg', kcal: 380, time: '35 min', hue: 'dinner',    slug: 'herb-chicken-roasted-veg'   },
 ];
 ---
 
@@ -32,7 +32,7 @@ const heroCards = [
 <section class="hero">
   <div class="hero-grain" aria-hidden="true"></div>
 
-  <div class="hero-left">
+  <div class="hero-left" style="z-index:1; position:relative;">
     <div class="hero-eyebrow reveal-hero">
       <span class="eyebrow-dot" aria-hidden="true"></span>
       Healthy Eastern European Eating
@@ -72,10 +72,22 @@ const heroCards = [
     </div>
   </div>
 
-  <div class="hero-right" aria-hidden="true">
+  <!-- Center figure — sits between title (left) and cards (right) -->
+  <div class="hero-figure" aria-hidden="true">
+    <img
+      src="/images/hero-figure.webp"
+      alt=""
+      class="hero-figure-img"
+      width="480"
+      height="860"
+      fetchpriority="high"
+    />
+  </div>
+
+  <div class="hero-right" style="z-index:1; position:relative;">
     <div class="hero-cards-wrap">
       {heroCards.map((c, i) => (
-        <div class={`hcard hcard-${i+1} hcard-${c.hue}`} style={`animation-delay:${0.5 + i * 0.15}s`}>
+        <a href={`/recipes/${c.slug}`} class={`hcard hcard-${i+1} hcard-${c.hue}`} style={`animation-delay:${0.5 + i * 0.15}s`}>
           <div class="hcard-emoji">{c.emoji}</div>
           <div class="hcard-info">
             <div class="hcard-name">{c.name}</div>
@@ -86,15 +98,18 @@ const heroCards = [
             </div>
           </div>
           <div class="hcard-arrow">→</div>
-        </div>
+        </a>
       ))}
-      <div class="hero-flag-row">
-        <span title="Ukrainian">🇺🇦</span>
-        <span title="Slovak">🇸🇰</span>
-        <span title="Polish">🇵🇱</span>
-        <span title="Hungarian">🇭🇺</span>
-        <span title="Romanian">🇷🇴</span>
-        <span title="English">🇬🇧</span>
+      <div class="hero-cuisine-row">
+        <span class="cuisine-label">Recipes from:</span>
+        <div class="cuisine-flags">
+          <span title="Ukrainian cuisine">🇺🇦</span>
+          <span title="Slovak cuisine">🇸🇰</span>
+          <span title="Polish cuisine">🇵🇱</span>
+          <span title="Hungarian cuisine">🇭🇺</span>
+          <span title="Romanian cuisine">🇷🇴</span>
+          <span title="Balkan cuisine">🇧🇦</span>
+        </div>
       </div>
     </div>
   </div>
@@ -107,7 +122,7 @@ const heroCards = [
       '🌍 English, Ukrainian & Slovak',
       '📖 200+ recipes',
       '🥗 Nutritionist crafted',
-      '✉️ Free weekly recipes',
+      '✉️ Fresh new recipes',
       '🔥 Every dish calorie-counted',
       '🏆 4.9★ reader rating',
       '🌿 Whole food ingredients only',
@@ -119,7 +134,7 @@ const heroCards = [
       '🌍 English, Ukrainian & Slovak',
       '📖 200+ recipes',
       '🥗 Nutritionist crafted',
-      '✉️ Free weekly recipes',
+      '✉️ Fresh new recipes',
       '🔥 Every dish calorie-counted',
       '🏆 4.9★ reader rating',
       '🌿 Whole food ingredients only',
@@ -305,10 +320,8 @@ const heroCards = [
 
     <div class="book-right reveal">
       <div class="book-mockup">
-        <div class="book-cover">
-          <div class="book-cover-label">Natali Diet</div>
-          <div class="book-cover-title">Eastern European<br>Healthy Recipes</div>
-          <div class="book-cover-emoji" aria-hidden="true">🌿</div>
+        <div class="book-cover-img-wrap">
+          <img src="/images/book-cover.webp" alt="Natali Diet Recipe Book cover" class="book-cover-img" width="320" height="427" loading="lazy" />
         </div>
         <div class="book-shadow" aria-hidden="true"></div>
       </div>
@@ -372,9 +385,9 @@ const heroCards = [
 <section class="newsletter" id="newsletter">
   <div class="nl-inner">
     <div class="reveal">
-      <span class="section-label" style="color:var(--nd-terra-light);">Free weekly recipes</span>
-      <h2 class="nl-title">Get recipes before<br><em>everyone else does.</em></h2>
-      <p class="nl-desc">Every week, one new Eastern European recipe — calorie-counted, step-by-step. Free, forever.</p>
+      <span class="section-label" style="color:var(--nd-terra-light);">Free recipes</span>
+      <h2 class="nl-title">New recipes straight<br><em>to your inbox.</em></h2>
+      <p class="nl-desc">Eastern European recipes — calorie-counted, step-by-step, and completely free.</p>
     </div>
     <form class="nl-form reveal" id="nl-form" novalidate>
       <label for="nl-email" class="sr-only">Your email address</label>
@@ -400,7 +413,8 @@ const heroCards = [
   min-height: 100vh;
   background: #0e1a12;
   display: grid;
-  grid-template-columns: 55% 45%;
+  grid-template-columns: 1fr 500px 1fr;
+  align-items: stretch;
   padding-top: var(--nav-height);
   position: relative;
   overflow: hidden;
@@ -410,12 +424,39 @@ const heroCards = [
   background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.035'/%3E%3C/svg%3E");
   background-repeat: repeat;
   pointer-events: none;
-  opacity: 0.6;
+  opacity: 0.5;
+}
+
+/* Center figure */
+.hero-figure {
+  position: relative;
+  align-self: stretch;
+  z-index: 0;
+}
+.hero-figure-img {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 100%;
+  width: auto;
+  max-width: none;
+  display: block;
+  mix-blend-mode: screen;
+  opacity: 0.55;
+  mask-image:
+    linear-gradient(to bottom, transparent 0%, black 8%, black 92%, transparent 100%),
+    linear-gradient(to right, transparent 0%, black 14%, black 86%, transparent 100%);
+  mask-composite: intersect;
+  -webkit-mask-image:
+    linear-gradient(to bottom, transparent 0%, black 8%, black 92%, transparent 100%),
+    linear-gradient(to right, transparent 0%, black 14%, black 86%, transparent 100%);
+  -webkit-mask-composite: destination-in;
 }
 
 .hero-left {
   display: flex; flex-direction: column; justify-content: center;
-  padding: 80px 56px 80px 80px;
+  padding: 80px 40px 80px 72px;
   position: relative; z-index: 1;
 }
 .hero-eyebrow {
@@ -494,7 +535,7 @@ const heroCards = [
 /* Hero right - recipe cards */
 .hero-right {
   display: flex; align-items: center; justify-content: center;
-  padding: 60px 48px 60px 0;
+  padding: 60px 64px 60px 32px;
   position: relative; z-index: 1;
 }
 .hero-right::before {
@@ -509,11 +550,13 @@ const heroCards = [
   display: flex; align-items: center; gap: 16px;
   border-radius: 18px; padding: 18px 20px;
   border: 1px solid rgba(255,255,255,0.08);
-  cursor: default;
+  cursor: pointer;
+  text-decoration: none;
   animation: slideInRight 0.7s ease both;
-  transition: transform 0.25s, border-color 0.25s;
+  transition: transform 0.25s, border-color 0.25s, box-shadow 0.25s;
 }
-.hcard:hover { transform: translateX(-4px); border-color: rgba(196,98,58,0.3); }
+.hcard:hover { transform: translateX(-4px); border-color: rgba(196,98,58,0.4); box-shadow: 0 4px 24px rgba(0,0,0,0.3); }
+.hcard:hover .hcard-arrow { color: var(--nd-terra-light); }
 .hcard-breakfast { background: rgba(232,133,106,0.12); }
 .hcard-lunch     { background: rgba(45,74,62,0.5); border-color: rgba(61,99,87,0.5); }
 .hcard-dinner    { background: rgba(201,168,76,0.1); }
@@ -526,13 +569,17 @@ const heroCards = [
 .hcard-sep { margin: 0 5px; opacity: 0.3; }
 .hcard-arrow { color: rgba(255,255,255,0.25); font-size: 16px; flex-shrink: 0; }
 
-.hero-flag-row {
-  display: flex; gap: 10px; padding: 16px 20px;
+.hero-cuisine-row {
+  display: flex; flex-direction: column; gap: 8px; padding: 14px 18px;
   background: rgba(255,255,255,0.04); border-radius: 14px;
   border: 1px solid rgba(255,255,255,0.07);
-  font-size: 22px;
   animation: slideInRight 0.7s ease 0.85s both;
 }
+.cuisine-label {
+  font-size: 10px; font-weight: 600; letter-spacing: 0.1em;
+  text-transform: uppercase; color: rgba(255,255,255,0.35);
+}
+.cuisine-flags { display: flex; gap: 8px; font-size: 20px; }
 
 /* Reveal hero (no-JS fallback: visible by default, JS adds animation) */
 .reveal-hero { animation: fadeUpHero 0.8s ease both; }
@@ -761,26 +808,15 @@ const heroCards = [
 .book-btn:hover { background: #d96f45; transform: translateY(-2px); }
 
 .book-mockup { position: relative; display: flex; justify-content: center; }
-.book-cover {
-  width: 220px; height: 300px;
-  background: linear-gradient(145deg, #2D4A3E 0%, #1a3028 100%);
+.book-cover-img-wrap {
+  width: 240px;
   border-radius: 4px 16px 16px 4px;
-  display: flex; flex-direction: column;
-  align-items: center; justify-content: center;
-  padding: 32px 24px;
-  box-shadow: -6px 8px 40px rgba(0,0,0,0.5), 6px 0 0 rgba(255,255,255,0.04) inset;
-  position: relative; overflow: hidden;
-  border-left: 8px solid rgba(255,255,255,0.06);
+  overflow: hidden;
+  box-shadow: -8px 12px 48px rgba(0,0,0,0.55), 6px 0 0 rgba(255,255,255,0.04) inset;
+  border-left: 6px solid rgba(255,255,255,0.07);
 }
-.book-cover::before {
-  content: '';
-  position: absolute; inset: 0;
-  background: radial-gradient(circle at 70% 30%, rgba(196,98,58,0.25) 0%, transparent 55%);
-}
-.book-cover-label { font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--nd-terra-light); margin-bottom: 20px; position: relative; z-index: 1; }
-.book-cover-title { font-family: var(--font-serif); font-size: 20px; font-weight: 900; color: #fff; text-align: center; line-height: 1.3; position: relative; z-index: 1; margin-bottom: 24px; }
-.book-cover-emoji { font-size: 48px; position: relative; z-index: 1; }
-.book-shadow { position: absolute; bottom: -12px; left: 50%; transform: translateX(-50%); width: 180px; height: 20px; background: rgba(0,0,0,0.35); border-radius: 50%; filter: blur(12px); }
+.book-cover-img { width: 100%; height: auto; display: block; }
+.book-shadow { position: absolute; bottom: -12px; left: 50%; transform: translateX(-50%); width: 200px; height: 20px; background: rgba(0,0,0,0.35); border-radius: 50%; filter: blur(12px); }
 
 /* ── Testimonials ─────────────────────────────────────────────── */
 .testimonials { background: #F5EFE6; padding: 100px 0; }
@@ -870,11 +906,16 @@ const heroCards = [
 .nl-success { font-size: 14px; color: #6EE7B7; margin-top: 16px; }
 
 /* ── Mobile ───────────────────────────────────────────────────── */
+@media (max-width: 1200px) {
+  /* Narrow the center figure column on mid-size screens */
+  .hero { grid-template-columns: 1fr 280px 1fr; }
+}
 @media (max-width: 1100px) {
   .pillars-grid { grid-template-columns: repeat(3, 1fr); }
 }
 @media (max-width: 900px) {
   .hero { grid-template-columns: 1fr; min-height: auto; }
+  .hero-figure { display: none; } /* Hide center figure on mobile */
   .hero-left { padding: 64px 24px 48px; }
   .hero-right { padding: 0 24px 56px; justify-content: flex-start; }
   .hero-cards-wrap { max-width: 100%; }

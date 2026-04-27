@@ -35,20 +35,65 @@ const formatDate = (d: Date) => d.toLocaleDateString('en-GB', { day: 'numeric', 
 
     <div class="blog-layout">
       <!-- Category sidebar -->
-      <aside class="blog-sidebar">
-        <div class="sidebar-title">Categories</div>
-        <nav>
-          <a href="/blog" class:list={['cat-link', { active: !selectedCat }]}>All articles</a>
-          {categories.map(c => (
-            <a
-              href={`/blog?category=${c.slug}`}
-              class:list={['cat-link', { active: selectedCat === c.slug }]}
-            >
-              <span aria-hidden="true">{c.icon}</span> {c.label}
-            </a>
-          ))}
-        </nav>
+      <aside class="blog-sidebar" id="blog-sidebar">
+        <div class="sidebar-inner">
+          <div class="sidebar-title">Categories</div>
+          <nav>
+            <a href="/blog" class:list={['cat-link', { active: !selectedCat }]}>📋 All articles</a>
+            {categories.map(c => (
+              <a
+                href={`/blog?category=${c.slug}`}
+                class:list={['cat-link', { active: selectedCat === c.slug }]}
+              >
+                <span aria-hidden="true">{c.icon}</span> {c.label}
+              </a>
+            ))}
+          </nav>
+
+          <!-- About author mini block -->
+          <div class="sidebar-author">
+            <div class="sa-photo">
+              <img src="/images/natali-profile.webp" alt="Natali" width="48" height="48"
+                onerror="this.style.display='none';this.nextElementSibling.style.display='flex';" />
+              <div class="sa-avatar-fallback" aria-hidden="true">👩‍🍳</div>
+            </div>
+            <div>
+              <div class="sa-name">Natali</div>
+              <div class="sa-role">Certified Nutritionist</div>
+            </div>
+          </div>
+          <p class="sa-bio">Eastern European recipes adapted for healthy eating. Real food, real results.</p>
+          <a href="/about" class="sa-link">Read my story →</a>
+
+          <!-- Newsletter mini -->
+          <div class="sidebar-nl">
+            <div class="snl-title">Get new recipes</div>
+            <form class="snl-form" id="snl-form" novalidate>
+              <input type="email" name="email" placeholder="your@email.com" class="snl-input" required autocomplete="email" />
+              <button type="submit" class="snl-btn">Subscribe</button>
+              <p class="snl-note">No spam. Unsubscribe anytime.</p>
+            </form>
+          </div>
+
+          <!-- Popular tags -->
+          <div class="sidebar-tags">
+            <div class="sidebar-title" style="margin-top:0;">Popular topics</div>
+            <div class="tag-cloud">
+              {['buckwheat','kefir','borscht','high-protein','vegetarian','meal-prep','under-30-min','ukrainian','polish'].map(t => (
+                <span class="tag-pill">{t}</span>
+              ))}
+            </div>
+          </div>
+        </div>
       </aside>
+
+      <!-- Mobile sidebar FAB -->
+      <button class="sidebar-fab" id="sidebar-fab" aria-label="Open categories" aria-expanded="false">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+        Categories
+      </button>
+      <!-- Mobile sidebar drawer backdrop -->
+      <div class="sidebar-backdrop" id="sidebar-backdrop" aria-hidden="true"></div>
 
       <!-- Posts grid -->
       <main class="blog-main">
@@ -87,15 +132,14 @@ const formatDate = (d: Date) => d.toLocaleDateString('en-GB', { day: 'numeric', 
 
 <style>
   .page-header {
-    background: var(--nd-forest);
+    background: var(--nd-forest) url('/images/hero-blog.webp') center/cover no-repeat;
     padding: 72px 48px 80px;
     position: relative; overflow: hidden;
   }
   .page-header::before {
     content: '';
-    position: absolute; top: -80px; right: -80px;
-    width: 400px; height: 400px;
-    background: radial-gradient(circle, rgba(196,98,58,0.25) 0%, transparent 65%);
+    position: absolute; inset: 0;
+    background: linear-gradient(to right, rgba(20,35,25,0.82) 50%, rgba(20,35,25,0.55) 100%);
     pointer-events: none;
   }
   .page-header-inner { max-width: var(--max-w); margin: 0 auto; position: relative; z-index: 1; }
@@ -103,13 +147,71 @@ const formatDate = (d: Date) => d.toLocaleDateString('en-GB', { day: 'numeric', 
   .page-title em { font-style: italic; color: var(--nd-terra-light); }
   .page-desc { font-size: 17px; font-weight: 300; color: rgba(255,255,255,0.6); max-width: 480px; line-height: 1.7; }
 
-  .blog-layout { max-width: var(--max-w); margin: 0 auto; padding: 56px 48px 100px; display: grid; grid-template-columns: 220px 1fr; gap: 56px; align-items: start; }
+  /* Layout */
+  .blog-layout {
+    max-width: var(--max-w); margin: 0 auto;
+    padding: 56px 48px 100px;
+    display: grid;
+    grid-template-columns: 260px 1fr;
+    gap: 56px;
+    align-items: start;
+    position: relative;
+  }
 
-  .sidebar-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.12em; color: var(--nd-muted); margin-bottom: 16px; }
-  .cat-link { display: flex; align-items: center; gap: 10px; font-size: 14px; font-weight: 500; color: var(--nd-muted); text-decoration: none; padding: 10px 14px; border-radius: 10px; transition: all 0.2s; margin-bottom: 4px; }
+  /* Sidebar */
+  .blog-sidebar {
+    position: sticky;
+    top: calc(var(--nav-height, 64px) + 24px);
+    max-height: calc(100vh - var(--nav-height, 64px) - 48px);
+    overflow-y: auto;
+    scrollbar-width: thin;
+    scrollbar-color: var(--nd-border) transparent;
+  }
+  .sidebar-inner {
+    background: var(--nd-warm-white);
+    border: 1px solid var(--nd-border);
+    border-radius: 20px;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .sidebar-title { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.12em; color: var(--nd-muted); margin-bottom: 12px; margin-top: 20px; }
+  .sidebar-inner > nav { margin-bottom: 4px; }
+  .sidebar-inner > nav .sidebar-title { margin-top: 0; }
+
+  .cat-link { display: flex; align-items: center; gap: 10px; font-size: 13px; font-weight: 500; color: var(--nd-muted); text-decoration: none; padding: 9px 12px; border-radius: 10px; transition: all 0.2s; margin-bottom: 2px; }
   .cat-link:hover { color: var(--nd-terra); background: rgba(196,98,58,0.06); }
   .cat-link.active { color: var(--nd-terra); background: rgba(196,98,58,0.1); font-weight: 600; }
 
+  /* Sidebar author */
+  .sidebar-author { display: flex; align-items: center; gap: 12px; margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--nd-border); }
+  .sa-photo { width: 44px; height: 44px; border-radius: 50%; overflow: hidden; background: var(--nd-forest); flex-shrink: 0; display: flex; align-items: center; justify-content: center; }
+  .sa-photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .sa-avatar-fallback { display: none; font-size: 22px; }
+  .sa-name { font-size: 13px; font-weight: 700; color: var(--nd-forest); }
+  .sa-role { font-size: 11px; color: var(--nd-muted); }
+  .sa-bio { font-size: 12px; color: var(--nd-muted); line-height: 1.6; margin-top: 10px; }
+  .sa-link { font-size: 12px; font-weight: 600; color: var(--nd-terra); text-decoration: none; display: inline-block; margin-top: 6px; }
+  .sa-link:hover { text-decoration: underline; }
+
+  /* Newsletter mini */
+  .sidebar-nl { margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--nd-border); }
+  .snl-title { font-size: 13px; font-weight: 700; color: var(--nd-forest); margin-bottom: 10px; font-family: var(--font-serif); }
+  .snl-form { display: flex; flex-direction: column; gap: 8px; }
+  .snl-input { width: 100%; padding: 9px 12px; border: 1px solid var(--nd-border); border-radius: 10px; font-size: 13px; background: var(--nd-cream); color: var(--nd-text); outline: none; transition: border-color 0.2s; box-sizing: border-box; }
+  .snl-input:focus { border-color: var(--nd-terra); }
+  .snl-btn { padding: 9px; background: var(--nd-terra); color: #fff; border: none; border-radius: 10px; font-size: 12px; font-weight: 600; cursor: pointer; transition: opacity 0.2s; }
+  .snl-btn:hover { opacity: 0.9; }
+  .snl-note { font-size: 10px; color: var(--nd-muted); margin: 0; }
+
+  /* Tag cloud */
+  .sidebar-tags { margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--nd-border); }
+  .tag-cloud { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 0; }
+  .tag-pill { font-size: 11px; padding: 4px 10px; border-radius: 20px; background: rgba(196,98,58,0.08); color: var(--nd-terra); font-weight: 500; cursor: default; }
+
+  /* Posts grid */
   .posts-grid { display: flex; flex-direction: column; gap: 32px; }
   .post-card { background: var(--nd-warm-white); border-radius: 20px; overflow: hidden; box-shadow: var(--shadow-card); transition: transform 0.25s, box-shadow 0.25s; }
   .post-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-hover); }
@@ -123,16 +225,79 @@ const formatDate = (d: Date) => d.toLocaleDateString('en-GB', { day: 'numeric', 
   .post-title a { text-decoration: none; color: inherit; transition: color 0.2s; }
   .post-title a:hover { color: var(--nd-terra); }
   .post-desc { font-size: 15px; color: var(--nd-muted); line-height: 1.7; font-weight: 300; margin-bottom: 20px; }
-  .read-more { font-size: 14px; font-weight: 600; color: var(--nd-terra); text-decoration: none; transition: gap 0.2s; }
+  .read-more { font-size: 14px; font-weight: 600; color: var(--nd-terra); text-decoration: none; }
   .read-more:hover { text-decoration: underline; }
-
   .empty-state { padding: 80px 0; text-align: center; color: var(--nd-muted); font-size: 16px; }
 
-  @media (max-width: 820px) {
-    .blog-layout { grid-template-columns: 1fr; padding: 32px 20px 72px; gap: 32px; }
-    .blog-sidebar { display: flex; flex-wrap: wrap; gap: 8px; }
-    .blog-sidebar .sidebar-title { width: 100%; }
-    .cat-link { padding: 6px 14px; }
+  /* Mobile FAB */
+  .sidebar-fab { display: none; }
+  .sidebar-backdrop { display: none; }
+
+  @media (max-width: 860px) {
+    .blog-layout { grid-template-columns: 1fr; padding: 32px 20px 100px; gap: 32px; }
+
+    /* Hide sidebar inline, show as drawer */
+    .blog-sidebar {
+      display: none;
+      position: fixed; bottom: 0; left: 0; right: 0; z-index: 200;
+      max-height: 80vh;
+      top: auto;
+      overflow-y: auto;
+    }
+    .blog-sidebar.open { display: block; }
+    .sidebar-inner { border-radius: 24px 24px 0 0; border-bottom: none; max-height: 80vh; overflow-y: auto; }
+
+    /* FAB */
+    .sidebar-fab {
+      display: flex; align-items: center; gap: 8px;
+      position: fixed; bottom: 24px; right: 20px; z-index: 201;
+      background: var(--nd-forest); color: #fff;
+      border: none; border-radius: 28px;
+      padding: 14px 20px; font-size: 14px; font-weight: 600;
+      cursor: pointer; box-shadow: 0 4px 20px rgba(0,0,0,0.25);
+      transition: transform 0.2s, box-shadow 0.2s;
+      font-family: var(--font-sans);
+    }
+    .sidebar-fab:hover { transform: translateY(-2px); box-shadow: 0 6px 24px rgba(0,0,0,0.3); }
+
+    /* Backdrop */
+    .sidebar-backdrop {
+      display: none; position: fixed; inset: 0;
+      background: rgba(0,0,0,0.4); z-index: 199;
+    }
+    .sidebar-backdrop.open { display: block; }
+
     .page-header { padding: 48px 20px 60px; }
   }
 </style>
+
+<script>
+  const fab = document.getElementById('sidebar-fab');
+  const sidebar = document.getElementById('blog-sidebar');
+  const backdrop = document.getElementById('sidebar-backdrop');
+
+  function openSidebar() {
+    sidebar?.classList.add('open');
+    backdrop?.classList.add('open');
+    fab?.setAttribute('aria-expanded', 'true');
+    document.body.style.overflow = 'hidden';
+  }
+  function closeSidebar() {
+    sidebar?.classList.remove('open');
+    backdrop?.classList.remove('open');
+    fab?.setAttribute('aria-expanded', 'false');
+    document.body.style.overflow = '';
+  }
+
+  fab?.addEventListener('click', () => {
+    sidebar?.classList.contains('open') ? closeSidebar() : openSidebar();
+  });
+  backdrop?.addEventListener('click', closeSidebar);
+
+  // Close on category click (mobile)
+  sidebar?.querySelectorAll('.cat-link').forEach(link => {
+    link.addEventListener('click', () => {
+      if (window.innerWidth <= 860) closeSidebar();
+    });
+  });
+</script>

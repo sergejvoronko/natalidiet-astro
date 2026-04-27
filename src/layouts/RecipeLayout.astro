@@ -1,6 +1,8 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import SchemaRecipe from '../components/SchemaRecipe.astro';
+import ShareButtons from '../components/ShareButtons.astro';
+import AuthorBlock from '../components/AuthorBlock.astro';
 
 interface Ingredient { amount: string; name: string; }
 
@@ -162,9 +164,11 @@ const formattedDate = publishDate.toLocaleDateString('en-GB', { day: 'numeric', 
       </div>
     </div>
 
-    <!-- Metadata -->
+    <!-- Share + Author -->
     <div class="recipe-footer-meta">
-      <time datetime={publishDate.toISOString()} class="recipe-date">Published {formattedDate}</time>
+      <ShareButtons title={title} />
+      <AuthorBlock compact={true} />
+      <time datetime={publishDate.toISOString()} class="recipe-date" style="display:block; margin-top:28px;">Published {formattedDate}</time>
       <p class="recipe-disclaimer">
         Nutritional values are estimates only and may vary by ±10–15% depending on exact ingredients, brands, and portion size.
         They are provided for general guidance and do not constitute medical or clinical dietary advice.

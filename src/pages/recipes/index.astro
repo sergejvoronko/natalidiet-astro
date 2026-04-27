@@ -61,15 +61,14 @@ const courses = ['breakfast', 'lunch', 'dinner', 'snack'];
 
 <style>
   .page-header {
-    background: var(--nd-forest);
+    background: var(--nd-forest) url('/images/hero-recipes.webp') center/cover no-repeat;
     padding: 72px 48px 80px;
     position: relative; overflow: hidden;
   }
   .page-header::before {
     content: '';
-    position: absolute; top: -80px; right: -80px;
-    width: 400px; height: 400px;
-    background: radial-gradient(circle, rgba(196,98,58,0.25) 0%, transparent 65%);
+    position: absolute; inset: 0;
+    background: linear-gradient(to right, rgba(20,35,25,0.82) 50%, rgba(20,35,25,0.55) 100%);
     pointer-events: none;
   }
   .page-header-inner { max-width: var(--max-w); margin: 0 auto; position: relative; z-index: 1; }
