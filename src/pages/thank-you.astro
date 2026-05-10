@@ -1,0 +1,93 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="You're subscribed — Natali Diet"
+  description="Thank you for subscribing to Natali Diet. Your first recipes are on their way."
+  noIndex={true}
+>
+  <div class="ty-page">
+    <div class="ty-inner">
+      <div class="ty-icon">✓</div>
+      <h1 class="ty-title">You're in.</h1>
+      <p class="ty-lead">Check your inbox — a confirmation email is on its way. Once confirmed, new Eastern European recipes land straight in your inbox.</p>
+      <div class="ty-actions">
+        <a href="/recipes/" class="btn-primary">Browse recipes →</a>
+        <a href="/" class="btn-ghost">Back to home</a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .ty-page {
+    min-height: calc(100vh - var(--nav-height));
+    background: var(--nd-cream);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 48px 24px;
+  }
+  .ty-inner {
+    max-width: 480px;
+    text-align: center;
+  }
+  .ty-icon {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background: var(--nd-forest);
+    color: #fff;
+    font-size: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 32px;
+  }
+  .ty-title {
+    font-family: var(--font-serif);
+    font-size: clamp(36px, 6vw, 56px);
+    font-weight: 900;
+    color: var(--nd-dark);
+    letter-spacing: -0.03em;
+    margin-bottom: 16px;
+    line-height: 1.05;
+  }
+  .ty-lead {
+    font-size: 16px;
+    color: var(--nd-muted);
+    line-height: 1.7;
+    margin-bottom: 40px;
+  }
+  .ty-actions {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .btn-primary {
+    background: var(--nd-terra);
+    color: #fff;
+    padding: 13px 28px;
+    border-radius: 100px;
+    font-family: var(--font-sans);
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background 0.2s;
+  }
+  .btn-primary:hover { background: #d96f45; }
+  .btn-ghost {
+    color: var(--nd-muted);
+    padding: 13px 28px;
+    border-radius: 100px;
+    border: 1px solid var(--nd-border);
+    font-family: var(--font-sans);
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: border-color 0.2s, color 0.2s;
+  }
+  .btn-ghost:hover { border-color: var(--nd-terra); color: var(--nd-terra); }
+</style>

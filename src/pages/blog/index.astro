@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import NewsletterForm from '../../components/NewsletterForm.astro';
 import { getCollection } from 'astro:content';
 
 const posts = await getCollection('blog');
@@ -68,11 +69,7 @@ const formatDate = (d: Date) => d.toLocaleDateString('en-GB', { day: 'numeric', 
           <!-- Newsletter mini -->
           <div class="sidebar-nl">
             <div class="snl-title">Get new recipes</div>
-            <form class="snl-form" id="snl-form" novalidate>
-              <input type="email" name="email" placeholder="your@email.com" class="snl-input" required autocomplete="email" />
-              <button type="submit" class="snl-btn">Subscribe</button>
-              <p class="snl-note">No spam. Unsubscribe anytime.</p>
-            </form>
+            <NewsletterForm variant="light" />
           </div>
 
           <!-- Popular tags -->

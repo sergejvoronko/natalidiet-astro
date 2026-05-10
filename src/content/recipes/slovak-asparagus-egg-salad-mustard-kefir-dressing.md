@@ -49,6 +49,15 @@ ingredients:
     name: "cooked new potatoes, halved"
   - amount: "40g"
     name: "mixed salad leaves"
+steps:
+  - "Bring a large pot of salted water to a rolling boil. Gently lower the 4 large eggs into the water and cook for exactly 10 minutes. Transfer to a bowl of ice-cold water and leave for 5 minutes, then peel and set aside."
+  - "Return the water to the boil. Add the 500g green asparagus spears and blanch for 3–4 minutes, until just tender but still firm to the bite. Immediately transfer the asparagus to a large bowl of ice-cold water for 2 minutes to stop the cooking, then drain on a clean kitchen towel."
+  - "While the asparagus blanches, cook the new potatoes if not already prepared: place them in cold salted water, bring to the boil, and simmer for 15–18 minutes until tender. Drain, allow to cool slightly, then halve them."
+  - "Make the mustard-kefir dressing: whisk together the kefir, wholegrain mustard, Dijon mustard, fresh lemon juice, honey, salt, and black pepper in a small bowl until smooth. Taste and adjust seasoning if needed."
+  - "Cut the blanched asparagus spears into roughly 4 cm pieces, leaving a few tips whole for presentation. Quarter the peeled hard-boiled eggs."
+  - "Spread the mixed salad leaves across a large serving platter or divide among four individual plates. Scatter the halved new potatoes over the leaves, followed by the asparagus pieces."
+  - "Arrange the quartered eggs over the salad. Scatter over the thinly sliced radishes and finely sliced spring onions."
+  - "Spoon the mustard-kefir dressing generously over the salad. Finish by scattering over the chopped fresh chives and flat-leaf parsley. Serve immediately."
 ---
 
 ## A Taste of Slovak Spring

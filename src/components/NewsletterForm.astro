@@ -1,0 +1,130 @@
+---
+interface Props {
+  variant?: 'dark' | 'light';
+  note?: boolean;
+}
+const { variant = 'dark', note = true } = Astro.props;
+---
+
+<div class:list={['nd-nl-wrap', `nd-nl-${variant}`]}>
+  <div class="ml-embedded" data-form="Z24hiQ"></div>
+  {note && <p class="nd-nl-note">No spam. Unsubscribe anytime.</p>}
+</div>
+
+<style is:global>
+/* ── MailerLite embed resets ───────────────────────────────────── */
+.nd-nl-wrap .ml-form-embedWrapper {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  max-width: none !important;
+  width: 100% !important;
+}
+.nd-nl-wrap .ml-form-embedBody {
+  padding: 0 !important;
+  background: transparent !important;
+}
+/* Hide ML's own heading/description — we use our own copy */
+.nd-nl-wrap .ml-form-embedContent { display: none !important; }
+
+/* Inline layout: input + button side by side */
+.nd-nl-wrap .ml-block-form {
+  display: flex !important;
+  align-items: stretch !important;
+  gap: 0 !important;
+}
+.nd-nl-wrap .ml-form-fieldRow {
+  flex: 1 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.nd-nl-wrap .ml-field-group { height: 100% !important; }
+
+.nd-nl-wrap .ml-form-fieldRow input[type="email"] {
+  width: 100% !important;
+  height: 100% !important;
+  box-sizing: border-box !important;
+  border-radius: 100px 0 0 100px !important;
+  border-right: none !important;
+  font-family: 'DM Sans', sans-serif !important;
+  font-size: 15px !important;
+  font-weight: 300 !important;
+  padding: 14px 20px !important;
+  outline: none !important;
+  transition: border-color 0.2s !important;
+  min-height: 50px !important;
+}
+
+.nd-nl-wrap .ml-form-embedSubmit { flex-shrink: 0 !important; }
+
+.nd-nl-wrap .ml-form-embedSubmit button.primary {
+  height: 100% !important;
+  min-height: 50px !important;
+  border: none !important;
+  font-family: 'DM Sans', sans-serif !important;
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  padding: 14px 28px !important;
+  border-radius: 0 100px 100px 0 !important;
+  cursor: pointer !important;
+  transition: background 0.2s !important;
+  white-space: nowrap !important;
+  background: var(--nd-terra) !important;
+  color: #fff !important;
+}
+.nd-nl-wrap .ml-form-embedSubmit button.primary:hover {
+  background: #d96f45 !important;
+}
+.nd-nl-wrap .ml-form-embedSubmit button.loading { display: none !important; }
+
+/* ── Dark variant (forest bg on homepage) ──────────────────────── */
+.nd-nl-dark .ml-form-fieldRow input[type="email"] {
+  background: rgba(255,255,255,0.08) !important;
+  border: 1px solid rgba(255,255,255,0.15) !important;
+  color: #fff !important;
+}
+.nd-nl-dark .ml-form-fieldRow input[type="email"]::placeholder {
+  color: rgba(255,255,255,0.3) !important;
+}
+.nd-nl-dark .ml-form-fieldRow input[type="email"]:focus {
+  border-color: rgba(196,98,58,0.6) !important;
+}
+
+/* ── Light variant (sidebar / cream bg) ────────────────────────── */
+.nd-nl-light .ml-form-fieldRow input[type="email"] {
+  background: var(--nd-warm-white) !important;
+  border: 1px solid var(--nd-border) !important;
+  color: var(--nd-text) !important;
+}
+.nd-nl-light .ml-form-fieldRow input[type="email"]::placeholder {
+  color: var(--nd-muted) !important;
+}
+.nd-nl-light .ml-form-fieldRow input[type="email"]:focus {
+  border-color: var(--nd-terra) !important;
+}
+
+/* ── Success message ───────────────────────────────────────────── */
+.nd-nl-wrap .ml-form-successBody {
+  background: transparent !important;
+  padding: 0 !important;
+}
+.nd-nl-wrap .ml-form-successBody h4,
+.nd-nl-wrap .ml-form-successBody p {
+  font-family: 'DM Sans', sans-serif !important;
+  margin: 0 !important;
+}
+.nd-nl-dark .ml-form-successBody h4,
+.nd-nl-dark .ml-form-successBody p { color: #6EE7B7 !important; }
+.nd-nl-light .ml-form-successBody h4,
+.nd-nl-light .ml-form-successBody p { color: var(--nd-forest) !important; }
+
+/* ── Note text ─────────────────────────────────────────────────── */
+.nd-nl-note {
+  font-size: 12px;
+  margin-top: 12px;
+  font-family: 'DM Sans', sans-serif;
+}
+.nd-nl-dark .nd-nl-note  { color: rgba(255,255,255,0.3); }
+.nd-nl-light .nd-nl-note { color: var(--nd-muted); }
+</style>

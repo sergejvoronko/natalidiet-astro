@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import RecipeCard from '../components/RecipeCard.astro';
+import NewsletterForm from '../components/NewsletterForm.astro';
 import { getCollection } from 'astro:content';
 
 const allRecipes = await getCollection('recipes');
@@ -389,19 +390,9 @@ const heroCards = [
       <h2 class="nl-title">New recipes straight<br><em>to your inbox.</em></h2>
       <p class="nl-desc">Eastern European recipes — calorie-counted, step-by-step, and completely free.</p>
     </div>
-    <form class="nl-form reveal" id="nl-form" novalidate>
-      <label for="nl-email" class="sr-only">Your email address</label>
-      <div class="nl-row">
-        <input
-          type="email" id="nl-email" name="email"
-          class="nl-input" placeholder="your@email.com"
-          autocomplete="email" required
-        />
-        <button type="submit" class="nl-submit">Subscribe →</button>
-      </div>
-      <p class="nl-note">No spam. Unsubscribe anytime.</p>
-      <div id="nl-success" class="nl-success" hidden>✓ Check your inbox for a confirmation email!</div>
-    </form>
+    <div class="reveal">
+      <NewsletterForm variant="dark" />
+    </div>
   </div>
 </section>
 
@@ -958,12 +949,4 @@ const heroCards = [
   }, { threshold: 0.1 });
   document.querySelectorAll<HTMLElement>('.reveal').forEach(el => obs.observe(el));
 
-  /* newsletter */
-  const form = document.getElementById('nl-form') as HTMLFormElement;
-  const success = document.getElementById('nl-success') as HTMLElement;
-  form?.addEventListener('submit', e => {
-    e.preventDefault();
-    success.hidden = false;
-    (form.querySelector('.nl-row') as HTMLElement).style.display = 'none';
-  });
 </script>
