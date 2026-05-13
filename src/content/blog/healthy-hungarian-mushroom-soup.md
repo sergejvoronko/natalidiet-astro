@@ -11,11 +11,6 @@ featured: false
 image: "/images/blog/healthy-hungarian-mushroom-soup.webp"
 ---
 
-SEO Meta Description: This healthy Hungarian mushroom soup is velvety, rich, and only 110 calories per bowl. Made with paprika, dill, and low-fat yogurt. Vegan option. Ready in 35 minutes.
-Read Time: 7 min read
-Difficulty: Easy
-Servings: 4 servings
-
 # Healthy Hungarian Mushroom Soup — Creamy & Rich at Just 110 Calories
 Hungary is famous for paprika — and for good reason. The deep, slightly smoky sweet paprika that defines Hungarian cuisine works absolute magic in this creamy mushroom soup. Traditionally made with full-fat sour cream and a heavy flour roux, this classic would hit 300+ calories per bowl. My healthy version achieves the same silky, velvety texture and all the flavour complexity for just 110 calories.
 The trick is using a small amount of low-fat Greek yogurt added off the heat, plus a blended potato to create natural creaminess without any cream at all. The result is genuinely indistinguishable from the traditional version — but kind to your waistline.
@@ -57,21 +52,21 @@ Replace Greek yogurt with unsweetened cashew cream or coconut yogurt. Use vegeta
 
 ## Frequently Asked Questions
 
-**Q: What makes this soup taste creamy without cream?**
+### What makes this soup taste creamy without cream?
 
-A: Two techniques: first, the partially blended potato acts as a natural thickener and gives a silky body to the soup. Second, the off-heat Greek yogurt adds just enough dairy richness without the calories of cream. Most people genuinely cannot tell the difference.
+Two techniques: first, the partially blended potato acts as a natural thickener and gives a silky body to the soup. Second, the off-heat Greek yogurt adds just enough dairy richness without the calories of cream. Most people genuinely cannot tell the difference.
 
-**Q: Can I use any type of mushrooms?**
+### Can I use any type of mushrooms?
 
-A: Yes — but the variety matters for flavour. Chestnut or cremini mushrooms give the best flavour. Button mushrooms work but are milder. The dried porcini are the secret weapon — even a small amount adds incredible depth that fresh mushrooms alone cannot replicate.
+Yes — but the variety matters for flavour. Chestnut or cremini mushrooms give the best flavour. Button mushrooms work but are milder. The dried porcini are the secret weapon — even a small amount adds incredible depth that fresh mushrooms alone cannot replicate.
 
-**Q: Is mushroom soup good for the immune system?**
+### Is mushroom soup good for the immune system?
 
-A: Yes! Mushrooms are one of the few non-animal food sources of vitamin D, and they contain beta-glucans — polysaccharides shown in research to support immune function. The selenium content in mushrooms is also important for thyroid health and immune response.
+Yes! Mushrooms are one of the few non-animal food sources of vitamin D, and they contain beta-glucans — polysaccharides shown in research to support immune function. The selenium content in mushrooms is also important for thyroid health and immune response.
 
-**Q: Can I make this soup ahead of time?**
+### Can I make this soup ahead of time?
 
-A: Yes — this soup keeps beautifully in the fridge for 3–4 days. Store without the yogurt added. When reheating, warm gently on the stovetop and add the yogurt fresh just before serving.
+Yes — this soup keeps beautifully in the fridge for 3–4 days. Store without the yogurt added. When reheating, warm gently on the stovetop and add the yogurt fresh just before serving.
 
 — End of Pillar 1: Healthy Soups & Broths —
 Next up: Pillar 2 — Healthy Eastern European Main Dishes

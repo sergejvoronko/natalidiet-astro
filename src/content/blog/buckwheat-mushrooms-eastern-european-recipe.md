@@ -11,11 +11,6 @@ featured: false
 image: "/images/blog/buckwheat-mushrooms-eastern-european-recipe.webp"
 ---
 
-SEO Meta Description: Buckwheat with forest mushrooms is a traditional Eastern European plant-based main dish. Only 290 calories, high in magnesium and plant protein. Vegan, gluten-free, 30 minutes.
-Read Time: 8 min read
-Difficulty: Easy
-Servings: 4 servings
-
 # Buckwheat with Forest Mushrooms — Eastern European Superfood Bowl (Vegan, 290 kcal)
 In Western countries, buckwheat is treated as a trendy health food or a gluten-free flour alternative. In Eastern Europe — Ukraine, Russia, Slovakia, Poland — buckwheat (grechka or pohanka) is simply everyday food. It has been a staple of the Eastern European diet for centuries, and it is one of the most nutritionally impressive grains you can eat.
 Paired with forest mushrooms — another Eastern European staple — this dish becomes genuinely extraordinary: deeply earthy and savoury, naturally high in plant protein, magnesium, and antioxidants, completely vegan and gluten-free, and ready in 30 minutes. This is comfort food that actually loves you back.
@@ -59,14 +54,14 @@ DIET LABELS: Vegan  |  Gluten-Free  |  High Fibre  |  High Magnesium  |  Plant-B
 
 ## Frequently Asked Questions
 
-**Q: Does buckwheat taste like wheat?**
+### Does buckwheat taste like wheat?
 
-A: Not at all — despite the name, buckwheat is completely unrelated to wheat. Toasted buckwheat (kasha) has a distinctly nutty, earthy, slightly bitter flavour that is entirely its own. Many people find it more interesting and complex than rice or quinoa once they have tried it properly toasted and cooked with aromatics.
+Not at all — despite the name, buckwheat is completely unrelated to wheat. Toasted buckwheat (kasha) has a distinctly nutty, earthy, slightly bitter flavour that is entirely its own. Many people find it more interesting and complex than rice or quinoa once they have tried it properly toasted and cooked with aromatics.
 
-**Q: Is buckwheat good for weight loss?**
+### Is buckwheat good for weight loss?
 
-A: Yes — buckwheat has a low glycaemic index, which means it causes a slow, sustained rise in blood sugar rather than a spike. This helps control hunger and reduces cravings. It is also high in fibre and protein for a grain, both of which increase satiety. Studies suggest that regular buckwheat consumption is associated with healthier blood sugar and body weight.
+Yes — buckwheat has a low glycaemic index, which means it causes a slow, sustained rise in blood sugar rather than a spike. This helps control hunger and reduces cravings. It is also high in fibre and protein for a grain, both of which increase satiety. Studies suggest that regular buckwheat consumption is associated with healthier blood sugar and body weight.
 
-**Q: Where can I buy buckwheat groats?**
+### Where can I buy buckwheat groats?
 
-A: In Eastern or Central European countries, buckwheat is in every supermarket. In Western countries, look in: health food stores, Eastern European grocery shops, online (Amazon, ethnic food retailers), or the 'world foods' aisle of larger supermarkets. It is usually very affordable.
+In Eastern or Central European countries, buckwheat is in every supermarket. In Western countries, look in: health food stores, Eastern European grocery shops, online (Amazon, ethnic food retailers), or the 'world foods' aisle of larger supermarkets. It is usually very affordable.

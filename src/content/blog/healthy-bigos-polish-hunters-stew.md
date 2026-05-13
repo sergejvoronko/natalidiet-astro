@@ -11,11 +11,6 @@ featured: false
 image: "/images/blog/healthy-bigos-polish-hunters-stew.webp"
 ---
 
-SEO Meta Description: A healthy bigos recipe with all the authentic depth of Poland's national dish — only 260 calories and 22g protein. Lean pork, turkey kielbasa, double sauerkraut, dried mushrooms.
-Read Time: 9 min read
-Difficulty: Easy
-Servings: 6 servings
-
 # Healthy Bigos — Lighter Polish Hunter's Stew (260 kcal, 22g Protein)
 Bigos is Poland's national dish — a slow-cooked stew of sauerkraut, fresh cabbage, mixed meats, dried mushrooms, and red wine. One of the most complex, deeply layered dishes in all of Eastern European cooking.
 The health challenge with traditional bigos is the fatty smoked meats. My version replaces these with lean pork tenderloin and lean turkey kielbasa, doubles the sauerkraut content for more probiotics and fibre, and still produces the deep, smoke-and-acid flavour that makes bigos one of Eastern Europe's great comfort foods.
@@ -49,14 +44,14 @@ DIET LABELS: Gluten-Free  |  High Fibre  |  High Protein  |  Probiotic-Rich  |  
 
 ## Frequently Asked Questions
 
-**Q: Is bigos healthy?**
+### Is bigos healthy?
 
-A: Fundamentally yes — it is mostly fermented and fresh cabbage with modest meat, seasoned with mushrooms and spices. With lean substitutions, bigos becomes a genuinely impressive diet food: high protein, high fibre, probiotic-rich, filling.
+Fundamentally yes — it is mostly fermented and fresh cabbage with modest meat, seasoned with mushrooms and spices. With lean substitutions, bigos becomes a genuinely impressive diet food: high protein, high fibre, probiotic-rich, filling.
 
-**Q: Can I make vegetarian bigos?**
+### Can I make vegetarian bigos?
 
-A: Yes — omit meat, use smoked paprika and extra dried mushrooms for depth. Add 400g cooked white beans or chickpeas for protein. Vegetarian bigos is a staple in Polish households during Lent.
+Yes — omit meat, use smoked paprika and extra dried mushrooms for depth. Add 400g cooked white beans or chickpeas for protein. Vegetarian bigos is a staple in Polish households during Lent.
 
-**Q: What wine for bigos?**
+### What wine for bigos?
 
-A: Any dry red. Traditional bigos uses Polish red wine or Madeira. A simple Merlot or Cabernet works well. Without alcohol: 150ml extra broth + 1 tbsp balsamic vinegar.
+Any dry red. Traditional bigos uses Polish red wine or Madeira. A simple Merlot or Cabernet works well. Without alcohol: 150ml extra broth + 1 tbsp balsamic vinegar.

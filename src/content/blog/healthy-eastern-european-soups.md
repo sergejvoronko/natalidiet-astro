@@ -11,11 +11,6 @@ featured: false
 image: "/images/blog/healthy-eastern-european-soups.webp"
 ---
 
-SEO Meta Description: Discover 15+ traditional Eastern European soups made healthy — borscht, kapustnica, rassolnik and more. Low-calorie recipes with full nutrition facts. Perfect for weight loss.
-Read Time: 12 min read
-Difficulty: All levels
-Servings: 4–6 servings each
-
 # Healthy Eastern European Soups: The Ultimate Guide
 If you grew up in Eastern or Central Europe — or if you have ever tasted a steaming bowl of beet-red borscht on a cold winter evening — you already know that this cuisine was built on soup. Long before 'bone broth' became a wellness trend, Ukrainian grandmothers were simmering mineral-rich vegetable broths every single day. And here is the best-kept secret in the diet world: Eastern European soups are among the most naturally healthy, nutrient-dense, and satisfying meals you can eat — without giving up a single drop of flavor.
 In this ultimate guide, I will walk you through the most iconic soups from Ukraine, Slovakia, Poland, Hungary, and across Central Europe — and show you how each one can fit beautifully into a healthy eating or weight-loss lifestyle. You will get individual recipe links, nutrition breakdowns, and my personal tips for lightening traditional recipes without losing their soul.
@@ -66,25 +61,25 @@ Research consistently shows that starting a meal with a low-calorie broth-based 
 
 ## Frequently Asked Questions
 
-**Q: Are Eastern European soups healthy?**
+### Are Eastern European soups healthy?
 
-A: Yes — extremely so. Traditional Eastern European soups are built on vegetables, lean broths, and fermented ingredients. They are naturally low in calories, high in fibre, and rich in vitamins and minerals. The key is making simple modern swaps: replace lard with olive oil, use low-fat dairy, and reduce added salt.
+Yes — extremely so. Traditional Eastern European soups are built on vegetables, lean broths, and fermented ingredients. They are naturally low in calories, high in fibre, and rich in vitamins and minerals. The key is making simple modern swaps: replace lard with olive oil, use low-fat dairy, and reduce added salt.
 
-**Q: Can I eat borscht and other Eastern European soups on a weight loss diet?**
+### Can I eat borscht and other Eastern European soups on a weight loss diet?
 
-A: Absolutely. Most Eastern European soups are between 110–250 calories per generous serving, making them ideal for calorie-controlled eating. They are also very filling due to their high water and fibre content, so you are less likely to snack afterwards.
+Absolutely. Most Eastern European soups are between 110–250 calories per generous serving, making them ideal for calorie-controlled eating. They are also very filling due to their high water and fibre content, so you are less likely to snack afterwards.
 
-**Q: Are Eastern European soups gluten-free?**
+### Are Eastern European soups gluten-free?
 
-A: Most traditional vegetable soups — borscht, green borshch, mushroom soup — are naturally gluten-free. Polish zurek is the notable exception as it is based on fermented rye flour. Kapustnica and rassolnik can be made gluten-free easily by omitting barley or using certified GF oats instead.
+Most traditional vegetable soups — borscht, green borshch, mushroom soup — are naturally gluten-free. Polish zurek is the notable exception as it is based on fermented rye flour. Kapustnica and rassolnik can be made gluten-free easily by omitting barley or using certified GF oats instead.
 
-**Q: What is the difference between borscht and borshch?**
+### What is the difference between borscht and borshch?
 
-A: Both spellings refer to the same beet-based soup, just transliterated differently from Cyrillic. 'Borscht' is the Yiddish-influenced English spelling. 'Borshch' is a more direct Ukrainian transliteration. In this blog I use both — they are the same delicious soup!
+Both spellings refer to the same beet-based soup, just transliterated differently from Cyrillic. 'Borscht' is the Yiddish-influenced English spelling. 'Borshch' is a more direct Ukrainian transliteration. In this blog I use both — they are the same delicious soup!
 
-**Q: How do I make Eastern European soups vegan?**
+### How do I make Eastern European soups vegan?
 
-A: Most of these soups adapt easily to vegan versions. Replace meat broth with mushroom or vegetable broth (dried porcini mushrooms create incredible depth). Skip meat or replace with beans or tofu. Use coconut yogurt or cashew cream instead of sour cream.
+Most of these soups adapt easily to vegan versions. Replace meat broth with mushroom or vegetable broth (dried porcini mushrooms create incredible depth). Skip meat or replace with beans or tofu. Use coconut yogurt or cashew cream instead of sour cream.
 
 ## Internal Links in This Series
 Explore each soup in detail with its own full recipe, step-by-step photos, and complete nutrition breakdown:

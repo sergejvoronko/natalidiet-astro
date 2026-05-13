@@ -11,11 +11,6 @@ featured: false
 image: "/images/blog/healthy-baked-varenyky-pierogi-recipe.webp"
 ---
 
-SEO Meta Description: Love pierogi but watching your calories? These healthy baked varenyky are only 320 calories for 5 dumplings. Potato and cottage cheese filling. Gluten-free option included.
-Read Time: 11 min read
-Difficulty: Intermediate
-Servings: 4 servings (5 varenyky each)
-
 # Healthy Baked Varenyky / Pierogi — The Diet-Friendly Dumpling (320 kcal)
 Varenyky and pierogi are essentially the same beloved dumpling — varenyky (вареники) is the Ukrainian name, pierogi (pierogi) is Polish. Both are filled pasta pockets, usually stuffed with potato and cheese, sauerkraut and mushroom, or sweet cottage cheese. They are among the most universally adored foods in all of Eastern Europe.
 Traditionally they are boiled and then pan-fried in butter until golden and crispy. Delicious — but calorie-dense. My healthy approach keeps the boiling step but replaces the butter-fry with a light oven bake, brushed with a tiny amount of olive oil. The outside gets beautifully golden and slightly crisp. The inside stays pillowy and creamy. And the calorie saving is significant.
@@ -72,14 +67,14 @@ The best way to have these on demand:
 
 ## Frequently Asked Questions
 
-**Q: How many calories are in traditional fried pierogi?**
+### How many calories are in traditional fried pierogi?
 
-A: Traditional boiled-then-pan-fried pierogi in butter typically contain 400–500 calories for 5 pieces, and even more with a full dollop of full-fat sour cream. This baked version brings that down to 320 calories for 5 pieces — a meaningful saving, especially if you eat them regularly.
+Traditional boiled-then-pan-fried pierogi in butter typically contain 400–500 calories for 5 pieces, and even more with a full dollop of full-fat sour cream. This baked version brings that down to 320 calories for 5 pieces — a meaningful saving, especially if you eat them regularly.
 
-**Q: Can I make the dough without eggs?**
+### Can I make the dough without eggs?
 
-A: Yes — replace the egg with 2 extra tablespoons of warm water plus 1 teaspoon of olive oil. The dough will be slightly less elastic but still workable. Or use 1 tablespoon of aquafaba (the liquid from a can of chickpeas) as a binder, which works surprisingly well.
+Yes — replace the egg with 2 extra tablespoons of warm water plus 1 teaspoon of olive oil. The dough will be slightly less elastic but still workable. Or use 1 tablespoon of aquafaba (the liquid from a can of chickpeas) as a binder, which works surprisingly well.
 
-**Q: What are other traditional fillings I can use?**
+### What are other traditional fillings I can use?
 
-A: The possibilities are endless: sauerkraut and mushroom (very traditional, low calorie); blueberry or strawberry (sweet version); spinach and feta (a delicious modern twist); spiced lentils with caramelised onion (vegetarian); or a classic cottage cheese with a touch of vanilla and sugar for a sweet dessert version.
+The possibilities are endless: sauerkraut and mushroom (very traditional, low calorie); blueberry or strawberry (sweet version); spinach and feta (a delicious modern twist); spiced lentils with caramelised onion (vegetarian); or a classic cottage cheese with a touch of vanilla and sugar for a sweet dessert version.

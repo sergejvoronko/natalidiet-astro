@@ -11,9 +11,6 @@ featured: false
 image: "/images/blog/healthy-ukrainian-recipes.webp"
 ---
 
-SEO Meta Description: A complete guide to the healthiest traditional Ukrainian recipes — borscht, holubtsi, varenyky, buckwheat, kefir, syrniki and more. Authentic Ukrainian food made lighter without losing the soul.
-Read Time: 11 min read
-
 # Healthy Ukrainian Recipes — The Complete Guide to Light Ukrainian Cooking
 Ukrainian cuisine is one of the most diverse, regional, and seasonally rooted food traditions in all of Europe. It spans from the fertile black-earth heartland of central Ukraine (grains, beets, pork) to the Carpathian highlands (mushrooms, trout, fermented dairy) to the Black Sea coast (fish, fresh herbs, lighter preparations). The diversity is extraordinary.
 For healthy cooking, Ukrainian food has a remarkable asset: the traditional daily diet is built on fermented foods, whole grains (buckwheat and rye), hearty vegetable soups, and simply prepared proteins. The unhealthy aspects — lard as primary cooking fat, very fatty pork, heavy smetana portions — are genuinely the minority, and easy to modify.
@@ -42,14 +39,14 @@ The naturally-fermented brine from your pickle jar is one of the most powerful f
 
 ## Frequently Asked Questions
 
-**Q: What are the most popular Ukrainian dishes for weight loss?**
+### What are the most popular Ukrainian dishes for weight loss?
 
-A: Borscht (160 kcal), green borshch (120 kcal), and vinegret salad (130 kcal) are the three lightest traditional Ukrainian dishes. For main courses: buckwheat with mushrooms (290 kcal) and holubtsi in tomato sauce (280 kcal). These five dishes alone can build an entire weight-loss weekly meal plan with completely authentic Ukrainian flavours.
+Borscht (160 kcal), green borshch (120 kcal), and vinegret salad (130 kcal) are the three lightest traditional Ukrainian dishes. For main courses: buckwheat with mushrooms (290 kcal) and holubtsi in tomato sauce (280 kcal). These five dishes alone can build an entire weight-loss weekly meal plan with completely authentic Ukrainian flavours.
 
-**Q: Is Ukrainian food good for gut health?**
+### Is Ukrainian food good for gut health?
 
-A: Exceptionally so — perhaps better than any other European national cuisine for gut health. The combination of daily kefir, naturally fermented sauerkraut, fermented dill pickles, sourdough rye bread, and fermented beet kvass provides a daily stream of diverse probiotic cultures and prebiotic fibre that supports a diverse, healthy gut microbiome.
+Exceptionally so — perhaps better than any other European national cuisine for gut health. The combination of daily kefir, naturally fermented sauerkraut, fermented dill pickles, sourdough rye bread, and fermented beet kvass provides a daily stream of diverse probiotic cultures and prebiotic fibre that supports a diverse, healthy gut microbiome.
 
-**Q: Where can I find Ukrainian ingredients outside Ukraine?**
+### Where can I find Ukrainian ingredients outside Ukraine?
 
-A: Naturally fermented pickles and sauerkraut: health food stores, Polish/Ukrainian delis, and increasingly mainstream supermarkets. Kefir: most supermarkets now stock it. Buckwheat: health food stores, Eastern European shops, and online. Tvaroh/cottage cheese: any supermarket. The only harder-to-find ingredient is fresh sorrel for green borshch — replace with spinach plus lemon juice if unavailable.
+Naturally fermented pickles and sauerkraut: health food stores, Polish/Ukrainian delis, and increasingly mainstream supermarkets. Kefir: most supermarkets now stock it. Buckwheat: health food stores, Eastern European shops, and online. Tvaroh/cottage cheese: any supermarket. The only harder-to-find ingredient is fresh sorrel for green borshch — replace with spinach plus lemon juice if unavailable.

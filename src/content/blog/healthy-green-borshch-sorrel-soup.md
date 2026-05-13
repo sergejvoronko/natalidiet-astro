@@ -11,11 +11,6 @@ featured: false
 image: "/images/blog/healthy-green-borshch-sorrel-soup.webp"
 ---
 
-SEO Meta Description: Green borshch (sorrel soup) is a light, tangy Ukrainian spring soup with only 120 calories. High in vitamin C and iron. Easy recipe with hard-boiled eggs, ready in 30 minutes.
-Read Time: 8 min read
-Difficulty: Easy
-Servings: 4 servings
-
 # Healthy Green Borshch — Ukrainian Sorrel Soup (Spring Detox Recipe)
 While red borscht gets all the international attention, there is another Ukrainian soup that locals know and love just as passionately: green borshch. Made with sorrel — a bright, lemony wild green — this is the soup that Ukrainians turn to in spring when the first plants emerge from the soil. It is lighter, fresher, and arguably more nutritious than its crimson cousin.
 At just 120 calories per bowl and bursting with vitamin C, iron, and chlorophyll, green borshch is the ultimate spring detox meal. And because it comes together in under 30 minutes, it is one of the easiest weeknight soups you can make.
@@ -54,14 +49,14 @@ DIET LABELS: Gluten-Free  |  Low-Calorie  |  High Vitamin C  |  Vegetarian  |  S
 
 ## Frequently Asked Questions
 
-**Q: What does green borshch taste like?**
+### What does green borshch taste like?
 
-A: Green borshch has a bright, tangy, slightly sour flavour from the sorrel — think lemon-kissed spring vegetables. It is lighter and more refreshing than red borscht, with an almost herby freshness. The hard-boiled egg and yogurt add creaminess and richness.
+Green borshch has a bright, tangy, slightly sour flavour from the sorrel — think lemon-kissed spring vegetables. It is lighter and more refreshing than red borscht, with an almost herby freshness. The hard-boiled egg and yogurt add creaminess and richness.
 
-**Q: Is green borshch a detox soup?**
+### Is green borshch a detox soup?
 
-A: While 'detox' is a broad term, green borshch is genuinely a cleansing spring meal. Sorrel is a natural diuretic, rich in vitamin C and iron. The lean broth, fresh greens, and absence of heavy fats make it one of the lightest, most nutrient-dense soups in Eastern European cuisine.
+While 'detox' is a broad term, green borshch is genuinely a cleansing spring meal. Sorrel is a natural diuretic, rich in vitamin C and iron. The lean broth, fresh greens, and absence of heavy fats make it one of the lightest, most nutrient-dense soups in Eastern European cuisine.
 
-**Q: Can I make green borshch without sorrel?**
+### Can I make green borshch without sorrel?
 
-A: Yes — the closest substitute is a mix of baby spinach and fresh lemon juice. Use 150g spinach and 3 tbsp lemon juice. The colour will be brighter green and the flavour slightly milder, but it is still a delicious and nutritious soup.
+Yes — the closest substitute is a mix of baby spinach and fresh lemon juice. Use 150g spinach and 3 tbsp lemon juice. The colour will be brighter green and the flavour slightly milder, but it is still a delicious and nutritious soup.

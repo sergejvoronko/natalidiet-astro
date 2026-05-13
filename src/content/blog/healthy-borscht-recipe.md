@@ -11,11 +11,6 @@ featured: false
 image: "/images/blog/healthy-borscht-recipe.webp"
 ---
 
-SEO Meta Description: This authentic healthy borscht recipe is only 160 calories per serving. Rich, filling Ukrainian beet soup — perfect for weight loss. Gluten-free, easy to make vegan. Full nutrition facts included.
-Read Time: 9 min read
-Difficulty: Easy
-Servings: 6 servings
-
 # Healthy Borscht Recipe — Low Calorie Ukrainian Beet Soup
 Borscht is probably the most famous soup to come out of Eastern Europe — and for very good reason. This deep crimson beet soup is rich, earthy, slightly tangy, and unbelievably satisfying. And the best news for anyone watching their weight? My healthy borscht recipe clocks in at just 160 calories per generous serving, while still delivering everything you love about the original.
 I grew up eating borscht at least twice a week, made by my grandmother in her small Ukrainian kitchen. Her version was wonderful but heavy — full of lard and thick sour cream. Over the years I have developed this lighter version that tastes just as soulful, but works beautifully as part of a healthy eating plan or weight-loss diet.
@@ -62,18 +57,18 @@ DIET LABELS: Gluten-Free  |  Low-Fat  |  High-Fibre  |  Vegetarian (Vegan option
 
 ## Frequently Asked Questions
 
-**Q: Is borscht good for weight loss?**
+### Is borscht good for weight loss?
 
-A: Yes! At only 160 calories per large bowl, borscht is one of the most filling low-calorie meals you can eat. Beets, cabbage, and carrots are all very low in calories and high in water and fibre, which means you feel satisfied for hours after eating. Many people use borscht as their lunch on weight-loss plans.
+Yes! At only 160 calories per large bowl, borscht is one of the most filling low-calorie meals you can eat. Beets, cabbage, and carrots are all very low in calories and high in water and fibre, which means you feel satisfied for hours after eating. Many people use borscht as their lunch on weight-loss plans.
 
-**Q: Can I make borscht without beets?**
+### Can I make borscht without beets?
 
-A: Technically yes, but then it would not really be borscht — beets are the defining ingredient. Without beets you would simply have a vegetable soup. If you do not like the earthy taste of beets, try roasting them first before adding to the soup, which brings out their natural sweetness.
+Technically yes, but then it would not really be borscht — beets are the defining ingredient. Without beets you would simply have a vegetable soup. If you do not like the earthy taste of beets, try roasting them first before adding to the soup, which brings out their natural sweetness.
 
-**Q: Why did my borscht turn brown?**
+### Why did my borscht turn brown?
 
-A: Brown borscht usually means you added the acid too early (it needs to go in at the very end), or you boiled it too vigorously for too long. Always simmer gently and add vinegar or lemon juice only in the last 5 minutes of cooking.
+Brown borscht usually means you added the acid too early (it needs to go in at the very end), or you boiled it too vigorously for too long. Always simmer gently and add vinegar or lemon juice only in the last 5 minutes of cooking.
 
-**Q: How many calories are in traditional borscht with sour cream?**
+### How many calories are in traditional borscht with sour cream?
 
-A: Traditional borscht made with lard and full-fat sour cream can be 280–380 calories per serving. My healthy version uses olive oil and low-fat Greek yogurt to bring it down to 160 kcal without sacrificing any flavour.
+Traditional borscht made with lard and full-fat sour cream can be 280–380 calories per serving. My healthy version uses olive oil and low-fat Greek yogurt to bring it down to 160 kcal without sacrificing any flavour.

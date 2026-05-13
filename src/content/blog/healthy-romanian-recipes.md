@@ -11,9 +11,6 @@ featured: false
 image: "/images/blog/healthy-romanian-recipes.webp"
 ---
 
-SEO Meta Description: A complete guide to the healthiest traditional Romanian recipes — ciorbă, sarmale, mămăligă, mici and more. Romanian cuisine made diet-friendly — including the famous sour broth tradition.
-Read Time: 11 min read
-
 # Healthy Romanian Recipes — The Complete Guide to Lighter Romanian Cooking
 Romanian cuisine is the least internationally known of the Eastern European food traditions covered in this blog — and one of the most fascinating from a healthy-cooking perspective. Romania sits at the crossroads of Eastern Europe, the Balkans, and the Ottoman food world, producing a cuisine that is simultaneously familiar and completely distinctive.
 Romania's greatest gift to healthy Eastern European eating is ciorbă — a family of sour, broth-based soups made with fermented bran water (borș), lemon juice, or vinegar. These are among the lightest, most complex, most beautiful soups in all of European cooking — and they are almost entirely unknown outside Romania.
@@ -46,17 +43,17 @@ The fermented cabbage wrapper adds deep sour flavour, probiotics, and vitamin C.
 
 ## Frequently Asked Questions
 
-**Q: What makes Romanian ciorbă different from borscht?**
+### What makes Romanian ciorbă different from borscht?
 
-A: Borscht is primarily a beet-based soup — the sourness and colour come from beets. Romanian ciorbă is a category of sour soups where the sourness comes from borș (fermented wheat bran water), lemon juice, or vinegar, and can be made with almost any vegetables or meat. Ciorbă does not use beets as a primary ingredient. Both traditions share the sour flavour profile but arrive at it through completely different ingredients.
+Borscht is primarily a beet-based soup — the sourness and colour come from beets. Romanian ciorbă is a category of sour soups where the sourness comes from borș (fermented wheat bran water), lemon juice, or vinegar, and can be made with almost any vegetables or meat. Ciorbă does not use beets as a primary ingredient. Both traditions share the sour flavour profile but arrive at it through completely different ingredients.
 
-**Q: What is borș and can I make it?**
+### What is borș and can I make it?
 
-A: Borș (not to be confused with borscht) is a fermented liquid made from wheat bran, corn bran, or bread crusts fermented in water. It is the traditional souring agent for Romanian ciorbă. You can make it by fermenting 200g wheat bran in 1 litre of warm water for 3–4 days at room temperature, then straining. It will smell pleasantly sour like vinegar. If unavailable, substitute with lemon juice or apple cider vinegar.
+Borș (not to be confused with borscht) is a fermented liquid made from wheat bran, corn bran, or bread crusts fermented in water. It is the traditional souring agent for Romanian ciorbă. You can make it by fermenting 200g wheat bran in 1 litre of warm water for 3–4 days at room temperature, then straining. It will smell pleasantly sour like vinegar. If unavailable, substitute with lemon juice or apple cider vinegar.
 
-**Q: Is Romanian food spicy?**
+### Is Romanian food spicy?
 
-A: Surprisingly, no — despite its Balkan and Ottoman influences, Romanian food is generally not spicy hot. The bold flavours come from fermented and sour elements, aromatic herbs (lovage, thyme, dill), and slow cooking rather than chilli heat. The one exception is mici (grilled sausages) which contain mustard and sometimes red pepper — but even these are more aromatic than hot.
+Surprisingly, no — despite its Balkan and Ottoman influences, Romanian food is generally not spicy hot. The bold flavours come from fermented and sour elements, aromatic herbs (lovage, thyme, dill), and slow cooking rather than chilli heat. The one exception is mici (grilled sausages) which contain mustard and sometimes red pepper — but even these are more aromatic than hot.
 
 — End of Pillar 5: Country-Specific Recipe Guides —
 All 5 Content Pillars Complete — NataliDiet.eu

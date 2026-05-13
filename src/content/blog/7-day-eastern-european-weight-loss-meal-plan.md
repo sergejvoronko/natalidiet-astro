@@ -11,10 +11,6 @@ featured: false
 image: "/images/blog/7-day-eastern-european-weight-loss-meal-plan.webp"
 ---
 
-SEO Meta Description: A complete 7-day Eastern European meal plan for weight loss. Borscht, goulash, buckwheat, paprikash and more — all under 400 kcal per meal. Full shopping list and Sunday prep guide included.
-Read Time: 15 min read
-Content Type: Cornerstone Guide + Meal Plan
-
 # 7-Day Eastern European Weight Loss Meal Plan (1,400–1,600 kcal/day)
 What if your weight-loss diet was built not on bland salads and tasteless diet shakes, but on the warming, deeply satisfying traditional food of Ukraine, Slovakia, Hungary, and Poland? Borscht. Goulash. Stuffed cabbage rolls. Buckwheat with forest mushrooms. Chicken paprikash.
 That is exactly what this 7-day meal plan delivers. Built entirely from Eastern and Central European recipes — lightened with the healthy cooking techniques I use throughout this blog — every day sits between 1,400 and 1,600 calories with strong protein levels to preserve muscle and plenty of fibre to keep you full.
@@ -88,14 +84,14 @@ Note: Calories are estimates. Use a tracking app (MyFitnessPal, Cronometer) to c
 
 ## Frequently Asked Questions
 
-**Q: How much weight can I lose on this meal plan?**
+### How much weight can I lose on this meal plan?
 
-A: At 1,400–1,600 kcal/day most women will be in a 400–600 kcal daily deficit, producing safe, sustainable loss of approximately 0.5–0.7kg per week. Most people also notice significantly reduced bloating within the first few days from the high fibre and probiotic content.
+At 1,400–1,600 kcal/day most women will be in a 400–600 kcal daily deficit, producing safe, sustainable loss of approximately 0.5–0.7kg per week. Most people also notice significantly reduced bloating within the first few days from the high fibre and probiotic content.
 
-**Q: Can I follow this plan as a vegetarian?**
+### Can I follow this plan as a vegetarian?
 
-A: Yes — replace chicken paprikash with tofu or tempeh in the same sauce. The holubtsi can be filled with lentils and mushrooms. Goulash can be made with mushrooms and root vegetables. The buckwheat dish and soups are already plant-based. Protein levels remain strong with generous eggs, cottage cheese, and kefir.
+Yes — replace chicken paprikash with tofu or tempeh in the same sauce. The holubtsi can be filled with lentils and mushrooms. Goulash can be made with mushrooms and root vegetables. The buckwheat dish and soups are already plant-based. Protein levels remain strong with generous eggs, cottage cheese, and kefir.
 
-**Q: Do I have to follow the days in order?**
+### Do I have to follow the days in order?
 
-A: Not at all. The plan is designed around batch cooking so rearrange freely based on what is in your fridge. The only constraint is freshness: borscht and paprikash keep up to 5 days; holubtsi up to 4 days.
+Not at all. The plan is designed around batch cooking so rearrange freely based on what is in your fridge. The only constraint is freshness: borscht and paprikash keep up to 5 days; holubtsi up to 4 days.

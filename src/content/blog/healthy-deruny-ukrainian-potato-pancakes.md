@@ -11,11 +11,6 @@ featured: false
 image: "/images/blog/healthy-deruny-ukrainian-potato-pancakes.webp"
 ---
 
-SEO Meta Description: These healthy deruny are baked not fried — only 130 calories each. Golden crispy Ukrainian potato pancakes with authentic flavour and none of the grease. Gluten-free adaptable.
-Read Time: 9 min read
-Difficulty: Easy
-Servings: 4 servings (3 pancakes each)
-
 # Healthy Deruny — Baked Ukrainian Potato Pancakes (130 kcal Each, Crispy Without the Oil)
 Deruny are Ukrainian potato pancakes — crispy, golden, deeply satisfying, traditionally cooked in generous oil until the edges are lace-thin and crunchy. A beloved traditional dish eaten for breakfast, as a starter, or as a light lunch with smetana and chives.
 Traditional deruny can be 350–450 calories for three pancakes. My baked version comes in at approximately 130 calories each — 390 calories for three — with a genuinely crispy exterior and all the authentic flavour. The entire secret is in the moisture removal technique.
@@ -48,14 +43,14 @@ DIET LABELS: Vegetarian  |  Gluten-Free (oat flour)  |  Lower Fat than Tradition
 
 ## Frequently Asked Questions
 
-**Q: Why are my baked deruny not crispy?**
+### Why are my baked deruny not crispy?
 
-A: Four common causes: not enough moisture squeezed out; oven too cool (minimum 220°C); tray overcrowded (steam builds up); pancakes too thick (max 1cm). Address these four things and they will be crispy every time.
+Four common causes: not enough moisture squeezed out; oven too cool (minimum 220°C); tray overcrowded (steam builds up); pancakes too thick (max 1cm). Address these four things and they will be crispy every time.
 
-**Q: Can I make deruny ahead?**
+### Can I make deruny ahead?
 
-A: Make the batter up to 2 hours ahead with a squeeze of lemon juice to prevent greying. Cooked deruny reheat well in a hot oven for 5 minutes — do not use a microwave.
+Make the batter up to 2 hours ahead with a squeeze of lemon juice to prevent greying. Cooked deruny reheat well in a hot oven for 5 minutes — do not use a microwave.
 
-**Q: What is the difference between deruny and latkes?**
+### What is the difference between deruny and latkes?
 
-A: Both are grated potato pancakes — deruny is Ukrainian, latkes is Jewish Ashkenazi. Key difference: deruny often include cottage cheese in the batter. Both benefit enormously from the moisture-squeezing technique.
+Both are grated potato pancakes — deruny is Ukrainian, latkes is Jewish Ashkenazi. Key difference: deruny often include cottage cheese in the batter. Both benefit enormously from the moisture-squeezing technique.

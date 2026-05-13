@@ -11,11 +11,6 @@ featured: false
 image: "/images/blog/healthy-hungarian-stuffed-peppers-recipe.webp"
 ---
 
-SEO Meta Description: Healthy Hungarian stuffed peppers with lean turkey mince and a rich tomato sauce — only 290 calories and 26g protein. Gluten-free and freezer-friendly.
-Read Time: 9 min read
-Difficulty: Easy
-Servings: 4 servings (2 peppers each)
-
 # Healthy Hungarian Stuffed Peppers — Töltött Paprika (290 kcal, 26g Protein)
 Töltött paprika — Hungarian stuffed peppers — are sweet pointed peppers filled with seasoned meat and rice, braised slowly in a rich tomato sauce. One of Hungary's most beloved home-cooked dishes, and the kind of food that makes a whole apartment smell incredible on a Sunday afternoon.
 The traditional recipe is already quite well-balanced. My healthy changes: lean turkey mince instead of pork, a small amount of brown rice, and a light-handed tomato sauce. The result is 290 calories per serving — two generously filled peppers — with excellent protein.
@@ -53,14 +48,14 @@ DIET LABELS: Gluten-Free  |  High Protein  |  Very High Vitamin C  |  Freezer-Fr
 
 ## Frequently Asked Questions
 
-**Q: Can I use beef mince instead of turkey?**
+### Can I use beef mince instead of turkey?
 
-A: Yes — extra-lean beef mince (5% fat) is closer to the traditional Hungarian version and adds approximately 40 kcal per serving. A 50/50 turkey-beef mix gives the best balance of authentic flavour and lean nutrition.
+Yes — extra-lean beef mince (5% fat) is closer to the traditional Hungarian version and adds approximately 40 kcal per serving. A 50/50 turkey-beef mix gives the best balance of authentic flavour and lean nutrition.
 
-**Q: How do I stop stuffed peppers falling over?**
+### How do I stop stuffed peppers falling over?
 
-A: Use a pot where peppers fit snugly so they support each other. Or crumple baking parchment between peppers. Or simply lay them on their sides — horizontal cooking produces the same result.
+Use a pot where peppers fit snugly so they support each other. Or crumple baking parchment between peppers. Or simply lay them on their sides — horizontal cooking produces the same result.
 
-**Q: Can I freeze stuffed peppers?**
+### Can I freeze stuffed peppers?
 
-A: Excellently — freeze with the sauce for up to 3 months. Defrost overnight in the fridge. Reheat covered in the oven at 180°C for 25 minutes or on the stovetop over low heat.
+Excellently — freeze with the sauce for up to 3 months. Defrost overnight in the fridge. Reheat covered in the oven at 180°C for 25 minutes or on the stovetop over low heat.

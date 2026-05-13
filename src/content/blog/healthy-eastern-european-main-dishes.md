@@ -11,11 +11,6 @@ featured: false
 image: "/images/blog/healthy-eastern-european-main-dishes.webp"
 ---
 
-SEO Meta Description: Discover lighter versions of Eastern European classics — chicken paprikash, goulash, cabbage rolls, pierogi and more. All under 400 calories. Full nutrition facts and weight-loss tips.
-Read Time: 13 min read
-Difficulty: All levels
-Servings: 4–6 servings each
-
 # Healthy Eastern European Main Dishes: The Complete Guide
 Eastern European main dishes have a reputation for being hearty, rich, and indulgent — and yes, the traditional versions often are. A classic Hungarian goulash swimming in lard, stuffed cabbage rolls smothered in fatty sour cream, or deep-fried pierogi — these are soul-satisfying meals that nobody wants to give up.
 But here is what I have learned after years of cooking this food the healthy way: you do not have to give any of it up. The bold, complex flavours of Eastern and Central European cooking come from spices, slow cooking, fermentation, and technique — not from fat and excess calories. With the right swaps and a few smart techniques, every dish in this guide comes in under 400 calories per serving and tastes every bit as magnificent as the original.
@@ -59,21 +54,21 @@ These dishes are ideal for weekly batch cooking. Here is a simple framework:
 
 ## Frequently Asked Questions
 
-**Q: Are Eastern European main dishes good for weight loss?**
+### Are Eastern European main dishes good for weight loss?
 
-A: Yes — with the right approach. The traditional cuisine is based on lean proteins, slow-cooked vegetables, and wholegrains like buckwheat and rye. The main culprits in the traditional diet are lard, heavy sour cream, and very large portions. Replace those three things and you have some of the most satisfying, protein-rich, calorie-efficient meals in European cooking.
+Yes — with the right approach. The traditional cuisine is based on lean proteins, slow-cooked vegetables, and wholegrains like buckwheat and rye. The main culprits in the traditional diet are lard, heavy sour cream, and very large portions. Replace those three things and you have some of the most satisfying, protein-rich, calorie-efficient meals in European cooking.
 
-**Q: Which Eastern European dish has the most protein?**
+### Which Eastern European dish has the most protein?
 
-A: Slovak-style pork tenderloin tops this list at 42g of protein per serving. Chicken paprikash comes second at 38g. If you are following a high-protein diet, both of these dishes are exceptional choices. Even the plant-based buckwheat and mushroom dish provides a solid 14g of plant protein.
+Slovak-style pork tenderloin tops this list at 42g of protein per serving. Chicken paprikash comes second at 38g. If you are following a high-protein diet, both of these dishes are exceptional choices. Even the plant-based buckwheat and mushroom dish provides a solid 14g of plant protein.
 
-**Q: Can I make these dishes in advance?**
+### Can I make these dishes in advance?
 
-A: Absolutely — these dishes are designed for batch cooking. Goulash, cabbage rolls, and paprikash all taste significantly better the next day as the flavours deepen. Store in the fridge up to 4 days, or freeze for up to 3 months. The one exception is varenyky — freeze uncooked, never pre-cooked.
+Absolutely — these dishes are designed for batch cooking. Goulash, cabbage rolls, and paprikash all taste significantly better the next day as the flavours deepen. Store in the fridge up to 4 days, or freeze for up to 3 months. The one exception is varenyky — freeze uncooked, never pre-cooked.
 
-**Q: Are these dishes suitable for a gluten-free diet?**
+### Are these dishes suitable for a gluten-free diet?
 
-A: Most of them adapt easily. Paprikash, goulash, cabbage rolls, buckwheat, and pork tenderloin are all naturally gluten-free or easily made so. Varenyky/pierogi require a gluten-free flour blend. Always check that your paprika and sausage products are certified gluten-free.
+Most of them adapt easily. Paprikash, goulash, cabbage rolls, buckwheat, and pork tenderloin are all naturally gluten-free or easily made so. Varenyky/pierogi require a gluten-free flour blend. Always check that your paprika and sausage products are certified gluten-free.
 
 ## Explore the Full Recipes
 - ➜ Low-Calorie Chicken Paprikash — Hungarian Classic with Greek Yogurt (310 kcal)

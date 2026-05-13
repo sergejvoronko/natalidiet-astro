@@ -11,11 +11,6 @@ featured: false
 image: "/images/blog/healthy-chicken-paprikash-recipe.webp"
 ---
 
-SEO Meta Description: This healthy chicken paprikash uses Greek yogurt instead of sour cream — only 310 calories, 38g protein. Authentic Hungarian flavour without the guilt. Easy 45-minute recipe.
-Read Time: 9 min read
-Difficulty: Easy
-Servings: 4 servings
-
 # Healthy Chicken Paprikash — Low Calorie Hungarian Classic (310 kcal, 38g Protein)
 Chicken paprikash — csirkepaprikás in Hungarian — is one of Central Europe's greatest comfort foods. Succulent chicken pieces cooked in a sauce so deeply flavoured with sweet Hungarian paprika that the whole kitchen turns a gorgeous rust-red colour. Traditionally, the sauce is made rich and velvety with full-fat sour cream.
 My healthy version uses low-fat Greek yogurt added off the heat — a swap so seamless that even Hungarian grandmothers have been fooled. The result is 310 calories and 38 grams of protein per serving: a high-protein, deeply satisfying meal that fits beautifully into any healthy eating or weight-loss plan.
@@ -70,18 +65,18 @@ DIET LABELS: Gluten-Free  |  High Protein  |  Low-Fat  |  Diabetic-Friendly  |  
 
 ## Frequently Asked Questions
 
-**Q: What is the difference between chicken paprikash and goulash?**
+### What is the difference between chicken paprikash and goulash?
 
-A: Both are Hungarian paprika-based dishes, but they are quite different. Goulash is a beef-based stew, usually served as a soup or with potato. Paprikash uses chicken (or veal) in a creamy paprika-yogurt sauce, and is typically served over egg noodles or dumplings. Paprikash is lighter and creamier; goulash is bolder and beefier.
+Both are Hungarian paprika-based dishes, but they are quite different. Goulash is a beef-based stew, usually served as a soup or with potato. Paprikash uses chicken (or veal) in a creamy paprika-yogurt sauce, and is typically served over egg noodles or dumplings. Paprikash is lighter and creamier; goulash is bolder and beefier.
 
-**Q: Can I use chicken breasts instead of thighs?**
+### Can I use chicken breasts instead of thighs?
 
-A: Yes, but thighs are strongly preferred. Chicken thighs contain more connective tissue that breaks down during slow cooking, keeping the meat juicy and tender. Breasts can dry out quickly. If using breasts, reduce the cooking time after adding to the sauce to 20–25 minutes and avoid overcooking.
+Yes, but thighs are strongly preferred. Chicken thighs contain more connective tissue that breaks down during slow cooking, keeping the meat juicy and tender. Breasts can dry out quickly. If using breasts, reduce the cooking time after adding to the sauce to 20–25 minutes and avoid overcooking.
 
-**Q: Why is my paprikash sauce too thin?**
+### Why is my paprikash sauce too thin?
 
-A: A few fixes: (1) Cook uncovered for the last 10 minutes to let the sauce reduce. (2) Add the cornstarch-yogurt mixture — the starch thickens the sauce as well as stabilising the dairy. (3) Mix 1 tsp cornstarch with 2 tbsp cold water and stir into the simmering sauce before adding yogurt.
+A few fixes: (1) Cook uncovered for the last 10 minutes to let the sauce reduce. (2) Add the cornstarch-yogurt mixture — the starch thickens the sauce as well as stabilising the dairy. (3) Mix 1 tsp cornstarch with 2 tbsp cold water and stir into the simmering sauce before adding yogurt.
 
-**Q: Is chicken paprikash a traditional weight-loss food?**
+### Is chicken paprikash a traditional weight-loss food?
 
-A: In traditional form, no — it was made with lard and full-fat sour cream. But the structure of the dish — lean chicken protein, vegetable-based sauce, minimal fat — makes it naturally suited to healthy cooking. In this version, the calories are just 310 per serving with 38g protein, making it genuinely excellent for weight management.
+In traditional form, no — it was made with lard and full-fat sour cream. But the structure of the dish — lean chicken protein, vegetable-based sauce, minimal fat — makes it naturally suited to healthy cooking. In this version, the calories are just 310 per serving with 38g protein, making it genuinely excellent for weight management.

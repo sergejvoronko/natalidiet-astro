@@ -11,11 +11,6 @@ featured: false
 image: "/images/blog/healthy-olivier-salad-recipe.webp"
 ---
 
-SEO Meta Description: A healthy Olivier (Stolichny) salad with yogurt-mustard dressing instead of mayonnaise. Only 180 calories per serving. The classic Eastern European party salad — lighter and just as delicious.
-Read Time: 7 min read
-Difficulty: Easy
-Servings: 6 servings
-
 # Healthy Olivier Salad — Eastern European Potato Salad with Yogurt Dressing (180 kcal)
 Olivier salad is the Eastern European region's most iconic party dish. Diced potatoes, carrots, eggs, pickles, peas, and protein all bound in mayonnaise. It appears at every New Year's table, birthday, and family celebration from Kyiv to Bratislava.
 The traditional version can be 350–450 calories per serving, almost entirely from mayonnaise. My yogurt-Dijon dressing tastes genuinely close to the original. The egg yolks whisked into the yogurt add the richness that makes mayonnaise taste the way it does.
@@ -51,17 +46,17 @@ DIET LABELS: High Protein  |  Lower Fat  |  Gluten-Free  |  Make-Ahead  |  Party
 
 ## Frequently Asked Questions
 
-**Q: Can you really taste the difference between yogurt and mayonnaise dressing?**
+### Can you really taste the difference between yogurt and mayonnaise dressing?
 
-A: With egg yolks whisked into the yogurt — honestly, the difference is minimal for most people. The egg yolks add the fat and richness that makes mayonnaise taste the way it does. The yogurt version is slightly lighter and tangier, which actually brightens the whole salad.
+With egg yolks whisked into the yogurt — honestly, the difference is minimal for most people. The egg yolks add the fat and richness that makes mayonnaise taste the way it does. The yogurt version is slightly lighter and tangier, which actually brightens the whole salad.
 
-**Q: What protein works best?**
+### What protein works best?
 
-A: Poached or roasted chicken breast is the best choice — neutral flavour, excellent protein, low fat. Lean turkey works equally well. Avoid bologna or processed meat — they add sodium without improving flavour.
+Poached or roasted chicken breast is the best choice — neutral flavour, excellent protein, low fat. Lean turkey works equally well. Avoid bologna or processed meat — they add sodium without improving flavour.
 
-**Q: Is Olivier salad the same as Russian salad?**
+### Is Olivier salad the same as Russian salad?
 
-A: Essentially yes — 'Russian salad' in Western European delis is based on the same concept. The original was created by chef Lucien Olivier in 1860s Moscow and has become the defining party dish of the entire former Soviet region. Every family has their own version.
+Essentially yes — 'Russian salad' in Western European delis is based on the same concept. The original was created by chef Lucien Olivier in 1860s Moscow and has become the defining party dish of the entire former Soviet region. Every family has their own version.
 
 — End of Pillar 4: Traditional Foods Made Healthy —
 Next: Pillar 5 — Country-Specific Recipe Guides

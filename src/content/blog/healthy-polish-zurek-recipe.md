@@ -11,11 +11,6 @@ featured: false
 image: "/images/blog/healthy-polish-zurek-recipe.webp"
 ---
 
-SEO Meta Description: Zurek is a famous tangy Polish fermented rye soup. This healthy version has 190 calories, is high in protein and probiotics. Step-by-step recipe with nutrition facts.
-Read Time: 9 min read
-Difficulty: Intermediate
-Servings: 4 servings
-
 # Healthy Polish Zurek — Fermented Rye Soup with Eggs & Sausage
 Zurek (pronounced ZOO-rek) is Poland's most iconic and distinctive soup — a cloudy, tangy, deeply savoury broth made from fermented rye flour starter. It is one of those tastes that divides people on first encounter and then completely wins them over. If you have ever wondered what it would taste like if sourdough bread became a soup, zurek is your answer.
 Traditional zurek can be heavy — served in bread bowls loaded with thick sausage and hard-boiled eggs. My healthy version keeps the glorious tangy flavour and protein-rich eggs but uses lean turkey sausage, reduces the fat dramatically, and serves it in a regular bowl for a satisfying, nutritious meal at just 190 calories.
@@ -52,14 +47,14 @@ DIET LABELS: High Protein  |  Probiotic-Rich  |  Gluten-Free adaptable  |  Low-F
 
 ## Frequently Asked Questions
 
-**Q: What does zurek taste like?**
+### What does zurek taste like?
 
-A: Zurek is distinctly sour, savoury, and comforting — with a thick, slightly cloudy broth that tastes like a cross between sourdough bread and a light cream soup. The marjoram and garlic add herby warmth, while the egg and sausage make it hearty. It is unlike anything else in European cooking.
+Zurek is distinctly sour, savoury, and comforting — with a thick, slightly cloudy broth that tastes like a cross between sourdough bread and a light cream soup. The marjoram and garlic add herby warmth, while the egg and sausage make it hearty. It is unlike anything else in European cooking.
 
-**Q: Is zurek healthy?**
+### Is zurek healthy?
 
-A: This healthy version of zurek is genuinely nutritious — high in protein (18g per serving from egg and lean sausage), rich in probiotics from the fermented rye starter, and relatively low in calories. It is one of the most protein-rich soups in Eastern European cuisine.
+This healthy version of zurek is genuinely nutritious — high in protein (18g per serving from egg and lean sausage), rich in probiotics from the fermented rye starter, and relatively low in calories. It is one of the most protein-rich soups in Eastern European cuisine.
 
-**Q: Can I make zurek gluten-free?**
+### Can I make zurek gluten-free?
 
-A: This is the most difficult of the Eastern European soups to make truly gluten-free, as the rye starter is the defining ingredient. You can make a close approximation using a fermented rice flour starter with added apple cider vinegar, but the flavour will differ. For a gluten-free diet, borscht, green borshch, or mushroom soup are better options.
+This is the most difficult of the Eastern European soups to make truly gluten-free, as the rye starter is the defining ingredient. You can make a close approximation using a fermented rice flour starter with added apple cider vinegar, but the flavour will differ. For a gluten-free diet, borscht, green borshch, or mushroom soup are better options.

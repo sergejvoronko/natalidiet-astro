@@ -11,11 +11,6 @@ featured: false
 image: "/images/blog/healthy-syrniki-recipe.webp"
 ---
 
-SEO Meta Description: Healthy syrniki using low-fat cottage cheese and oat flour. Only 220 calories per serving and 18g protein. The authentic Ukrainian cottage cheese pancake — lighter and just as delicious.
-Read Time: 8 min read
-Difficulty: Easy
-Servings: 4 servings (3 syrniki each)
-
 # Healthy Syrniki — Ukrainian Cottage Cheese Pancakes (220 kcal, 18g Protein)
 Syrniki are Ukrainian cottage cheese pancakes — soft, slightly tangy, golden on the outside, creamy inside. Eaten across Eastern Europe for breakfast, made from tvaroh (farmer's cheese), eggs, and a small amount of flour.
 Syrniki are already one of the healthiest traditional Ukrainian breakfasts. The base is mostly protein-rich cottage cheese and egg. My version simply optimises what is already there: low-fat cottage cheese, oat flour instead of white, and a non-stick pan with minimal oil. Result: 220 calories with 18g protein per serving.
@@ -52,14 +47,14 @@ DIET LABELS: Vegetarian  |  High Protein  |  Gluten-Free adaptable  |  Quick (20
 
 ## Frequently Asked Questions
 
-**Q: Why are my syrniki falling apart?**
+### Why are my syrniki falling apart?
 
-A: Almost always the cottage cheese was too wet. Drain longer and add 1 extra tbsp of flour. The batter should hold a firm shape when scooped — if it spreads immediately, it needs more draining or flour.
+Almost always the cottage cheese was too wet. Drain longer and add 1 extra tbsp of flour. The batter should hold a firm shape when scooped — if it spreads immediately, it needs more draining or flour.
 
-**Q: Can I make syrniki the night before?**
+### Can I make syrniki the night before?
 
-A: Yes — make the batter the night before and refrigerate. Chilled batter is actually easier to shape. Shaped raw syrniki can also sit overnight in the fridge and be cooked fresh in the morning in under 10 minutes.
+Yes — make the batter the night before and refrigerate. Chilled batter is actually easier to shape. Shaped raw syrniki can also sit overnight in the fridge and be cooked fresh in the morning in under 10 minutes.
 
-**Q: Are syrniki nutritious for breakfast?**
+### Are syrniki nutritious for breakfast?
 
-A: Exceptionally so. The cottage cheese base provides excellent protein with modest calories, along with calcium, selenium, and B vitamins. At 220 calories and 18g protein per serving they are one of the best traditional breakfasts for a high-protein eating plan.
+Exceptionally so. The cottage cheese base provides excellent protein with modest calories, along with calcium, selenium, and B vitamins. At 220 calories and 18g protein per serving they are one of the best traditional breakfasts for a high-protein eating plan.

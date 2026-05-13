@@ -11,10 +11,6 @@ featured: false
 image: "/images/blog/eastern-european-meal-prep-for-the-week.webp"
 ---
 
-SEO Meta Description: How to batch-cook borscht, goulash, holubtsi, and buckwheat in one Sunday session. Step-by-step timeline, storage guide, and reheating tips for the perfect Eastern European meal prep.
-Read Time: 10 min read
-Content Type: Practical Guide / How-To
-
 # Eastern European Meal Prep for the Week — Complete Sunday Guide
 Eastern European cooking was batch cooking long before 'meal prep' became a lifestyle trend. Borscht was made in a giant pot that lasted days and tasted better each time. Holubtsi were assembled by the dozen. Buckwheat was cooked once and reheated in multiple forms — side dish, breakfast porridge, lunch bowl. This cuisine was designed for efficiency and for making the most of every ingredient.
 In this guide I will show you exactly how I structure my Sunday prep session — the sequence, the timings, the storage rules, and the reheating techniques — to have a full week of healthy Eastern European meals ready with just 2–2.5 hours of active cooking on Sunday.
@@ -51,14 +47,14 @@ The key to efficient Eastern European meal prep is sequencing. Everything simmer
 
 ## Frequently Asked Questions
 
-**Q: Does borscht taste good the next day?**
+### Does borscht taste good the next day?
 
-A: Better. Borscht is one of those dishes — like most stews and slow-cooked soups — that deepens in flavour overnight as the spices meld and vegetables fully absorb the broth. Many Ukrainian and Eastern European cooks consider day-two borscht to be superior to freshly made. It is one of the ideal batch-cook foods.
+Better. Borscht is one of those dishes — like most stews and slow-cooked soups — that deepens in flavour overnight as the spices meld and vegetables fully absorb the broth. Many Ukrainian and Eastern European cooks consider day-two borscht to be superior to freshly made. It is one of the ideal batch-cook foods.
 
-**Q: How do I stop borscht losing its colour when reheating?**
+### How do I stop borscht losing its colour when reheating?
 
-A: Reheat gently on the stovetop over medium-low heat — never boil vigorously, never microwave. High heat destroys the betalain pigments in beets that give borscht its deep red colour. Add a few drops of lemon juice before serving to brighten and refresh the colour.
+Reheat gently on the stovetop over medium-low heat — never boil vigorously, never microwave. High heat destroys the betalain pigments in beets that give borscht its deep red colour. Add a few drops of lemon juice before serving to brighten and refresh the colour.
 
-**Q: Can I freeze borscht?**
+### Can I freeze borscht?
 
-A: Yes — beautifully, for up to 3 months. Freeze WITHOUT any dairy (add fresh at serving) and ideally WITHOUT potato pieces (they go grainy when frozen). Add fresh cubed potato when reheating from frozen. Defrost overnight in the fridge and reheat gently on the stovetop.
+Yes — beautifully, for up to 3 months. Freeze WITHOUT any dairy (add fresh at serving) and ideally WITHOUT potato pieces (they go grainy when frozen). Add fresh cubed potato when reheating from frozen. Defrost overnight in the fridge and reheat gently on the stovetop.

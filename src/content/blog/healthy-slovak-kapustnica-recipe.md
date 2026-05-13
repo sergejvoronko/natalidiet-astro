@@ -11,11 +11,6 @@ featured: false
 image: "/images/blog/healthy-slovak-kapustnica-recipe.webp"
 ---
 
-SEO Meta Description: Kapustnica is a traditional Slovak sauerkraut and sausage soup. This healthy version has only 180 calories and is packed with probiotics and fibre. Ready in 45 minutes.
-Read Time: 8 min read
-Difficulty: Easy
-Servings: 6 servings
-
 # Healthy Slovak Kapustnica Recipe — Lighter Traditional Sauerkraut Soup
 Kapustnica is Slovakia's most beloved winter soup — a deeply warming, slightly sour sauerkraut soup traditionally served at Christmas Eve dinner and throughout the cold months. In its classic form it can be quite rich, made with fatty pork and generous amounts of smoked sausage. My lighter version keeps every bit of the complex, tangy flavour but cuts calories nearly in half.
 The secret weapon in kapustnica is sauerkraut — fermented cabbage that is one of the most powerful probiotic foods in Central European cooking. This makes kapustnica not just a diet-friendly soup, but a genuine gut-health meal.
@@ -50,14 +45,14 @@ DIET LABELS: Gluten-Free  |  High Protein  |  High Fibre  |  Probiotic-Rich  |  
 
 ## Frequently Asked Questions
 
-**Q: Is kapustnica healthy?**
+### Is kapustnica healthy?
 
-A: Very much so — especially in this lighter version. Sauerkraut is one of the most probiotic-rich foods in European cuisine, supporting gut health, immunity, and even mood. The lean turkey sausage provides protein without excessive saturated fat, and the mushroom broth adds deep minerals without calories.
+Very much so — especially in this lighter version. Sauerkraut is one of the most probiotic-rich foods in European cuisine, supporting gut health, immunity, and even mood. The lean turkey sausage provides protein without excessive saturated fat, and the mushroom broth adds deep minerals without calories.
 
-**Q: Can I make kapustnica vegetarian?**
+### Can I make kapustnica vegetarian?
 
-A: Yes — simply omit the kielbasa and use mushroom broth. Double the dried mushrooms for more substance. The soup will still be deeply flavourful from the smoked paprika, caraway, and sauerkraut. You can also add a can of drained white beans for protein.
+Yes — simply omit the kielbasa and use mushroom broth. Double the dried mushrooms for more substance. The soup will still be deeply flavourful from the smoked paprika, caraway, and sauerkraut. You can also add a can of drained white beans for protein.
 
-**Q: What makes this different from regular cabbage soup?**
+### What makes this different from regular cabbage soup?
 
-A: The key difference is sauerkraut versus fresh cabbage. Sauerkraut's fermentation process creates a complex, tangy, umami-rich flavour that fresh cabbage simply cannot replicate. It also brings probiotic benefits that fresh cabbage does not have.
+The key difference is sauerkraut versus fresh cabbage. Sauerkraut's fermentation process creates a complex, tangy, umami-rich flavour that fresh cabbage simply cannot replicate. It also brings probiotic benefits that fresh cabbage does not have.

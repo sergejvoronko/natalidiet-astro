@@ -11,9 +11,6 @@ featured: false
 image: "/images/blog/healthy-slovak-czech-recipes.webp"
 ---
 
-SEO Meta Description: A complete guide to the healthiest Slovak and Czech recipes — kapustnica, bryndzové halušky, svíčková, kulajda and more. Central European food made diet-friendly without losing character.
-Read Time: 11 min read
-
 # Healthy Slovak and Czech Recipes — The Complete Guide to Lighter Central European Cooking
 Slovakia and Czech Republic share a deeply intertwined food culture, forged by centuries of shared history in the Austro-Hungarian Empire and then Czechoslovakia. Their cuisines are closely related but distinct: Slovak cooking leans heavily on sheep cheese (bryndza), sauerkraut, and mushrooms; Czech cooking is known for its elaborate sauces, knedlíky (bread dumplings), and a rich tradition of forest foraging.
 Both cuisines face the same healthy-cooking challenges: bread dumplings as a primary carbohydrate, cooking lard as the default fat, and rich cream sauces as the finishing touch for most main courses. And both cuisines have abundant light, nutritious options hiding underneath these challenges.
@@ -41,14 +38,14 @@ Bread dumplings (knedlíky) are the defining carbohydrate accompaniment in Czech
 
 ## Frequently Asked Questions
 
-**Q: What is the difference between Slovak and Czech cuisine?**
+### What is the difference between Slovak and Czech cuisine?
 
-A: Slovak cuisine is more influenced by Carpathian (mountain) and Eastern European traditions: more bryndza cheese, more sauerkraut, more mushrooms. Czech cuisine has more Germanic-Austrian influence: more elaborate sauces, more bread dumplings, more wild game dishes. Both share the core spice palette of caraway, marjoram, and paprika.
+Slovak cuisine is more influenced by Carpathian (mountain) and Eastern European traditions: more bryndza cheese, more sauerkraut, more mushrooms. Czech cuisine has more Germanic-Austrian influence: more elaborate sauces, more bread dumplings, more wild game dishes. Both share the core spice palette of caraway, marjoram, and paprika.
 
-**Q: Is bryndza healthy?**
+### Is bryndza healthy?
 
-A: Bryndza is genuinely nutritious — it is a fermented sheep cheese with probiotic cultures, good protein, and calcium. Its challenges are high sodium content and moderate fat content. Used in appropriate quantities (2–3 tbsp as a flavour accent rather than a sauce base) it is a healthy, probiotic-rich ingredient. Avoid it in large daily quantities due to sodium.
+Bryndza is genuinely nutritious — it is a fermented sheep cheese with probiotic cultures, good protein, and calcium. Its challenges are high sodium content and moderate fat content. Used in appropriate quantities (2–3 tbsp as a flavour accent rather than a sauce base) it is a healthy, probiotic-rich ingredient. Avoid it in large daily quantities due to sodium.
 
-**Q: What is kulajda and why is it healthy?**
+### What is kulajda and why is it healthy?
 
-A: Kulajda is a traditional Czech soup made from mushrooms, potatoes, dill, cream, and a soft-poached egg. In its healthy version, the cream is replaced with blended potato (already in the soup) and yogurt. The result is a creamy, deeply flavoured soup at approximately 200 calories — rich with mushroom umami, dill freshness, and the surprising beauty of a soft egg broken into the hot broth.
+Kulajda is a traditional Czech soup made from mushrooms, potatoes, dill, cream, and a soft-poached egg. In its healthy version, the cream is replaced with blended potato (already in the soup) and yogurt. The result is a creamy, deeply flavoured soup at approximately 200 calories — rich with mushroom umami, dill freshness, and the surprising beauty of a soft egg broken into the hot broth.
