@@ -12,21 +12,21 @@ export async function onRequestPost({ request, env }) {
       return json({ error: 'Message too long' }, 400);
     }
 
-    const res = await fetch('https://api.resend.com/emails', {
+    const res = await fetch('https://api.brevo.com/v3/smtp/email', {
       method: 'POST',
       headers: {
-        'Authorization': `Bearer ${env.RESEND_API_KEY}`,
+        'api-key': env.BREVO_API_KEY,
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        from: 'Natali Diet <contact@natalidiet.eu>',
-        to: ['contact@natalidiet.eu'],
-        reply_to: email,
+        sender: { name: 'Natali Diet', email: 'contact@natalidiet.eu' },
+        to: [{ email: 'contact@natalidiet.eu' }],
+        replyTo: { email: email.trim() },
         subject: subject?.trim()
           ? `[Contact] ${subject.trim()}`
           : `[Contact] Message from ${name.trim()}`,
-        text: `Name: ${name}\nEmail: ${email}\n\n${message}`,
-        html: `
+        textContent: `Name: ${name}\nEmail: ${email}\n\n${message}`,
+        htmlContent: `
           <p><strong>Name:</strong> ${esc(name)}</p>
           <p><strong>Email:</strong> ${esc(email)}</p>
           ${subject ? `<p><strong>Subject:</strong> ${esc(subject)}</p>` : ''}
@@ -37,7 +37,7 @@ export async function onRequestPost({ request, env }) {
     });
 
     if (!res.ok) {
-      console.error('Resend error:', await res.text());
+      console.error('Brevo error:', await res.text());
       return json({ error: 'Failed to send' }, 500);
     }
 
