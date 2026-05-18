@@ -33,9 +33,9 @@
 /* ── Tokens ─────────────────────────────────────────────────── */
 :root {
   /* Brand colours */
-  --nd-terra:         #C4623A;
+  --nd-terra:         #AA5430;
   --nd-terra-light:   #E8856A;
-  --nd-terra-rgb:     196 98 58;
+  --nd-terra-rgb:     170 84 48;
   --nd-forest:        #2D4A3E;
   --nd-forest-light:  #3D6357;
   --nd-forest-rgb:    45 74 62;
