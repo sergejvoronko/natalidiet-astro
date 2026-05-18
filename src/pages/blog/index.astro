@@ -14,10 +14,6 @@ const categories = [
   { slug: 'country-recipe-guides',   label: 'Country Guides',             icon: '🌍' },
 ];
 
-const url = Astro.url;
-const selectedCat = url.searchParams.get('category') ?? '';
-const filtered = selectedCat ? posts.filter(p => p.data.category === selectedCat) : posts;
-
 const formatDate = (d: Date) => d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
 ---
 
@@ -39,12 +35,13 @@ const formatDate = (d: Date) => d.toLocaleDateString('en-GB', { day: 'numeric', 
       <aside class="blog-sidebar" id="blog-sidebar">
         <div class="sidebar-inner">
           <div class="sidebar-title">Categories</div>
-          <nav>
-            <a href="/blog" class:list={['cat-link', { active: !selectedCat }]}>📋 All articles</a>
+          <nav id="cat-nav">
+            <a href="/blog" class="cat-link" data-cat="">📋 All articles</a>
             {categories.map(c => (
               <a
                 href={`/blog?category=${c.slug}`}
-                class:list={['cat-link', { active: selectedCat === c.slug }]}
+                class="cat-link"
+                data-cat={c.slug}
               >
                 <span aria-hidden="true">{c.icon}</span> {c.label}
               </a>
@@ -94,38 +91,70 @@ const formatDate = (d: Date) => d.toLocaleDateString('en-GB', { day: 'numeric', 
 
       <!-- Posts grid -->
       <main class="blog-main">
-        {filtered.length > 0 ? (
-          <div class="posts-grid">
-            {filtered.map(post => (
-              <article class="post-card">
-                {post.data.image && (
-                  <div class="post-img-wrap">
-                    <img src={post.data.image} alt={post.data.title} width="600" height="340" loading="lazy" class="post-img" />
-                  </div>
-                )}
-                <div class="post-info">
-                  <div class="post-meta">
-                    <span class="post-cat pill">{post.data.category.replace(/-/g, ' ')}</span>
-                    <time class="post-date" datetime={post.data.publishDate.toISOString()}>{formatDate(post.data.publishDate)}</time>
-                  </div>
-                  <h2 class="post-title">
-                    <a href={`/blog/${post.id}`}>{post.data.title}</a>
-                  </h2>
-                  <p class="post-desc">{post.data.description}</p>
-                  <a href={`/blog/${post.id}`} class="read-more">Read article →</a>
+        <div class="posts-grid" id="posts-grid">
+          {posts.map(post => (
+            <article class="post-card" data-cat={post.data.category}>
+              {post.data.image && (
+                <div class="post-img-wrap">
+                  <img src={post.data.image} alt={post.data.title} width="600" height="340" loading="lazy" class="post-img" />
                 </div>
-              </article>
-            ))}
-          </div>
-        ) : (
-          <div class="empty-state">
-            <p>No articles yet in this category. Check back soon!</p>
-          </div>
-        )}
+              )}
+              <div class="post-info">
+                <div class="post-meta">
+                  <span class="post-cat pill">{post.data.category.replace(/-/g, ' ')}</span>
+                  <time class="post-date" datetime={post.data.publishDate.toISOString()}>{formatDate(post.data.publishDate)}</time>
+                </div>
+                <h2 class="post-title">
+                  <a href={`/blog/${post.id}`}>{post.data.title}</a>
+                </h2>
+                <p class="post-desc">{post.data.description}</p>
+                <a href={`/blog/${post.id}`} class="read-more">Read article →</a>
+              </div>
+            </article>
+          ))}
+        </div>
+        <div class="empty-state" id="empty-state" style="display:none">
+          <p>No articles yet in this category. Check back soon!</p>
+        </div>
       </main>
     </div>
   </div>
 </BaseLayout>
+
+<script>
+  function applyFilter(cat: string) {
+    const cards = document.querySelectorAll<HTMLElement>('#posts-grid .post-card');
+    const empty = document.getElementById('empty-state')!;
+    let visible = 0;
+    cards.forEach(card => {
+      const match = !cat || card.dataset.cat === cat;
+      card.style.display = match ? '' : 'none';
+      if (match) visible++;
+    });
+    empty.style.display = visible === 0 ? '' : 'none';
+
+    document.querySelectorAll<HTMLElement>('#cat-nav .cat-link').forEach(link => {
+      link.classList.toggle('active', (link.dataset.cat ?? '') === cat);
+    });
+  }
+
+  function init() {
+    const cat = new URLSearchParams(location.search).get('category') ?? '';
+    applyFilter(cat);
+
+    document.querySelectorAll<HTMLAnchorElement>('#cat-nav .cat-link').forEach(link => {
+      link.addEventListener('click', e => {
+        e.preventDefault();
+        const next = link.dataset.cat ?? '';
+        const url = next ? `/blog?category=${next}` : '/blog';
+        history.pushState({}, '', url);
+        applyFilter(next);
+      });
+    });
+  }
+
+  document.addEventListener('DOMContentLoaded', init);
+</script>
 
 <style>
   .page-header {

@@ -7,7 +7,10 @@ export default defineConfig({
   output: 'static',
   integrations: [
     sitemap({
-      filter: (page) => !page.includes('/privacy') === false || true,
+      filter: (page) =>
+        !page.includes('/privacy-policy') &&
+        !page.includes('/disclaimer') &&
+        !page.includes('/thank-you'),
     }),
   ],
 });
