@@ -20,7 +20,7 @@ export async function onRequestPost({ request, env }) {
       },
       body: JSON.stringify({
         sender: { name: 'Natali Diet', email: 'contact@natalidiet.eu' },
-        to: [{ email: 'contact@natalidiet.eu' }],
+        to: [{ email: env.CONTACT_TO_EMAIL || 'contact@natalidiet.eu' }],
         replyTo: { email: email.trim() },
         subject: subject?.trim()
           ? `[Contact] ${subject.trim()}`
