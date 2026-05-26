@@ -2,6 +2,7 @@
 import BaseLayout from './BaseLayout.astro';
 import ShareButtons from '../components/ShareButtons.astro';
 import AuthorBlock from '../components/AuthorBlock.astro';
+import { getCollection } from 'astro:content';
 
 interface Props {
   title: string;
@@ -10,13 +11,26 @@ interface Props {
   category: string;
   tags?: string[];
   image?: string;
+  postId: string;
 }
 
-const { title, description, publishDate, category, tags = [], image } = Astro.props;
+const { title, description, publishDate, category, tags = [], image, postId } = Astro.props;
 
 const formattedDate = publishDate.toLocaleDateString('en-GB', {
   day: 'numeric', month: 'long', year: 'numeric',
 });
+
+const allPosts = await getCollection('blog');
+const relatedPosts = allPosts
+  .filter(p => p.id !== postId && (
+    p.data.tags?.some((t: string) => tags.includes(t)) || p.data.category === category
+  ))
+  .sort((a, b) => {
+    const aScore = a.data.tags?.filter((t: string) => tags.includes(t)).length ?? 0;
+    const bScore = b.data.tags?.filter((t: string) => tags.includes(t)).length ?? 0;
+    return bScore - aScore;
+  })
+  .slice(0, 3);
 ---
 
 <BaseLayout title={title} description={description} image={image} type="article">
@@ -57,6 +71,30 @@ const formattedDate = publishDate.toLocaleDateString('en-GB', {
       <ShareButtons title={title} />
       <AuthorBlock />
     </div>
+
+    {relatedPosts.length > 0 && (
+      <div class="related-posts">
+        <div class="related-label">You Might Also Like</div>
+        <div class="related-grid">
+          {relatedPosts.map(p => (
+            <a href={`/blog/${p.id}`} class="related-card">
+              {p.data.image && (
+                <div class="related-card-img-wrap">
+                  <img src={p.data.image} alt={p.data.title} width="320" height="180" loading="lazy" />
+                </div>
+              )}
+              <div class="related-card-body">
+                {p.data.category && (
+                  <span class="related-card-cat">{p.data.category.replace(/-/g, ' ')}</span>
+                )}
+                <h3 class="related-card-title">{p.data.title}</h3>
+                <p class="related-card-desc">{p.data.description}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
   </article>
 </BaseLayout>
 
@@ -152,8 +190,55 @@ const formattedDate = publishDate.toLocaleDateString('en-GB', {
     margin-top: 48px; padding-top: 32px;
     border-top: 1px solid var(--nd-border);
   }
+  .related-posts {
+    max-width: var(--max-w);
+    margin: 0 auto;
+    padding: 0 48px 80px;
+    border-top: 1px solid var(--nd-border);
+  }
+  .related-label {
+    font-size: 11px; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.14em;
+    color: var(--nd-terra);
+    padding-top: 40px; margin-bottom: 24px;
+  }
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+  .related-card {
+    text-decoration: none;
+    border-radius: 16px; overflow: hidden;
+    background: var(--nd-warm-white);
+    box-shadow: var(--shadow-card);
+    display: flex; flex-direction: column;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .related-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-hover); }
+  .related-card-img-wrap { height: 160px; overflow: hidden; }
+  .related-card-img-wrap img { width: 100%; height: 100%; object-fit: cover; }
+  .related-card-body { padding: 20px; flex: 1; display: flex; flex-direction: column; gap: 8px; }
+  .related-card-cat {
+    font-size: 10px; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.1em;
+    color: var(--nd-terra);
+  }
+  .related-card-title {
+    font-family: var(--font-serif);
+    font-size: 16px; font-weight: 700;
+    color: var(--nd-forest); line-height: 1.3;
+  }
+  .related-card-desc {
+    font-size: 12px; color: var(--nd-muted);
+    line-height: 1.6; font-weight: 300;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  }
+
   @media (max-width: 640px) {
     .article-header { padding: 48px 20px 64px; min-height: 360px; }
     .article-body { padding: 40px 20px 60px; }
+    .related-posts { padding-left: 20px; padding-right: 20px; }
+    .related-grid { grid-template-columns: 1fr; }
   }
 </style>

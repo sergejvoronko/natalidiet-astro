@@ -3,6 +3,8 @@ import BaseLayout from './BaseLayout.astro';
 import SchemaRecipe from '../components/SchemaRecipe.astro';
 import ShareButtons from '../components/ShareButtons.astro';
 import AuthorBlock from '../components/AuthorBlock.astro';
+import { getCollection } from 'astro:content';
+import RecipeCard from '../components/RecipeCard.astro';
 
 interface Ingredient { amount: string; name: string; }
 
@@ -26,13 +28,14 @@ interface Props {
   publishDate: Date;
   ingredients: Ingredient[];
   steps: string[];
+  recipeId: string;
 }
 
 const {
   title, description, image, course,
   prepTime, cookTime, totalTime, servings,
   calories, protein, carbs, fat, fibre,
-  tags = [], tip, publishDate, ingredients, steps,
+  tags = [], tip, publishDate, ingredients, steps, recipeId,
 } = Astro.props;
 
 const courseColors: Record<string, string> = {
@@ -48,6 +51,11 @@ const courseEmojis: Record<string, string> = {
 const bg = courseColors[course] ?? courseColors.lunch;
 const emoji = courseEmojis[course] ?? '🍽️';
 const formattedDate = publishDate.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+
+const allRecipes = await getCollection('recipes');
+const relatedRecipes = allRecipes
+  .filter(r => r.id !== recipeId && r.data.course === course)
+  .slice(0, 3);
 ---
 
 <BaseLayout title={title} description={description} image={image} type="article">
@@ -176,6 +184,26 @@ const formattedDate = publishDate.toLocaleDateString('en-GB', { day: 'numeric', 
         See our <a href="/disclaimer">full health disclaimer</a>.
       </p>
     </div>
+
+    {relatedRecipes.length > 0 && (
+      <div class="related-recipes">
+        <div class="related-label">More Recipes Like This</div>
+        <div class="related-grid">
+          {relatedRecipes.map(r => (
+            <RecipeCard
+              title={r.data.title}
+              slug={r.id}
+              description={r.data.description}
+              course={r.data.course}
+              calories={r.data.calories}
+              totalTime={r.data.totalTime}
+              tags={r.data.tags}
+              image={r.data.image}
+            />
+          ))}
+        </div>
+      </div>
+    )}
   </article>
 </BaseLayout>
 
@@ -333,11 +361,29 @@ const formattedDate = publishDate.toLocaleDateString('en-GB', { day: 'numeric', 
   .recipe-disclaimer { font-size: 12px; color: var(--nd-muted); line-height: 1.65; font-style: italic; }
   .recipe-disclaimer a { color: var(--nd-terra); text-decoration: underline; text-underline-offset: 2px; }
 
+  .related-recipes {
+    max-width: var(--max-w);
+    margin: 0 auto;
+    padding: 48px 48px 80px;
+  }
+  .related-label {
+    font-size: 11px; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.14em;
+    color: var(--nd-terra); margin-bottom: 24px;
+  }
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+
   @media (max-width: 900px) {
     .recipe-header, .recipe-body-wrap, .recipe-prose-wrap, .recipe-footer-meta { padding-left: 20px; padding-right: 20px; }
     .recipe-top-grid { grid-template-columns: 1fr; }
     .recipe-visual-wrap { aspect-ratio: 16/9; }
     .recipe-body { grid-template-columns: 1fr; }
     .ingredients-col { border-right: none; border-bottom: 1px solid var(--nd-border); }
+    .related-recipes { padding-left: 20px; padding-right: 20px; }
+    .related-grid { grid-template-columns: 1fr; }
   }
 </style>
