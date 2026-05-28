@@ -71,9 +71,15 @@ Absolutely — these dishes are designed for batch cooking. Goulash, cabbage rol
 Most of them adapt easily. Paprikash, goulash, cabbage rolls, buckwheat, and pork tenderloin are all naturally gluten-free or easily made so. Varenyky/pierogi require a gluten-free flour blend. Always check that your paprika and sausage products are certified gluten-free.
 
 ## Explore the Full Recipes
-- ➜ Low-Calorie Chicken Paprikash — Hungarian Classic with Greek Yogurt (310 kcal)
-- ➜ Healthy Holubtsi (Cabbage Rolls) — Ukrainian Weight-Loss Version (280 kcal)
-- ➜ Lighter Hungarian Goulash — All the Flavour, Fewer Calories (340 kcal)
-- ➜ Healthy Baked Varenyky / Pierogi — Not Fried (320 kcal)
-- ➜ Buckwheat with Mushrooms — Eastern European Superfood Bowl (290 kcal)
-- ➜ Healthy Slovak Pork Tenderloin — High Protein Classic (360 kcal)
+- ➜ [Low-Calorie Chicken Paprikash — Hungarian Classic with Greek Yogurt (310 kcal)](/blog/healthy-chicken-paprikash-recipe/)
+- ➜ [Healthy Holubtsi (Cabbage Rolls) — Ukrainian Weight-Loss Version (280 kcal)](/blog/healthy-holubtsi-cabbage-rolls-recipe/)
+- ➜ [Lighter Hungarian Goulash — All the Flavour, Fewer Calories (340 kcal)](/blog/healthy-hungarian-goulash-recipe/)
+- ➜ [Healthy Baked Varenyky / Pierogi — Not Fried (320 kcal)](/blog/healthy-baked-varenyky-pierogi-recipe/)
+- ➜ [Buckwheat with Mushrooms — Eastern European Superfood Bowl (290 kcal)](/blog/buckwheat-mushrooms-eastern-european-recipe/)
+- ➜ [Healthy Slovak Pork Tenderloin — High Protein Classic (360 kcal)](/blog/healthy-slovak-pork-tenderloin-recipe/)
+
+---
+
+**See also:**
+- [Core techniques for lightening any Eastern European dish →](/blog/healthy-traditional-eastern-european-food/)
+- [Country-by-country guide — Ukraine, Hungary, Poland, Romania →](/blog/healthy-eastern-european-recipes-by-country/)

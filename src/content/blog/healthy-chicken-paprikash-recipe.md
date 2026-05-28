@@ -80,3 +80,7 @@ A few fixes: (1) Cook uncovered for the last 10 minutes to let the sauce reduce.
 ### Is chicken paprikash a traditional weight-loss food?
 
 In traditional form, no — it was made with lard and full-fat sour cream. But the structure of the dish — lean chicken protein, vegetable-based sauce, minimal fat — makes it naturally suited to healthy cooking. In this version, the calories are just 310 per serving with 38g protein, making it genuinely excellent for weight management.
+
+---
+
+**Try the kefir version:** [Kefir Chicken Paprikash with Buckwheat](/recipes/kefir-chicken-paprikash-buckwheat/) — uses kefir instead of Greek yogurt and serves over buckwheat for extra fibre and a different flavour profile.

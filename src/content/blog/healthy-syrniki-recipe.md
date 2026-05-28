@@ -9,6 +9,7 @@ pillar: 4
 publishDate: 2024-05-15
 featured: false
 image: "/images/blog/healthy-syrniki-recipe.webp"
+canonical: "https://natalidiet.eu/recipes/syrniki-cottage-cheese-pancakes/"
 ---
 
 # Healthy Syrniki — Ukrainian Cottage Cheese Pancakes (220 kcal, 18g Protein)

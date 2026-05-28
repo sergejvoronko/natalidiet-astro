@@ -38,6 +38,13 @@
       "default": false,
       "type": "boolean"
     },
+    "canonical": {
+      "type": "string"
+    },
+    "noIndex": {
+      "default": false,
+      "type": "boolean"
+    },
     "$schema": {
       "type": "string"
     }

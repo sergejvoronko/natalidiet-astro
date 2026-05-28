@@ -1,8 +1,8 @@
 ---
 title: "Healthy Ukrainian Recipes — The Complete Guide to Light Ukrainian Cooking"
-description: "The complete guide to the healthiest traditional Ukrainian recipes — borscht, holubtsi, varenyky, buckwheat, kefir, syrniki, vinegret and more. Authentic Ukrainian food made lighter."
+description: "The 8 healthiest traditional Ukrainian dishes with full recipes, nutrition counts, and cooking techniques — borscht, holubtsi, varenyky, syrniki, vinegret, buckwheat kasha and more."
 metaTitle: "Healthy Ukrainian Recipes — The Complete Guide to Light Ukrainian Cooking"
-metaDescription: "The complete guide to the healthiest traditional Ukrainian recipes — borscht, holubtsi, varenyky, buckwheat, kefir, syrniki, vinegret and more. Authentic Ukrainian food made lighter."
+metaDescription: "The 8 healthiest traditional Ukrainian dishes with full recipes, nutrition counts, and cooking techniques — borscht, holubtsi, varenyky, syrniki, vinegret, buckwheat kasha and more."
 category: "country-recipe-guides"
 tags: ["ukrainian-recipes", "ukraine", "healthy", "borscht", "varenyky", "kefir", "buckwheat", "holubtsi"]
 pillar: 5
@@ -50,3 +50,7 @@ Exceptionally so — perhaps better than any other European national cuisine for
 ### Where can I find Ukrainian ingredients outside Ukraine?
 
 Naturally fermented pickles and sauerkraut: health food stores, Polish/Ukrainian delis, and increasingly mainstream supermarkets. Kefir: most supermarkets now stock it. Buckwheat: health food stores, Eastern European shops, and online. Tvaroh/cottage cheese: any supermarket. The only harder-to-find ingredient is fresh sorrel for green borshch — replace with spinach plus lemon juice if unavailable.
+
+---
+
+**Want to lose weight eating Ukrainian food?** See the full daily framework: [How to Eat Traditional Ukrainian Food and Still Lose Weight →](/blog/how-to-lose-weight-eating-ukrainian-food/)

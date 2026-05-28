@@ -71,5 +71,6 @@ This is a real and emotionally complex challenge — declining food in Eastern E
 
 Green borshch with a hard-boiled egg at approximately 120 calories is the single most diet-friendly traditional Ukrainian meal. Close second: plain buckwheat kasha with braised mushrooms and a side of sauerkraut — approximately 250 calories of extraordinarily nutritious, filling, deeply traditional food.
 
-— End of Pillar 3: Meal Plans & Diet Guides —
-Next up: Pillar 4 — Traditional Foods Made Healthy
+---
+
+**Ready to cook?** See all Ukrainian recipes with full nutrition info: [Healthy Ukrainian Recipes →](/blog/healthy-ukrainian-recipes/)

@@ -48,3 +48,9 @@ Absolutely — the cuisines are complementary. A Ukrainian borscht starter with 
 ### Do I need to know how to cook Eastern European food to start?
 
 Not at all. Every recipe on this blog is written for people who have never cooked Eastern European food before — with explanations of unfamiliar ingredients, sourcing tips, and technique guides. Start with borscht (the most approachable cornerstone recipe) and go from there.
+
+---
+
+**See also:**
+- [Healthy Eastern European Main Dishes — 6 recipes with full nutrition →](/blog/healthy-eastern-european-main-dishes/)
+- [Universal techniques for making any Eastern European dish lighter →](/blog/healthy-traditional-eastern-european-food/)

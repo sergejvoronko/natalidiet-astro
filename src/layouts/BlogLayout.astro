@@ -12,9 +12,11 @@ interface Props {
   tags?: string[];
   image?: string;
   postId: string;
+  canonical?: string;
+  noIndex?: boolean;
 }
 
-const { title, description, publishDate, category, tags = [], image, postId } = Astro.props;
+const { title, description, publishDate, category, tags = [], image, postId, canonical, noIndex } = Astro.props;
 
 const formattedDate = publishDate.toLocaleDateString('en-GB', {
   day: 'numeric', month: 'long', year: 'numeric',
@@ -33,7 +35,7 @@ const relatedPosts = allPosts
   .slice(0, 3);
 ---
 
-<BaseLayout title={title} description={description} image={image} type="article">
+<BaseLayout title={title} description={description} image={image} type="article" canonical={canonical} noIndex={noIndex}>
   <article class="blog-article">
     <header
       class="article-header"

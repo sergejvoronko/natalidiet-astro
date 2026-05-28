@@ -40,3 +40,9 @@ For most dishes in this pillar — yes, very closely. Baked deruny taste nearly 
 ### Which dish is easiest to make healthy?
 
 Syrniki are the easiest — the original is already quite lean. Bigos is the most forgiving for batch cooking. Deruny require the most technique (moisture removal) but once you learn it the technique is simple.
+
+---
+
+**See also:**
+- [Healthy Eastern European Main Dishes — 6 full recipes with nutrition →](/blog/healthy-eastern-european-main-dishes/)
+- [Healthy Eastern European Recipes by Country — Ukraine, Hungary, Poland, Romania →](/blog/healthy-eastern-european-recipes-by-country/)
