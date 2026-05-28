@@ -12,7 +12,7 @@ protein: 18
 carbs: 14
 fat: 2
 fibre: 2
-tags: ["quick", "high-protein", "no-cook", "low-calorie", "vegetarian"]
+tags: ["quick", "high-protein", "no-cook", "low-calorie", "vegetarian", "cottage-cheese"]
 category: "healthy-main-dishes"
 tip: "Add a pinch of vanilla powder and the result is indistinguishable from dessert — at 150 calories."
 publishDate: 2026-04-04

@@ -12,7 +12,7 @@ protein: 9
 carbs: 52
 fat: 4
 fibre: 5
-tags: ["gluten-free", "high-fibre", "vegetarian", "meal-prep", "ukrainian"]
+tags: ["gluten-free", "high-fibre", "vegetarian", "meal-prep", "ukrainian", "buckwheat"]
 category: "healthy-soups"
 tip: "Toast the dry buckwheat in a dry pan for 2 minutes before adding water — it intensifies the nutty flavour dramatically."
 publishDate: 2026-04-01

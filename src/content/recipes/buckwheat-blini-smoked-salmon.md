@@ -12,7 +12,7 @@ protein: 26
 carbs: 28
 fat: 10
 fibre: 3
-tags: ["gluten-free", "high-protein", "special-occasion", "russian", "omega-3"]
+tags: ["gluten-free", "high-protein", "special-occasion", "russian", "omega-3", "buckwheat"]
 category: "healthy-main-dishes"
 tip: "Let the batter rest 10 minutes before cooking — this allows the buckwheat flour to hydrate fully and makes lighter, more pliable blini."
 publishDate: 2026-04-15

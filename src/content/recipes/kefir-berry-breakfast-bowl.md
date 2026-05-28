@@ -12,7 +12,7 @@ protein: 12
 carbs: 30
 fat: 4
 fibre: 4
-tags: ["quick", "vegetarian", "high-protein", "probiotics", "no-cook"]
+tags: ["quick", "vegetarian", "high-protein", "probiotics", "no-cook", "kefir"]
 category: "healthy-main-dishes"
 tip: "Use full-fat kefir for a creamier texture — the extra fat is minimal but the difference in satiety is significant."
 publishDate: 2026-04-03

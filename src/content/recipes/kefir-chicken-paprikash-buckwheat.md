@@ -12,7 +12,7 @@ protein: 38
 carbs: 32
 fat: 12
 fibre: 4
-tags: ["high-protein", "gluten-free", "hungarian", "meal-prep", "low-calorie"]
+tags: ["high-protein", "gluten-free", "hungarian", "meal-prep", "low-calorie", "kefir", "buckwheat"]
 category: "healthy-main-dishes"
 image: "/images/chicken-paprikash.webp"
 tip: "Add the kefir off the heat and stir constantly — it will not curdle. Return to the lowest possible heat to warm through."

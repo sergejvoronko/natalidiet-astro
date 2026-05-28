@@ -12,7 +12,7 @@ protein: 22
 carbs: 28
 fat: 8
 fibre: 2
-tags: ["high-protein", "vegetarian", "ukrainian", "quick", "kid-friendly"]
+tags: ["high-protein", "vegetarian", "ukrainian", "quick", "kid-friendly", "cottage-cheese"]
 category: "healthy-main-dishes"
 tip: "The drier your cottage cheese, the better the syrniki hold together. Drain it through a cheesecloth for 30 minutes if it is very wet."
 publishDate: 2026-04-13

@@ -13,7 +13,7 @@ protein: 23
 carbs: 26
 fat: 7
 fibre: 6
-tags: ["ukrainian", "salad", "high-protein", "under-300-kcal"]
+tags: ["ukrainian", "salad", "high-protein", "under-300-kcal", "kefir"]
 category: "salads"
 tip: "For the best texture, salt the shredded cabbage and kohlrabi and let it sit for 10 minutes. Squeeze out the excess water before dressing; this softens it just enough and prevents a watery salad."
 publishDate: 2026-05-27

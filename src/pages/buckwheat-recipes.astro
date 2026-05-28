@@ -1,0 +1,151 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import RecipeCard from '../components/RecipeCard.astro';
+import { getCollection } from 'astro:content';
+
+const allRecipes = await getCollection('recipes');
+const buckwheatRecipes = allRecipes
+  .filter(r => r.data.tags.includes('buckwheat'))
+  .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
+---
+
+<BaseLayout
+  title="Buckwheat Recipes — Eastern European Gluten-Free Grain"
+  description="All buckwheat recipes on Natali Diet — porridge, blini, sides and mains using Eastern European buckwheat (kasha). Gluten-free, high-fibre, calorie-counted."
+>
+  <div class="hub-page">
+    <header class="hub-hero">
+      <div class="hub-hero-inner">
+        <span class="section-label">Ingredient hub</span>
+        <h1 class="hub-title">Buckwheat<em> recipes</em></h1>
+        <p class="hub-desc">The Eastern European superfood grain — nutty, earthy, naturally gluten-free, and more nutritious than rice or pasta. Called kasha across Ukraine, Russia, and Poland.</p>
+        <div class="hub-stats">
+          <span class="stat">{buckwheatRecipes.length} recipes</span>
+          <span class="stat-sep">·</span>
+          <span class="stat">All gluten-free</span>
+          <span class="stat-sep">·</span>
+          <span class="stat">High-fibre</span>
+        </div>
+      </div>
+    </header>
+
+    <div class="hub-content">
+      <div class="hub-intro">
+        <h2>Why eat buckwheat?</h2>
+        <p>Buckwheat is not wheat — it's a seed with a complete amino acid profile, meaning it contains all essential amino acids rare in plant foods. It's one of the few grains with a low glycaemic index (GI ~40–50), so it raises blood sugar slowly and keeps you full for hours. A 100g serving cooked has roughly 92 calories and 3.4g protein.</p>
+        <p>In Eastern Europe, buckwheat is eaten daily — as breakfast porridge, a dinner side replacing rice, or the base of hearty vegetarian bowls. These recipes show all the ways it fits into a modern healthy diet.</p>
+        <a href="/blog/buckwheat-mushrooms-eastern-european-recipe/" class="hub-read-more">Read: Buckwheat with Forest Mushrooms — Eastern European Superfood Bowl →</a>
+      </div>
+
+      {buckwheatRecipes.length > 0 ? (
+        <div class="recipes-grid">
+          {buckwheatRecipes.map(r => (
+            <RecipeCard
+              title={r.data.title}
+              slug={r.id}
+              description={r.data.description}
+              course={r.data.course}
+              calories={r.data.calories}
+              totalTime={r.data.totalTime}
+              tags={r.data.tags}
+              image={r.data.image}
+              featured={r.data.featured}
+            />
+          ))}
+        </div>
+      ) : (
+        <p class="empty">No buckwheat recipes yet — check back soon.</p>
+      )}
+
+      <div class="hub-related">
+        <h2>More ingredient hubs</h2>
+        <div class="related-links">
+          <a href="/kefir-recipes/" class="related-link">
+            <span class="related-icon">🥛</span>
+            <div>
+              <strong>Kefir recipes</strong>
+              <span>Eastern European probiotic cooking</span>
+            </div>
+          </a>
+          <a href="/cottage-cheese-recipes/" class="related-link">
+            <span class="related-icon">🧀</span>
+            <div>
+              <strong>Cottage cheese recipes</strong>
+              <span>High-protein tvaroh cooking</span>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .hub-hero {
+    background: var(--nd-forest);
+    padding: 72px 48px 80px;
+    position: relative; overflow: hidden;
+  }
+  .hub-hero::before {
+    content: '';
+    position: absolute; inset: 0;
+    background: radial-gradient(ellipse at 70% 50%, rgba(200,210,160,0.08) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .hub-hero-inner { max-width: var(--max-w); margin: 0 auto; position: relative; z-index: 1; }
+  .section-label {
+    display: inline-block;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase;
+    color: var(--nd-terra-light); margin-bottom: 16px;
+  }
+  .hub-title {
+    font-family: var(--font-serif); font-size: clamp(40px, 5vw, 64px);
+    font-weight: 900; color: #fff; line-height: 1.08;
+    letter-spacing: -0.03em; margin-bottom: 20px;
+  }
+  .hub-title em { font-style: italic; color: var(--nd-terra-light); }
+  .hub-desc { font-size: 17px; font-weight: 300; color: rgba(255,255,255,0.6); max-width: 520px; line-height: 1.7; margin-bottom: 28px; }
+  .hub-stats { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .stat { font-size: 13px; font-weight: 600; color: rgba(255,255,255,0.5); }
+  .stat-sep { color: rgba(255,255,255,0.2); }
+
+  .hub-content { max-width: var(--max-w); margin: 0 auto; padding: 64px 48px 100px; }
+
+  .hub-intro { max-width: 680px; margin-bottom: 56px; }
+  .hub-intro h2 { font-family: var(--font-serif); font-size: 26px; font-weight: 700; color: var(--nd-forest); margin-bottom: 16px; }
+  .hub-intro p { font-size: 16px; line-height: 1.75; color: var(--nd-muted); margin-bottom: 16px; }
+  .hub-read-more {
+    display: inline-block; margin-top: 8px;
+    font-size: 14px; font-weight: 600; color: var(--nd-terra);
+    text-decoration: none; border-bottom: 1px solid currentColor;
+  }
+  .hub-read-more:hover { color: var(--nd-forest); }
+
+  .recipes-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin-bottom: 80px; }
+  .empty { color: var(--nd-muted); font-size: 16px; margin-bottom: 80px; }
+
+  .hub-related { border-top: 1px solid var(--nd-border); padding-top: 48px; }
+  .hub-related h2 { font-family: var(--font-serif); font-size: 22px; font-weight: 700; color: var(--nd-forest); margin-bottom: 24px; }
+  .related-links { display: flex; gap: 16px; flex-wrap: wrap; }
+  .related-link {
+    display: flex; align-items: center; gap: 14px;
+    padding: 20px 24px; border-radius: 14px;
+    border: 1px solid var(--nd-border);
+    text-decoration: none; background: var(--nd-warm-white);
+    transition: border-color 0.2s, box-shadow 0.2s;
+    flex: 1; min-width: 220px;
+  }
+  .related-link:hover { border-color: var(--nd-terra); box-shadow: 0 4px 16px rgba(0,0,0,0.06); }
+  .related-icon { font-size: 28px; }
+  .related-link strong { display: block; font-size: 15px; color: var(--nd-forest); margin-bottom: 2px; }
+  .related-link span { font-size: 13px; color: var(--nd-muted); }
+
+  @media (max-width: 900px) {
+    .hub-hero { padding: 48px 20px 60px; }
+    .hub-content { padding: 40px 20px 72px; }
+    .recipes-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; }
+  }
+  @media (max-width: 540px) {
+    .recipes-grid { grid-template-columns: 1fr; }
+  }
+</style>
