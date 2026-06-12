@@ -1,6 +1,8 @@
 ---
 title: "Bulgarian Green Bean & Egg Salad (Salata ot Zelen Fasul s Yaitsa)"
 description: "This classic Bulgarian salad combines tender green beans and hard-boiled eggs in a creamy, garlicky yogurt dressing. It's a satisfying, high-protein lunch that's perfect for staying full and managing your weight."
+metaTitle: "Bulgarian Green Bean & Egg Salad"
+metaDescription: "Classic Bulgarian green bean and egg salad in garlicky yogurt dressing. High-protein, 280 kcal — a light lunch that keeps you full."
 image: "/images/bulgarian-green-bean-egg-salad-salata-ot-zelen-fasul-s-yaitsa.webp"
 course: lunch
 cuisine: "Ukrainian"
