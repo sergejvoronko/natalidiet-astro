@@ -50,6 +50,13 @@ steps:
   - "Add chicken thighs and stock. Stir to coat chicken in the paprika base. Cover and simmer on low for 25–30 minutes until chicken is cooked through and sauce has reduced."
   - "Remove from heat. Let cool 2 minutes. Stir in kefir slowly and steadily until sauce is creamy and smooth. Season with salt and pepper."
   - "Serve over buckwheat. Garnish with fresh dill."
+faqs:
+  - q: "How do I stop the kefir from curdling?"
+    a: "Take the pan off the heat, whisk a spoonful of the hot sauce into the kefir first, then stir it back in. Never boil after adding kefir."
+  - q: "Can I use chicken breast instead of thighs?"
+    a: "Yes — shorten the simmer so it doesn't dry out. Thighs stay juicier for the calories."
+  - q: "Which paprika matters here?"
+    a: "Sweet smoked paprika does the heavy lifting, with a pinch of hot. Use a fresh jar — stale paprika tastes of dust."
 ---
 
 Chicken paprikash is the dish that made Hungary famous in Central European cooking. This version uses kefir instead of heavy sour cream — same creamy finish, same tang, one third of the calories.

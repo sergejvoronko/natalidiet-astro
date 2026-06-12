@@ -43,6 +43,44 @@ plans.sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
           <a href="/#newsletter" class="btn-primary">Get notified →</a>
         </div>
       )}
+
+      <section class="plans-about">
+        <h2>How these meal plans work</h2>
+        <p>
+          Every plan is built from the recipes on this site — traditional Eastern European dishes
+          adapted for weight loss. Each day combines breakfast, lunch, dinner, and a snack with
+          exact per-meal calorie counts, so a full day lands inside the plan's target without any
+          tracking apps or weighing guesswork. Plans come with a complete shopping list and a
+          Sunday batch-cooking sequence: most of the week's cooking happens in one session of
+          about two and a half hours.
+        </p>
+
+        <h3>Who they're for</h3>
+        <p>
+          These plans suit anyone who wants to lose weight without giving up familiar Central and
+          Eastern European food — borscht, buckwheat, varenyky, kefir, cottage cheese. The standard
+          plan targets roughly 1,400–1,600 kcal per day, a moderate deficit for most adults. The
+          slim plan runs under 1,200 kcal per day for faster results over a shorter stretch; it is
+          not intended as a long-term way of eating. Both lean on high-protein, high-fibre staples
+          so meals keep you full despite the lower calories.
+        </p>
+
+        <h3>Choosing your plan</h3>
+        <p>
+          Start with the standard 7-day plan if you're new to calorie-aware eating or have more
+          than a few kilos to lose — it's the more sustainable of the two and easier to repeat
+          week after week. Pick the slim plan for a focused short push, then move to the standard
+          plan to keep progress going. You can swap any meal for another recipe from the same
+          course with a similar calorie count; every recipe on the site lists its full nutrition
+          per serving.
+        </p>
+
+        <p class="plans-disclaimer">
+          Calorie targets are general guidance, not medical advice. If you have a health condition
+          or specific nutritional needs, check with a registered dietitian or your doctor first —
+          see the <a href="/disclaimer">full health disclaimer</a>.
+        </p>
+      </section>
     </div>
   </div>
 </BaseLayout>
@@ -64,6 +102,13 @@ plans.sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
   .plan-desc { font-size: 14px; color: var(--nd-muted); line-height: 1.65; font-weight: 300; }
   .plan-kcal { font-size: 13px; font-weight: 600; color: var(--nd-forest); background: rgba(45,74,62,0.08); padding: 6px 14px; border-radius: 100px; width: fit-content; }
   .plan-link { font-size: 14px; font-weight: 600; color: var(--nd-terra); margin-top: auto; }
+
+  .plans-about { max-width: 720px; margin: 72px auto 0; }
+  .plans-about h2 { font-family: var(--font-serif); font-size: 28px; font-weight: 700; color: var(--nd-forest); margin-bottom: 16px; }
+  .plans-about h3 { font-family: var(--font-serif); font-size: 20px; font-weight: 700; color: var(--nd-forest); margin: 32px 0 12px; }
+  .plans-about p { font-size: 15px; color: var(--nd-muted); line-height: 1.75; font-weight: 300; }
+  .plans-disclaimer { font-size: 12px !important; font-style: italic; margin-top: 32px; }
+  .plans-disclaimer a { color: var(--nd-terra); text-decoration: underline; text-underline-offset: 2px; }
 
   .empty-state { text-align: center; padding: 80px 0; }
   .empty-emoji { font-size: 64px; margin-bottom: 20px; }

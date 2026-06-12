@@ -64,6 +64,13 @@ steps:
   - "In a small bowl, whisk together the egg yolk and 2 tbsp low-fat sour cream. Ladle one spoonful of hot soup into the bowl and whisk quickly to temper the mixture."
   - "Reduce the heat to the lowest setting and slowly pour the tempered egg yolk and sour cream mixture into the pot, stirring constantly. Do not let the soup return to a boil after this point."
   - "Taste and adjust seasoning if needed. Ladle the ciorbă into bowls and garnish with freshly chopped parsley before serving."
+faqs:
+  - q: "What makes ciorbă sour?"
+    a: "Traditionally borș — fermented wheat bran liquid. This version uses lemon juice, which is easier to find and keeps the same bright finish."
+  - q: "Can I use frozen spinach?"
+    a: "Yes — squeeze out the excess water and add it at the end, just to wilt through."
+  - q: "How do I keep the egg finish from curdling?"
+    a: "Whisk hot broth gradually into the egg-lemon mixture off the heat, then stir it back in. Don't boil afterwards."
 ---
 
 ## A Bowl of Sour, Silky Romanian Comfort

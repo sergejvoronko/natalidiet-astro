@@ -1,0 +1,42 @@
+---
+interface FAQ { q: string; a: string; }
+
+interface Props {
+  faqs: FAQ[];
+}
+
+const { faqs } = Astro.props;
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map(f => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+<section class="faq-block">
+  <h2 class="faq-heading">Frequently asked questions</h2>
+  {faqs.map(f => (
+    <details class="faq-item">
+      <summary class="faq-q">{f.q}</summary>
+      <p class="faq-a">{f.a}</p>
+    </details>
+  ))}
+</section>
+
+<style>
+  .faq-block { margin-top: 48px; }
+  .faq-heading { font-family: var(--font-serif); font-size: 26px; font-weight: 700; color: var(--nd-forest); margin-bottom: 20px; }
+  .faq-item { border-bottom: 1px solid rgba(45,74,62,0.12); }
+  .faq-item:first-of-type { border-top: 1px solid rgba(45,74,62,0.12); }
+  .faq-q { font-size: 16px; font-weight: 600; color: var(--nd-forest); padding: 16px 28px 16px 0; cursor: pointer; list-style: none; position: relative; }
+  .faq-q::-webkit-details-marker { display: none; }
+  .faq-q::after { content: '+'; position: absolute; right: 4px; top: 50%; transform: translateY(-50%); font-size: 22px; font-weight: 300; color: var(--nd-terra); transition: transform 0.2s ease; }
+  details[open] .faq-q::after { transform: translateY(-50%) rotate(45deg); }
+  .faq-a { font-size: 15px; color: var(--nd-muted); line-height: 1.7; font-weight: 300; padding: 0 0 18px; }
+</style>

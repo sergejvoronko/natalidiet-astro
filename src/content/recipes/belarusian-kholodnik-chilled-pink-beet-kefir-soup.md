@@ -48,6 +48,13 @@ steps:
   - "Season generously with salt and pepper to taste. If the soup is too thick for your liking, you can add a few tablespoons of the reserved beet cooking water or a bit of cold water to reach your desired consistency."
   - "Cover the bowl and refrigerate for at least 2 hours, or until thoroughly chilled. The flavours need time to meld."
   - "Serve cold, garnished with the remaining fresh dill and a few extra grinds of black pepper."
+faqs:
+  - q: "Can I make kholodnik ahead?"
+    a: "Yes — it tastes better after a few hours in the fridge. Keep up to 2 days and add the halved eggs just before serving."
+  - q: "What can I use instead of kefir?"
+    a: "Buttermilk is the closest match. Plain yogurt thinned with cold water and a squeeze of lemon also works."
+  - q: "Is kholodnik served warm?"
+    a: "No — it is a chilled soup by design, made for hot days. Serve it cold, ideally with an ice cube in the bowl."
 ---
 
 The first sign of real summer in my childhood home wasn't the weather, but the giant bowl of shocking pink Kholodnik that appeared in our fridge. My mum made this every single summer, and its cool, tangy flavour was the only thing that made sense on a sweltering afternoon. It’s a soup that’s alive with texture: the slight bite from the grated beets, the fresh crunch of cucumber, and the creamy tang of kefir tying it all together.

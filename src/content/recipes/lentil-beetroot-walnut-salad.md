@@ -46,6 +46,13 @@ steps:
   - "In a large bowl, combine lentils, diced beetroot, red onion, and most of the parsley. Pour the dressing over and toss gently."
   - "Transfer to a serving bowl or plate. Scatter broken walnuts and remaining parsley over the top."
   - "Serve at room temperature or slightly warm. The salad keeps refrigerated for up to 3 days — the flavours improve overnight."
+faqs:
+  - q: "Are tinned lentils okay?"
+    a: "Yes — rinse them well. Puy or green lentils hold their shape best; red lentils turn mushy."
+  - q: "Can I make it ahead?"
+    a: "It improves after an hour as the beetroot and dressing mingle. Keeps 3 days; add walnuts at serving so they stay crunchy."
+  - q: "Is it vegan?"
+    a: "Use maple syrup instead of honey in the dressing and it's fully vegan."
 ---
 
 This salad is a workhorse. It stores well, travels in a lunchbox, and provides a rare combination of plant protein, iron, and prebiotic fibre in a single bowl. In Eastern European cooking, beetroot and lentils have long been paired as a nourishing winter staple — here they're lightened with a sharp vinegar dressing and fresh parsley.

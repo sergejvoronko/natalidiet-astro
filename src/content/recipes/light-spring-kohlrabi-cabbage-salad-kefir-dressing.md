@@ -52,6 +52,13 @@ steps:
   - "Squeeze any excess water from the salted kohlrabi and cabbage mixture. The trick I learnt the hard way is that this step is crucial for a crisp, not soggy, salad."
   - "Add the cooled, cubed potatoes and diced chicken to the bowl with the kohlrabi and cabbage. Pour over the kefir dressing and gently toss everything together until well combined. Taste and adjust seasoning if needed."
   - "Serve immediately for the best crunch, or let it sit for 15 minutes for the flavours to meld."
+faqs:
+  - q: "What can replace kohlrabi?"
+    a: "Peeled broccoli stem, young turnip, or extra radishes — anything crisp and mildly sweet."
+  - q: "Can I make it vegetarian?"
+    a: "Skip the chicken and add white beans or halved boiled eggs to keep the protein up."
+  - q: "How long does it keep dressed?"
+    a: "Best within 24 hours — the kefir dressing slowly softens the cabbage after that."
 ---
 
 There's a specific sound that means spring has truly arrived in Ukraine: the sharp, satisfying crunch of the first young kohlrabi of the season. My mum would bring it from the market, its pale green skin still vibrant, and we'd often eat it raw, just sliced with a pinch of salt. It has a delicate, sweet flavour, somewhere between a cabbage heart and a mild turnip, and it’s the star of this salad. This recipe is my way of capturing those first warm days after a long winter, when all you want is something fresh, light, and full of life.

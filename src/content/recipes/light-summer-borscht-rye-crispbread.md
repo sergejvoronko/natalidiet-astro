@@ -47,6 +47,13 @@ steps:
   - "Add vegetable stock, diced potato, and shredded cabbage. Bring to a boil."
   - "Reduce heat to a gentle simmer. Cook uncovered for 20 minutes until potato is tender and cabbage is soft."
   - "Add lemon juice, season with salt and black pepper to taste. Serve immediately topped with fresh dill and a spoon of sour cream if using."
+faqs:
+  - q: "Is summer borscht served hot or cold?"
+    a: "Either. Chilled is classic in summer; hot works any time of year. It's 210 kcal per bowl either way."
+  - q: "How do I keep the beet colour vivid?"
+    a: "Add a splash of vinegar or lemon at the end and avoid hard boiling — long cooking dulls the crimson."
+  - q: "Can I freeze it?"
+    a: "Yes, up to 3 months — freeze without the yogurt topping and add it fresh after reheating."
 ---
 
 Borscht is the dish that defines Ukrainian cuisine — and it's been tragically misunderstood in the West. Real borscht isn't the heavy, rich stew you might imagine. Summer borscht, in particular, is light, bright, and intensely fresh.

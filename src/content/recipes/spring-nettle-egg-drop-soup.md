@@ -59,6 +59,13 @@ steps:
   - "Crack the eggs into a small bowl and beat lightly with a fork. While stirring the soup in a slow, steady circular motion, pour the beaten eggs in a thin, steady stream from a height. The eggs will cook instantly into delicate silky ribbons. Remove the pot from the heat immediately."
   - "Taste the soup and adjust seasoning with additional salt and pepper as needed."
   - "Ladle the soup into four warm bowls. Top each portion with 1 tablespoon of low-fat sour cream (smetana) and a sprinkle of roughly chopped fresh dill. Serve immediately."
+faqs:
+  - q: "How do I pick nettles safely?"
+    a: "Wear gloves and take only the top young leaves, away from roads. The sting disappears completely once they hit hot stock."
+  - q: "What can replace nettles?"
+    a: "Spinach with a squeeze of lemon is closest; sorrel works too and adds its own tang."
+  - q: "Can I freeze the soup?"
+    a: "Yes, 2–3 months. The egg ribbons soften slightly on reheating but the flavour keeps."
 ---
 
 ## A Soup Rooted in Ukrainian Spring Tradition

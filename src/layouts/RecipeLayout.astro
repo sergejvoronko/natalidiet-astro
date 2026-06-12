@@ -3,6 +3,7 @@ import BaseLayout from './BaseLayout.astro';
 import SchemaRecipe from '../components/SchemaRecipe.astro';
 import ShareButtons from '../components/ShareButtons.astro';
 import AuthorBlock from '../components/AuthorBlock.astro';
+import FAQBlock from '../components/FAQBlock.astro';
 import { getCollection } from 'astro:content';
 import RecipeCard from '../components/RecipeCard.astro';
 
@@ -31,6 +32,7 @@ interface Props {
   recipeId: string;
   metaTitle?: string;
   metaDescription?: string;
+  faqs?: { q: string; a: string }[];
 }
 
 const {
@@ -38,7 +40,7 @@ const {
   prepTime, cookTime, totalTime, servings,
   calories, protein, carbs, fat, fibre,
   tags = [], tip, publishDate, ingredients, steps, recipeId,
-  metaTitle, metaDescription,
+  metaTitle, metaDescription, faqs = [],
 } = Astro.props;
 
 const courseColors: Record<string, string> = {
@@ -181,6 +183,7 @@ const hubLinks = tags.filter(t => t in hubMap).map(t => hubMap[t]);
       <div class="prose">
         <slot />
       </div>
+      {faqs.length > 0 && <FAQBlock faqs={faqs} />}
     </div>
 
     <!-- Share + Author -->

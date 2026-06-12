@@ -31,6 +31,13 @@ steps:
   - "Spoon cottage cheese into a bowl."
   - "Top with mixed berries and drizzle with honey."
   - "Sprinkle with chia seeds and serve immediately."
+faqs:
+  - q: "Can I use frozen berries?"
+    a: "Yes. Let them thaw a few minutes and stir the juice in — it sweetens the bowl naturally."
+  - q: "Which cottage cheese works best?"
+    a: "Any plain cottage cheese works; low-fat keeps it at 150 kcal. For a thicker bowl, drain it briefly in a sieve."
+  - q: "Can I prepare it the night before?"
+    a: "Assemble without honey and chia, cover and refrigerate; add both in the morning so the seeds don't swell overnight."
 ---
 
 Tvorog (творог) — the Eastern European equivalent of cottage cheese — has been a dietary staple for centuries. It's high in casein protein, low in fat, and incredibly versatile.

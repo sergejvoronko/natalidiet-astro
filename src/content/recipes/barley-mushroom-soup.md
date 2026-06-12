@@ -53,6 +53,13 @@ steps:
   - "Add the rinsed pearl barley, vegetable stock, strained porcini soaking liquid, and soy sauce. Bring to a boil."
   - "Reduce heat, cover, and simmer for 35–40 minutes until barley is tender and the soup has thickened."
   - "Taste and adjust seasoning. The soy sauce adds depth without making it taste Asian — it should not be identifiable. Serve with a generous scatter of parsley."
+faqs:
+  - q: "Can I make this soup gluten-free?"
+    a: "Pearl barley contains gluten. Swap it for buckwheat groats or brown rice — add them later in the cooking, as both cook faster than barley."
+  - q: "What if I can't find dried porcini?"
+    a: "Use extra chestnut mushrooms plus a teaspoon of soy sauce for the deep umami the porcini normally provide."
+  - q: "How long does it keep?"
+    a: "Up to 4 days in the fridge — the flavour improves overnight. The barley keeps thickening, so loosen with a splash of stock when reheating. Freezes well for 3 months."
 ---
 
 In Poland and Belarus, barley mushroom soup — sometimes called *krupnik* — is the kind of meal that appears at every family table in winter. It is humble, thick, and deeply nourishing. The combination of fresh and dried mushrooms creates a broth that is genuinely complex without any meat.

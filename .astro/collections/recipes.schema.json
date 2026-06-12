@@ -99,6 +99,24 @@
         "type": "string"
       }
     },
+    "faqs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "q": {
+            "type": "string"
+          },
+          "a": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "q",
+          "a"
+        ]
+      }
+    },
     "featured": {
       "default": false,
       "type": "boolean"

@@ -47,6 +47,13 @@ steps:
   - "Pour the kefir dressing over the drained vegetables. Add the chopped fresh dill and spring onions, then toss everything together until evenly coated."
   - "Taste and adjust seasoning — a pinch more salt or a tiny extra splash of apple cider vinegar can brighten the whole thing depending on how sharp your kefir is."
   - "Serve immediately for the crispest texture, or refrigerate for up to 30 minutes before serving. Beyond that, the vegetables start to soften noticeably."
+faqs:
+  - q: "How do I keep surówka from going watery?"
+    a: "Salt the cucumber and let it drain 10 minutes before mixing, and dress just before serving."
+  - q: "How long does it keep?"
+    a: "It's best fresh. Up to a day in the fridge, but expect some liquid at the bottom — give it a stir."
+  - q: "Can I make it vegan?"
+    a: "Yes — unsweetened plant kefir or plant yogurt works in the dressing."
 ---
 
 My mum made this every single Friday in spring, the moment the first bunches of radishes appeared at the market. She'd buy two or three bunches, the kind with the leaves still on and the roots still carrying a little dirt, and by lunchtime there'd be a bowl of this on the table. It sounds almost too simple to be worth writing about — sliced radishes, cucumber, kefir — but somehow it's one of those things I crave more reliably than almost anything else when the weather turns warm.

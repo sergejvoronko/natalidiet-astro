@@ -45,6 +45,13 @@ steps:
   - "Place 1 tsp filling in the centre of each circle. Fold the dough over to form a half-moon. Press edges firmly together, then crimp with your fingers or a fork to seal. Make sure there are no air pockets — these cause bursting during cooking."
   - "Bring a large pot of well-salted water to a boil. Cook varenyky in batches of 10–12 for 4–5 minutes after they float to the surface. Remove with a slotted spoon."
   - "Serve immediately with a small spoonful of low-fat sour cream and extra dill."
+faqs:
+  - q: "Can I freeze varenyky?"
+    a: "Yes — freeze them raw on a floured tray, then bag for up to 3 months. Boil from frozen, adding 2 minutes."
+  - q: "Why does my dough crack?"
+    a: "It needs rest. Cover it for 30 minutes before rolling, and keep unused dough covered while you work."
+  - q: "What's a lighter topping than butter?"
+    a: "Greek yogurt with fresh dill — the classic sour cream experience at a fraction of the calories."
 ---
 
 Varenyky are the soul of Ukrainian cuisine. Every grandmother has her dough recipe, every family has their filling preference — potato is the most traditional, though cottage cheese (tvorog) and sauerkraut are equally beloved.

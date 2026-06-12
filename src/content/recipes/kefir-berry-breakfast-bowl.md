@@ -33,6 +33,13 @@ steps:
   - "Pour kefir into a bowl. Add rolled oats and stir to combine. Let sit for 2 minutes for oats to soften slightly."
   - "Top with mixed berries, drizzle with honey, and sprinkle over flaxseeds."
   - "Serve immediately or prepare overnight in the fridge (oats will soften fully, like overnight oats)."
+faqs:
+  - q: "What can replace kefir?"
+    a: "Plain yogurt thinned with a little milk — the texture matches, though you lose some of kefir's tang."
+  - q: "Can I make it overnight?"
+    a: "Yes — the oats soften into an overnight-oats texture. Add the honey and flaxseed in the morning."
+  - q: "Do frozen berries work?"
+    a: "Yes. Stir them in frozen the night before, or thaw for a few minutes if eating right away."
 ---
 
 Kefir is one of the oldest fermented foods in Eastern Europe — and one of the most powerful. Originally from the Caucasus, it spread through Ukraine, Russia, and Central Europe over centuries.

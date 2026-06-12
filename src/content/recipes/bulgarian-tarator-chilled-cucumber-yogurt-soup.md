@@ -47,6 +47,13 @@ steps:
   - "Taste and adjust seasoning with extra salt or garlic if needed."
   - "Cover the bowl and refrigerate for at least 15 minutes, or up to 2 hours, to let the flavours meld and the soup become thoroughly chilled."
   - "Ladle into four bowls and finish with a scattering of roughly chopped walnuts, a drizzle of extra-virgin olive oil, and a small sprig of fresh dill if desired."
+faqs:
+  - q: "How far ahead can I make tarator?"
+    a: "A few hours chilled is ideal; it keeps up to 2 days, though the garlic gets stronger. Add walnuts and olive oil at serving."
+  - q: "Which yogurt should I use?"
+    a: "Plain full-fat yogurt is traditional. Greek yogurt works too — thin it with extra cold water to a drinkable consistency."
+  - q: "Can I make it vegan?"
+    a: "Yes — use an unsweetened plain plant yogurt. The garlic, dill, and cucumber carry the flavour."
 ---
 
 ## A Bowl of Sunshine from the Balkans

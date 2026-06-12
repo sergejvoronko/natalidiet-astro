@@ -18,6 +18,8 @@ Publish flow: generator writes draft → human approves → recipe added to Astr
 
 **Image step (mandatory):** generator output is often a JPEG/PNG mislabeled as `.webp`, full-res (2400px+, 1.5–3.5MB). Before copying into `public/images/`, convert: `cwebp -q 78 -resize 1600 0 <src> -o public/images/<slug>.webp`. Target ≤250KB. (SEO audit 2026-06-12 found 86 oversized images, 92MB→25MB after batch fix.)
 
+**FAQ step (mandatory):** every recipe gets `faqs:` frontmatter — 3 Q&As (`- q:` / `a:` pairs), grounded in the actual recipe (substitutions, storage/freezing, technique pitfalls). Renders as FAQ section + FAQPage schema via FAQBlock component. Keep titles ≤47 chars or add `metaTitle`/`metaDescription` (meta title ≤60 incl. "| Natali Diet", description ≤155).
+
 If generator reports a pending draft that's already published on the site: verify recipe exists in `src/content/`, append slug to published-slugs.json, delete the draft (confirm with user before delete).
 
 ## Related assets

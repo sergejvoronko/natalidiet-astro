@@ -48,6 +48,13 @@ steps:
   - "Flake the smoked mackerel fillets into large chunks, being careful to remove any small bones you might find. Add the mackerel, sliced radishes, and spring onions to the bowl."
   - "Add the remaining fresh dill and gently fold everything together. Try not to break up the mackerel or potatoes too much."
   - "Taste and adjust the seasoning with more salt, pepper, or lemon juice if needed. You can serve it straight away or let it sit for 20 minutes for the flavours to meld."
+faqs:
+  - q: "Can I use a different fish?"
+    a: "Hot-smoked salmon or trout swap in directly. Tinned mackerel in brine works on a budget — drain well."
+  - q: "When should I dress the potatoes?"
+    a: "While still warm — they absorb the kefir-mustard dressing instead of letting it sit on top."
+  - q: "How long does it keep?"
+    a: "Up to 2 days in the fridge. The dill fades, so add a fresh pinch before serving leftovers."
 ---
 
 The moment new potatoes arrive in the markets, I know that spring has truly started in Poland. My mum made this salad every year, a lighter version of the heavy, mayonnaise-laden potato salads you often see. For us, the classic taste of home was simple boiled new potatoes with a knob of butter and a huge handful of freshly chopped dill (*ziemniaki z koperkiem*). This recipe takes that core memory and turns it into a complete, balanced meal that’s perfect for a healthy lunch.

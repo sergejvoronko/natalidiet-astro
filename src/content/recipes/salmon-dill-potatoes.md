@@ -39,6 +39,13 @@ steps:
   - "Squeeze half the lemon over the salmon. Season with salt and white pepper. Scatter chopped dill generously over both the salmon and potatoes."
   - "Return the tray to the oven for 10–12 minutes until the salmon is cooked through. The skin should be crispy; the flesh should flake at the thickest part."
   - "Serve with lemon wedges alongside."
+faqs:
+  - q: "Can I use frozen salmon?"
+    a: "Yes — thaw it fully and pat it dry, otherwise it steams instead of roasting."
+  - q: "What other fish works?"
+    a: "Trout is the closest match. Cod works too but cooks faster — check it a few minutes early."
+  - q: "Is it good for meal prep?"
+    a: "Keeps 2 days in the fridge. Reheat gently, or flake the salmon cold over the potatoes as a salad."
 ---
 
 This is one of the simplest, most satisfying dinners in Eastern European cooking — and it requires almost no technique. Salmon baked with dill and lemon is a staple across Ukraine, the Baltic states, and Scandinavia, where dill is used as generously as other cuisines use basil.

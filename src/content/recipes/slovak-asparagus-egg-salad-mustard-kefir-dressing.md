@@ -60,6 +60,13 @@ steps:
   - "Spread the mixed salad leaves across a large serving platter or divide among four individual plates. Scatter the halved new potatoes over the leaves, followed by the asparagus pieces."
   - "Arrange the quartered eggs over the salad. Scatter over the thinly sliced radishes and finely sliced spring onions."
   - "Spoon the mustard-kefir dressing generously over the salad. Finish by scattering over the chopped fresh chives and flat-leaf parsley. Serve immediately."
+faqs:
+  - q: "Can I use white asparagus?"
+    a: "Yes — peel it and give it a few minutes longer to cook than green."
+  - q: "What about outside asparagus season?"
+    a: "Green beans are the best off-season stand-in, blanched the same way."
+  - q: "Can I prep it ahead?"
+    a: "Cook the eggs and asparagus a day ahead, but dress just before serving — the kefir dressing softens everything over time."
 ---
 
 ## A Taste of Slovak Spring

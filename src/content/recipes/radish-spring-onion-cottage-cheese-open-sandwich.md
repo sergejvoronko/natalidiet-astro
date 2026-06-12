@@ -45,6 +45,13 @@ steps:
   - "Spoon the cottage cheese mixture generously over each slice of dark rye bread, spreading it all the way to the edges."
   - "Pat the thinly sliced radishes dry with a piece of kitchen paper, then arrange them overlapping in a single layer on top of the cottage cheese."
   - "Finish with a light dusting of sweet paprika over each open sandwich and serve immediately."
+faqs:
+  - q: "My cottage cheese is too watery — what now?"
+    a: "Drain it in a fine sieve for 15–30 minutes; it firms into a proper spread."
+  - q: "Can I use different bread?"
+    a: "Any dense wholegrain works, but dark rye is the classic Czech base and holds the topping best."
+  - q: "Can I make it ahead?"
+    a: "Mix the topping up to a day ahead. Assemble just before eating so the bread doesn't soak through."
 ---
 
 ## A Czech Classic on Your Breakfast Table

@@ -29,6 +29,10 @@ const recipes = defineCollection({
       name: z.string(),
     })),
     steps: z.array(z.string()),
+    faqs: z.array(z.object({
+      q: z.string(),
+      a: z.string(),
+    })).optional(),
     featured: z.boolean().default(false),
   }),
 });

@@ -55,6 +55,13 @@ steps:
   - "Ladle 2 tablespoons of the hot broth into a small bowl, add the sour rye starter, and whisk together until smooth. Pour this tempered mixture back into the soup, stirring constantly. Keep the soup over low heat — do not allow it to boil once the starter is added, as boiling will destroy the probiotic cultures and cause the soup to taste flat."
   - "Taste and adjust seasoning with extra sea salt, freshly ground black pepper, or prepared horseradish as needed. The soup should be tangy, savoury, and gently warming."
   - "Halve the peeled soft-boiled eggs lengthwise. Ladle the żurek into four warm bowls, place two egg halves in each bowl, and top with the thinly sliced radishes and fresh chives. Serve immediately."
+faqs:
+  - q: "What is żurek starter and where do I get it?"
+    a: "Zakwas — fermented rye flour and water, soured 3–5 days at room temperature. Polish shops sell bottled żurek concentrate if you don't want to ferment your own."
+  - q: "Is there a shortcut substitute for the starter?"
+    a: "Nothing matches it exactly. Bottled concentrate is the honest shortcut; rye sourdough starter thinned with water gets you close in a pinch."
+  - q: "Can I make żurek ahead?"
+    a: "The soup base keeps 3 days in the fridge and deepens in flavour. Soft-boil the eggs fresh for each serving."
 ---
 
 ## A Bowl of Spring, Fermented and Slow

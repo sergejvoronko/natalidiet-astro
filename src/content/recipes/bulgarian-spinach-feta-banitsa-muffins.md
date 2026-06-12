@@ -51,6 +51,13 @@ steps:
   - "Press one phyllo square loosely into each muffin hole, scrunching the edges up so they form a rough rustic cup, then spoon the spinach and feta filling in until each cup is about three-quarters full."
   - "Bake for 25–30 minutes until the phyllo edges are deep golden and the filling is just set — a skewer inserted into the centre should come out clean."
   - "Leave the muffins to cool in the tin for 5 minutes before lifting them out carefully with a small palette knife."
+faqs:
+  - q: "Can I freeze banitsa muffins?"
+    a: "Yes, up to 2 months. Reheat in the oven at 160°C to re-crisp the phyllo — the microwave makes it soft."
+  - q: "Does frozen spinach work?"
+    a: "Yes — thaw it fully and squeeze out as much water as you can, or the muffins turn soggy."
+  - q: "What can replace feta?"
+    a: "Bulgarian sirene is the authentic choice. Otherwise any crumbly white cheese — light feta keeps the calories down."
 ---
 
 My mum never called it banitsa muffins, obviously. She called it banitsa, and she made it in a huge round tin every Sunday morning, with enough filling to feed half the neighbourhood. The smell — that particular combination of toasty pastry and warm, slightly salty cheese — would pull everyone out of bed better than any alarm clock. I've been chasing that smell my whole adult life, and these little muffins are the closest I've managed to get on a regular Tuesday when I don't have a large tin, two hours, or frankly the patience.

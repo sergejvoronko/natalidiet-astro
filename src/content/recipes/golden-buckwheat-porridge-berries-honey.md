@@ -38,6 +38,13 @@ steps:
   - "Add water or oat milk and a pinch of salt. Bring to a boil, then reduce heat to low. Cover and simmer for 10–12 minutes until liquid is absorbed and groats are tender."
   - "While buckwheat cooks, warm berries in a small pan or microwave for 1–2 minutes. If using frozen, allow excess liquid to cook off."
   - "Remove from heat and stir in vanilla. Transfer to a bowl, top with warm berries, drizzle with honey, and scatter pumpkin seeds if using. Serve immediately."
+faqs:
+  - q: "Raw or toasted buckwheat groats?"
+    a: "Raw (green) groats give a milder, creamier porridge. Toasted kasha works with the same method but tastes nuttier."
+  - q: "Can I cook the groats ahead?"
+    a: "Yes — cooked buckwheat keeps 3 days in the fridge. Reheat with a splash of milk or oat milk."
+  - q: "How do I make it vegan?"
+    a: "Cook with oat milk and swap honey for maple syrup — same calories, fully plant-based."
 ---
 
 ## Why buckwheat for breakfast?

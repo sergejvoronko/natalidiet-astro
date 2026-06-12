@@ -47,6 +47,13 @@ steps:
   - "In a large bowl, combine potatoes, carrot, sauerkraut, gherkins, and red onion. Add the dressed beetroot and toss gently."
   - "Add remaining oil, apple cider vinegar, dill, salt, and pepper. Toss again. Taste and adjust — it should be slightly tangy, lightly oily, and deeply savoury."
   - "Refrigerate at least 30 minutes before serving. Vinegret improves significantly after a few hours or overnight."
+faqs:
+  - q: "Why oil and not mayonnaise?"
+    a: "Traditional vinegret is dressed with oil — it's the naturally vegan one. The mayo-dressed cousin is Olivier salad."
+  - q: "How do I stop the beetroot staining everything?"
+    a: "Toss the diced beetroot in a little oil separately before combining — the oil seals the colour in."
+  - q: "How long does it keep?"
+    a: "3 days in the fridge, and honestly better on day two once the sauerkraut and gherkins season the vegetables."
 ---
 
 Vinegret is Ukraine's answer to a composed vegetable salad — and one of the most misunderstood dishes in Eastern European cuisine. The name comes from *vinaigrette*, the dressing, not a specific dish. Every family has their version: some add kidney beans, some green peas, some a splash of brine from the gherkin jar.

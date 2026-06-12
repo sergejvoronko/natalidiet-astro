@@ -48,6 +48,13 @@ steps:
   - "Repeat to make 8–10 blini."
   - "Spread each blini with a thin layer of quark or cream cheese. Top with smoked salmon, fresh dill, a squeeze of lemon, and black pepper."
   - "Fold in half or serve flat. Eat immediately."
+faqs:
+  - q: "Are buckwheat blini gluten-free?"
+    a: "Buckwheat is naturally gluten-free — just check the flour is certified gluten-free, as some brands are milled alongside wheat."
+  - q: "No kefir at home?"
+    a: "Use buttermilk, or milk with a teaspoon of lemon juice rested for 10 minutes."
+  - q: "Can I freeze the blini?"
+    a: "Yes — layer cooled blini with baking parchment and freeze. Reheat in a dry pan; top with salmon fresh."
 ---
 
 Blini are Russia's most elegant dish — thin, buckwheat pancakes that serve as the base for almost any topping. Buckwheat flour is naturally gluten-free and has a deep, earthy flavour that complements smoked salmon perfectly.
