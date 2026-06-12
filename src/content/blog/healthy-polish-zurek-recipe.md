@@ -1,8 +1,8 @@
 ---
 title: "Healthy Polish Żurek — Fermented Rye Soup with Eggs (190 kcal, 18g Protein)"
 description: "Żurek is Poland's probiotic-rich fermented rye soup — 190 calories and 18g protein. Includes full instructions for making zakwas (rye starter) at home in 3–5 days."
-metaTitle: "Healthy Polish Żurek — Fermented Rye Soup with Eggs (190 kcal, 18g Protein)"
-metaDescription: "Żurek is Poland's probiotic-rich fermented rye soup — 190 calories and 18g protein. Includes full instructions for making zakwas (rye starter) at home in 3–5 days."
+metaTitle: "Healthy Polish Żurek — Fermented Rye Soup | Natali Diet"
+metaDescription: "Żurek — Poland's probiotic fermented rye soup at 190 calories and 18g protein, with full zakwas starter instructions."
 category: "healthy-soups"
 tags: ["zurek", "polish", "fermented-rye", "probiotic", "easter", "190-calories", "high-protein"]
 pillar: 1

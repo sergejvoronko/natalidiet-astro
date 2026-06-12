@@ -1,7 +1,7 @@
 ---
 title: "Healthy Hungarian Goulash — Lighter Beef Stew (340 kcal, 32g Protein)"
 description: "Healthy Hungarian goulash — 340 calories with lean beef and a deep paprika sauce. The same slow-cooked depth of the original at a fraction of the calories."
-metaTitle: "Healthy Hungarian Goulash — Lighter Beef Stew (340 kcal, 32g Protein)"
+metaTitle: "Healthy Hungarian Goulash — 340 kcal Beef Stew | Natali Diet"
 metaDescription: "Healthy Hungarian goulash — 340 calories with lean beef and a deep paprika sauce. The same slow-cooked depth of the original at a fraction of the calories."
 category: "healthy-main-dishes"
 tags: ["goulash", "hungarian", "beef-stew", "gluten-free", "high-iron", "340-calories"]

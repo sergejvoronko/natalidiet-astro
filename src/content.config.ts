@@ -6,6 +6,8 @@ const recipes = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
+    metaTitle: z.string().optional(),
+    metaDescription: z.string().optional(),
     image: z.string().optional(),
     course: z.enum(['breakfast', 'lunch', 'dinner', 'snack']),
     cuisine: z.string().default('Eastern European'),

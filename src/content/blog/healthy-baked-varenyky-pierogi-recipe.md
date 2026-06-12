@@ -1,8 +1,8 @@
 ---
 title: "Healthy Baked Varenyky / Pierogi — Not Fried! (320 kcal)"
 description: "Varenyky and pierogi baked instead of fried — 320 calories for 5 dumplings. Includes full dough recipe, potato-cottage cheese filling, and how to freeze a full batch."
-metaTitle: "Healthy Baked Varenyky / Pierogi — Not Fried! (320 kcal)"
-metaDescription: "Varenyky and pierogi baked instead of fried — 320 calories for 5 dumplings. Includes full dough recipe, potato-cottage cheese filling, and how to freeze a full batch."
+metaTitle: "Healthy Baked Varenyky (Pierogi) — 320 kcal | Natali Diet"
+metaDescription: "Varenyky and pierogi baked instead of fried — 320 calories for 5 dumplings, with full dough recipe and freezing guide."
 category: "healthy-main-dishes"
 tags: ["varenyky", "pierogi", "ukrainian", "polish", "vegetarian", "baked", "dumplings", "320-calories"]
 pillar: 2

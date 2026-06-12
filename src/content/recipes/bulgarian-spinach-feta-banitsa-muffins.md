@@ -1,6 +1,7 @@
 ---
 title: "Bulgarian Spinach & Feta Banitsa Muffins"
 description: "These flaky, golden muffins pack all the buttery, cheesy comfort of traditional Bulgarian banitsa into a portion-controlled breakfast made with phyllo pastry, fresh spinach, and creamy feta. High in protein and calcium, they keep you full through the morning without weighing you down."
+metaDescription: "Flaky Bulgarian banitsa muffins with spinach and feta — a portion-controlled, high-protein breakfast that keeps you full all morning."
 image: "/images/bulgarian-spinach-feta-banitsa-muffins.webp"
 course: breakfast
 cuisine: "Bulgarian"

@@ -1,6 +1,7 @@
 ---
 title: "Lentil, Beetroot & Walnut Salad"
 description: "A hearty Eastern European salad with green lentils, roasted beetroot, walnuts and fresh parsley in a red wine vinegar dressing. 235 kcal, high in iron and fibre."
+metaDescription: "Eastern European salad of green lentils, roasted beetroot and walnuts in red wine vinegar dressing. 235 kcal, high in iron and fibre."
 course: "lunch"
 cuisine: "Ukrainian"
 prepTime: 10

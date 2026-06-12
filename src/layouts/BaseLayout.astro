@@ -16,6 +16,40 @@ interface Props {
 }
 
 const { title, description, canonical, image, noIndex = false, type = 'website', fullWidth = false } = Astro.props;
+
+const siteUrl = 'https://natalidiet.eu';
+const siteSchema = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      '@id': siteUrl + '/#website',
+      name: 'Natali Diet',
+      url: siteUrl + '/',
+      description: 'Eastern and Central European recipes adapted for healthy eating and weight loss.',
+      publisher: { '@id': siteUrl + '/#organization' },
+      inLanguage: 'en',
+    },
+    {
+      '@type': 'Organization',
+      '@id': siteUrl + '/#organization',
+      name: 'Natali Diet',
+      url: siteUrl + '/',
+      logo: { '@type': 'ImageObject', url: siteUrl + '/images/logo.png' },
+      founder: { '@id': siteUrl + '/about/#natali' },
+    },
+    {
+      '@type': 'Person',
+      '@id': siteUrl + '/about/#natali',
+      name: 'Natali',
+      url: siteUrl + '/about/',
+      image: siteUrl + '/images/natali-profile.webp',
+      jobTitle: 'Recipe Developer & Healthy Eating Author',
+      knowsAbout: ['Eastern European cuisine', 'healthy cooking', 'weight loss nutrition'],
+      worksFor: { '@id': siteUrl + '/#organization' },
+    },
+  ],
+};
 ---
 
 <!doctype html>
@@ -39,6 +73,7 @@ const { title, description, canonical, image, noIndex = false, type = 'website',
     noIndex={noIndex}
     type={type}
   />
+  <script type="application/ld+json" set:html={JSON.stringify(siteSchema)} />
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-08PEV2GJX1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];

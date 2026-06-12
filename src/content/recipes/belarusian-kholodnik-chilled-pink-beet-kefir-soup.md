@@ -1,6 +1,8 @@
 ---
 title: "Belarusian Kholodnik – A Chilled Pink Beet & Kefir Soup for Summer Days"
 description: "This vibrant Belarusian chilled beet soup, known as Kholodnik, is made with kefir, fresh dill, and crunchy cucumber. It's a refreshing, low-calorie meal packed with probiotics to support gut health."
+metaTitle: "Belarusian Kholodnik — Chilled Beet Kefir Soup"
+metaDescription: "Chilled Belarusian beet soup with kefir, dill and cucumber. Low-calorie, probiotic-rich and refreshing — perfect for hot summer days."
 image: "/images/belarusian-kholodnik-chilled-pink-beet-kefir-soup.webp"
 course: lunch
 cuisine: "Ukrainian"

@@ -1,6 +1,8 @@
 ---
 title: "Light Polish New Potato Salad with Smoked Mackerel & Dill"
 description: "This light Polish potato salad combines tender new potatoes with flaky smoked mackerel and a fresh kefir-dill dressing. It’s a protein-packed lunch that will keep you full for hours without feeling heavy."
+metaTitle: "Polish Potato Salad with Smoked Mackerel"
+metaDescription: "Light Polish new potato salad with smoked mackerel and kefir-dill dressing. A high-protein lunch that stays light."
 image: "/images/light-polish-new-potato-salad-smoked-mackerel-dill.webp"
 course: lunch
 cuisine: "Polish"

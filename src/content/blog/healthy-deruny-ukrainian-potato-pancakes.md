@@ -1,8 +1,8 @@
 ---
 title: "Healthy Deruny — Baked Ukrainian Potato Pancakes (130 kcal Each)"
 description: "Healthy deruny baked instead of fried — genuinely crispy at 130 calories each. The secret: squeeze every drop of moisture from the grated potato before baking at 220°C."
-metaTitle: "Healthy Deruny — Baked Ukrainian Potato Pancakes (130 kcal Each)"
-metaDescription: "Healthy deruny baked instead of fried — genuinely crispy at 130 calories each. The secret: squeeze every drop of moisture from the grated potato before baking at 220°C."
+metaTitle: "Healthy Deruny — Ukrainian Potato Pancakes | Natali Diet"
+metaDescription: "Deruny baked instead of fried — genuinely crispy Ukrainian potato pancakes at 130 calories each, with the moisture-squeezing secret."
 category: "traditional-foods-healthy"
 tags: ["deruny", "potato-pancakes", "ukrainian", "baked", "gluten-free", "low-calorie", "130-calories"]
 pillar: 4

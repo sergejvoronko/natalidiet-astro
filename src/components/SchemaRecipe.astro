@@ -13,6 +13,8 @@ interface Props {
   protein: number;
   carbs: number;
   fat: number;
+  fibre?: number;
+  tags?: string[];
   ingredients: Ingredient[];
   steps: string[];
   publishDate: Date;
@@ -20,6 +22,13 @@ interface Props {
 
 const p = Astro.props;
 const siteUrl = 'https://natalidiet.eu';
+
+const dietMap: Record<string, string> = {
+  vegetarian: 'https://schema.org/VegetarianDiet',
+  vegan: 'https://schema.org/VeganDiet',
+  'gluten-free': 'https://schema.org/GlutenFreeDiet',
+};
+const suitableForDiet = [...new Set((p.tags ?? []).filter(t => t in dietMap).map(t => dietMap[t]))];
 
 const schema = {
   '@context': 'https://schema.org',
@@ -35,12 +44,16 @@ const schema = {
   recipeYield: `${p.servings} serving${p.servings > 1 ? 's' : ''}`,
   recipeCategory: 'Healthy',
   recipeCuisine: 'Eastern European',
+  keywords: (p.tags ?? []).join(', ') || undefined,
+  ...(suitableForDiet.length > 0 && { suitableForDiet }),
   nutrition: {
     '@type': 'NutritionInformation',
     calories: `${p.calories} kcal`,
     proteinContent: `${p.protein}g`,
     carbohydrateContent: `${p.carbs}g`,
     fatContent: `${p.fat}g`,
+    ...(p.fibre != null && { fiberContent: `${p.fibre}g` }),
+    servingSize: '1 serving',
   },
   recipeIngredient: p.ingredients.map(i => `${i.amount} ${i.name}`),
   recipeInstructions: p.steps.map((step, i) => ({

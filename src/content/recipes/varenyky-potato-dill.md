@@ -1,6 +1,7 @@
 ---
 title: "Varenyky with Potato & Dill Filling"
 description: "Traditional Ukrainian dumplings filled with mashed potato, caramelised onion and fresh dill. 320 kcal per serving of 8. Lighter than you think, and completely worth the effort."
+metaDescription: "Ukrainian varenyky with potato, caramelised onion and dill. 320 kcal per serving of 8 — lighter than you think."
 course: "dinner"
 cuisine: "Ukrainian"
 prepTime: 40

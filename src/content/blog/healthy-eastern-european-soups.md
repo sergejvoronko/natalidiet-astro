@@ -1,8 +1,8 @@
 ---
 title: "Healthy Eastern European Soups: The Ultimate Guide (2025)"
 description: "The complete hub guide to healthy Eastern European soups — six recipes, healthy swaps, calorie counts, and everything you need to cook lighter versions of these traditional broths."
-metaTitle: "Healthy Eastern European Soups: The Ultimate Guide (2025)"
-metaDescription: "The complete hub guide to healthy Eastern European soups — six recipes, healthy swaps, calorie counts, and everything you need to cook lighter versions of these traditional broths."
+metaTitle: "Healthy Eastern European Soups — Full Guide | Natali Diet"
+metaDescription: "Hub guide to healthy Eastern European soups — six recipes, healthy swaps and calorie counts for lighter traditional broths."
 category: "healthy-soups"
 tags: ["soups", "eastern-european", "healthy", "broths", "weight-loss", "pillar-guide"]
 pillar: 1

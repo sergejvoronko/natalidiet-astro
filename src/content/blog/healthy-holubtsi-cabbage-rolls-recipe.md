@@ -1,8 +1,8 @@
 ---
 title: "Healthy Holubtsi — Ukrainian Stuffed Cabbage Rolls (280 kcal, Meal-Prep Friendly)"
 description: "Ukrainian stuffed cabbage rolls at 280 calories — lean beef-turkey filling, tomato braise instead of sour cream sauce. Excellent for meal prep and freezes beautifully for 3 months."
-metaTitle: "Healthy Holubtsi — Ukrainian Stuffed Cabbage Rolls (280 kcal, Meal-Prep Friendly)"
-metaDescription: "Ukrainian stuffed cabbage rolls at 280 calories — lean beef-turkey filling, tomato braise instead of sour cream sauce. Excellent for meal prep and freezes beautifully for 3 months."
+metaTitle: "Healthy Holubtsi — Ukrainian Cabbage Rolls | Natali Diet"
+metaDescription: "Ukrainian cabbage rolls at 280 calories — lean beef-turkey filling and tomato braise. Meal-prep friendly, freezes for 3 months."
 category: "healthy-main-dishes"
 tags: ["holubtsi", "cabbage-rolls", "ukrainian", "gluten-free", "meal-prep", "freezer-friendly", "280-calories"]
 pillar: 2

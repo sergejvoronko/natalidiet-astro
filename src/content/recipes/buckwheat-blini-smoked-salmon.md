@@ -1,6 +1,7 @@
 ---
 title: "Buckwheat Blini with Smoked Salmon & Dill"
 description: "Thin, golden Russian buckwheat pancakes with smoked salmon and fresh dill. A special-occasion breakfast at 310 calories. Gluten-free and naturally high in protein."
+metaDescription: "Golden buckwheat blini with smoked salmon and dill. Gluten-free, high-protein special-occasion breakfast at 310 calories."
 course: "breakfast"
 cuisine: "Russian / Eastern European"
 prepTime: 15

@@ -1,6 +1,8 @@
 ---
 title: "Spring Nettle and Egg Drop Soup (Krapivnyi Borshch)"
 description: "A vibrant Ukrainian spring soup made with tender young nettles, eggs, and vegetables, delivering a powerful boost of iron, vitamin C, and plant protein in every bowl."
+metaTitle: "Spring Nettle & Egg Drop Soup"
+metaDescription: "Ukrainian spring nettle and egg drop soup — iron, vitamin C and plant protein in one light bowl."
 image: "/images/spring-nettle-egg-drop-soup.webp"
 course: lunch
 cuisine: "Ukrainian"

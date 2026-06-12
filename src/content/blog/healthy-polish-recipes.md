@@ -1,8 +1,8 @@
 ---
 title: "Healthy Polish Recipes — The Complete Guide to Lighter Polish Cooking"
 description: "The complete guide to the healthiest traditional Polish recipes — bigos, żurek, barszcz, gołąbki, pierogi and more. Poland's extraordinary fermented food tradition explained."
-metaTitle: "Healthy Polish Recipes — The Complete Guide to Lighter Polish Cooking"
-metaDescription: "The complete guide to the healthiest traditional Polish recipes — bigos, żurek, barszcz, gołąbki, pierogi and more. Poland's extraordinary fermented food tradition explained."
+metaTitle: "Healthy Polish Recipes — Complete Guide | Natali Diet"
+metaDescription: "The healthiest traditional Polish recipes — bigos, żurek, barszcz, gołąbki, pierogi — plus Poland's fermented food tradition."
 category: "country-recipe-guides"
 tags: ["polish-recipes", "poland", "healthy", "bigos", "zurek", "pierogi", "barszcz", "probiotic"]
 pillar: 5

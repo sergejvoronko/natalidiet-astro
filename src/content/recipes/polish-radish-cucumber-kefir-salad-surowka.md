@@ -1,6 +1,8 @@
 ---
 title: "Polish Radish & Cucumber Kefir Salad (Surówka z Rzodkiewki)"
 description: "A crisp, tangy Polish raw salad made with fresh radishes, cucumber, and a creamy kefir dressing — light enough to eat daily yet filling enough to curb afternoon snacking."
+metaTitle: "Polish Radish & Cucumber Kefir Salad"
+metaDescription: "Crisp Polish surówka of radish and cucumber in creamy kefir dressing — light enough for every day, filling enough to stop snacking."
 image: "/images/polish-radish-cucumber-kefir-salad-surowka.webp"
 course: snack
 cuisine: "Polish"

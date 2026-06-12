@@ -1,8 +1,8 @@
 ---
 title: "Healthy Slovak Pork Tenderloin — The Leanest Eastern European Main (360 kcal, 42g Protein)"
 description: "Slovak-style pork tenderloin marinated in caraway, garlic, and mustard — oven-baked to perfection. 360 calories and 42g protein. The highest-protein recipe on this blog."
-metaTitle: "Healthy Slovak Pork Tenderloin — The Leanest Eastern European Main (360 kcal, 42g Protein)"
-metaDescription: "Slovak-style pork tenderloin marinated in caraway, garlic, and mustard — oven-baked to perfection. 360 calories and 42g protein. The highest-protein recipe on this blog."
+metaTitle: "Healthy Slovak Pork Tenderloin — 42g Protein | Natali Diet"
+metaDescription: "Slovak pork tenderloin in caraway-garlic-mustard marinade — 360 calories, 42g protein. The highest-protein recipe on the blog."
 category: "healthy-main-dishes"
 tags: ["pork-tenderloin", "slovak", "high-protein", "gluten-free", "lean", "360-calories", "caraway"]
 pillar: 2

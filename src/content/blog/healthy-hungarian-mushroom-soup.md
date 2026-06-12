@@ -1,8 +1,8 @@
 ---
 title: "Healthy Hungarian Mushroom Soup — Creamy Without Cream (110 kcal)"
 description: "The lightest soup on the blog at just 110 calories — creamy Hungarian mushroom soup made without cream using a blended-potato technique and off-heat Greek yogurt."
-metaTitle: "Healthy Hungarian Mushroom Soup — Creamy Without Cream (110 kcal)"
-metaDescription: "The lightest soup on the blog at just 110 calories — creamy Hungarian mushroom soup made without cream using a blended-potato technique and off-heat Greek yogurt."
+metaTitle: "Healthy Hungarian Mushroom Soup — 110 kcal | Natali Diet"
+metaDescription: "Creamy Hungarian mushroom soup without cream — 110 calories using a blended-potato technique and off-heat Greek yogurt."
 category: "healthy-soups"
 tags: ["mushroom-soup", "hungarian", "vegan", "gluten-free", "immune-health", "110-calories"]
 pillar: 1

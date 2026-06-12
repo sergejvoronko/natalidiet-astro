@@ -1,7 +1,7 @@
 ---
 title: "Healthy Eastern European Main Dishes: The Complete Guide (2025)"
 description: "The complete guide to making Eastern European main dishes lighter — 6 recipes, master techniques, universal swaps, and a meal planning framework."
-metaTitle: "Healthy Eastern European Main Dishes: The Complete Guide (2025)"
+metaTitle: "Healthy Eastern European Main Dishes — Guide | Natali Diet"
 metaDescription: "The complete guide to making Eastern European main dishes lighter — 6 recipes, master techniques, universal swaps, and a meal planning framework."
 category: "healthy-main-dishes"
 tags: ["main-dishes", "eastern-european", "pillar-guide", "healthy", "weight-loss"]

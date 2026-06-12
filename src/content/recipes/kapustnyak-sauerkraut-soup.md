@@ -1,6 +1,7 @@
 ---
 title: "Kapustnyak — Ukrainian Sauerkraut Soup"
 description: "A deeply satisfying Ukrainian sauerkraut soup. Probiotic-rich, only 175 calories, and ready in 35 minutes. One of Eastern Europe's best-kept weight loss secrets."
+metaDescription: "Ukrainian sauerkraut soup — probiotic-rich, 175 calories, ready in 35 minutes. One of Eastern Europe's best weight-loss dishes."
 course: "lunch"
 cuisine: "Ukrainian"
 prepTime: 10

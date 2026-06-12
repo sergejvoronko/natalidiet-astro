@@ -1,6 +1,7 @@
 ---
 title: "Ukrainian Vinegret — Classic Beetroot Salad"
 description: "The iconic Ukrainian salad: diced beetroot, potato, carrot, sauerkraut and pickled gherkins with a sunflower oil dressing. 195 kcal, naturally vegan, and wonderful cold."
+metaDescription: "Ukrainian vinegret salad: beetroot, potato, carrot, sauerkraut and gherkins in sunflower oil. 195 kcal and naturally vegan."
 course: "lunch"
 cuisine: "Ukrainian"
 prepTime: 15

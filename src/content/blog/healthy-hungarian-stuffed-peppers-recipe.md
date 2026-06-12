@@ -1,7 +1,7 @@
 ---
 title: "Healthy Hungarian Stuffed Peppers — Töltött Paprika (290 kcal, 26g Protein)"
 description: "Hungarian stuffed peppers made healthy — lean turkey filling, brown rice, rich tomato braise. 290 calories per serving and 26g protein. Freezes beautifully."
-metaTitle: "Healthy Hungarian Stuffed Peppers — Töltött Paprika (290 kcal, 26g Protein)"
+metaTitle: "Healthy Hungarian Stuffed Peppers, 290 kcal | Natali Diet"
 metaDescription: "Hungarian stuffed peppers made healthy — lean turkey filling, brown rice, rich tomato braise. 290 calories per serving and 26g protein. Freezes beautifully."
 category: "traditional-foods-healthy"
 tags: ["stuffed-peppers", "hungarian", "töltött-paprika", "turkey", "gluten-free", "290-calories"]

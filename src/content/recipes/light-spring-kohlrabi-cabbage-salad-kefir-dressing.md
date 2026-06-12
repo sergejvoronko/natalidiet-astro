@@ -1,6 +1,8 @@
 ---
 title: "Light Spring Kohlrabi and Cabbage Salad with Kefir Dressing"
 description: "This crisp and refreshing salad combines tender kohlrabi and young spring cabbage with protein-rich chicken and a creamy, probiotic kefir dressing. It's a light yet satisfying meal packed with fibre and gut-friendly bacteria."
+metaTitle: "Kohlrabi & Cabbage Salad with Kefir Dressing"
+metaDescription: "Crisp kohlrabi and spring cabbage salad with chicken and probiotic kefir dressing. Light, high-fibre and gut-friendly."
 image: "/images/light-spring-kohlrabi-cabbage-salad-kefir-dressing.webp"
 course: lunch
 cuisine: "Ukrainian"

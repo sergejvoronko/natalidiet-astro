@@ -1,6 +1,7 @@
 ---
 title: "Pearl Barley & Mushroom Soup"
 description: "A thick, warming Eastern European soup with pearl barley, chestnut mushrooms, dried porcini, and aromatic vegetables. 195 kcal per serving — deeply satisfying and completely plant-based."
+metaDescription: "Thick Eastern European pearl barley and mushroom soup with dried porcini. 195 kcal per serving, plant-based and deeply satisfying."
 course: "lunch"
 cuisine: "Polish"
 prepTime: 15

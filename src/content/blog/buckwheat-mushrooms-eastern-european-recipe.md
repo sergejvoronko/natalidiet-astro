@@ -1,8 +1,8 @@
 ---
 title: "Buckwheat with Forest Mushrooms — Eastern European Superfood Bowl (Vegan, 290 kcal)"
 description: "Buckwheat with forest mushrooms — a deeply earthy, completely plant-based Eastern European main dish. Vegan, gluten-free, 290 calories, 30 minutes, and one of the most nutritious meals you can make."
-metaTitle: "Buckwheat with Forest Mushrooms — Eastern European Superfood Bowl (Vegan, 290 kcal)"
-metaDescription: "Buckwheat with forest mushrooms — a deeply earthy, completely plant-based Eastern European main dish. Vegan, gluten-free, 290 calories, 30 minutes, and one of the most nutritious meals you can make."
+metaTitle: "Buckwheat with Mushrooms — Vegan, 290 kcal | Natali Diet"
+metaDescription: "Earthy buckwheat with forest mushrooms — vegan, gluten-free Eastern European main at 290 calories, ready in 30 minutes."
 category: "healthy-main-dishes"
 tags: ["buckwheat", "mushrooms", "vegan", "gluten-free", "plant-based", "superfood", "290-calories"]
 pillar: 2

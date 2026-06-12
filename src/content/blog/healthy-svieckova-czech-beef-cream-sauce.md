@@ -1,8 +1,8 @@
 ---
 title: "Healthy Svíčková — Czech Braised Beef in Lighter Cream Sauce (380 kcal, 36g Protein)"
 description: "Czech svíčková made healthy — lean beef topside in a root vegetable and yogurt sauce, served with buckwheat instead of dumplings. 380 calories and 36g protein."
-metaTitle: "Healthy Svíčková — Czech Braised Beef in Lighter Cream Sauce (380 kcal, 36g Protein)"
-metaDescription: "Czech svíčková made healthy — lean beef topside in a root vegetable and yogurt sauce, served with buckwheat instead of dumplings. 380 calories and 36g protein."
+metaTitle: "Healthy Svíčková — Czech Beef in Cream Sauce | Natali Diet"
+metaDescription: "Czech svíčková made healthy — lean beef in root vegetable yogurt sauce with buckwheat instead of dumplings. 380 kcal, 36g protein."
 category: "traditional-foods-healthy"
 tags: ["svíčková", "czech", "braised-beef", "cream-sauce", "high-protein", "380-calories", "special-occasion"]
 pillar: 4

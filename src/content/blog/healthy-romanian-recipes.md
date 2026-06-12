@@ -1,8 +1,8 @@
 ---
 title: "Healthy Romanian Recipes — The Complete Guide to Lighter Romanian Cooking"
 description: "The complete guide to the healthiest traditional Romanian recipes — ciorbă, sarmale, mămăligă, mici and more. Romania's extraordinary sour broth tradition, one of Eastern Europe's greatest diet assets."
-metaTitle: "Healthy Romanian Recipes — The Complete Guide to Lighter Romanian Cooking"
-metaDescription: "The complete guide to the healthiest traditional Romanian recipes — ciorbă, sarmale, mămăligă, mici and more. Romania's extraordinary sour broth tradition, one of Eastern Europe's greatest diet assets."
+metaTitle: "Healthy Romanian Recipes — Complete Guide | Natali Diet"
+metaDescription: "The healthiest traditional Romanian recipes — ciorbă, sarmale, mămăligă — and Romania's sour broth tradition explained."
 category: "country-recipe-guides"
 tags: ["romanian-recipes", "romania", "healthy", "ciorbă", "sarmale", "mămăligă", "mici", "sour-soup"]
 pillar: 5

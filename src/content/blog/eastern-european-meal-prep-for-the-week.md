@@ -1,8 +1,8 @@
 ---
 title: "Eastern European Meal Prep for the Week — Complete Sunday Guide"
 description: "The full Sunday meal prep guide — exact timed sequence from 12:00 to 14:45, storage times, and reheating rules for every dish. Have a full week of meals ready in 2.5 hours."
-metaTitle: "Eastern European Meal Prep for the Week — Complete Sunday Guide"
-metaDescription: "The full Sunday meal prep guide — exact timed sequence from 12:00 to 14:45, storage times, and reheating rules for every dish. Have a full week of meals ready in 2.5 hours."
+metaTitle: "Eastern European Meal Prep — Sunday Guide | Natali Diet"
+metaDescription: "Full Sunday meal prep guide — timed sequence, storage times and reheating rules. A week of Eastern European meals in 2.5 hours."
 category: "meal-plans-guides"
 tags: ["meal-prep", "batch-cooking", "sunday", "eastern-european", "storage", "borscht", "paprikash"]
 pillar: 3

@@ -1,6 +1,8 @@
 ---
 title: "Polish Spring Żurek with Soft-Boiled Egg & Radish"
 description: "A light yet deeply satisfying fermented rye soup loaded with soft-boiled eggs, crisp spring radishes, and a whisper of marjoram — żurek delivers gut-friendly probiotics alongside serious staying power in under 300 calories per bowl."
+metaTitle: "Polish Spring Żurek with Egg & Radish"
+metaDescription: "Light fermented rye żurek with soft-boiled egg, radish and marjoram. Probiotic-rich and under 300 calories per bowl."
 image: "/images/polish-spring-zurek-soft-boiled-egg-radish.webp"
 course: lunch
 cuisine: "Polish"

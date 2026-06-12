@@ -1,8 +1,8 @@
 ---
 title: "Healthy Slovak and Czech Recipes — The Complete Guide to Lighter Central European Cooking"
 description: "The complete guide to the healthiest Slovak and Czech recipes — kapustnica, bryndzové halušky, svíčková, kulajda and more. Includes the bryndza technique and knedlíky replacements."
-metaTitle: "Healthy Slovak and Czech Recipes — The Complete Guide to Lighter Central European Cooking"
-metaDescription: "The complete guide to the healthiest Slovak and Czech recipes — kapustnica, bryndzové halušky, svíčková, kulajda and more. Includes the bryndza technique and knedlíky replacements."
+metaTitle: "Healthy Slovak & Czech Recipes — Full Guide | Natali Diet"
+metaDescription: "The healthiest Slovak and Czech recipes — kapustnica, svíčková, kulajda — with bryndza technique and knedlíky replacements."
 category: "country-recipe-guides"
 tags: ["slovak-recipes", "czech-recipes", "central-european", "healthy", "kapustnica", "bryndza", "svíčková", "kulajda"]
 pillar: 5

@@ -1,8 +1,8 @@
 ---
 title: "Healthy Hungarian Recipes — The Complete Guide to Lighter Magyar Cooking"
 description: "The complete guide to the healthiest traditional Hungarian recipes — chicken paprikash, goulash, stuffed peppers, mushroom soup. The paprika bloom technique and every healthy swap explained."
-metaTitle: "Healthy Hungarian Recipes — The Complete Guide to Lighter Magyar Cooking"
-metaDescription: "The complete guide to the healthiest traditional Hungarian recipes — chicken paprikash, goulash, stuffed peppers, mushroom soup. The paprika bloom technique and every healthy swap explained."
+metaTitle: "Healthy Hungarian Recipes — Complete Guide | Natali Diet"
+metaDescription: "The healthiest traditional Hungarian recipes — paprikash, goulash, stuffed peppers — with the paprika bloom technique explained."
 category: "country-recipe-guides"
 tags: ["hungarian-recipes", "hungary", "healthy", "paprikash", "goulash", "paprika", "stuffed-peppers"]
 pillar: 5

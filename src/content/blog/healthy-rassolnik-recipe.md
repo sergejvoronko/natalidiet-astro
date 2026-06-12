@@ -1,8 +1,8 @@
 ---
 title: "Healthy Rassolnik — Ukrainian Pickle Soup for Digestion (145 kcal)"
 description: "Rassolnik — Ukrainian naturally-fermented pickle soup — at just 145 calories. High in electrolytes, gut-supporting, and uniquely flavoured. Use fermented pickles, not vinegar-brined."
-metaTitle: "Healthy Rassolnik — Ukrainian Pickle Soup for Digestion (145 kcal)"
-metaDescription: "Rassolnik — Ukrainian naturally-fermented pickle soup — at just 145 calories. High in electrolytes, gut-supporting, and uniquely flavoured. Use fermented pickles, not vinegar-brined."
+metaTitle: "Healthy Rassolnik — Ukrainian Pickle Soup | Natali Diet"
+metaDescription: "Rassolnik — fermented Ukrainian pickle soup at 145 calories. High in electrolytes and gut-supporting; use fermented pickles."
 category: "healthy-soups"
 tags: ["rassolnik", "pickle-soup", "ukrainian", "digestion", "gut-health", "gluten-free", "145-calories"]
 pillar: 1

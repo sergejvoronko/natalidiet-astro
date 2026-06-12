@@ -1,8 +1,8 @@
 ---
 title: "Healthy Eastern European Recipes by Country — The Complete Guide (2025)"
 description: "A country-by-country guide to the healthiest dishes from Ukraine, Hungary, Slovakia, Czech Republic, Poland, and Romania — what makes each cuisine distinctive and how to cook it lighter."
-metaTitle: "Healthy Eastern European Recipes by Country — The Complete Guide (2025)"
-metaDescription: "A country-by-country guide to the healthiest dishes from Ukraine, Hungary, Slovakia, Czech Republic, Poland, and Romania — what makes each cuisine distinctive and how to cook it lighter."
+metaTitle: "Healthy Eastern European Recipes by Country | Natali Diet"
+metaDescription: "Country-by-country guide to the healthiest dishes of Ukraine, Hungary, Slovakia, Czechia, Poland and Romania — cooked lighter."
 category: "country-recipe-guides"
 tags: ["eastern-european-recipes", "country-guide", "ukraine", "hungary", "poland", "slovakia", "romania"]
 pillar: 5

@@ -1,8 +1,8 @@
 ---
 title: "Healthy Syrniki — Ukrainian Cottage Cheese Pancakes (220 kcal, 18g Protein)"
 description: "Healthy syrniki at 220 calories and 18g protein — low-fat cottage cheese, oat flour, a non-stick pan. The key is draining the cottage cheese for 30–60 minutes before mixing."
-metaTitle: "Healthy Syrniki — Ukrainian Cottage Cheese Pancakes (220 kcal, 18g Protein)"
-metaDescription: "Healthy syrniki at 220 calories and 18g protein — low-fat cottage cheese, oat flour, a non-stick pan. The key is draining the cottage cheese for 30–60 minutes before mixing."
+metaTitle: "Healthy Syrniki — Cottage Cheese Pancakes | Natali Diet"
+metaDescription: "Syrniki at 220 calories and 18g protein — low-fat cottage cheese and oat flour. Key step: drain the cheese 30–60 minutes."
 category: "traditional-foods-healthy"
 tags: ["syrniki", "cottage-cheese-pancakes", "ukrainian", "high-protein", "vegetarian", "breakfast", "220-calories"]
 pillar: 4

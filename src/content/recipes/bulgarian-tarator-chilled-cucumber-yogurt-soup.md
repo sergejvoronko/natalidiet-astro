@@ -1,6 +1,8 @@
 ---
 title: "Bulgarian Tarator — Chilled Cucumber Yogurt Soup"
 description: "This refreshing cold soup blends tangy yogurt, crisp cucumber, garlic, and fresh dill into a bowl that cools you down in minutes. It is naturally low in calories and rich in probiotics, making it an ideal light lunch on warm days."
+metaTitle: "Bulgarian Tarator — Cold Cucumber Yogurt Soup"
+metaDescription: "Cold Bulgarian cucumber-yogurt soup with garlic and dill. Naturally low-calorie, probiotic-rich and ready in minutes."
 image: "/images/bulgarian-tarator-chilled-cucumber-yogurt-soup.webp"
 course: lunch
 cuisine: "Bulgarian"

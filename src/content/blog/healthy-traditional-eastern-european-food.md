@@ -1,8 +1,8 @@
 ---
 title: "Healthy Traditional Eastern European Food — The Complete Makeover Guide (2025)"
 description: "The universal guide to making traditional Eastern European dishes healthier — four core techniques, a dish overview table, and principles applicable to any recipe in this tradition."
-metaTitle: "Healthy Traditional Eastern European Food — The Complete Makeover Guide (2025)"
-metaDescription: "The universal guide to making traditional Eastern European dishes healthier — four core techniques, a dish overview table, and principles applicable to any recipe in this tradition."
+metaTitle: "Healthy Eastern European Food — Makeover Guide | Natali Diet"
+metaDescription: "Four core techniques to make any traditional Eastern European dish healthier, with a dish-by-dish overview table."
 category: "traditional-foods-healthy"
 tags: ["traditional", "makeover", "eastern-european", "healthy-techniques", "pillar-guide"]
 pillar: 4

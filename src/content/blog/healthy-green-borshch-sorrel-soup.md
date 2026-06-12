@@ -1,8 +1,8 @@
 ---
 title: "Healthy Green Borshch — Ukrainian Sorrel Soup (120 kcal, Spring Detox)"
 description: "Ukrainian green borshch is the lightest traditional Eastern European soup at just 120 calories — a vibrant spring sorrel soup with hard-boiled egg. One of the most nutritious bowls you can eat."
-metaTitle: "Healthy Green Borshch — Ukrainian Sorrel Soup (120 kcal, Spring Detox)"
-metaDescription: "Ukrainian green borshch is the lightest traditional Eastern European soup at just 120 calories — a vibrant spring sorrel soup with hard-boiled egg. One of the most nutritious bowls you can eat."
+metaTitle: "Healthy Green Borshch — Sorrel Soup, 120 kcal | Natali Diet"
+metaDescription: "Ukrainian green borshch — the lightest traditional soup at 120 calories. Vibrant spring sorrel soup with hard-boiled egg."
 category: "healthy-soups"
 tags: ["green-borshch", "sorrel-soup", "ukrainian", "spring", "detox", "gluten-free", "120-calories"]
 pillar: 1

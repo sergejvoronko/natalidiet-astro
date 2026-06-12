@@ -1,6 +1,8 @@
 ---
 title: "Radish & Spring Onion Cottage Cheese Open Sandwich (Tvarohový Chlebíček)"
 description: "A classic Czech open sandwich piled high with creamy cottage cheese, crisp radishes, and fresh spring onions on wholesome rye bread. Light yet satisfying, it delivers a high-protein, low-calorie breakfast to fuel your morning without weighing you down."
+metaTitle: "Radish & Cottage Cheese Open Sandwich"
+metaDescription: "Czech open sandwich with cottage cheese, radish and spring onion on rye bread. A high-protein, low-calorie breakfast."
 image: "/images/radish-spring-onion-cottage-cheese-open-sandwich.webp"
 course: breakfast
 cuisine: "Czech"

@@ -1,8 +1,8 @@
 ---
 title: "Healthy Slovak Kapustnica — Lighter Sauerkraut Soup (180 kcal)"
 description: "Slovakia's beloved sauerkraut soup made lighter — lean turkey kielbasa replaces fatty pork, dropping each bowl to 180 calories. All the deep, smoky flavour remains."
-metaTitle: "Healthy Slovak Kapustnica — Lighter Sauerkraut Soup (180 kcal)"
-metaDescription: "Slovakia's beloved sauerkraut soup made lighter — lean turkey kielbasa replaces fatty pork, dropping each bowl to 180 calories. All the deep, smoky flavour remains."
+metaTitle: "Healthy Slovak Kapustnica — Sauerkraut Soup | Natali Diet"
+metaDescription: "Slovak sauerkraut soup made lighter — turkey kielbasa replaces fatty pork at 180 calories per bowl, smoky flavour intact."
 category: "healthy-soups"
 tags: ["kapustnica", "slovak", "sauerkraut", "probiotic", "gluten-free", "christmas", "180-calories"]
 pillar: 1

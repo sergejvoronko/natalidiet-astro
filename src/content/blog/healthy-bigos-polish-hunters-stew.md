@@ -1,7 +1,7 @@
 ---
 title: "Healthy Bigos — Lighter Polish Hunter's Stew (260 kcal, 22g Protein)"
 description: "Healthy bigos — Poland's probiotic-rich national dish at 260 calories. Lean pork tenderloin, turkey kielbasa, double sauerkraut. Tastes best on day 3."
-metaTitle: "Healthy Bigos — Lighter Polish Hunter's Stew (260 kcal, 22g Protein)"
+metaTitle: "Healthy Bigos — Light Polish Hunter's Stew | Natali Diet"
 metaDescription: "Healthy bigos — Poland's probiotic-rich national dish at 260 calories. Lean pork tenderloin, turkey kielbasa, double sauerkraut. Tastes best on day 3."
 category: "traditional-foods-healthy"
 tags: ["bigos", "polish", "hunters-stew", "sauerkraut", "probiotic", "gluten-free", "260-calories"]

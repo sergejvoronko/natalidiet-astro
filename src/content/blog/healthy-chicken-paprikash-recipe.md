@@ -1,8 +1,8 @@
 ---
 title: "Healthy Chicken Paprikash — Low Calorie Hungarian Classic (310 kcal, 38g Protein)"
 description: "Chicken paprikash made healthy — 310 calories and 38g protein using Greek yogurt instead of sour cream. Authentic Hungarian flavour, gluten-free, ready in 45 minutes."
-metaTitle: "Healthy Chicken Paprikash — Low Calorie Hungarian Classic (310 kcal, 38g Protein)"
-metaDescription: "Chicken paprikash made healthy — 310 calories and 38g protein using Greek yogurt instead of sour cream. Authentic Hungarian flavour, gluten-free, ready in 45 minutes."
+metaTitle: "Healthy Chicken Paprikash — 310 kcal | Natali Diet"
+metaDescription: "Chicken paprikash at 310 calories and 38g protein — Greek yogurt replaces sour cream. Authentic, gluten-free, ready in 45 minutes."
 category: "healthy-main-dishes"
 tags: ["chicken-paprikash", "hungarian", "gluten-free", "high-protein", "310-calories", "comfort-food"]
 pillar: 2

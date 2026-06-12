@@ -1,6 +1,8 @@
 ---
 title: "Slovak Asparagus & Egg Salad with Mustard-Kefir Dressing"
 description: "Crisp green asparagus, hard-boiled eggs, and radishes are tossed in a tangy mustard-kefir dressing in this bright Slovak spring salad. High in protein and packed with fibre, it makes a light yet satisfying lunch that supports digestive health."
+metaTitle: "Slovak Asparagus & Egg Salad with Kefir"
+metaDescription: "Slovak spring salad of asparagus, eggs and radish in mustard-kefir dressing. A high-protein, high-fibre light lunch."
 image: "/images/slovak-asparagus-egg-salad-mustard-kefir-dressing.webp"
 course: lunch
 cuisine: "Slovak"

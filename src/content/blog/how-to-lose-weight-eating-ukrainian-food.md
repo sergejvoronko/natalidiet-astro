@@ -1,8 +1,8 @@
 ---
 title: "How to Eat Traditional Ukrainian Food and Still Lose Weight"
 description: "What actually causes weight gain in modern Ukrainian eating, which traditional dishes are already perfect diet food, and the daily framework for losing weight while eating borscht, varenyky, and kefir."
-metaTitle: "How to Eat Traditional Ukrainian Food and Still Lose Weight"
-metaDescription: "What actually causes weight gain in modern Ukrainian eating, which traditional dishes are already perfect diet food, and the daily framework for losing weight while eating borscht, varenyky, and kefir."
+metaTitle: "Eat Ukrainian Food and Still Lose Weight | Natali Diet"
+metaDescription: "What causes weight gain in modern Ukrainian eating, which dishes are already diet food, and a daily framework for losing weight."
 category: "meal-plans-guides"
 tags: ["ukrainian-food", "weight-loss", "diet", "borscht", "kefir", "traditional", "buckwheat"]
 pillar: 3

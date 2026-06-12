@@ -1,8 +1,8 @@
 ---
 title: "7-Day Eastern European Weight Loss Meal Plan (1,400–1,600 kcal/day)"
 description: "A full week of Eastern European weight-loss eating — meal plan table, shopping list, Sunday batch-cook guide, and daily nutrition breakdown. All recipes under 400 kcal."
-metaTitle: "7-Day Eastern European Weight Loss Meal Plan (1,400–1,600 kcal/day)"
-metaDescription: "A full week of Eastern European weight-loss eating — meal plan table, shopping list, Sunday batch-cook guide, and daily nutrition breakdown. All recipes under 400 kcal."
+metaTitle: "7-Day Eastern European Weight Loss Meal Plan | Natali Diet"
+metaDescription: "A full week of Eastern European weight-loss eating — meal plan table, shopping list, batch-cook guide. All recipes under 400 kcal."
 category: "meal-plans-guides"
 tags: ["meal-plan", "weight-loss", "eastern-european", "7-day", "batch-cooking", "1500-calories"]
 pillar: 3

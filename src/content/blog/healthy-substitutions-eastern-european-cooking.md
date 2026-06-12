@@ -1,7 +1,7 @@
 ---
 title: "30 Healthy Substitutions in Eastern European Cooking — Save Calories, Keep Flavour"
 description: "30 proven ingredient swaps for Eastern European cooking — fats, dairy, meat, grains, and flavour. Every swap includes the calorie saving and why it works."
-metaTitle: "30 Healthy Substitutions in Eastern European Cooking — Save Calories, Keep Flavour"
+metaTitle: "30 Healthy Eastern European Food Swaps | Natali Diet"
 metaDescription: "30 proven ingredient swaps for Eastern European cooking — fats, dairy, meat, grains, and flavour. Every swap includes the calorie saving and why it works."
 category: "meal-plans-guides"
 tags: ["ingredient-swaps", "healthy-substitutions", "eastern-european", "calories", "tips", "lard", "sour-cream"]

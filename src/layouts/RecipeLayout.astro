@@ -29,6 +29,8 @@ interface Props {
   ingredients: Ingredient[];
   steps: string[];
   recipeId: string;
+  metaTitle?: string;
+  metaDescription?: string;
 }
 
 const {
@@ -36,6 +38,7 @@ const {
   prepTime, cookTime, totalTime, servings,
   calories, protein, carbs, fat, fibre,
   tags = [], tip, publishDate, ingredients, steps, recipeId,
+  metaTitle, metaDescription,
 } = Astro.props;
 
 const courseColors: Record<string, string> = {
@@ -56,14 +59,22 @@ const allRecipes = await getCollection('recipes');
 const relatedRecipes = allRecipes
   .filter(r => r.id !== recipeId && r.data.course === course)
   .slice(0, 3);
+
+const hubMap: Record<string, { href: string; label: string }> = {
+  kefir: { href: '/kefir-recipes/', label: 'Kefir recipes' },
+  buckwheat: { href: '/buckwheat-recipes/', label: 'Buckwheat recipes' },
+  'cottage-cheese': { href: '/cottage-cheese-recipes/', label: 'Cottage cheese recipes' },
+};
+const hubLinks = tags.filter(t => t in hubMap).map(t => hubMap[t]);
 ---
 
-<BaseLayout title={title} description={description} image={image} type="article">
+<BaseLayout title={metaTitle ?? title} description={metaDescription ?? description} image={image} type="article">
   <SchemaRecipe
     title={title} description={description} image={image}
     prepTime={prepTime} cookTime={cookTime} totalTime={totalTime}
     servings={servings} calories={calories} protein={protein}
-    carbs={carbs} fat={fat} ingredients={ingredients} steps={steps}
+    carbs={carbs} fat={fat} fibre={fibre} tags={tags}
+    ingredients={ingredients} steps={steps}
     publishDate={publishDate}
   />
 
@@ -183,6 +194,12 @@ const relatedRecipes = allRecipes
         If you have a health condition, allergy, or specific nutritional needs, please consult a registered dietitian or your doctor before making dietary changes.
         See our <a href="/disclaimer">full health disclaimer</a>.
       </p>
+      {hubLinks.length > 0 && (
+        <nav class="hub-links" aria-label="Ingredient guides">
+          <span class="hub-links-label">Ingredient guides:</span>
+          {hubLinks.map(h => <a href={h.href} class="pill pill-link">{h.label} →</a>)}
+        </nav>
+      )}
     </div>
 
     {relatedRecipes.length > 0 && (
@@ -360,6 +377,11 @@ const relatedRecipes = allRecipes
   .recipe-date { font-size: 13px; color: var(--nd-muted); display: block; margin-bottom: 12px; }
   .recipe-disclaimer { font-size: 12px; color: var(--nd-muted); line-height: 1.65; font-style: italic; }
   .recipe-disclaimer a { color: var(--nd-terra); text-decoration: underline; text-underline-offset: 2px; }
+
+  .hub-links { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-top: 24px; }
+  .hub-links-label { font-size: 13px; color: var(--nd-muted); }
+  .pill-link { text-decoration: none; }
+  .pill-link:hover { text-decoration: underline; text-underline-offset: 2px; }
 
   .related-recipes {
     max-width: var(--max-w);

@@ -1,8 +1,8 @@
 ---
 title: "Healthy Ukrainian Recipes — The Complete Guide to Light Ukrainian Cooking"
 description: "The 8 healthiest traditional Ukrainian dishes with full recipes, nutrition counts, and cooking techniques — borscht, holubtsi, varenyky, syrniki, vinegret, buckwheat kasha and more."
-metaTitle: "Healthy Ukrainian Recipes — The Complete Guide to Light Ukrainian Cooking"
-metaDescription: "The 8 healthiest traditional Ukrainian dishes with full recipes, nutrition counts, and cooking techniques — borscht, holubtsi, varenyky, syrniki, vinegret, buckwheat kasha and more."
+metaTitle: "Healthy Ukrainian Recipes — Complete Guide | Natali Diet"
+metaDescription: "The 8 healthiest Ukrainian dishes with recipes and nutrition counts — borscht, holubtsi, varenyky, syrniki and more."
 category: "country-recipe-guides"
 tags: ["ukrainian-recipes", "ukraine", "healthy", "borscht", "varenyky", "kefir", "buckwheat", "holubtsi"]
 pillar: 5

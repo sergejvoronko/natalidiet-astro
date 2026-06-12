@@ -2,7 +2,7 @@
 title: "Kefir for Weight Loss: The Eastern European Gut Health Secret"
 description: "Discover how kefir, a fermented milk drink from Eastern Europe, can support your weight loss goals. I'll share how its probiotics improve gut health, reduce cravings, and boost metabolism."
 metaTitle: "Kefir for Weight Loss: An EE Gut Health Secret"
-metaDescription: "Learn how kefir, a probiotic-rich drink from Eastern Europe, can aid weight loss. I explain its impact on gut health, cravings, and metabolism. My personal tips."
+metaDescription: "How kefir aids weight loss — gut health, cravings and metabolism explained, with practical Eastern European tips."
 category: "nutrition"
 tags: ["kefir", "weight loss", "gut health", "probiotics", "eastern european diet"]
 publishDate: 2026-05-22

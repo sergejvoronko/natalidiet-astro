@@ -1,8 +1,8 @@
 ---
 title: "Healthy Borscht Recipe — Low Calorie Ukrainian Beet Soup (160 kcal)"
 description: "A light, authentic Ukrainian borscht at just 160 calories per bowl — olive oil instead of lard, Greek yogurt instead of sour cream. All the deep flavour, far fewer calories."
-metaTitle: "Healthy Borscht Recipe — Low Calorie Ukrainian Beet Soup (160 kcal)"
-metaDescription: "A light, authentic Ukrainian borscht at just 160 calories per bowl — olive oil instead of lard, Greek yogurt instead of sour cream. All the deep flavour, far fewer calories."
+metaTitle: "Healthy Borscht — 160 kcal Ukrainian Beet Soup | Natali Diet"
+metaDescription: "Light, authentic Ukrainian borscht at 160 calories per bowl — olive oil instead of lard, Greek yogurt instead of sour cream."
 category: "healthy-soups"
 tags: ["borscht", "ukrainian", "beet-soup", "healthy", "gluten-free", "vegan", "weight-loss"]
 pillar: 1

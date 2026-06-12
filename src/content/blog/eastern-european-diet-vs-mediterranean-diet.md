@@ -1,8 +1,8 @@
 ---
 title: "Eastern European Diet vs Mediterranean Diet — Which Is Healthier? (2025)"
 description: "An honest, category-by-category comparison — probiotics, omega-3s, cost, research evidence, heart health. With a practical hybrid strategy for the best of both traditions."
-metaTitle: "Eastern European Diet vs Mediterranean Diet — Which Is Healthier? (2025)"
-metaDescription: "An honest, category-by-category comparison — probiotics, omega-3s, cost, research evidence, heart health. With a practical hybrid strategy for the best of both traditions."
+metaTitle: "Eastern European vs Mediterranean Diet | Natali Diet"
+metaDescription: "Category-by-category comparison: probiotics, omega-3s, cost, heart health — plus a hybrid strategy for the best of both diets."
 category: "meal-plans-guides"
 tags: ["mediterranean-diet", "eastern-european-diet", "comparison", "heart-health", "weight-loss", "gut-health"]
 pillar: 3

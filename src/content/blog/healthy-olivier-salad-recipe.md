@@ -1,8 +1,8 @@
 ---
 title: "Healthy Olivier Salad — Eastern European Potato Salad with Yogurt Dressing (180 kcal)"
 description: "Healthy Olivier salad with yogurt-Dijon dressing instead of mayonnaise — 180 calories per serving. The classic Eastern European party salad made lighter, with egg yolks stirred into the yogurt for authentic richness."
-metaTitle: "Healthy Olivier Salad — Eastern European Potato Salad with Yogurt Dressing (180 kcal)"
-metaDescription: "Healthy Olivier salad with yogurt-Dijon dressing instead of mayonnaise — 180 calories per serving. The classic Eastern European party salad made lighter, with egg yolks stirred into the yogurt for authentic richness."
+metaTitle: "Healthy Olivier Salad with Yogurt Dressing | Natali Diet"
+metaDescription: "Olivier salad with yogurt-Dijon dressing instead of mayonnaise — 180 calories, with egg yolks in the dressing for richness."
 category: "traditional-foods-healthy"
 tags: ["olivier-salad", "eastern-european", "potato-salad", "yogurt-dressing", "180-calories", "party-food"]
 pillar: 4

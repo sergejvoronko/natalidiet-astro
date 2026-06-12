@@ -1,6 +1,7 @@
 ---
 title: "Romanian Chicken and Spinach Ciorbă"
 description: "A tangy, nourishing Romanian sour soup made with tender chicken, fresh spinach, and a lemon-egg finish — packed with protein and iron to fuel a balanced, light dinner."
+metaDescription: "Tangy Romanian chicken and spinach ciorbă with a lemon-egg finish. High in protein and iron — a light, nourishing dinner."
 image: "/images/romanian-chicken-spinach-ciorba.webp"
 course: dinner
 cuisine: "Romanian"

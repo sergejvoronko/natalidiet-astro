@@ -1,7 +1,7 @@
 ---
 title: "How to Lose Weight on a Central European Diet — Complete Guide 2025"
 description: "The 5 rules for losing weight on Slovak, Czech, Hungarian, and Polish food — with a food list and a complete sample day at 1,450 calories."
-metaTitle: "How to Lose Weight on a Central European Diet — Complete Guide 2025"
+metaTitle: "Central European Diet to Lose Weight — Guide | Natali Diet"
 metaDescription: "The 5 rules for losing weight on Slovak, Czech, Hungarian, and Polish food — with a food list and a complete sample day at 1,450 calories."
 category: "meal-plans-guides"
 tags: ["central-european", "weight-loss", "diet-guide", "slovak", "czech", "hungarian", "polish"]
