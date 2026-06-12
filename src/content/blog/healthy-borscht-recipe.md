@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-borscht-recipe.webp"
 ---
 
-# Healthy Borscht Recipe — Low Calorie Ukrainian Beet Soup
 Borscht is probably the most famous soup to come out of Eastern Europe — and for very good reason. This deep crimson beet soup is rich, earthy, slightly tangy, and unbelievably satisfying. And the best news for anyone watching their weight? My healthy borscht recipe clocks in at just 160 calories per generous serving, while still delivering everything you love about the original.
 I grew up eating borscht at least twice a week, made by my grandmother in her small Ukrainian kitchen. Her version was wonderful but heavy — full of lard and thick sour cream. Over the years I have developed this lighter version that tastes just as soulful, but works beautifully as part of a healthy eating plan or weight-loss diet.
 

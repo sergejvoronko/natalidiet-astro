@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-hungarian-mushroom-soup.webp"
 ---
 
-# Healthy Hungarian Mushroom Soup — Creamy & Rich at Just 110 Calories
 Hungary is famous for paprika — and for good reason. The deep, slightly smoky sweet paprika that defines Hungarian cuisine works absolute magic in this creamy mushroom soup. Traditionally made with full-fat sour cream and a heavy flour roux, this classic would hit 300+ calories per bowl. My healthy version achieves the same silky, velvety texture and all the flavour complexity for just 110 calories.
 The trick is using a small amount of low-fat Greek yogurt added off the heat, plus a blended potato to create natural creaminess without any cream at all. The result is genuinely indistinguishable from the traditional version — but kind to your waistline.
 

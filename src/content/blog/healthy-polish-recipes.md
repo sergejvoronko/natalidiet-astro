@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-polish-recipes.webp"
 ---
 
-# Healthy Polish Recipes — The Complete Guide to Lighter Polish Cooking
 Polish cuisine is one of Eastern Europe's most internationally recognised food traditions — carried across the world by one of the largest diasporas in Europe and North America. Pierogi in Chicago, bigos in London, żurek in Warsaw, barszcz at Christmas Eve supper — Polish food travels beautifully and is loved globally.
 Polish cooking's great strength for healthy eating is its extraordinary probiotic richness. Sauerkraut, fermented dill pickles, kwas buraczany (fermented beet juice), żurek (fermented rye soup), and kefir-like dairy products are all daily staples of traditional Polish eating. No European cuisine exceeds Poland in the daily volume and variety of fermented foods consumed.
 

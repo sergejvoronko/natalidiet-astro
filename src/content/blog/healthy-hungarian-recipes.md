@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-hungarian-recipes.webp"
 ---
 
-# Healthy Hungarian Recipes — The Complete Guide to Lighter Magyar Cooking
 Hungarian cuisine is built on three pillars: sweet paprika, sour cream, and pork fat (lard). These three ingredients define the distinctive character of Hungarian food — the deep rust-red colour of paprikash, the velvety richness of goulash sauce, the crispy exterior of lángos. They are also, in excess, the primary calorie challenges.
 But the underlying structure of Hungarian cooking is excellent. It is based on lean chicken, veal, and vegetables in richly spiced paprika sauces. The proteins are lean. The vegetables — peppers, tomatoes, onions — are nutritious. The fault lies almost entirely in too much lard and too much full-fat dairy. Fix those two things and Hungarian food becomes a genuinely impressive healthy cuisine.
 

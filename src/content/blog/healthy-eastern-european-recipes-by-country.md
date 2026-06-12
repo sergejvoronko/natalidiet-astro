@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-eastern-european-recipes-by-country.webp"
 ---
 
-# Healthy Eastern European Recipes by Country — The Complete Guide
 Eastern Europe is not a single cuisine — it is a fascinating mosaic of distinct national traditions, each shaped by its landscape, climate, history, and neighbours. Ukrainian food is different from Hungarian food, which is different from Polish food, which is different from Czech and Slovak cooking.
 What they share is a common thread of fermented foods, slow-cooked broths, root vegetables, and hearty proteins that — when approached intelligently — form the basis of some of the most nutritionally impressive and satisfying healthy eating possible. This guide introduces each national tradition and its best lighter dishes.
 

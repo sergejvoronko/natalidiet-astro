@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-slovak-kapustnica-recipe.webp"
 ---
 
-# Healthy Slovak Kapustnica Recipe — Lighter Traditional Sauerkraut Soup
 Kapustnica is Slovakia's most beloved winter soup — a deeply warming, slightly sour sauerkraut soup traditionally served at Christmas Eve dinner and throughout the cold months. In its classic form it can be quite rich, made with fatty pork and generous amounts of smoked sausage. My lighter version keeps every bit of the complex, tangy flavour but cuts calories nearly in half.
 The secret weapon in kapustnica is sauerkraut — fermented cabbage that is one of the most powerful probiotic foods in Central European cooking. This makes kapustnica not just a diet-friendly soup, but a genuine gut-health meal.
 

@@ -12,7 +12,6 @@ image: "/images/blog/healthy-syrniki-recipe.webp"
 canonical: "https://natalidiet.eu/recipes/syrniki-cottage-cheese-pancakes/"
 ---
 
-# Healthy Syrniki — Ukrainian Cottage Cheese Pancakes (220 kcal, 18g Protein)
 Syrniki are Ukrainian cottage cheese pancakes — soft, slightly tangy, golden on the outside, creamy inside. Eaten across Eastern Europe for breakfast, made from tvaroh (farmer's cheese), eggs, and a small amount of flour.
 Syrniki are already one of the healthiest traditional Ukrainian breakfasts. The base is mostly protein-rich cottage cheese and egg. My version simply optimises what is already there: low-fat cottage cheese, oat flour instead of white, and a non-stick pan with minimal oil. Result: 220 calories with 18g protein per serving.
 

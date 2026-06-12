@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Page Not Found"
+  description="This page doesn't exist. Browse healthy Eastern European recipes, meal plans, and the blog instead."
+  noIndex={true}
+>
+  <div class="notfound-page">
+    <span class="section-label">404</span>
+    <h1 class="notfound-title">This page got<br><em>eaten.</em></h1>
+    <p class="notfound-lead">
+      The page you're looking for doesn't exist or has moved. Try one of these instead:
+    </p>
+    <nav class="notfound-links">
+      <a href="/recipes/" class="btn btn-primary">Browse recipes</a>
+      <a href="/meal-plans/" class="btn btn-secondary">Meal plans</a>
+      <a href="/blog/" class="btn btn-secondary">Read the blog</a>
+    </nav>
+  </div>
+</BaseLayout>
+
+<style>
+  .notfound-page {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 6rem 1.5rem 8rem;
+    text-align: center;
+  }
+  .notfound-title {
+    font-size: clamp(2.5rem, 6vw, 4rem);
+    line-height: 1.1;
+    margin: 1rem 0 1.5rem;
+  }
+  .notfound-lead {
+    margin-bottom: 2.5rem;
+    color: var(--color-text-muted, #666);
+  }
+  .notfound-links {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+</style>

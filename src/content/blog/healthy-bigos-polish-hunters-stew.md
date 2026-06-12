@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-bigos-polish-hunters-stew.webp"
 ---
 
-# Healthy Bigos — Lighter Polish Hunter's Stew (260 kcal, 22g Protein)
 Bigos is Poland's national dish — a slow-cooked stew of sauerkraut, fresh cabbage, mixed meats, dried mushrooms, and red wine. One of the most complex, deeply layered dishes in all of Eastern European cooking.
 The health challenge with traditional bigos is the fatty smoked meats. My version replaces these with lean pork tenderloin and lean turkey kielbasa, doubles the sauerkraut content for more probiotics and fibre, and still produces the deep, smoke-and-acid flavour that makes bigos one of Eastern Europe's great comfort foods.
 

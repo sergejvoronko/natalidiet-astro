@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/7-day-eastern-european-weight-loss-meal-plan.webp"
 ---
 
-# 7-Day Eastern European Weight Loss Meal Plan (1,400–1,600 kcal/day)
 What if your weight-loss diet was built not on bland salads and tasteless diet shakes, but on the warming, deeply satisfying traditional food of Ukraine, Slovakia, Hungary, and Poland? Borscht. Goulash. Stuffed cabbage rolls. Buckwheat with forest mushrooms. Chicken paprikash.
 That is exactly what this 7-day meal plan delivers. Built entirely from Eastern and Central European recipes — lightened with the healthy cooking techniques I use throughout this blog — every day sits between 1,400 and 1,600 calories with strong protein levels to preserve muscle and plenty of fibre to keep you full.
 

@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-traditional-eastern-european-food.webp"
 ---
 
-# Healthy Traditional Eastern European Food — The Complete Makeover Guide
 Traditional Eastern European food is, in many ways, already healthy. The problem is not the cuisine — it is how it evolved over the 20th century. Soviet-era food shortages made fat the primary calorie source. Post-communist access to cheap refined carbohydrates changed eating patterns. The loss of traditional small-portion wisdom followed.
 This pillar is about going back. Back to the authentic roots of these dishes — stripping away the accumulated layers of excess fat and poor-quality ingredients, and revealing the genuinely nourishing food that was always underneath.
 

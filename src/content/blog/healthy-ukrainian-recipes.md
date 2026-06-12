@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-ukrainian-recipes.webp"
 ---
 
-# Healthy Ukrainian Recipes — The Complete Guide to Light Ukrainian Cooking
 Ukrainian cuisine is one of the most diverse, regional, and seasonally rooted food traditions in all of Europe. It spans from the fertile black-earth heartland of central Ukraine (grains, beets, pork) to the Carpathian highlands (mushrooms, trout, fermented dairy) to the Black Sea coast (fish, fresh herbs, lighter preparations). The diversity is extraordinary.
 For healthy cooking, Ukrainian food has a remarkable asset: the traditional daily diet is built on fermented foods, whole grains (buckwheat and rye), hearty vegetable soups, and simply prepared proteins. The unhealthy aspects — lard as primary cooking fat, very fatty pork, heavy smetana portions — are genuinely the minority, and easy to modify.
 

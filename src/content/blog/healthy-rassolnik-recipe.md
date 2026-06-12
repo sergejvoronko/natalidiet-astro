@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-rassolnik-recipe.webp"
 ---
 
-# Healthy Rassolnik — Ukrainian Pickle Soup for Digestion (145 kcal)
 Of all the soups in this pillar, rassolnik is perhaps the most surprising to Western palates — a soup made with pickled cucumbers and their brine. Yet this is one of Ukraine's most traditional and beloved soups, with centuries of history behind it. And once you taste it, the tangy, herby, deeply warming broth becomes completely addictive.
 Rassolnik is only 145 calories per generous serving, and the pickle brine base gives it extraordinary electrolyte content — making it an ideal recovery soup after illness, intense exercise, or when your digestion needs a reset.
 

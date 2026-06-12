@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-hungarian-stuffed-peppers-recipe.webp"
 ---
 
-# Healthy Hungarian Stuffed Peppers — Töltött Paprika (290 kcal, 26g Protein)
 Töltött paprika — Hungarian stuffed peppers — are sweet pointed peppers filled with seasoned meat and rice, braised slowly in a rich tomato sauce. One of Hungary's most beloved home-cooked dishes, and the kind of food that makes a whole apartment smell incredible on a Sunday afternoon.
 The traditional recipe is already quite well-balanced. My healthy changes: lean turkey mince instead of pork, a small amount of brown rice, and a light-handed tomato sauce. The result is 290 calories per serving — two generously filled peppers — with excellent protein.
 

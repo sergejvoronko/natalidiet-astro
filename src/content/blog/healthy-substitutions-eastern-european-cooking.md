@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-substitutions-eastern-european-cooking.webp"
 ---
 
-# 30 Healthy Substitutions in Eastern European Cooking — Save Calories, Keep Flavour
 This is the reference guide I wish I had when I started cooking Eastern European food the healthy way. After years of recipe testing and occasionally making dreadful mistakes in the name of health, I have found the swaps that genuinely work — that preserve the authentic character of this cuisine while dramatically reducing calories and unhealthy fats.
 Save this page. Return to it whenever you are adapting a recipe from your grandmother's collection, a Slovak cookbook, or a Ukrainian family recipe that you love.
 

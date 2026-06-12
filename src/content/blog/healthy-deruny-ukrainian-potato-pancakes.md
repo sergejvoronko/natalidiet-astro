@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-deruny-ukrainian-potato-pancakes.webp"
 ---
 
-# Healthy Deruny — Baked Ukrainian Potato Pancakes (130 kcal Each, Crispy Without the Oil)
 Deruny are Ukrainian potato pancakes — crispy, golden, deeply satisfying, traditionally cooked in generous oil until the edges are lace-thin and crunchy. A beloved traditional dish eaten for breakfast, as a starter, or as a light lunch with smetana and chives.
 Traditional deruny can be 350–450 calories for three pancakes. My baked version comes in at approximately 130 calories each — 390 calories for three — with a genuinely crispy exterior and all the authentic flavour. The entire secret is in the moisture removal technique.
 

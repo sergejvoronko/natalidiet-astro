@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-chicken-paprikash-recipe.webp"
 ---
 
-# Healthy Chicken Paprikash — Low Calorie Hungarian Classic (310 kcal, 38g Protein)
 Chicken paprikash — csirkepaprikás in Hungarian — is one of Central Europe's greatest comfort foods. Succulent chicken pieces cooked in a sauce so deeply flavoured with sweet Hungarian paprika that the whole kitchen turns a gorgeous rust-red colour. Traditionally, the sauce is made rich and velvety with full-fat sour cream.
 My healthy version uses low-fat Greek yogurt added off the heat — a swap so seamless that even Hungarian grandmothers have been fooled. The result is 310 calories and 38 grams of protein per serving: a high-protein, deeply satisfying meal that fits beautifully into any healthy eating or weight-loss plan.
 

@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-svieckova-czech-beef-cream-sauce.webp"
 ---
 
-# Healthy Svíčková — Czech Braised Beef in Lighter Cream Sauce (380 kcal, 36g Protein)
 Svíčková na smetaně is arguably the Czech Republic's most celebrated national dish. Thinly sliced braised beef in a velvety sauce of root vegetables and cream, topped traditionally with whipped cream and cranberry jam, served with bread dumplings.
 A restaurant portion can reach 900–1,000 calories. My healthy version makes targeted changes: lean beef topside, a yogurt-thickened vegetable-purée sauce instead of heavy cream, and buckwheat in place of bread dumplings. Result: 380 calories and 36g protein — all the warmth and elegance of the original at less than half the calories.
 

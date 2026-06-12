@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/central-european-diet-to-lose-weight.webp"
 ---
 
-# How to Lose Weight on a Central European Diet — The Complete Guide
 Slovakia, Czech Republic, Hungary, Poland — Central Europe is a region of magnificent food culture. Smoked paprika, caraway seeds, sauerkraut, hearty dumplings, dark rye bread. Also, historically, a region with above-average rates of obesity and cardiovascular disease linked to diets high in animal fat, fried foods, and refined carbohydrates.
 Here is the important nuance: the traditional Central European diet — before post-war industrialisation changed food patterns — was actually well-structured for health. Rich in fermented foods, whole grains, root vegetables, and simply prepared meats. The cuisine itself is not the problem. What happened to it over the past 50 years is the problem.
 

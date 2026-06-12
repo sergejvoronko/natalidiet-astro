@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/how-to-lose-weight-eating-ukrainian-food.webp"
 ---
 
-# How to Eat Traditional Ukrainian Food and Still Lose Weight
 This is a question I am asked constantly — by Ukrainian women living abroad who miss their food, by people whose Ukrainian grandmothers cooked for them and who want to honour that tradition, and by anyone who has ever tasted borscht and thought: surely this cannot be diet food.
 My answer is always the same: not only is it possible to lose weight eating Ukrainian food, it is one of the most sustainable and satisfying ways to do it. Ukrainian cuisine at its traditional core was built on exactly the principles that modern nutrition science endorses: fermented foods, high-fibre vegetables, slow-cooked broths, and minimal processing.
 

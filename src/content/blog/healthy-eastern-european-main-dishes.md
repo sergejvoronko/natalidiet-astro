@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-eastern-european-main-dishes.webp"
 ---
 
-# Healthy Eastern European Main Dishes: The Complete Guide
 Eastern European main dishes have a reputation for being hearty, rich, and indulgent — and yes, the traditional versions often are. A classic Hungarian goulash swimming in lard, stuffed cabbage rolls smothered in fatty sour cream, or deep-fried pierogi — these are soul-satisfying meals that nobody wants to give up.
 But here is what I have learned after years of cooking this food the healthy way: you do not have to give any of it up. The bold, complex flavours of Eastern and Central European cooking come from spices, slow cooking, fermentation, and technique — not from fat and excess calories. With the right swaps and a few smart techniques, every dish in this guide comes in under 400 calories per serving and tastes every bit as magnificent as the original.
 This cornerstone guide introduces you to the six main dishes in this pillar. Each one has its own dedicated recipe page with full step-by-step instructions, nutrition breakdown, meal prep tips, and FAQs. Use this page as your launchpad.

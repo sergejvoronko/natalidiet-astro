@@ -6,6 +6,7 @@ import { getCollection } from 'astro:content';
 
 interface Props {
   title: string;
+  headline?: string;
   description: string;
   publishDate: Date;
   category: string;
@@ -16,7 +17,43 @@ interface Props {
   noIndex?: boolean;
 }
 
-const { title, description, publishDate, category, tags = [], image, postId, canonical, noIndex } = Astro.props;
+const { title, headline = Astro.props.title, description, publishDate, category, tags = [], image, postId, canonical, noIndex } = Astro.props;
+
+const siteUrl = 'https://natalidiet.eu';
+const pageUrl = canonical ?? siteUrl + Astro.url.pathname;
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline,
+  description,
+  image: image ? siteUrl + image : siteUrl + '/og-default.jpg',
+  datePublished: publishDate.toISOString(),
+  dateModified: publishDate.toISOString(),
+  url: pageUrl,
+  mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+  author: {
+    '@type': 'Person',
+    name: 'Natali',
+    url: siteUrl + '/about/',
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Natali Diet',
+    url: siteUrl,
+    logo: { '@type': 'ImageObject', url: siteUrl + '/images/logo.png' },
+  },
+  articleSection: category.replace(/-/g, ' '),
+  keywords: tags.join(', '),
+};
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: siteUrl + '/' },
+    { '@type': 'ListItem', position: 2, name: 'Blog', item: siteUrl + '/blog/' },
+    { '@type': 'ListItem', position: 3, name: headline, item: pageUrl },
+  ],
+};
 
 const formattedDate = publishDate.toLocaleDateString('en-GB', {
   day: 'numeric', month: 'long', year: 'numeric',
@@ -36,6 +73,8 @@ const relatedPosts = allPosts
 ---
 
 <BaseLayout title={title} description={description} image={image} type="article" canonical={canonical} noIndex={noIndex}>
+  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
   <article class="blog-article">
     <header
       class="article-header"
@@ -47,7 +86,7 @@ const relatedPosts = allPosts
           <a href="/blog" class="back-link">← Blog</a>
           <span class="article-category pill">{category.replace(/-/g, ' ')}</span>
         </div>
-        <h1 class="article-title">{title}</h1>
+        <h1 class="article-title">{headline}</h1>
         <p class="article-desc">{description}</p>
         <div class="article-byline">
           <time datetime={publishDate.toISOString()}>{formattedDate}</time>

@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/eastern-european-meal-prep-for-the-week.webp"
 ---
 
-# Eastern European Meal Prep for the Week — Complete Sunday Guide
 Eastern European cooking was batch cooking long before 'meal prep' became a lifestyle trend. Borscht was made in a giant pot that lasted days and tasted better each time. Holubtsi were assembled by the dozen. Buckwheat was cooked once and reheated in multiple forms — side dish, breakfast porridge, lunch bowl. This cuisine was designed for efficiency and for making the most of every ingredient.
 In this guide I will show you exactly how I structure my Sunday prep session — the sequence, the timings, the storage rules, and the reheating techniques — to have a full week of healthy Eastern European meals ready with just 2–2.5 hours of active cooking on Sunday.
 

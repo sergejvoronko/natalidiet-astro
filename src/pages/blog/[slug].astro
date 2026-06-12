@@ -17,6 +17,7 @@ const d = post.data;
 
 <BlogLayout
   title={d.metaTitle ?? d.title}
+  headline={d.title}
   description={d.metaDescription ?? d.description}
   publishDate={d.publishDate}
   category={d.category}

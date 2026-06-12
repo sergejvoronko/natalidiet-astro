@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-romanian-recipes.webp"
 ---
 
-# Healthy Romanian Recipes — The Complete Guide to Lighter Romanian Cooking
 Romanian cuisine is the least internationally known of the Eastern European food traditions covered in this blog — and one of the most fascinating from a healthy-cooking perspective. Romania sits at the crossroads of Eastern Europe, the Balkans, and the Ottoman food world, producing a cuisine that is simultaneously familiar and completely distinctive.
 Romania's greatest gift to healthy Eastern European eating is ciorbă — a family of sour, broth-based soups made with fermented bran water (borș), lemon juice, or vinegar. These are among the lightest, most complex, most beautiful soups in all of European cooking — and they are almost entirely unknown outside Romania.
 

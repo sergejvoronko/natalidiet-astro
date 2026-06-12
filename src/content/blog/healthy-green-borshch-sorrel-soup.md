@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-green-borshch-sorrel-soup.webp"
 ---
 
-# Healthy Green Borshch — Ukrainian Sorrel Soup (Spring Detox Recipe)
 While red borscht gets all the international attention, there is another Ukrainian soup that locals know and love just as passionately: green borshch. Made with sorrel — a bright, lemony wild green — this is the soup that Ukrainians turn to in spring when the first plants emerge from the soil. It is lighter, fresher, and arguably more nutritious than its crimson cousin.
 At just 120 calories per bowl and bursting with vitamin C, iron, and chlorophyll, green borshch is the ultimate spring detox meal. And because it comes together in under 30 minutes, it is one of the easiest weeknight soups you can make.
 

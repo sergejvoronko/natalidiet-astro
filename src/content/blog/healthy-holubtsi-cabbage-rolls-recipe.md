@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-holubtsi-cabbage-rolls-recipe.webp"
 ---
 
-# Healthy Holubtsi — Ukrainian Stuffed Cabbage Rolls (280 kcal, Meal-Prep Friendly)
 Holubtsi — pronounced ho-LOOB-tsi — are Ukrainian stuffed cabbage rolls, and they are one of the most beloved dishes across all of Eastern Europe. Known as gołąbki in Poland, sarmale in Romania, and sarma across the Balkans, these little bundles of comfort food appear on holiday tables from Warsaw to Odesa, from Bratislava to Bucharest.
 The traditional recipe is already surprisingly wholesome — it is essentially seasoned meat and rice wrapped in cabbage. My healthy version makes a few strategic tweaks: I use a lean beef and turkey mix, add more vegetables to the filling, and cook the rolls in a light tomato sauce rather than a heavy sour cream sauce. The result is 280 calories per serving (2 rolls) with excellent protein and fibre.
 

@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-baked-varenyky-pierogi-recipe.webp"
 ---
 
-# Healthy Baked Varenyky / Pierogi — The Diet-Friendly Dumpling (320 kcal)
 Varenyky and pierogi are essentially the same beloved dumpling — varenyky (вареники) is the Ukrainian name, pierogi (pierogi) is Polish. Both are filled pasta pockets, usually stuffed with potato and cheese, sauerkraut and mushroom, or sweet cottage cheese. They are among the most universally adored foods in all of Eastern Europe.
 Traditionally they are boiled and then pan-fried in butter until golden and crispy. Delicious — but calorie-dense. My healthy approach keeps the boiling step but replaces the butter-fry with a light oven bake, brushed with a tiny amount of olive oil. The outside gets beautifully golden and slightly crisp. The inside stays pillowy and creamy. And the calorie saving is significant.
 

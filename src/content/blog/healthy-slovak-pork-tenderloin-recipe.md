@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-slovak-pork-tenderloin-recipe.webp"
 ---
 
-# Healthy Slovak Pork Tenderloin — The Leanest Eastern European Main (360 kcal, 42g Protein)
 Pork is the backbone of Slovak and Central European cuisine. Traditional Slovak pork dishes are often quite fatty — braised pork shoulder, roasted pork knuckle, fatty pork ribs. Delicious, but heavy. However, there is one cut of pork that is genuinely lean and naturally diet-friendly: the tenderloin.
 Pork tenderloin is one of the leanest proteins you can buy — leaner than chicken breast by some measures, with exceptional flavour when properly cooked. In Slovak cooking it is traditionally marinated in caraway, garlic, and mustard — a combination that is both intensely aromatic and powerfully satisfying. At 360 calories and 42 grams of protein per serving, this is the highest-protein dish in this entire pillar.
 

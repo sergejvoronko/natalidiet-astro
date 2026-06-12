@@ -11,7 +11,6 @@ featured: false
 image: "/images/blog/healthy-polish-zurek-recipe.webp"
 ---
 
-# Healthy Polish Zurek — Fermented Rye Soup with Eggs & Sausage
 Zurek (pronounced ZOO-rek) is Poland's most iconic and distinctive soup — a cloudy, tangy, deeply savoury broth made from fermented rye flour starter. It is one of those tastes that divides people on first encounter and then completely wins them over. If you have ever wondered what it would taste like if sourdough bread became a soup, zurek is your answer.
 Traditional zurek can be heavy — served in bread bowls loaded with thick sausage and hard-boiled eggs. My healthy version keeps the glorious tangy flavour and protein-rich eggs but uses lean turkey sausage, reduces the fat dramatically, and serves it in a regular bowl for a satisfying, nutritious meal at just 190 calories.
 
