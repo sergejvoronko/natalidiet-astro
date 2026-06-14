@@ -45,13 +45,17 @@ const navItems = [
     background: rgba(250, 246, 239, 0.95);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-    border-bottom: 1px solid rgba(196, 98, 58, 0.1);
-    transition: padding 0.3s;
+    border-bottom: 1px solid rgb(var(--nd-terra-rgb) / 0.1);
+    transition: padding 0.3s, box-shadow 0.3s;
     animation: slideDown 0.7s ease both;
     height: var(--nav-height);
   }
 
-  .nd-header.scrolled { padding-top: 6px; padding-bottom: 6px; }
+  .nd-header.scrolled {
+    padding-top: 6px; padding-bottom: 6px;
+    box-shadow: 0 6px 28px rgb(var(--nd-forest-rgb) / 0.08);
+    border-bottom-color: rgb(var(--nd-terra-rgb) / 0.16);
+  }
 
   .nav-logo {
     display: flex; align-items: center; gap: 12px;

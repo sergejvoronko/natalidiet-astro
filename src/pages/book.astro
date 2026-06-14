@@ -1,5 +1,14 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import FAQBlock from '../components/FAQBlock.astro';
+
+const bookFaqs = [
+  { q: 'Is this a one-time purchase or a subscription?', a: 'One-time payment of €19.99. No subscription, no recurring charges — you pay once and the book is yours to keep.' },
+  { q: 'What format is the book and what devices does it work on?', a: 'A downloadable PDF. It opens on any phone, tablet, laptop, or e-reader, and you can print it if you prefer cooking from paper.' },
+  { q: 'How quickly do I get it after buying?', a: 'Instantly. The download link is delivered the moment your payment goes through — no waiting for shipping.' },
+  { q: 'Do I need special ingredients or equipment?', a: 'No. Every recipe uses ordinary supermarket ingredients and standard kitchen equipment. The 32 recipes are built around real Eastern European staples like kefir, buckwheat, cottage cheese, and seasonal vegetables.' },
+  { q: 'What if it is not for me?', a: '30-day money-back guarantee, no questions asked. If the book is not a fit, email contact@natalidiet.eu within 30 days for a full refund.' },
+];
 ---
 
 <BaseLayout
@@ -81,11 +90,22 @@ import BaseLayout from '../layouts/BaseLayout.astro';
             { text: 'I had no idea buckwheat could taste this good. My gut health has improved dramatically.', name: 'James T.', loc: 'London, UK' },
           ].map(t => (
             <div class="mini-testi">
+              <div class="mini-stars" aria-label="5 out of 5 stars">★★★★★</div>
               <p class="mini-text">"{t.text}"</p>
-              <div class="mini-author">{t.name} · {t.loc}</div>
+              <div class="mini-author">
+                <span class="mini-avatar" aria-hidden="true">{t.name.charAt(0)}</span>
+                <span>{t.name} · {t.loc}</span>
+              </div>
             </div>
           ))}
         </div>
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="book-faq-section">
+      <div class="book-faq-inner">
+        <FAQBlock faqs={bookFaqs} />
       </div>
     </section>
 
@@ -140,7 +160,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   .inside-inner { max-width: var(--max-w); margin: 0 auto; }
   .inside-header { text-align: center; margin-bottom: 60px; }
   .inside-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
-  .inside-card { background: var(--nd-warm-white); border-radius: 20px; padding: 32px; box-shadow: var(--shadow-card); }
+  .inside-card { background: var(--nd-warm-white); border-radius: 20px; padding: 32px; box-shadow: var(--shadow-card); transition: transform 0.25s, box-shadow 0.25s; }
+  .inside-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-hover); }
   .inside-icon { font-size: 40px; margin-bottom: 16px; }
   .inside-title { font-family: var(--font-serif); font-size: 19px; font-weight: 700; color: var(--nd-forest); margin-bottom: 10px; }
   .inside-desc { font-size: 14px; color: var(--nd-muted); line-height: 1.65; font-weight: 300; }
@@ -148,9 +169,15 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   .book-testi { background: #F2ECE3; padding: 80px 48px; }
   .book-testi-inner { max-width: var(--max-w); margin: 0 auto; }
   .testi-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
-  .mini-testi { background: #fff; border-radius: 16px; padding: 28px; box-shadow: var(--shadow-card); }
-  .mini-text { font-size: 15px; font-style: italic; color: var(--nd-text); line-height: 1.7; font-weight: 300; margin-bottom: 16px; }
-  .mini-author { font-size: 13px; font-weight: 600; color: var(--nd-muted); }
+  .mini-testi { background: #fff; border-radius: 16px; padding: 28px; box-shadow: var(--shadow-card); transition: transform 0.25s, box-shadow 0.25s; }
+  .mini-testi:hover { transform: translateY(-4px); box-shadow: var(--shadow-hover); }
+  .mini-stars { color: var(--nd-gold); font-size: 15px; letter-spacing: 2px; margin-bottom: 14px; }
+  .mini-text { font-size: 15px; font-style: italic; color: var(--nd-text); line-height: 1.7; font-weight: 300; margin-bottom: 18px; }
+  .mini-author { display: flex; align-items: center; gap: 12px; font-size: 13px; font-weight: 600; color: var(--nd-muted); }
+  .mini-avatar { display: inline-flex; align-items: center; justify-content: center; width: 34px; height: 34px; border-radius: 50%; background: var(--nd-forest); color: #fff; font-family: var(--font-serif); font-size: 15px; font-weight: 700; flex-shrink: 0; }
+
+  .book-faq-section { padding: 90px 48px; background: var(--nd-warm-white); }
+  .book-faq-inner { max-width: 760px; margin: 0 auto; }
 
   .buy-section { padding: 100px 48px; text-align: center; background: var(--nd-cream); }
   .buy-inner { max-width: 480px; margin: 0 auto; }
@@ -163,7 +190,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     .book-hero { padding: 48px 20px; }
     .book-hero-inner { grid-template-columns: 1fr; gap: 48px; }
     .book-hero-right { display: flex; justify-content: center; }
-    .inside-section, .book-testi, .buy-section { padding: 72px 20px; }
+    .inside-section, .book-testi, .buy-section, .book-faq-section { padding: 72px 20px; }
     .inside-grid, .testi-row { grid-template-columns: 1fr; }
   }
 </style>

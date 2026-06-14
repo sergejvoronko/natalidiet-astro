@@ -73,8 +73,10 @@ const emoji = courseEmojis[course] ?? '🍽️';
     display: flex; align-items: center; justify-content: center;
     overflow: hidden;
   }
-  .recipe-emoji { font-size: 72px; }
-  .recipe-img { width: 100%; height: 100%; object-fit: cover; }
+  .recipe-emoji { font-size: 72px; transition: transform 0.4s ease; }
+  .recipe-card:hover .recipe-emoji { transform: scale(1.08) rotate(-3deg); }
+  .recipe-img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.45s ease; }
+  .recipe-card:hover .recipe-img { transform: scale(1.06); }
   .recipe-badge {
     position: absolute; top: 14px; left: 14px;
     text-transform: capitalize;
@@ -86,7 +88,9 @@ const emoji = courseEmojis[course] ?? '🍽️';
     color: var(--nd-forest);
     line-height: 1.25;
     letter-spacing: -0.02em;
+    transition: color 0.2s;
   }
+  .recipe-card:hover .recipe-title { color: var(--nd-terra); }
   .recipe-desc {
     font-size: 13px; color: var(--nd-muted);
     line-height: 1.6; font-weight: 300;

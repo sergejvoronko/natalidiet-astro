@@ -15,6 +15,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           Questions about a recipe, consulting, collaboration, or just want to share your results?
         </p>
         <div class="contact-cards">
+          <a href="mailto:contact@natalidiet.eu" class="contact-card email-card">
+            <div class="cc-icon" aria-hidden="true">✉️</div>
+            <div>
+              <div class="cc-title">Email directly</div>
+              <div class="cc-body cc-email">contact@natalidiet.eu</div>
+            </div>
+          </a>
           <div class="contact-card">
             <div class="cc-icon" aria-hidden="true">⏱</div>
             <div>
@@ -47,6 +54,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           <span class="form-title">contact@natalidiet.eu</span>
         </div>
         <form id="contact-form" class="contact-form" novalidate>
+          <input type="hidden" name="access_key" value="aef6b59f-831e-4734-bc20-f9cd6e6a35d6" />
+          <input type="hidden" name="from_name" value="Natali Diet website" />
+          <input type="checkbox" name="botcheck" class="hp-field" tabindex="-1" autocomplete="off" aria-hidden="true" />
           <div class="field-row">
             <div class="field">
               <label for="name" class="field-label">Name <span class="required" aria-label="required">*</span></label>
@@ -102,14 +112,14 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     errBox.hidden = true; okBox.hidden = true;
     btnText.hidden = true; btnLoad.hidden = false; submitBtn.disabled = true;
     try {
-      // Replace with actual API endpoint
       const data = Object.fromEntries(new FormData(form));
-      const res = await fetch('/api/contact', {
+      const res = await fetch('https://api.web3forms.com/submit', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
         body: JSON.stringify(data),
       });
-      if (res.ok) {
+      const result = await res.json();
+      if (result.success) {
         form.reset(); counter.textContent = '0'; okBox.hidden = false;
       } else {
         errBox.textContent = 'Something went wrong. Please email contact@natalidiet.eu directly.';
@@ -132,11 +142,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   .contact-title em { font-style: italic; color: var(--nd-terra); }
   .contact-lead { font-size: 17px; font-weight: 300; color: var(--nd-muted); line-height: 1.7; margin-bottom: 36px; }
   .contact-cards { display: flex; flex-direction: column; gap: 14px; }
-  .contact-card { display: flex; gap: 16px; align-items: flex-start; background: var(--nd-warm-white); border: 1px solid var(--nd-border); border-radius: 16px; padding: 18px 20px; transition: border-color 0.2s; }
-  .contact-card:hover { border-color: rgba(196,98,58,0.3); }
-  .cc-icon { font-size: 22px; flex-shrink: 0; }
+  .contact-card { display: flex; gap: 16px; align-items: flex-start; background: var(--nd-warm-white); border: 1px solid var(--nd-border); border-radius: 16px; padding: 18px 20px; transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s; }
+  .contact-card:hover { border-color: rgb(var(--nd-terra-rgb) / 0.3); transform: translateY(-2px); box-shadow: var(--shadow-card); }
+  .email-card { text-decoration: none; }
+  .cc-icon { display: inline-flex; align-items: center; justify-content: center; width: 42px; height: 42px; border-radius: 12px; background: rgb(var(--nd-terra-rgb) / 0.08); font-size: 20px; flex-shrink: 0; }
   .cc-title { font-size: 13px; font-weight: 700; color: var(--nd-terra); margin-bottom: 3px; text-transform: uppercase; letter-spacing: 0.06em; }
   .cc-body { font-size: 13px; color: var(--nd-muted); line-height: 1.6; }
+  .cc-email { font-size: 15px; font-weight: 600; color: var(--nd-forest); }
 
   .form-wrap { background: var(--nd-warm-white); border: 1px solid var(--nd-border); border-radius: 24px; overflow: hidden; }
   .form-header { background: var(--nd-cream); border-bottom: 1px solid var(--nd-border); padding: 12px 18px; display: flex; align-items: center; gap: 6px; }
@@ -147,6 +159,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   .form-title { font-family: var(--font-sans); font-size: 12px; color: var(--nd-muted); letter-spacing: 0.05em; margin-left: 8px; }
 
   .contact-form { padding: 28px; display: flex; flex-direction: column; gap: 20px; }
+  .hp-field { position: absolute !important; left: -9999px !important; width: 1px; height: 1px; opacity: 0; }
   .field-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
   .field { display: flex; flex-direction: column; gap: 6px; }
   .field-label { font-size: 12px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--nd-muted); }
