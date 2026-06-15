@@ -75,7 +75,8 @@ const siteSchema = {
   />
   <script type="application/ld+json" set:html={JSON.stringify(siteSchema)} />
   <script is:inline>
-    // Defer GA off the critical path: load on idle (pageview still fires).
+    // Load GA only on first user interaction: keeps gtag.js off the initial
+    // load entirely (real users trigger it on scroll/tap; near-zero perf cost).
     window.dataLayer = window.dataLayer || [];
     function gtag(){ dataLayer.push(arguments); }
     (function () {
@@ -89,11 +90,9 @@ const siteSchema = {
         gtag('js', new Date());
         gtag('config', 'G-08PEV2GJX1');
       }
-      if ('requestIdleCallback' in window) {
-        requestIdleCallback(loadGA, { timeout: 4000 });
-      } else {
-        window.addEventListener('load', function () { setTimeout(loadGA, 1200); });
-      }
+      ['scroll', 'pointerdown', 'keydown', 'touchstart'].forEach(function (ev) {
+        window.addEventListener(ev, loadGA, { once: true, passive: true });
+      });
     })();
   </script>
 </head>
