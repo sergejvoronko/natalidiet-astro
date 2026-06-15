@@ -61,10 +61,10 @@ const siteSchema = {
   <link rel="apple-touch-icon" href="/favicon.png" />
   <link rel="preload" href="/fonts/PlayfairDisplay-Variable.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/fonts/DMSans-Variable.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="preconnect" href="https://assets.mailerlite.com" />
-  <link rel="preconnect" href="https://static.mailerlite.com" />
-  <link rel="preconnect" href="https://assets.mlcdn.com" />
-  <link rel="preconnect" href="https://groot.mailerlite.com" />
+  <link rel="dns-prefetch" href="https://assets.mailerlite.com" />
+  <link rel="dns-prefetch" href="https://static.mailerlite.com" />
+  <link rel="dns-prefetch" href="https://assets.mlcdn.com" />
+  <link rel="dns-prefetch" href="https://groot.mailerlite.com" />
   <SEOHead
     title={title}
     description={description}
@@ -90,10 +90,37 @@ const siteSchema = {
   <Footer />
   <CookieConsent />
   <script is:inline>
-    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[]).push(arguments);},
-    l=d.createElement(e),l.async=1,l.src=u,n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
-    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
-    ml('account', '2334622');
+    // Defer MailerLite off the critical path: load only when a newsletter
+    // form nears the viewport (or on first interaction). Kills the external
+    // font/CSS request chain that was blocking LCP.
+    (function () {
+      var loaded = false;
+      function loadML() {
+        if (loaded) return; loaded = true;
+        var w = window, d = document;
+        w.ml = w.ml || function () { (w.ml.q = w.ml.q || []).push(arguments); };
+        var s = d.createElement('script');
+        s.async = 1; s.src = 'https://assets.mailerlite.com/js/universal.js';
+        var f = d.getElementsByTagName('script')[0];
+        f.parentNode.insertBefore(s, f);
+        w.ml('account', '2334622');
+      }
+      var els = document.querySelectorAll('.ml-embedded');
+      if (!els.length) return;
+      if ('IntersectionObserver' in window) {
+        var io = new IntersectionObserver(function (entries) {
+          for (var i = 0; i < entries.length; i++) {
+            if (entries[i].isIntersecting) { loadML(); io.disconnect(); break; }
+          }
+        }, { rootMargin: '400px' });
+        for (var j = 0; j < els.length; j++) io.observe(els[j]);
+      } else {
+        loadML();
+      }
+      ['scroll', 'keydown', 'pointerdown', 'touchstart'].forEach(function (ev) {
+        window.addEventListener(ev, loadML, { once: true, passive: true });
+      });
+    })();
   </script>
 </body>
 </html>
