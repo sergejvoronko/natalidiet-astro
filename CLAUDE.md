@@ -16,7 +16,7 @@ State files in `/home/sergej/stacks/n8n/drafts/`:
 
 Publish flow: generator writes draft → human approves → recipe added to Astro content collection + image → **add slug to published-slugs.json → delete draft file** → generator unblocked.
 
-**Image step (mandatory):** generator output is often a JPEG/PNG mislabeled as `.webp`, full-res (2400px+, 1.5–3.5MB). Before copying into `public/images/`, convert: `cwebp -q 78 -resize 1600 0 <src> -o public/images/<slug>.webp`. Target ≤250KB. (SEO audit 2026-06-12 found 86 oversized images, 92MB→25MB after batch fix.)
+**Image step (now automatic):** generator output is often a JPEG/PNG mislabeled as `.webp`, full-res (2400px+, 1.5–3.5MB). `scripts/normalize-images.mjs` runs as the `prebuild` step (local + Cloudflare Pages) and re-encodes any mislabeled/too-wide/oversized `.webp` in `public/images/` to real WebP in place — no manual `cwebp` needed. Just drop the `<slug>.webp` in and build. Guard only touches `.webp` files; it never renames/deletes or converts `.png/.jpg` (logo.png etc. stay). Idempotent — good images left byte-identical. (SEO audit 2026-06-12 found 86 oversized images, 92MB→25MB.)
 
 **FAQ step (mandatory):** every recipe gets `faqs:` frontmatter — 3 Q&As (`- q:` / `a:` pairs), grounded in the actual recipe (substitutions, storage/freezing, technique pitfalls). Renders as FAQ section + FAQPage schema via FAQBlock component. Keep titles ≤47 chars or add `metaTitle`/`metaDescription` (meta title ≤60 incl. "| Natali Diet", description ≤155).
 
