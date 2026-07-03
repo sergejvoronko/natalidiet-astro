@@ -46,7 +46,7 @@ Per serving (without bread):
 
 DIET LABELS: Vegan option | Gluten-Free | Low-Calorie | Low-Fat | High Selenium | Diabetic-Friendly
 
-## Make it Vegan
+## Make it vegan
 Replace Greek yogurt with unsweetened cashew cream or coconut yogurt. Use vegetable broth. The soup is naturally vegan except for the dairy component.
 
 ## Frequently asked questions

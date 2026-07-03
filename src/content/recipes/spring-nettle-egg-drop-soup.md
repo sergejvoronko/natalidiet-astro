@@ -68,7 +68,7 @@ faqs:
     a: "Yes, 2–3 months. The egg ribbons soften slightly on reheating but the flavour keeps."
 ---
 
-## A Soup Rooted in Ukrainian Spring Tradition
+## A soup rooted in Ukrainian spring tradition
 
 Long before kale became a superfood buzzword in Western wellness circles, Ukrainian grandmothers were heading to the forest edges and riverbanks every April to harvest young nettles, and turning them into *krapivnyi borshch* (кропивний борщ). This soup belongs to the rich tradition of Ukrainian "green borscht" (*zeleny borshch*), a seasonal family that also includes the beloved sorrel-based *shchavel borshch*. Unlike the deep ruby beetroot borshch that most of the world associates with Ukrainian cuisine, spring nettle borshch is a pale, vivid green, a colour that signals renewal, lightness, and the end of a long, root-vegetable-heavy winter.
 

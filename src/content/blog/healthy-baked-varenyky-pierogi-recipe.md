@@ -15,39 +15,39 @@ Varenyky and pierogi are essentially the same beloved dumpling, varenyky (вар
 Traditionally they are boiled and then pan-fried in butter until golden and crispy. Delicious, but calorie-dense. My healthy approach keeps the boiling step but replaces the butter-fry with a light oven bake, brushed with a tiny amount of olive oil. The outside gets beautifully golden and slightly crisp. The inside stays pillowy and creamy. And the calorie saving is significant.
 
 ## Ingredients
-### For the Dough
+### For the dough
 - 300g plain flour (or gluten-free flour blend + 1/2 tsp xanthan gum)
 - 1 egg
 - 120ml warm water
 - 1/2 tsp salt
 - 1 tsp olive oil
 
-### For the Potato & Cottage Cheese Filling
+### For the potato & cottage cheese filling
 - 400g floury potatoes (e.g. Maris Piper), peeled and boiled
 - 200g low-fat cottage cheese (strained through a sieve to remove excess liquid)
 - 1 small onion, very finely diced and sautéed in 1/2 tsp olive oil until golden
 - 1 tbsp fresh chives or dill, chopped
 - Salt, white pepper, and a pinch of nutmeg to taste
 
-### For Baking & serving
+### For baking & serving
 - 1 tbsp olive oil (for brushing before baking)
 - 4 tbsp low-fat Greek yogurt or light sour cream
 - Caramelised onion (made with 1 large onion, 1/2 tsp oil, slow-cooked 25 min, traditional topping)
 - Fresh dill
 
 ## Instructions
-### Make the Dough
+### Make the dough
 - Mix flour and salt in a bowl. Make a well in the centre. Add egg, olive oil, and most of the warm water. Mix with a fork, then knead by hand for 5–6 minutes until smooth and elastic. Add water as needed, the dough should be soft but not sticky.
 - Cover the dough with a bowl or cling film. Rest at room temperature for 30 minutes, this relaxes the gluten and makes it much easier to roll.
 
-### Make the Filling
+### Make the filling
 - Mash the boiled potatoes thoroughly, no lumps. Mix in the strained cottage cheese, sautéed onion, herbs, salt, white pepper, and nutmeg. Taste and adjust. The filling should be well-seasoned and smooth.
 
 ### Assemble
 - On a lightly floured surface, roll the dough to 3mm thickness. Cut circles using a 9–10cm round cutter or a glass.
 - Place 1 heaped teaspoon of filling in the centre of each circle. Fold the dough over to create a half-moon shape. Pinch the edges firmly, use a fork to crimp for extra security. No filling should be visible at the seam.
 
-### Cook & Bake
+### Cook & bake
 - Bring a large pot of salted water to a boil. Cook varenyky in batches, add 8–10 at a time. They are done when they float to the surface AND have simmered for 2 more minutes (about 4–5 minutes total). Remove with a slotted spoon.
 - Preheat oven to 200°C / 400°F. Arrange boiled varenyky on a baking sheet lined with parchment. Brush lightly with olive oil.
 - Bake for 12–15 minutes until the surfaces are golden and slightly blistered.

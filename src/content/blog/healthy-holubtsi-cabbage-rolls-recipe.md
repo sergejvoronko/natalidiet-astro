@@ -28,7 +28,7 @@ The traditional recipe is already surprisingly wholesome, it is essentially seas
 - 1 tsp sweet paprika
 - Salt and black pepper to taste
 
-### For the Tomato cooking sauce
+### For the tomato cooking sauce
 - 1 can (400g) chopped tomatoes
 - 200ml low-sodium vegetable or beef broth
 - 1 tbsp tomato paste
@@ -39,12 +39,12 @@ The traditional recipe is already surprisingly wholesome, it is essentially seas
 - Salt, pepper, and a pinch of sugar to balance acidity
 
 ## Step-by-Step instructions
-### Preparing the Cabbage
+### Preparing the cabbage
 - Bring a large pot of water to a boil. Core the cabbage by cutting a deep cross into the base.
 - Submerge the whole cabbage head in the boiling water. As the outer leaves soften (about 3 minutes), gently peel them off with tongs. You need 10–12 large, pliable leaves. Set aside on a clean towel.
 - If leaves are thick near the stem, use a small knife to shave down the rib so the leaf rolls more easily.
 
-### Making the Filling
+### Making the filling
 - In a large bowl, combine lean beef mince, turkey mince, cooked rice, grated onion, garlic, egg, grated carrot, dill, paprika, salt, and pepper. Mix thoroughly with your hands. Fry a small test piece in a dry pan and taste for seasoning, adjust if needed.
 
 ### Assembling the rolls

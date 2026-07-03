@@ -64,7 +64,7 @@ faqs:
     a: "The soup base keeps 3 days in the fridge and deepens in flavour. Soft-boil the eggs fresh for each serving."
 ---
 
-## A bowl of Spring, fermented and Slow
+## A bowl of spring, fermented and slow
 
 Żurek is one of Poland's oldest and most beloved soups, its origins stretching back to medieval times when sour rye bread, and the liquid drawn from fermenting rye flour, formed the backbone of everyday peasant cooking. Long before anyone used the word "probiotic," Polish cooks understood instinctively that the sharp, slightly sour tang of fermented rye did something good for the body. Today żurek remains a centrepiece of the Easter table across Poland, appearing in every region with its own local accent: with white sausage in the south, with mushrooms in the east, with little more than a hard-boiled egg in simpler households.
 
@@ -80,6 +80,6 @@ From a nutritional standpoint, żurek is a quietly impressive choice for a healt
 
 ---
 
-## Storage & Make-Ahead notes
+## Storage & make-ahead notes
 
 Żurek keeps well in the refrigerator for up to three days in a sealed container. Store the sliced radishes and chives separately and add them fresh when reheating, as both become limp and lose their colour quickly once submerged in warm soup. Reheat gently over low heat, never bring to a full boil after the sour rye starter has been added, as this destroys the fermented character of the soup and makes it taste flat. The soup also freezes adequately without the eggs; freeze in portions for up to two months and add freshly cooked eggs when serving. If you cannot find ready-made żurek concentrate in a Polish deli or online, you can make your own by fermenting 100g of wholegrain rye flour with 700ml of lukewarm water and two garlic cloves at room temperature for three to five days, the result is tangier and more complex than the bottled version.

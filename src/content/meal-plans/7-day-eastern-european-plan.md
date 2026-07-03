@@ -15,7 +15,7 @@ This 7-day plan keeps you between **1,350–1,600 kcal per day**, a sustainable 
 
 ---
 
-## Day 1, Classic start
+## Day 1, classic start
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -45,7 +45,7 @@ Boil eggs in the morning for snack. Make a double batch of rassolnik, it keeps 4
 
 ---
 
-## Day 3, Vegetarian day
+## Day 3, vegetarian day
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -60,7 +60,7 @@ Make syrniki batter the night before. Kapustnyak improves overnight, make double
 
 ---
 
-## Day 4, Comfort day
+## Day 4, comfort day
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -75,7 +75,7 @@ Bean soup improves the next day, make double. Cook extra buckwheat for Day 5 din
 
 ---
 
-## Day 5, light & Fresh
+## Day 5, light & fresh
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -90,7 +90,7 @@ Chłodnik is served cold, make it the evening before and refrigerate overnight f
 
 ---
 
-## Day 6, Eastern Feast
+## Day 6, Eastern feast
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -105,7 +105,7 @@ Holubtsi can be made in large batches and frozen. Defrost overnight and reheat g
 
 ---
 
-## Day 7, Celebration Sunday
+## Day 7, celebration Sunday
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -133,7 +133,7 @@ Sunday is the perfect day to batch-cook for next week. Goulash keeps 5 days refr
 
 ## Shopping list, week 1 (1 person)
 
-### Vegetables & Fruit
+### Vegetables & fruit
 - Beetroot, 3 medium
 - Potato, 5 medium
 - Carrot, 6 medium
@@ -165,7 +165,7 @@ Sunday is the perfect day to batch-cook for next week. Goulash keeps 5 days refr
 - Light sour cream, 250ml
 - Gouda or Edam, 80g (for syrniki)
 
-### Grains & Pulses
+### Grains & pulses
 - Whole buckwheat groats, 600g
 - Rolled oats, 300g
 - Quinoa, 200g

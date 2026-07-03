@@ -17,7 +17,7 @@ This 7-day plan is designed for faster fat loss while staying full and nourished
 
 ---
 
-## Day 1, light & Grounding
+## Day 1, light & grounding
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -51,7 +51,7 @@ Season the turkey mince well with paprika, garlic, and dill, lean meat rewards g
 
 ---
 
-## Day 3, Vegetarian day
+## Day 3, vegetarian day
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -66,7 +66,7 @@ Cook extra lentils, they last 4 days refrigerated and work as a base for several
 
 ---
 
-## Day 4, light & Fresh
+## Day 4, light & fresh
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -81,7 +81,7 @@ Okroshka is served cold, make it in the morning and refrigerate until lunch.
 
 ---
 
-## Day 5, Energising
+## Day 5, energising
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -113,7 +113,7 @@ Make vinegret in a large batch, it improves overnight as flavours meld.
 
 ---
 
-## Day 7, Celebration & Reset
+## Day 7, celebration & reset
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -141,20 +141,20 @@ Make vinegret in a large batch, it improves overnight as flavours meld.
 
 ## Shopping list, 7 days, 1 person
 
-### Dairy & Eggs
+### Dairy & eggs
 - Plain kefir, 1.5 litres
 - Low-fat cottage cheese (tvorog), 600g
 - Plain Greek yogurt (0% fat), 400g
 - Low-fat quark, 150g
 - Eggs, 8
 
-### Meat & Fish
+### Meat & fish
 - Turkey mince, 300g
 - Chicken thighs, skinless, 300g
 - Cod loin (fresh or frozen), 180g
 - Salmon fillet, 160g
 
-### Grains & Bread
+### Grains & bread
 - Buckwheat groats (dry), 300g
 - Rye flakes, 100g
 - Rye crispbreads, 1 pack (~10)
@@ -185,7 +185,7 @@ Make vinegret in a large batch, it improves overnight as flavours meld.
 - Lemon, 2
 - Medjool dates, 40g (for energy balls)
 
-### Nuts & Seeds
+### Nuts & seeds
 - Walnuts, 60g
 - Pumpkin seeds, 40g
 - Almonds, 30g

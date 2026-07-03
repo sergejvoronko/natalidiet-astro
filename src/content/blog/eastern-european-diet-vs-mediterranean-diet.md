@@ -14,9 +14,9 @@ image: "/images/blog/eastern-european-diet-vs-mediterranean-diet.webp"
 The Mediterranean diet has been voted the world's #1 healthiest diet by US News & World Report every year since 2018. It is backed by decades of clinical research and celebrated by nutritionists globally. So where does the Eastern European diet stand, a cuisine built on beets, buckwheat, fermented cabbage, kefir, and hearty broths?
 My answer may surprise you: for many people, particularly those of Eastern European heritage or living in colder climates, a thoughtfully constructed Eastern European diet can match or outperform the Mediterranean diet on several key health markers. The comparison is far more nuanced than most nutrition writing acknowledges.
 
-## Head-to-Head Comparison
+## Head-to-Head comparison
 
-## Where the Eastern European diet Wins
+## Where the Eastern European diet wins
 ### 1. Probiotic Richness
 No major diet tradition comes close to Eastern Europe for daily fermented food consumption. Sauerkraut, kefir, naturally fermented pickles, fermented rye bread, these are eaten multiple times daily in traditional Eastern European households. A landmark 2021 study in Cell found that a high-fermented-food diet increased microbiome diversity and decreased inflammatory markers more effectively than a high-fibre diet alone.
 ### 2. Affordability
@@ -24,7 +24,7 @@ Buckwheat, rye bread, cabbage, beets, potatoes, dried mushrooms, and kefir are a
 ### 3. Cultural Sustainability for Eastern Europeans
 The single most important predictor of long-term diet success is adherence. For people of Eastern or Central European heritage, eating borscht and buckwheat is not a sacrifice, it is home. Sustained weight loss is dramatically more successful when the food is emotionally and culturally meaningful.
 
-## Where the Mediterranean diet Wins
+## Where the Mediterranean diet wins
 ### 1. Research Foundation
 The PREDIMED trial alone, which showed a 30% reduction in major cardiovascular events with a Mediterranean diet supplemented with olive oil or nuts, represents the kind of clinical evidence that does not yet exist for the Eastern European diet as a defined dietary pattern. The research gap is significant.
 ### 2. Omega-3 Fatty Acids

@@ -15,7 +15,7 @@ Borscht is probably the most famous soup to come out of Eastern Europe, and for 
 I grew up eating borscht at least twice a week, made by my grandmother in her small Ukrainian kitchen. Her version was wonderful but heavy, full of lard and thick sour cream. Over the years I have developed this lighter version that tastes just as soulful, but works beautifully as part of a healthy eating plan or weight-loss diet.
 
 ## Ingredients
-### For the Soup base
+### For the soup base
 - 2 medium beets (approx. 400g), peeled and grated or julienned
 - 3 medium carrots, peeled and diced
 - 3 stalks celery, diced

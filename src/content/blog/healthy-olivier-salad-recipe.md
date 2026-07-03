@@ -15,7 +15,7 @@ Olivier salad is the Eastern European region's most iconic party dish. Diced pot
 The traditional version can be 350–450 calories per serving, almost entirely from mayonnaise. My yogurt-Dijon dressing tastes close to the original. The egg yolks whisked into the yogurt add the richness that makes mayonnaise taste the way it does.
 
 ## Ingredients
-### The Salad
+### The salad
 - 400g waxy potatoes, boiled and diced into 1cm cubes
 - 2 medium carrots, boiled and diced into 1cm cubes
 - 4 hard-boiled eggs, whites diced, yolks reserved for dressing
@@ -24,7 +24,7 @@ The traditional version can be 350–450 calories per serving, almost entirely f
 - 3 naturally-fermented dill pickles, diced
 - 1 small apple (optional), peeled and diced
 - 2 tbsp fresh dill
-### Yogurt-Mustard Dressing
+### Yogurt-Mustard dressing
 - 200g low-fat Greek yogurt
 - 2 tsp Dijon mustard
 - 2 hard-boiled egg yolks (from above), mashed smooth

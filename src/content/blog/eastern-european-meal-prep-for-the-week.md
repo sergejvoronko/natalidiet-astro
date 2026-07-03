@@ -14,7 +14,7 @@ image: "/images/blog/eastern-european-meal-prep-for-the-week.webp"
 Eastern European cooking was batch cooking long before 'meal prep' became a lifestyle trend. Borscht was made in a giant pot that lasted days and tasted better each time. Holubtsi were assembled by the dozen. Buckwheat was cooked once and reheated in multiple forms, side dish, breakfast porridge, lunch bowl. This cuisine was designed for efficiency and for making the most of every ingredient.
 In this guide I will show you exactly how I structure my Sunday prep session, the sequence, the timings, the storage rules, and the reheating techniques, to have a full week of healthy Eastern European meals ready with just 2–2.5 hours of active cooking on Sunday.
 
-## The Sunday prep Sequence
+## The Sunday prep sequence
 The key to efficient Eastern European meal prep is sequencing. Everything simmers while you work on the next task. Follow this exact order:
 ### 12:00, start Borscht (50 min total, hands-on: 15 min)
 - Sauté beets, onion, carrots. Add broth and potatoes. Set to simmer 35 min. You are now free to work on other things.
@@ -40,7 +40,7 @@ The key to efficient Eastern European meal prep is sequencing. Everything simmer
 - Cool 15 min. Portion: 4 portions refrigerate, 2 portions freeze (freeze on tray first, then bag).
 ### 14:45, Done. Label everything with date.
 
-## Storage & Reheating guide
+## Storage & reheating guide
 
 * Freeze paprikash WITHOUT the yogurt sauce, dairy separates when frozen. Add fresh yogurt only when reheating the thawed dish.
 

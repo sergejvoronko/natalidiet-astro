@@ -15,7 +15,7 @@ Zurek (pronounced ZOO-rek) is Poland's most iconic and distinctive soup, a cloud
 Traditional zurek can be heavy, served in bread bowls loaded with thick sausage and hard-boiled eggs. My healthy version keeps the glorious tangy flavour and protein-rich eggs but uses lean turkey sausage, reduces the fat dramatically, and serves it in a regular bowl for a satisfying, nutritious meal at just 190 calories.
 
 ## Ingredients
-### For the Soup
+### For the soup
 - 400ml ready-made zurek starter concentrate (or homemade, see above)
 - 600ml low-sodium chicken broth
 - 100g lean turkey kielbasa, sliced

@@ -40,7 +40,7 @@ Per serving (with 1 egg and 1 tbsp low-fat yogurt):
 
 DIET LABELS: Gluten-Free | Low-Calorie | High Vitamin C | Vegetarian | Spring Detox Friendly
 
-## Pro tips for perfect Green Borshch
+## Pro tips for perfect green Borshch
 - Add sorrel at the very end and do not overcook, 2–3 minutes maximum, or it turns bitter.
 - For a silkier texture, blend 1–2 ladles of the potato-broth and stir it back into the pot.
 - For a heartier version, add 100g cooked pearl barley or 50g dried green lentils.

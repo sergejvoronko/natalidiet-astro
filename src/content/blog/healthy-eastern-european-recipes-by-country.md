@@ -14,19 +14,19 @@ image: "/images/blog/healthy-eastern-european-recipes-by-country.webp"
 Eastern Europe is not a single cuisine, it is a fascinating mosaic of distinct national traditions, each shaped by its landscape, climate, history, and neighbours. Ukrainian food is different from Hungarian food, which is different from Polish food, which is different from Czech and Slovak cooking.
 What they share is a common thread of fermented foods, slow-cooked broths, root vegetables, and hearty proteins that, when approached intelligently, form the basis of some of the most nutritionally impressive and satisfying healthy eating possible. This guide introduces each national tradition and its best lighter dishes.
 
-## Quick Country Comparison
+## Quick country comparison
 
-## What all these Cuisines Share
-### Fermented foods as daily Staples
+## What all these cuisines share
+### Fermented foods as daily staples
 Every Eastern European national cuisine places fermented food at the centre of the daily diet, sauerkraut, kefir, fermented pickles, fermented bread. This is not a health trend; it is a centuries-old preservation necessity that turns out to be extraordinarily beneficial for gut health, immunity, and metabolic function.
-### Soup as the Foundation of every meal
+### Soup as the foundation of every meal
 From Ukrainian borscht to Romanian ciorbă to Polish żurek, every national tradition begins its main meal with soup. This habit, consistently practised, creates natural calorie control at every meal. A bowl of vegetable-rich broth before a main course reduces total calorie intake by an average of 20% without any effort.
-### Root vegetables and Brassicas as the vegetable Backbone
+### Root vegetables and brassicas as the vegetable backbone
 Beets, carrots, celeriac, turnips, parsnips, cabbage, sauerkraut, these are the vegetable foundation of Eastern European cooking. All are nutritionally dense, very affordable, and particularly suited to winter cooking. All can be grown locally across the entire region. All are extremely diet-friendly.
-### Buckwheat and Rye as grain Staples
+### Buckwheat and rye as grain staples
 Across the region, buckwheat (in Ukraine, Russia, Slovakia) and rye (in Poland, Czech Republic, the Baltic states) are the traditional daily grains, far superior to white wheat in terms of fibre content, glycaemic index, and micronutrient density. This grain tradition is one of the most underappreciated nutritional strengths of Eastern European eating.
 
-## How to use the Country Guides
+## How to use the country guides
 Each article in this pillar is a complete standalone guide to the healthiest dishes from one national tradition. If you are of Ukrainian heritage, start with the Ukrainian guide. If you discovered Hungarian food and want to cook more of it, start there. Or work through all five, the more you explore, the more you will find that these cuisines complement each other beautifully.
 - Each guide includes: the 6–8 healthiest traditional dishes from that country
 - Calorie estimates for each dish

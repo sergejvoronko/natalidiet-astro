@@ -16,7 +16,7 @@ Romania's greatest gift to healthy Eastern European eating is ciorbă, a family 
 
 ## The 7 healthiest Romanian dishes
 
-## The Ciorbă Tradition: Romania's Greatest Healthy-Eating Asset
+## The ciorbă tradition: Romania's greatest healthy-eating asset
 Ciorbă is a category of sour soups that defines Romanian home cooking. The souring agent traditionally is borș, a fermented wheat bran liquid, but lemon juice and vinegar are also used. What makes ciorbă special from a nutrition perspective is this combination:
 - Very low calorie density, the sour broth suppresses appetite while providing enormous volume
 - Rich in vegetables, Romanian ciorbă uses seasonal vegetables generously
@@ -24,7 +24,7 @@ Ciorbă is a category of sour soups that defines Romanian home cooking. The sour
 - High in electrolytes, the sour broth is naturally rehydrating
 - Anti-inflammatory compounds from the lovage herb (leuştean) used in almost all ciorbă
 
-### How to make simple Ciorbă de Legume (Sour vegetable Soup)
+### How to make simple ciorbă de legume (Sour vegetable soup)
 This is Romanian cooking at its most accessible and its most diet-friendly:
 - Simmer diced carrot, celeriac, parsley root, and potatoes in vegetable broth for 20 minutes
 - Add shredded cabbage or whatever seasonal vegetable is available
@@ -32,11 +32,11 @@ This is Romanian cooking at its most accessible and its most diet-friendly:
 - Stir in 2 tbsp low-fat yogurt off the heat for creaminess if desired
 - Season generously. Serve with rye bread. Approximately 90 calories per bowl.
 
-## Mămăligă, Romania's Ancient Superfood
+## Mămăligă, Romania's ancient superfood
 Mămăligă is Romanian polenta, cornmeal porridge that has been the staple food of Transylvania, Moldavia, and Wallachia for centuries. It is naturally gluten-free, surprisingly nutritious (yellow cornmeal provides beta-carotene, B vitamins, and fibre), and extremely versatile.
 In healthy Romanian cooking, mămăligă replaces bread, dumplings, and white rice. Served with a portion of ciorbă alongside, it makes a complete, traditional Romanian meal at approximately 300–350 calories total.
 
-## Sarmale, Romania's Stuffed Cabbage rolls in Sauerkraut
+## Sarmale, Romania's stuffed cabbage rolls in sauerkraut
 Romanian sarmale are stuffed cabbage rolls similar to Ukrainian holubtsi, but with a distinctive difference: sarmale are wrapped in sauerkraut (fermented cabbage) leaves rather than fresh cabbage. This creates a roll that is simultaneously the filling, the wrapper, and the probiotic delivery mechanism, one of the most ingenious combinations in Eastern European cooking.
 The fermented cabbage wrapper adds deep sour flavour, probiotics, and vitamin C. Combined with a lean pork-and-turkey filling and a slow tomato braise, Romanian sarmale at approximately 270 calories are one of the most satisfying and nutritious dishes in this entire blog.
 

@@ -73,7 +73,7 @@ faqs:
     a: "Whisk hot broth gradually into the egg-lemon mixture off the heat, then stir it back in. Don't boil afterwards."
 ---
 
-## A bowl of Sour, Silky Romanian Comfort
+## A bowl of sour, silky Romanian comfort
 
 Ciorbă, Romania's beloved category of sour soups, is one of the great unsung staples of Eastern European cooking. Unlike a simple broth or a cream-laden chowder, ciorbă occupies a singular niche: bright with acidity, savoury from long-simmered vegetables, and finished with a velvety egg-and-dairy liaison that gives the broth a gentle richness without excess fat. Every Romanian family has its own version, its own souring agent of choice, and its own memory tied to the smell of a pot simmering on the stove.
 

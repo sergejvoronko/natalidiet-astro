@@ -14,29 +14,29 @@ image: "/images/blog/central-european-diet-to-lose-weight.webp"
 Slovakia, Czech Republic, Hungary, Poland, Central Europe is a region of magnificent food culture. Smoked paprika, caraway seeds, sauerkraut, hearty dumplings, dark rye bread. Also, historically, a region with above-average rates of obesity and cardiovascular disease linked to diets high in animal fat, fried foods, and refined carbohydrates.
 Here is the important nuance: the traditional Central European diet, before post-war industrialisation changed food patterns, was actually well-structured for health. Rich in fermented foods, whole grains, root vegetables, and prepared meats. The cuisine itself is not the problem. What happened to it over the past 50 years is the problem.
 
-## The 5 Rules of Central European weight Loss
+## The 5 rules of Central European weight loss
 ### Rule 1: fermented foods at every meal
 Before Central Europe adopted ultra-processed foods, fermented foods were a daily necessity. Sauerkraut with pork. Kefir for breakfast. Fermented rye bread. Kvass instead of sweet drinks. Research shows fermented food consumption is independently associated with lower body weight and better metabolic health. Reintroducing this habit is the highest-impact change you can make.
 
-### Rule 2: buckwheat and Rye Replace White Carbs
+### Rule 2: buckwheat and rye replace white carbs
 The Central European grain tradition is built on buckwheat and rye, two of the most nutritionally impressive carbohydrate sources available. Both have lower glycaemic indices than white wheat, more fibre, and more micronutrients.
 - White rice → toasted buckwheat kasha (lower GI, more protein, more magnesium)
 - White bread → rye crispbread or whole-grain rye (more fibre, more satisfying)
 - White flour thickener → blended potato or vegetable in sauces
 
-### Rule 3: Soup Before every Main meal
+### Rule 3: soup before every main meal
 The traditional Central European midday meal begins with soup. This is outstanding dietary strategy. A 2007 Appetite journal study found that a low-calorie soup starter reduced total meal calorie intake by an average of 20%. Over a full day, this single habit creates a 200–300 calorie deficit without any feeling of restriction.
-### Rule 4: Manage the Pork Intelligently
+### Rule 4: manage the pork intelligently
 Pork is the defining meat of Central European cuisine, there is no need to eliminate it. The key is choosing the right cuts and methods.
 - CHOOSE FREELY: Pork tenderloin, pork leg (trimmed), lean pork loin
 - OCCASIONAL: Pork shoulder, smoked sausage (use lean turkey version daily)
 - LIMIT: Pork belly, pork knuckle, fatty sausages, daily cooking lard
-### Rule 5: Return to traditional Portion Sizes
+### Rule 5: return to traditional portion sizes
 Traditional Central European meals were not the enormous portions served in modern restaurants. A traditional Slovak lunch was: one bowl of soup, one modest main course, fresh fruit for dessert. Modern portions, especially restaurant portions, have grown dramatically. Returning to traditional serving sizes is itself a significant calorie-reduction strategy.
 
-## What to Eat more of and Less of
+## What to eat more of and less of
 
-## A Sample day of Central European Eating for weight Loss
+## A sample day of Central European eating for weight loss
 Breakfast (~380 kcal)
 200ml plain kefir + 40g buckwheat porridge (cooked in water, topped with 1 tsp honey and fresh berries) + 1 hard-boiled egg
 Mid-Morning Snack (optional, ~150 kcal)

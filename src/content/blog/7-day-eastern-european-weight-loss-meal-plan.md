@@ -14,7 +14,7 @@ image: "/images/blog/7-day-eastern-european-weight-loss-meal-plan.webp"
 What if your weight-loss diet was built not on bland salads and tasteless diet shakes, but on the warming, satisfying traditional food of Ukraine, Slovakia, Hungary, and Poland? Borscht. Goulash. Stuffed cabbage rolls. Buckwheat with forest mushrooms. Chicken paprikash.
 That is exactly what this 7-day meal plan delivers. Built entirely from Eastern and Central European recipes, lightened with the healthy cooking techniques I use throughout this blog, every day sits between 1,400 and 1,600 calories with strong protein levels to preserve muscle and plenty of fibre to keep you full.
 
-## Key Principles Before you start
+## Key principles before you start
 ### 1. Soup First, every day
 Traditional Eastern European eating always begins with soup. A bowl of borscht or vegetable broth before a main course reduces total calorie intake at that meal by 20–25%. It is free, filling, and flavourful, adopt this habit immediately.
 ### 2. fermented foods daily
@@ -28,7 +28,7 @@ Sunday is prep day. In 2–2.5 hours you make the borscht, paprikash, and holubt
 
 Note: Calories are estimates. Use a tracking app (MyFitnessPal, Cronometer) to calibrate to your specific portions and brands.
 
-## Weekly shopping List
+## Weekly shopping list
 ### Proteins & dairy
 - 800g boneless chicken thighs
 - 500g lean beef stewing cut (for goulash)
@@ -60,7 +60,7 @@ Note: Calories are estimates. Use a tracking app (MyFitnessPal, Cronometer) to c
 - Apple cider vinegar, olive oil
 - 1 jar naturally-fermented sauerkraut
 - 1 jar naturally-fermented dill pickles
-### Fruit & Snacks
+### Fruit & snacks
 - 4 apples, 2 bananas, 2 punnets berries
 - 100g mixed nuts (walnuts, almonds)
 - Almond butter, hummus
@@ -79,7 +79,7 @@ Note: Calories are estimates. Use a tracking app (MyFitnessPal, Cronometer) to c
 - 14:30, Holubtsi done. Cool, portion: 4 portions fridge, 2 portions freeze.
 - 14:45, Done. Label everything with the date.
 
-## Daily nutrition Summary
+## Daily nutrition summary
 
 ## Frequently asked questions
 

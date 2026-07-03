@@ -15,7 +15,7 @@ Töltött paprika, Hungarian stuffed peppers, are sweet pointed peppers filled w
 The traditional recipe is already quite well-balanced. My healthy changes: lean turkey mince instead of pork, a small amount of brown rice, and a light-handed tomato sauce. The result is 290 calories per serving, two generously filled peppers, with excellent protein.
 
 ## Ingredients
-### For the Peppers
+### For the peppers
 - 8 medium sweet pointed peppers (or bell peppers, tops removed and seeds cleared)
 - 400g lean turkey mince
 - 100g cooked brown rice
@@ -24,7 +24,7 @@ The traditional recipe is already quite well-balanced. My healthy changes: lean 
 - 1 egg
 - 1 tsp sweet paprika, 1 tsp dried marjoram
 - Salt and black pepper
-### For the Tomato sauce
+### For the tomato sauce
 - 1 can (400g) chopped tomatoes
 - 200ml low-sodium broth
 - 1 tbsp tomato paste

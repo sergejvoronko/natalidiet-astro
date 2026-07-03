@@ -54,7 +54,7 @@ faqs:
     a: "Mix the topping up to a day ahead. Assemble just before eating so the bread doesn't soak through."
 ---
 
-## A Czech Classic on your Breakfast Table
+## A Czech classic on your breakfast table
 
 The *chlebíček*, the beloved Czech open sandwich, is more than a quick bite; it is a small daily ritual woven into the fabric of Central European life. Walk through any Prague delicatessen or corner *lahůdkářství* on a weekday morning and you will find trays of these carefully dressed slices lined up like edible works of art. While the most festive versions are crowned with smoked salmon, egg salad, or sliced meats, the humblest and perhaps most enduring variant is spread with a good soft cheese and finished with whatever the garden or market offers that season. In spring, that almost always means radishes and spring onions.
 

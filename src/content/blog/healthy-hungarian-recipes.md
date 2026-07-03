@@ -16,7 +16,7 @@ But the underlying structure of Hungarian cooking is excellent. It is based on l
 
 ## The 7 healthiest Hungarian dishes (Lightened)
 
-## The Hungarian pantry: Essential ingredients
+## The Hungarian pantry: essential ingredients
 - Hungarian sweet paprika (Édesnemes), the non-negotiable foundation of Hungarian cooking
 - Smoked paprika, adds depth especially when replacing lard
 - Caraway seeds, essential in goulash, many soups, and pork dishes
@@ -25,7 +25,7 @@ But the underlying structure of Hungarian cooking is excellent. It is based on l
 - Wax beans (sárgahüvely), key ingredient in several traditional soups
 - Flat-leaf parsley, the finishing herb in almost all Hungarian savoury dishes
 
-## The Critical technique: Blooming the Paprika
+## The critical technique: blooming the paprika
 Every Hungarian recipe begins the same way, and the single most important technique is the same in all of them: the paprika bloom.
 After softening the onions, REMOVE THE PAN FROM THE HEAT. Add the paprika to the hot onions and stir for 30–60 seconds in the residual heat. Then return to the heat and continue. This off-heat blooming releases the fat-soluble flavour compounds in paprika far more effectively than adding it to a boiling pot, and crucially, it prevents the paprika from burning, which creates bitter, unpleasant flavours that cannot be corrected.
 

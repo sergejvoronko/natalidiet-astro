@@ -28,7 +28,7 @@ My healthy version uses low-fat Greek yogurt added off the heat, a swap so seaml
 - 1 tsp caraway seeds (optional but traditional)
 - Salt and black pepper to taste
 
-### For the Yogurt sauce finish
+### For the yogurt sauce finish
 - 150g low-fat Greek yogurt (minimum 2% fat, 0% curdles more easily)
 - 1 tbsp cornstarch / cornflour (mixed with 2 tbsp cold water, stabilises the yogurt)
 

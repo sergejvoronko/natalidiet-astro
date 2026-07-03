@@ -16,7 +16,7 @@ Polish cooking's great strength for healthy eating is its extraordinary probioti
 
 ## The 8 healthiest traditional Polish dishes
 
-## The Polish pantry: Essential ingredients
+## The Polish pantry: essential ingredients
 - Naturally fermented sauerkraut (kapusta kiszona), buy from a Polish deli for the real thing
 - Naturally fermented dill pickles (ogórki kiszone), essential; must be fermented, not vinegar-brined
 - Marjoram (majeranek), the defining herb of Polish meat dishes and żurek
@@ -25,11 +25,11 @@ Polish cooking's great strength for healthy eating is its extraordinary probioti
 - Lovage (lubczyk), the underused Polish herb with incredible depth; adds to broths
 - Lean turkey kielbasa, replaces fatty pork kielbasa in bigos and soups
 
-## The Żurek Deep Dive: Poland's Most Nutritious traditional Soup
+## The Żurek deep dive: Poland's most nutritious traditional soup
 Żurek is one of Poland's most ancient and distinctive dishes, a sour soup made from fermented rye starter (zakwas), served with hard-boiled eggs and occasionally kielbasa. It is Poland's version of a probiotic broth, eaten at Easter and throughout the year.
 At 190 calories per bowl with 18g of protein and genuine probiotic fermented rye content, żurek is one of the most nutritionally impressive traditional soups in all of Eastern European cooking. The fermented rye starter (zakwas) takes 3–5 days to make but lasts in the fridge for weeks.
 
-## The Christmas Eve Table (Wigilia): healthy Options
+## The Christmas Eve table (Wigilia): healthy options
 Polish Christmas Eve (Wigilia) traditionally features 12 meatless dishes. Several of these are already excellent diet food:
 - Barszcz z uszkami, clear beet broth with tiny mushroom dumplings (~80 kcal)
 - Kapusta z grzybami, sauerkraut with mushrooms (~100 kcal), probiotic side

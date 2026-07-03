@@ -15,7 +15,7 @@ Pork is the backbone of Slovak and Central European cuisine. Traditional Slovak 
 Pork tenderloin is one of the leanest proteins you can buy, leaner than chicken breast by some measures, with exceptional flavour when properly cooked. In Slovak cooking it is traditionally marinated in caraway, garlic, and mustard, a combination that is both intensely aromatic and powerfully satisfying. At 360 calories and 42 grams of protein per serving, this is the highest-protein dish in this entire pillar.
 
 ## Ingredients
-### For the Pork
+### For the pork
 - 2 pork tenderloins (approx. 500g each, this feeds 4 generously)
 - 2 tsp caraway seeds, lightly crushed in a mortar
 - 4 cloves garlic, minced or pressed
@@ -27,7 +27,7 @@ Pork tenderloin is one of the leanest proteins you can buy, leaner than chicken 
 - Juice of 1/2 lemon
 - Salt and black pepper
 
-### For the Roasted vegetables (same pan)
+### For the roasted vegetables (same pan)
 - 300g cherry tomatoes
 - 2 medium courgettes (zucchini), sliced into half-moons
 - 1 red onion, cut into wedges
@@ -54,7 +54,7 @@ Per serving (pork with roasted vegetables):
 
 DIET LABELS: Gluten-Free | Very High Protein | Dairy-Free | Low-Carb | High Selenium | Paleo-Friendly
 
-## Sauce Options (all low calorie)
+## Sauce options (all low calorie)
 - Classic Slovak: 1 tbsp light sour cream + 1 tsp horseradish + dill, stir together, dollop on plate (adds ~30 kcal)
 - Mustard yogurt: 2 tbsp Greek yogurt + 1 tsp Dijon + squeeze of lemon (adds ~25 kcal)
 - Mushroom jus: Deglaze the pan with 100ml white wine + 100ml broth + sautéed mushrooms, reduce to a sauce (adds ~40 kcal)

@@ -15,7 +15,7 @@ Svíčková na smetaně is arguably the Czech Republic's most celebrated nationa
 A restaurant portion can reach 900–1,000 calories. My healthy version makes targeted changes: lean beef topside, a yogurt-thickened vegetable-purée sauce instead of heavy cream, and buckwheat in place of bread dumplings. Result: 380 calories and 36g protein, all the warmth and elegance of the original at less than half the calories.
 
 ## Ingredients
-### For the Beef
+### For the beef
 - 800g lean beef topside, trimmed of all fat
 - 1 tsp olive oil, salt, pepper, dried thyme
 ### For the sauce base

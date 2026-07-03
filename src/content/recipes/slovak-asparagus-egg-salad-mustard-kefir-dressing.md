@@ -69,7 +69,7 @@ faqs:
     a: "Cook the eggs and asparagus a day ahead, but dress just before serving, the kefir dressing softens everything over time."
 ---
 
-## A Taste of Slovak Spring
+## A taste of Slovak spring
 
 When May arrives in Slovakia, green asparagus appears at every market stall, farmers' tables, and home garden. The brief, jubilant asparagus season is treated as something of a local celebration, families gather around big pots of freshly boiled spears and cook up salads, soups, and side dishes while the harvest lasts. This Slovak Asparagus & Egg Salad with Mustard-Kefir Dressing is rooted squarely in that tradition, combining the season's star ingredient with the hard-boiled eggs and tangy fermented dairy that have anchored Central European cooking for generations.
 

@@ -14,7 +14,7 @@ image: "/images/blog/healthy-substitutions-eastern-european-cooking.webp"
 This is the reference guide I wish I had when I started cooking Eastern European food the healthy way. After years of recipe testing and occasionally making dreadful mistakes in the name of health, I have found the swaps that work, that preserve the authentic character of this cuisine while dramatically reducing calories and unhealthy fats.
 Save this page. Return to it whenever you are adapting a recipe from your grandmother's collection, a Slovak cookbook, or a Ukrainian family recipe that you love.
 
-## Fats and cooking Oils
+## Fats and cooking oils
 
 **Lard → Olive oil or avocado oil spray.** Saves 80–120 kcal per tablespoon. Lard is the default fat in Polish, Slovak, and Hungarian cooking, and historically it was used sparingly because it was expensive. A light spray of avocado oil in a hot pan replicates the non-stick effect without the calorie load. For dishes that need browning (kotlety, potato pancakes), use 1 tsp of olive oil maximum and finish in the oven.
 
@@ -28,7 +28,7 @@ Save this page. Return to it whenever you are adapting a recipe from your grandm
 
 **Rendered pork crackling as garnish → Skip or use smoked paprika.** Saves 80–100 kcal. Skwarki appear on soups, salads, and side dishes throughout Poland, Slovakia, and Ukraine. The smoky, fatty flavour can be replicated with a pinch of smoked paprika stirred into a tiny amount of olive oil and drizzled cold.
 
-## Dairy and Cream
+## Dairy and cream
 
 **Full-fat sour cream → Low-fat Greek yogurt (in hot dishes).** Saves 60–80 kcal per serving. The critical technique: never add yogurt directly to a simmering pot. Remove from heat, let it cool 2 minutes, then stir in the yogurt mixed with ½ tsp cornstarch. This prevents curdling and gives you the same creamy texture. In paprikash, borscht, and goulash the difference is undetectable.
 
@@ -56,7 +56,7 @@ Save this page. Return to it whenever you are adapting a recipe from your grandm
 
 **Canned sardines in oil → Canned sardines in brine.** Saves 40–60 kcal per serving. Used in spreads and salads across Eastern European cuisine. The brine-packed variety has the same protein content and identical flavour once seasoned.
 
-## Grains and Carbohydrates
+## Grains and carbohydrates
 
 **White bread → Dark rye bread.** Lower glycaemic load, higher fibre. Rye bread keeps you full longer and has a stronger flavour, which means you need less of it. Two slices of rye bread satisfies where three slices of white bread might not.
 
@@ -70,7 +70,7 @@ Save this page. Return to it whenever you are adapting a recipe from your grandm
 
 **White sugar in baking → Erythritol or reduced sugar.** Saves 30–50 kcal per tablespoon. In Eastern European sweet dishes, medivnyk, pampushky, apple strudel, sugar is often used heavily. Erythritol behaves like sugar in baking at a 1:1 ratio and adds zero calories. Alternatively, reduce the stated sugar amount by one third, most traditional recipes were written for tastes from a different era.
 
-## Flavour and Seasoning
+## Flavour and seasoning
 
 **Salt-heavy seasoning → Herbs, acid, and umami.** Traditional Eastern European cooking uses salt as the primary flavour driver. The healthier approach: build complexity instead. Fresh dill, parsley, bay leaf, and marjoram are all native to the cuisine and add flavour without sodium. A splash of apple cider vinegar or lemon juice at the end of cooking brightens every soup and stew.
 

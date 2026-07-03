@@ -14,9 +14,9 @@ image: "/images/blog/healthy-traditional-eastern-european-food.webp"
 Traditional Eastern European food is, in many ways, already healthy. The problem is not the cuisine, it is how it evolved over the 20th century. Soviet-era food shortages made fat the primary calorie source. Post-communist access to cheap refined carbohydrates changed eating patterns. The loss of traditional small-portion wisdom followed.
 This pillar is about going back. Back to the authentic roots of these dishes, stripping away the accumulated layers of excess fat and poor-quality ingredients, and revealing the nourishing food that was always underneath.
 
-## The 6 dishes in this Pillar
+## The 6 dishes in this pillar
 
-## Universal Principles for healthy traditional cooking
+## Universal principles for healthy traditional cooking
 ### 1. Find the Original Recipe
 Modern versions of traditional dishes are almost always heavier than the historical originals. Pre-industrial peasant cooking used fat as a precious resource, not a casual ingredient. Going back to the oldest available sources often reveals a dish that was never as heavy as modern versions suggest.
 ### 2. Moisture Management is Everything
