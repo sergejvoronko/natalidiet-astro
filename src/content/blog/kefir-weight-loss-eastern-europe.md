@@ -44,7 +44,7 @@ A healthy gut is an efficient gut. The probiotics in kefir help break down food 
 
 Chronic inflammation is a hidden driver of weight gain and metabolic problems. The diverse microbes in kefir produce short-chain fatty acids (SCFAs) like butyrate, which are known to reduce inflammation throughout the body.
 
-Furthermore, a healthy gut plays a role in regulating hormones that control hunger and satiety, like ghrelin (the "hunger hormone") and peptide YY (the "fullness hormone"). By supporting your gut, you're helping your entire endocrine system function better, making it easier for your body to find and maintain its natural weight.
+Furthermore, a healthy gut plays a role in regulating hormones that control hunger and satiety, like ghrelin (the "hunger hormone") and peptide YY (the "fullness hormone"). By supporting your gut, you help the whole endocrine system work better, which makes it easier for your body to settle at its natural weight.
 
 ### My practical ways to use Kefir every day
 

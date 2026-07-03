@@ -66,7 +66,7 @@ Yes, extremely so. Traditional Eastern European soups are built on vegetables, l
 
 ### Can I eat borscht and other Eastern European soups on a weight loss diet?
 
-Absolutely. Most Eastern European soups are between 110–250 calories per generous serving, making them ideal for calorie-controlled eating. They are also very filling due to their high water and fibre content, so you are less likely to snack afterwards.
+Absolutely. Most Eastern European soups run 110–250 calories per generous serving, which suits calorie-controlled eating. They are also very filling due to their high water and fibre content, so you are less likely to snack afterwards.
 
 ### Are Eastern European soups gluten-free?
 
