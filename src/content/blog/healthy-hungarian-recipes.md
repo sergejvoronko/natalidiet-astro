@@ -14,7 +14,8 @@ image: "/images/blog/healthy-hungarian-recipes.webp"
 Hungarian cuisine is built on three pillars: sweet paprika, sour cream, and pork fat (lard). These three ingredients define the distinctive character of Hungarian food, the deep rust-red colour of paprikash, the velvety richness of goulash sauce, the crispy exterior of lángos. They are also, in excess, the primary calorie challenges.
 But the underlying structure of Hungarian cooking is excellent. It is based on lean chicken, veal, and vegetables in richly spiced paprika sauces. The proteins are lean. The vegetables, peppers, tomatoes, onions, are nutritious. The fault lies almost entirely in too much lard and too much full-fat dairy. Fix those two things and Hungarian food becomes a impressive healthy cuisine.
 
-## The 7 healthiest Hungarian dishes (Lightened)
+## The Hungarian dishes worth lightening
+Most of the Hungarian repertoire survives the diet treatment intact: goulash, chicken paprikash, lecsó, stuffed cabbage and even lángos all work once you swap the lard and the sour cream. The trick is almost always the same two changes plus good paprika, which is what the rest of this guide walks through.
 
 ## The Hungarian pantry: essential ingredients
 - Hungarian sweet paprika (Édesnemes), the non-negotiable foundation of Hungarian cooking
@@ -33,7 +34,7 @@ After softening the onions, REMOVE THE PAN FROM THE HEAT. Add the paprika to the
 
 ### What makes Hungarian food so rich?
 
-Three main factors: lard as the primary cooking fat (very high in saturated fat and calories), full-fat sour cream in large quantities, and generous egg noodle or dumpling portions. Remove the lard (replace with 1 tsp olive oil), use low-fat yogurt off the heat, and serve with buckwheat or cauliflower mash instead of noodles, and Hungarian food becomes one of the most flavourful and satisfying light cuisines you can cook.
+Three main factors: lard as the primary cooking fat (very high in saturated fat and calories), full-fat sour cream in large quantities, and generous egg noodle or dumpling portions. Remove the lard (replace with 1 tsp olive oil), use low-fat yogurt off the heat, and serve with buckwheat or cauliflower mash instead of noodles. The flavour stays and most of the calories go.
 
 ### Is Hungarian goulash the same as paprikash?
 

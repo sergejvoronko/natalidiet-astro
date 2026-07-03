@@ -14,7 +14,8 @@ image: "/images/blog/healthy-romanian-recipes.webp"
 Romanian cuisine is the least internationally known of the Eastern European food traditions covered in this blog, and one of the most fascinating from a healthy-cooking perspective. Romania sits at the crossroads of Eastern Europe, the Balkans, and the Ottoman food world, producing a cuisine that is simultaneously familiar and completely distinctive.
 Romania's greatest gift to healthy Eastern European eating is ciorbă, a family of sour, broth-based soups made with fermented bran water (borș), lemon juice, or vinegar. These are among the lightest, most complex, most beautiful soups in all of European cooking, and they are almost entirely unknown outside Romania.
 
-## The 7 healthiest Romanian dishes
+## Romania's healthiest traditional dishes
+Romanian cooking is built on sour soups, cornmeal and fermented cabbage, which is most of a healthy-eating toolkit before you even start adapting. The three that do the most work are ciorbă, mămăligă and sarmale, and each gets its own section below.
 
 ## The ciorbă tradition: Romania's greatest healthy-eating asset
 Ciorbă is a category of sour soups that defines Romanian home cooking. The souring agent traditionally is borș, a fermented wheat bran liquid, but lemon juice and vinegar are also used. What makes ciorbă special from a nutrition perspective is this combination:
@@ -38,7 +39,7 @@ In healthy Romanian cooking, mămăligă replaces bread, dumplings, and white ri
 
 ## Sarmale, Romania's stuffed cabbage rolls in sauerkraut
 Romanian sarmale are stuffed cabbage rolls similar to Ukrainian holubtsi, but with a distinctive difference: sarmale are wrapped in sauerkraut (fermented cabbage) leaves rather than fresh cabbage. This creates a roll that is simultaneously the filling, the wrapper, and the probiotic delivery mechanism, one of the most ingenious combinations in Eastern European cooking.
-The fermented cabbage wrapper adds deep sour flavour, probiotics, and vitamin C. Combined with a lean pork-and-turkey filling and a slow tomato braise, Romanian sarmale at approximately 270 calories are one of the most satisfying and nutritious dishes in this entire blog.
+The fermented cabbage wrapper brings sour depth, probiotics and vitamin C. With a lean pork-and-turkey filling and a slow tomato braise, sarmale come in around 270 calories and still eat like a proper Sunday dish.
 
 ## Frequently asked questions
 

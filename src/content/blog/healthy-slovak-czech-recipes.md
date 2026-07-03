@@ -14,7 +14,8 @@ image: "/images/blog/healthy-slovak-czech-recipes.webp"
 Slovakia and Czech Republic share a intertwined food culture, forged by centuries of shared history in the Austro-Hungarian Empire and then Czechoslovakia. Their cuisines are closely related but distinct: Slovak cooking leans heavily on sheep cheese (bryndza), sauerkraut, and mushrooms; Czech cooking is known for its elaborate sauces, knedlíky (bread dumplings), and a rich tradition of forest foraging.
 Both cuisines face the same healthy-cooking challenges: bread dumplings as a primary carbohydrate, cooking lard as the default fat, and rich cream sauces as the finishing touch for most main courses. And both cuisines have abundant light, nutritious options hiding underneath these challenges.
 
-## The 7 healthiest Slovak and Czech dishes (Lightened)
+## The Slovak and Czech dishes worth lightening
+Slovak and Czech cooking has a reputation for dumplings and heavy sauces, but a lot of it lightens easily: svíčková, kulajda, bryndzové halušky and the everyday soups all take well to leaner swaps. The two sticking points are bryndza and knedlíky, and both have good solutions, covered below.
 
 ## The Slovak and Czech pantry: essential ingredients
 - Bryndza, Slovak fermented sheep cheese; probiotic-rich, intensely salty, authentic flavour

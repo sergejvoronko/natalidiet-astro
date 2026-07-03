@@ -15,6 +15,15 @@ Traditional Eastern European food is, in many ways, already healthy. The problem
 This pillar is about going back. Back to the authentic roots of these dishes, stripping away the accumulated layers of excess fat and poor-quality ingredients, and revealing the nourishing food that was always underneath.
 
 ## The 6 dishes in this pillar
+The main-dish pillar rebuilds six classics so they land under 400 calories without losing what makes them worth cooking:
+- Chicken paprikash with Greek yogurt (310 kcal)
+- Holubtsi, cabbage rolls in tomato sauce (280 kcal)
+- Hungarian goulash, lighter but still deep (340 kcal)
+- Baked varenyky/pierogi (320 kcal)
+- Buckwheat with mushrooms (290 kcal)
+- Slovak pork tenderloin (360 kcal)
+
+The principles below are what make those swaps work, and they carry over to almost any dish in the tradition.
 
 ## Universal principles for healthy traditional cooking
 ### 1. Find the Original Recipe

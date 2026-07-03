@@ -35,6 +35,9 @@ Pork is the defining meat of Central European cuisine, there is no need to elimi
 Traditional Central European meals were not the enormous portions served in modern restaurants. A traditional Slovak lunch was: one bowl of soup, one modest main course, fresh fruit for dessert. Modern portions, especially restaurant portions, have grown dramatically. Returning to traditional serving sizes is itself a significant calorie-reduction strategy.
 
 ## What to eat more of and less of
+More of: fermented foods (sauerkraut, kefir, sour rye), buckwheat and wholegrain rye in place of white bread and dumplings, big vegetable soups, lean pork and poultry and fish, and cottage cheese. These are the parts of the tradition that were always there and always cheap.
+
+Less of: lard as the default fat, thick stacks of white bread and knedlíky, full-fat sour cream by the ladle, deep-fried anything, and sugar in tea and pastries. None of these need to disappear, they just need to stop being daily.
 
 ## A sample day of Central European eating for weight loss
 Breakfast (~380 kcal)
