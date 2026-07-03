@@ -25,7 +25,7 @@ Traditional zurek can be heavy, served in bread bowls loaded with thick sausage 
 - 1 tsp horseradish (from a jar), optional but traditional
 - Salt to taste (careful, the starter is already salty)
 
-### For Serving
+### For serving
 - 4 eggs, hard-boiled and halved
 - Fresh chives or dill
 - Optional: 1 tsp low-fat Greek yogurt per bowl
@@ -39,12 +39,12 @@ Traditional zurek can be heavy, served in bread bowls loaded with thick sausage 
 - Simmer gently for 5 minutes. The soup should be pleasantly thick, sour, and savoury.
 - Serve immediately in pre-warmed bowls with halved hard-boiled eggs, fresh chives, and optional yogurt.
 
-## Nutrition Facts
+## Nutrition facts
 Per serving (with 1 egg and turkey kielbasa):
 
 DIET LABELS: High Protein | Probiotic-Rich | Gluten-Free adaptable | Low-Fat
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### What does zurek taste like?
 

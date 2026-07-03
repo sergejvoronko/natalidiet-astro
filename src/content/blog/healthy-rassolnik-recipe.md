@@ -40,10 +40,10 @@ Rassolnik is only 145 calories per generous serving, and the pickle brine base g
 - Taste carefully before adding any salt, the brine is already quite salty. Add pepper and fresh dill.
 - Serve hot with a dollop of yogurt/sour cream and extra fresh dill.
 
-## Nutrition Facts
+## Nutrition facts
 Per serving (with chicken, without sour cream):
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### Why is rassolnik good for digestion?
 

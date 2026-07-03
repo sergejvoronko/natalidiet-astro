@@ -66,7 +66,7 @@ The original Bulgarian banitsa is a layered phyllo pastry baked with eggs, white
 
 What makes this work nutritionally is the combination of eggs, feta, and yogurt. You're getting a high-protein breakfast, around 18 grams per serving, from ingredients that have been a staple of Balkan diets for good reason. Feta adds calcium and that distinctive briny sharpness that keeps the whole thing from tasting bland. The spinach practically disappears into the filling once cooked, which I always find satisfying: you get the iron, the fibre, the colour, without the texture putting anyone off. I always add a tiny pinch of dried dill because my mum did, and because it makes the kitchen smell like somewhere worth being.
 
-## Serving Ideas & Variations
+## Serving ideas & variations
 
 These muffins are good warm from the oven, but they're honestly just as good cold the next morning, which is when I usually eat them standing at the kitchen counter. Pack two in a container with a handful of cherry tomatoes and some cucumber slices and you have a complete, portable breakfast with almost no effort.
 

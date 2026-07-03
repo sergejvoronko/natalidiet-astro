@@ -56,12 +56,12 @@ When summer came, with its long, bright evenings at the dacha, a hot bowl of kas
 
 This salad fits so well into a healthy way of living because it's not trying to be something it isn't. It's naturally balanced. The buckwheat provides slow-release energy and fibre that keeps you full, the vegetables are packed with vitamins, and the generous helping of feta gives it a serious protein boost without feeling heavy. It's a proper, satisfying meal that just happens to be light.
 
-### How to Serve and Store
+### How to serve and store
 
 I love this salad for lunch, scooped into a bowl all on its own. It's substantial enough that you don't need anything else. It also makes a fantastic side dish for a barbecue, especially next to some grilled chicken or sausages. The fresh flavours cut through the richness of the meat beautifully.
 
 For storing, you can keep it in an airtight container in the fridge for up to 3 days. The vegetables will soften a little over time, but it still tastes wonderful. If I know I'm making it for meal prep, the trick I always use is to keep the dressing separate and only add it right before I eat. This keeps the cucumber and peppers perfectly crisp.
 
-### Simple Variations
+### Simple variations
 
 This salad is very forgiving, so feel free to make it your own. For a bit of extra texture, I sometimes add a handful of toasted sunflower or pumpkin seeds right before serving. The crunch is a great contrast to the soft feta. If you're not a fan of feta, a crumbly, dry farmer's cheese (*tvorog*) is a more traditional choice and just as delicious. You can also add other vegetables you have on hand, radishes, grated carrot, or even some blanched green beans work well.

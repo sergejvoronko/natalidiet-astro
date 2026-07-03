@@ -99,7 +99,7 @@ Grounding the salad with small boiled new potatoes transforms it from a starter 
 
 ---
 
-## Serving Ideas
+## Serving ideas
 
 Serve this salad as a standalone lunch, it is substantial enough to need nothing alongside it. If you are feeding people who do a lot of physical activity, a slice or two of dense Slovak rye bread or sourdough on the side adds extra carbohydrates and makes the meal even more sustaining. A cold glass of sparkling water with lemon or a glass of white kefir to drink ties the meal together beautifully.
 

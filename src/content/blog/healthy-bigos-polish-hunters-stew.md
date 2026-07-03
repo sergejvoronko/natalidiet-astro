@@ -36,12 +36,12 @@ The health challenge with traditional bigos is the fatty smoked meats. My versio
 - Return seared pork. Stir. Bring to gentle simmer. Cover, cook VERY LOW heat for 90 minutes.
 - Remove bay leaves. Season. Serve with dark rye bread, or eat as is for lower carbs.
 
-## Nutrition Facts
+## Nutrition facts
 Per serving (without rye bread):
 
 DIET LABELS: Gluten-Free | High Fibre | High Protein | Probiotic-Rich | Freezer-Friendly
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### Is bigos healthy?
 

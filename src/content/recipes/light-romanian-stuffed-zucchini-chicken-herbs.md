@@ -55,10 +55,10 @@ Stuffed vegetables, or *legume umplute*, are the heart and soul of Romanian home
 
 I swap the pork for lean ground chicken and pack the filling with an almost-obscene amount of fresh dill and parsley. If you ask me, you can never have too much dill; it's the defining taste of so many dishes I grew up with. When this is in the oven, my whole kitchen fills with the scent of herbs, sweet tomatoes, and roasted zucchini. It's a simple, honest meal that feels both wholesome and incredibly satisfying. The trick I learnt the hard way is to only par-boil the rice; it finishes cooking inside the zucchini, absorbing all the juices from the chicken and vegetables.
 
-### Serving & Storing
+### Serving & storing
 
 I almost always serve this with a generous dollop of cool, thick Greek yogurt on top. The tanginess cuts through the richness of the tomato sauce beautifully. You don't need much else, but a simple side salad with a sharp lemon vinaigrette is a great way to complete the meal. The stuffed zucchini keeps well in an airtight container in the fridge for up to 3 days. I think the flavours meld and get even better by the next day. Just reheat gently in the oven or microwave.
 
-### Simple Variations
+### Simple variations
 
 This recipe is very forgiving. If you don't have chicken, lean ground turkey works just as well. For a bit of a kick, you can add a pinch of red pepper flakes to the onion and garlic mix. You can also experiment with other summer vegetables; this same filling is fantastic in hollowed-out bell peppers or large tomatoes. Just adjust the baking time accordingly, as peppers might take a bit longer to soften.

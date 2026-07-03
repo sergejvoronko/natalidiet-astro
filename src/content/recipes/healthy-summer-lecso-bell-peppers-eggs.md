@@ -68,11 +68,11 @@ The base is always the same: a trio of onions, peppers, and tomatoes, brought to
 
 This version is my go-to for a light yet satisfying weeknight dinner. By finishing it with eggs poached directly in the stew, it becomes a complete, balanced meal. The runny yolks create a creamy, rich sauce that mingles with the sweet and smoky tomato-pepper base. It's naturally low in calories and packed with vitamins, making it a perfect fit for a healthy diet without ever feeling like you're missing out.
 
-### Serving Suggestions
+### Serving suggestions
 
 I think lecsó is best served simply, straight from the pot into warm bowls. A thick slice of crusty sourdough bread is essential for mopping up every last bit of the delicious sauce. For a little extra creaminess, you can add a dollop of Greek yogurt or sour cream on top. If you want to make it a more substantial meal, it's also wonderful served alongside some simple boiled potatoes or even a portion of quinoa.
 
-### Variations and Storage
+### Variations and storage
 
 This recipe is a fantastic starting point. If you're not keeping it vegetarian, adding some sliced smoked sausage (like a good quality kielbasa) along with the onions is a classic and delicious variation. For a bit of a kick, a pinch of hot paprika or a few chilli flakes will do the trick.
 

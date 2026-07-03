@@ -15,26 +15,26 @@ Eastern European main dishes have a reputation for being hearty, rich, and indul
 But here is what I have learned after years of cooking this food the healthy way: you do not have to give any of it up. The bold, complex flavours of Eastern and Central European cooking come from spices, slow cooking, fermentation, and technique, not from fat and excess calories. With the right swaps and a few smart techniques, every dish in this guide comes in under 400 calories per serving and tastes every bit as magnificent as the original.
 This cornerstone guide introduces you to the six main dishes in this pillar. Each one has its own dedicated recipe page with full step-by-step instructions, nutrition breakdown, meal prep tips, and FAQs. Use this page as your launchpad.
 
-## The 6 Dishes in This Pillar
+## The 6 dishes in this Pillar
 
-## Master Technique: The Eastern European Healthy Cooking Method
+## Master technique: the Eastern European healthy cooking Method
 Most Eastern European main dishes share the same basic structure. Master this method and you can make almost any dish in this tradition, lighter and healthier:
 
-### Step 1: The Sofrito Base (Základ)
+### Step 1: the Sofrito base (Základ)
 Nearly every Eastern European main dish starts the same way: onion, carrot, and celery (or parsnip) sweated slowly in a small amount of fat. This is the Hungarian 'alap', the Slovak 'základ', the Ukrainian 'zasmazka'. In traditional recipes this is done in lard. I use 1 teaspoon of olive oil, the result is identical.
 
-### Step 2: The Paprika Bloom
+### Step 2: the Paprika Bloom
 For Hungarian and Slovak dishes especially, paprika is added to the onion base and cooked for 60 seconds in the fat BEFORE any liquid is added. This 'blooming' releases fat-soluble flavour compounds that make the paprika taste ten times more intense. It is the single most important technique in Central European cooking.
 
-### Step 3: The Slow Simmer
+### Step 3: the Slow Simmer
 Eastern European main dishes are not fast food. They are built for low, slow cooking that breaks down collagen in tougher cuts, melds spices into the sauce, and develops a complexity that cannot be rushed. A 90-minute simmer on low heat creates flavour that an hour in a pressure cooker cannot replicate, though pressure cookers work in a pinch.
 
-### Step 4: The Dairy Finish (Off the Heat)
+### Step 4: the dairy finish (Off the Heat)
 Many of these dishes traditionally finish with sour cream stirred in. In my healthy versions, I use low-fat Greek yogurt or light sour cream, but the critical technique is the same: add it OFF THE HEAT, or with the heat on absolute minimum, stirring constantly. Boiling any dairy protein causes it to curdle and separate. Remove from heat, let cool slightly, stir in the yogurt, then serve immediately.
 
-## Universal Healthy Swaps for Eastern European Main Dishes
+## Universal healthy Swaps for Eastern European Main dishes
 
-## What to Serve With These Dishes, Healthy Sides
+## What to serve with these dishes, healthy Sides
 Traditional Eastern European accompaniments are often as calorie-dense as the main dish. Here are the best light side options that stay true to the tradition:
 - Steamed whole buckwheat (kasha), 170 kcal per 150g cooked, high in magnesium and protein
 - Cauliflower mash, replaces potato mash at 1/4 of the calories; excellent under paprikash
@@ -43,7 +43,7 @@ Traditional Eastern European accompaniments are often as calorie-dense as the ma
 - Sauerkraut, probiotic-rich, zero calories, cuts through rich main dishes beautifully
 - Whole rye bread (one slice), satisfying, high fibre, traditional
 
-## Meal Planning With These Main Dishes
+## Meal planning with these Main dishes
 These dishes are ideal for weekly batch cooking. Here is a simple framework:
 - Cook one batch of goulash or cabbage rolls on Sunday (both freeze perfectly).
 - Make a pot of buckwheat kasha, it keeps 5 days in the fridge and pairs with everything.
@@ -51,7 +51,7 @@ These dishes are ideal for weekly batch cooking. Here is a simple framework:
 - Portion cooked varenyky individually on a baking sheet, freeze, then bag, reheat any time.
 - Keep a jar of sauerkraut in the fridge as your daily probiotic side dish.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### Are Eastern European main dishes good for weight loss?
 

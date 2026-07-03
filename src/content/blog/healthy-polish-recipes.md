@@ -14,9 +14,9 @@ image: "/images/blog/healthy-polish-recipes.webp"
 Polish cuisine is one of Eastern Europe's most internationally recognised food traditions, carried across the world by one of the largest diasporas in Europe and North America. Pierogi in Chicago, bigos in London, żurek in Warsaw, barszcz at Christmas Eve supper, Polish food travels beautifully and is loved globally.
 Polish cooking's great strength for healthy eating is its extraordinary probiotic richness. Sauerkraut, fermented dill pickles, kwas buraczany (fermented beet juice), żurek (fermented rye soup), and kefir-like dairy products are all daily staples of traditional Polish eating. No European cuisine exceeds Poland in the daily volume and variety of fermented foods consumed.
 
-## The 8 Healthiest Traditional Polish Dishes
+## The 8 healthiest traditional Polish dishes
 
-## The Polish Pantry: Essential Ingredients
+## The Polish pantry: Essential ingredients
 - Naturally fermented sauerkraut (kapusta kiszona), buy from a Polish deli for the real thing
 - Naturally fermented dill pickles (ogórki kiszone), essential; must be fermented, not vinegar-brined
 - Marjoram (majeranek), the defining herb of Polish meat dishes and żurek
@@ -25,11 +25,11 @@ Polish cooking's great strength for healthy eating is its extraordinary probioti
 - Lovage (lubczyk), the underused Polish herb with incredible depth; adds to broths
 - Lean turkey kielbasa, replaces fatty pork kielbasa in bigos and soups
 
-## The Żurek Deep Dive: Poland's Most Nutritious Traditional Soup
+## The Żurek Deep Dive: Poland's Most Nutritious traditional Soup
 Żurek is one of Poland's most ancient and distinctive dishes, a sour soup made from fermented rye starter (zakwas), served with hard-boiled eggs and occasionally kielbasa. It is Poland's version of a probiotic broth, eaten at Easter and throughout the year.
 At 190 calories per bowl with 18g of protein and genuine probiotic fermented rye content, żurek is one of the most nutritionally impressive traditional soups in all of Eastern European cooking. The fermented rye starter (zakwas) takes 3–5 days to make but lasts in the fridge for weeks.
 
-## The Christmas Eve Table (Wigilia): Healthy Options
+## The Christmas Eve Table (Wigilia): healthy Options
 Polish Christmas Eve (Wigilia) traditionally features 12 meatless dishes. Several of these are already excellent diet food:
 - Barszcz z uszkami, clear beet broth with tiny mushroom dumplings (~80 kcal)
 - Kapusta z grzybami, sauerkraut with mushrooms (~100 kcal), probiotic side
@@ -37,7 +37,7 @@ Polish Christmas Eve (Wigilia) traditionally features 12 meatless dishes. Severa
 - Kompot z suszonych owoców, dried fruit compote, traditional Christmas drink (~80 kcal)
 - Pierogi z kapustą i grzybami, mushroom-sauerkraut pierogi, baked not fried (~260 kcal)
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### What is the healthiest traditional Polish food?
 

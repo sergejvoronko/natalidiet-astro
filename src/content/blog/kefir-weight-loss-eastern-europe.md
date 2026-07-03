@@ -24,7 +24,7 @@ This microbial diversity is what makes all the difference. The yeasts and bacter
 
 Growing up, I never thought about strains or colonies. I just knew that a glass of my grandma's kefir felt different. It was lighter than yogurt, with a pleasant fizziness and a sour tang that was incredibly refreshing. It felt alive, and it made my stomach feel calm and settled.
 
-### The Gut-Weight Connection: How Kefir Actually Works
+### The Gut-Weight Connection: how Kefir actually Works
 
 So, how does a fermented milk drink help with weight loss? It's not about calories or fat content. It's all about the profound connection between your gut and the rest of your body, including your metabolism, your hormones, and even your cravings.
 
@@ -46,7 +46,7 @@ Chronic inflammation is a hidden driver of weight gain and metabolic problems. T
 
 Furthermore, a healthy gut plays a role in regulating hormones that control hunger and satiety, like ghrelin (the "hunger hormone") and peptide YY (the "fullness hormone"). By supporting your gut, you're helping your entire endocrine system function better, making it easier for your body to find and maintain its natural weight.
 
-### My Practical Ways to Use Kefir Every Day
+### My Practical ways to use Kefir every day
 
 The best way to get the benefits of kefir is to make it a small, consistent part of your routine. It's not something you drink once and expect a miracle. Here are a few simple ways I weave it into my daily life, inspired by my Eastern European upbringing.
 
@@ -70,7 +70,7 @@ Instead of coffee or a snack, I'll often have a small glass (about 150ml) of pla
 #### In Cold Soups
 In the summer, we make *chłodnik*, a cold beet soup. The base is traditionally made with kefir or soured milk. It's a beautiful, vibrant pink soup that's incredibly refreshing and packed with nutrients. This is a perfect example of how traditional foods naturally incorporate these healthy elements.
 
-### The Best Kefir is Homemade (and It's Easy!)
+### The best Kefir is Homemade (and it's easy!)
 
 You can buy kefir at the store, but it's often loaded with sugar and has a less diverse and potent microbial profile than the real thing. Homemade kefir is cheaper, more powerful, and ridiculously easy to make.
 

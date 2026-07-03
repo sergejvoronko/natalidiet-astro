@@ -18,12 +18,12 @@ A restaurant portion can reach 900–1,000 calories. My healthy version makes ta
 ### For the Beef
 - 800g lean beef topside, trimmed of all fat
 - 1 tsp olive oil, salt, pepper, dried thyme
-### For the Sauce Base
+### For the sauce base
 - 2 carrots, 1/2 celeriac, 1 parsnip, 2 onions, 2 garlic cloves, all roughly chopped
 - 400ml low-sodium beef broth, 150ml dry white wine
 - 2 bay leaves, 4 peppercorns, 4 allspice berries
 - Juice and zest of 1 lemon, 1 tsp Dijon mustard
-### Cream Sauce Finish
+### Cream sauce finish
 - 150g low-fat Greek yogurt (2% min) mixed with 1 tbsp cornstarch
 - 1 tbsp light crème fraîche (optional, adds small richness)
 ### Serving
@@ -41,12 +41,12 @@ A restaurant portion can reach 900–1,000 calories. My healthy version makes ta
 - Off the heat: stir in cornstarch-yogurt mixture and crème fraîche gradually. Add lemon juice, zest, Dijon. Season, the sauce should be savoury with a hint of sweetness and acidity.
 - Slice beef thinly (5–7mm). Fan over buckwheat. Pour sauce generously. Top with cranberry jam and parsley.
 
-## Nutrition Facts
+## Nutrition facts
 Per serving (with buckwheat, without dumplings):
 
 DIET LABELS: High Protein | High Iron | Gluten-Free (with GF broth) | Special Occasion Recipe
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### Does this taste like restaurant svíčková?
 

@@ -61,11 +61,11 @@ This isn't my mum's exact recipe, though. Hers was often richer, sometimes made 
 
 The real magic happens when you let it simmer. The sweetness of the carrots and peppers melds with the acidity of the tomatoes, and the kitchen fills with that comforting, herby aroma. It's simple, honest food that relies on the quality of its ingredients rather than complicated techniques.
 
-### How I Like to Serve Ghiveci
+### How I like to serve Ghiveci
 
 This stew is wonderful all on its own, a complete meal in a bowl. But for a little extra something, I often add a spoonful of thick Greek yogurt or soured cream on top. The cool creaminess is a perfect contrast to the warm, savoury stew. If I have some good crusty bread on hand, it's essential for mopping up every last bit of the delicious sauce. A final, generous sprinkle of fresh dill right before serving makes all the colours and flavours pop.
 
-### Variations and Storing Leftovers
+### Variations and storing leftovers
 
 This recipe is incredibly forgiving, so feel free to make it your own. For a vegetarian version, leave out the chicken and add a can of rinsed chickpeas or white beans for the last 10 minutes of cooking. You can also swap the vegetables based on what you have, eggplant, green beans, or a few small new potatoes are all fantastic additions, though they will change the nutritional profile.
 

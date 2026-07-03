@@ -78,13 +78,13 @@ For a healthy, balanced diet, *krapivnyi borshch* is close to ideal. It is low i
 
 ---
 
-## Serving Ideas
+## Serving ideas
 
 Serve *krapivnyi borshch* with a thick slice of dark rye bread or a warm chunk of Ukrainian *pampushky* (soft garlic bread rolls) for a complete and filling lunch. The sour cream (smetana) dolloped on top is traditional and non-negotiable for flavour, it adds a cool, tangy richness that balances the earthy nettles perfectly. A few thin rings of spring onion scattered over the bowl alongside the dill make a lovely garnish. For a heartier dinner, serve with a soft-boiled egg halved and placed in the centre of each bowl instead of incorporating the egg drop.
 
 ---
 
-## Storage and Variations
+## Storage and variations
 
 **Storage:** Allow the soup to cool completely before transferring to an airtight container. It will keep in the refrigerator for up to 3 days. Reheat gently over low heat, do not boil, as this can toughen the egg strands. The soup also freezes reasonably well for up to 1 month, though the egg texture changes slightly upon thawing; if you plan to freeze it, consider adding the eggs only when reheating from fresh.
 

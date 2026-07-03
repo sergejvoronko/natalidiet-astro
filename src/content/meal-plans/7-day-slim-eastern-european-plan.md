@@ -17,7 +17,7 @@ This 7-day plan is designed for faster fat loss while staying full and nourished
 
 ---
 
-## Day 1, Light & Grounding
+## Day 1, light & Grounding
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -29,12 +29,12 @@ This 7-day plan is designed for faster fat loss while staying full and nourished
 
 *Add an optional evening snack of 150g plain Greek yogurt to reach ~1,000 kcal if needed.*
 
-### Prep tip, Day 1
+### Prep tip, day 1
 Make a large pot of borscht in the morning, it keeps 4 days and works for multiple lunches.
 
 ---
 
-## Day 2, High Protein
+## Day 2, high protein
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -46,12 +46,12 @@ Make a large pot of borscht in the morning, it keeps 4 days and works for multip
 
 *Add 200ml plain kefir in the evening to reach ~1,000 kcal if needed.*
 
-### Prep tip, Day 2
+### Prep tip, day 2
 Season the turkey mince well with paprika, garlic, and dill, lean meat rewards good seasoning.
 
 ---
 
-## Day 3, Vegetarian Day
+## Day 3, Vegetarian day
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -61,12 +61,12 @@ Season the turkey mince well with paprika, garlic, and dill, lean meat rewards g
 | Dinner | Baked bell pepper stuffed with buckwheat and mushrooms | 290 |
 | **Day total** | | **910** |
 
-### Prep tip, Day 3
+### Prep tip, day 3
 Cook extra lentils, they last 4 days refrigerated and work as a base for several meals.
 
 ---
 
-## Day 4, Light & Fresh
+## Day 4, light & Fresh
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -76,7 +76,7 @@ Cook extra lentils, they last 4 days refrigerated and work as a base for several
 | Dinner | 160g salmon fillet, baked with dill, + 80g new potatoes | 380 |
 | **Day total** | | **870** |
 
-### Prep tip, Day 4
+### Prep tip, day 4
 Okroshka is served cold, make it in the morning and refrigerate until lunch.
 
 ---
@@ -91,12 +91,12 @@ Okroshka is served cold, make it in the morning and refrigerate until lunch.
 | Dinner | Kefir chicken paprikash with 80g buckwheat | 380 |
 | **Day total** | | **970** |
 
-### Prep tip, Day 5
+### Prep tip, day 5
 Mushroom barley soup thickens as it sits, add a splash of water when reheating.
 
 ---
 
-## Day 6, Traditional Day
+## Day 6, traditional day
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -108,7 +108,7 @@ Mushroom barley soup thickens as it sits, add a splash of water when reheating.
 
 *Add 200ml plain kefir in the evening to reach ~1,000 kcal if needed.*
 
-### Prep tip, Day 6
+### Prep tip, day 6
 Make vinegret in a large batch, it improves overnight as flavours meld.
 
 ---

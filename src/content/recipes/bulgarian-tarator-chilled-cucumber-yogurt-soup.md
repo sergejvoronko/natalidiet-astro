@@ -56,7 +56,7 @@ faqs:
     a: "Yes, use an unsweetened plain plant yogurt. The garlic, dill, and cucumber carry the flavour."
 ---
 
-## A Bowl of Sunshine from the Balkans
+## A bowl of sunshine from the Balkans
 
 Tarator is one of the best-kept secrets of Bulgarian cuisine, a cold yogurt and cucumber soup that has been served in Bulgarian homes and restaurants for centuries. It is especially beloved during the scorching summer months, when heavy cooked meals lose their appeal and something light, cool, and satisfying takes their place. The name is believed to share roots with similar cold preparations found across the broader region, yet Bulgaria's version, built on thick strained yogurt, is widely regarded as the definitive one.
 
@@ -66,7 +66,7 @@ From a nutritional standpoint, tarator fits beautifully into a health-conscious 
 
 ---
 
-## Serving Ideas
+## Serving ideas
 
 Tarator is traditionally served ice-cold, sometimes with a small cube of ice placed directly in the bowl. Pair it with a slice of dark rye bread or a warm wholegrain pita for a more filling meal. A scattering of **roughly chopped walnuts** on top is a classic Bulgarian touch, they add a satisfying crunch and a small boost of omega-3 fatty acids. For extra colour, a few thinly sliced radishes or a pinch of sweet paprika can be added at the table.
 

@@ -59,7 +59,7 @@ This recipe is my tribute to those memories, but with a healthy twist that fits 
 
 The process is simple, but it demands a little patience. The key is allowing the cooked cherry base to cool properly before introducing the dairy. Rushing this step will cause the kefir and Skyr to curdle, and you'll lose that luxurious, silky texture. The shocking pink colour, the balance of tart and sweet, and the deep chill make it one of my favourite things to have waiting in the fridge on a blistering hot day.
 
-### Serving & Storing
+### Serving & storing
 
 I love to serve this soup in small glass bowls or even tumblers as a refreshing start to a summer meal or as a standalone snack. For a bit of texture, you can top it with a few toasted almond slivers or some fresh mint leaves. A small dollop of extra Skyr on top also looks beautiful.
 

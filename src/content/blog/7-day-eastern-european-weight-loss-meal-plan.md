@@ -14,22 +14,22 @@ image: "/images/blog/7-day-eastern-european-weight-loss-meal-plan.webp"
 What if your weight-loss diet was built not on bland salads and tasteless diet shakes, but on the warming, satisfying traditional food of Ukraine, Slovakia, Hungary, and Poland? Borscht. Goulash. Stuffed cabbage rolls. Buckwheat with forest mushrooms. Chicken paprikash.
 That is exactly what this 7-day meal plan delivers. Built entirely from Eastern and Central European recipes, lightened with the healthy cooking techniques I use throughout this blog, every day sits between 1,400 and 1,600 calories with strong protein levels to preserve muscle and plenty of fibre to keep you full.
 
-## Key Principles Before You Start
-### 1. Soup First, Every Day
+## Key Principles Before you start
+### 1. Soup First, every day
 Traditional Eastern European eating always begins with soup. A bowl of borscht or vegetable broth before a main course reduces total calorie intake at that meal by 20–25%. It is free, filling, and flavourful, adopt this habit immediately.
-### 2. Fermented Foods Daily
+### 2. fermented foods daily
 Every day includes at least one fermented food: kefir, sauerkraut, pickles, or yogurt. Research links fermented food consumption to a healthier gut microbiome, better metabolic function, and reduced inflammation.
-### 3. Buckwheat Over White Carbs
+### 3. buckwheat Over White Carbs
 Buckwheat (kasha) replaces white rice and white bread wherever possible. It has a lower glycaemic index, more protein, and more magnesium. It keeps blood sugar stable, which keeps hunger in check.
-### 4. Sunday Batch-Cook Day
+### 4. Sunday Batch-Cook day
 Sunday is prep day. In 2–2.5 hours you make the borscht, paprikash, and holubtsi that carry you through most of the week. Monday-to-Friday is mostly reheating and assembling.
 
-## The 7-Day Meal Plan
+## The 7-Day meal plan
 
 Note: Calories are estimates. Use a tracking app (MyFitnessPal, Cronometer) to calibrate to your specific portions and brands.
 
-## Weekly Shopping List
-### Proteins & Dairy
+## Weekly shopping List
+### Proteins & dairy
 - 800g boneless chicken thighs
 - 500g lean beef stewing cut (for goulash)
 - 600g extra-lean beef mince + 200g turkey mince (for holubtsi)
@@ -51,7 +51,7 @@ Note: Calories are estimates. Use a tracking app (MyFitnessPal, Cronometer) to c
 - 2 courgettes
 - 200g cherry tomatoes
 - Fresh dill, parsley, chives
-### Grains & Pantry
+### Grains & pantry
 - 500g toasted buckwheat groats (kasha)
 - Rye crispbreads + 1 loaf rye bread
 - 3 × 400g cans chopped tomatoes
@@ -65,7 +65,7 @@ Note: Calories are estimates. Use a tracking app (MyFitnessPal, Cronometer) to c
 - 100g mixed nuts (walnuts, almonds)
 - Almond butter, hummus
 
-## Sunday Prep Guide (2–2.5 hours)
+## Sunday prep guide (2–2.5 hours)
 - 12:00, Start borscht. Sauté beets, onions, carrots, add broth, simmer 35 min.
 - 12:15, Soak 30g dried porcini in warm water (20 min passive).
 - 12:20, Prep ALL week's vegetables: dice onions, grate carrots, chop celery, cube potatoes. Divide into labelled containers.
@@ -79,9 +79,9 @@ Note: Calories are estimates. Use a tracking app (MyFitnessPal, Cronometer) to c
 - 14:30, Holubtsi done. Cool, portion: 4 portions fridge, 2 portions freeze.
 - 14:45, Done. Label everything with the date.
 
-## Daily Nutrition Summary
+## Daily nutrition Summary
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### How much weight can I lose on this meal plan?
 

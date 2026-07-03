@@ -27,7 +27,7 @@ Pork tenderloin is one of the leanest proteins you can buy, leaner than chicken 
 - Juice of 1/2 lemon
 - Salt and black pepper
 
-### For the Roasted Vegetables (same pan)
+### For the Roasted vegetables (same pan)
 - 300g cherry tomatoes
 - 2 medium courgettes (zucchini), sliced into half-moons
 - 1 red onion, cut into wedges
@@ -49,7 +49,7 @@ Pork tenderloin is one of the leanest proteins you can buy, leaner than chicken 
 - Remove from oven. REST for 10 minutes before slicing, this is non-negotiable for juicy pork. The temperature will rise 2–3 degrees during resting.
 - Slice on the diagonal into medallions about 1.5cm thick. Serve over the roasted vegetables with pan juices drizzled over.
 
-## Nutrition Facts
+## Nutrition facts
 Per serving (pork with roasted vegetables):
 
 DIET LABELS: Gluten-Free | Very High Protein | Dairy-Free | Low-Carb | High Selenium | Paleo-Friendly
@@ -59,7 +59,7 @@ DIET LABELS: Gluten-Free | Very High Protein | Dairy-Free | Low-Carb | High Sele
 - Mustard yogurt: 2 tbsp Greek yogurt + 1 tsp Dijon + squeeze of lemon (adds ~25 kcal)
 - Mushroom jus: Deglaze the pan with 100ml white wine + 100ml broth + sautéed mushrooms, reduce to a sauce (adds ~40 kcal)
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### Is pork tenderloin leaner than chicken breast?
 

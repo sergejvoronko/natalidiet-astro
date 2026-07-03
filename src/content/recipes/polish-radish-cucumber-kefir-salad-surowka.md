@@ -62,7 +62,7 @@ Surówka, which just means "raw salad" in Polish, is the category rather than a 
 
 What makes it work as a diet-friendly snack rather than just a side dish is the combination of fibre from the raw vegetables and the protein and probiotics in the kefir. It keeps you fuller than its calorie count suggests it should, and the fermented base is good for gut health in a way that feels less like a claim on a packaging label and more like something you notice after eating it regularly for a few weeks. The sharp, almost radish-hot crunch against the cool, faintly sour cream of the kefir is one of my favourite contrasts in Polish food.
 
-## Serving Ideas & Variations
+## Serving ideas & variations
 
 This works beautifully alongside open-faced rye bread with a thin scrape of butter, which is how my mum always served it. It also sits well next to grilled chicken or poached fish if you want to build it into a fuller meal rather than eat it as a standalone snack. Some people add a grated small apple for sweetness, I do this occasionally in late summer when the radishes are a little more bitter, and it works surprisingly well. A few finely chopped chives can stand in for the spring onions if that's what you have, and a small clove of garlic pressed into the kefir dressing turns it into something altogether more assertive if that's the direction you want to go.
 

@@ -14,19 +14,19 @@ image: "/images/blog/healthy-traditional-eastern-european-food.webp"
 Traditional Eastern European food is, in many ways, already healthy. The problem is not the cuisine, it is how it evolved over the 20th century. Soviet-era food shortages made fat the primary calorie source. Post-communist access to cheap refined carbohydrates changed eating patterns. The loss of traditional small-portion wisdom followed.
 This pillar is about going back. Back to the authentic roots of these dishes, stripping away the accumulated layers of excess fat and poor-quality ingredients, and revealing the nourishing food that was always underneath.
 
-## The 6 Dishes in This Pillar
+## The 6 dishes in this Pillar
 
-## Universal Principles for Healthy Traditional Cooking
+## Universal Principles for healthy traditional cooking
 ### 1. Find the Original Recipe
 Modern versions of traditional dishes are almost always heavier than the historical originals. Pre-industrial peasant cooking used fat as a precious resource, not a casual ingredient. Going back to the oldest available sources often reveals a dish that was never as heavy as modern versions suggest.
 ### 2. Moisture Management is Everything
 The single most transformative technique for lighter Eastern European cooking is moisture removal. Grating potatoes for deruny and NOT squeezing out the liquid is the primary reason home-made versions absorb far too much oil. Remove the moisture first, and the batter becomes light and crisp without excess oil.
 ### 3. Oven-Finishing Instead of Pan-Frying
 Many traditional dishes are pan-fried throughout. The healthy modern technique: sear briefly in a small amount of oil for colour and flavour, then finish in a hot oven at 200°C. Same golden exterior, fraction of the fat.
-### 4. The Dairy Technique (Revisited)
+### 4. the dairy technique (Revisited)
 Low-fat Greek yogurt replaces full-fat sour cream in all cooked applications, always off the heat, stabilised with a little cornstarch. In cold applications (dressings, cold dips), low-fat sour cream performs better than yogurt.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### Can traditional Eastern European food be light?
 

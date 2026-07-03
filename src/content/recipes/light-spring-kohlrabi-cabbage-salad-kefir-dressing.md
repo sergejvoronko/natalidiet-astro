@@ -67,12 +67,12 @@ This isn't just another boring salad. It's a proper meal, built on the foundatio
 
 The real heart of this dish, for me, is the kefir dressing. Instead of a heavy mayonnaise, we use tangy, probiotic-rich kefir, which is something we always had in the fridge. It provides a creamy coating and a slight fizz that brightens everything up, all while being fantastic for your gut health. Mixed with a mountain of fresh dill and sharp green onions, the smell alone is enough to transport me back to my family's kitchen.
 
-### Serving and Variations
+### Serving and variations
 
 I usually eat this exactly as it is for a complete and balanced lunch. It has everything you need: protein, complex carbs, and plenty of fresh vegetables. If you want to make it for a larger gathering or a barbecue, it works beautifully as a side dish next to grilled meats or fish.
 
 You can easily adapt this salad to what you have. For a vegetarian version, I swap the chicken for four hard-boiled eggs or a can of drained cannellini beans. If you can't find kohlrabi, finely sliced celery or even crisp daikon radish would work well. And if you're a fan of extra crunch, a handful of toasted sunflower or pumpkin seeds scattered on top right before serving is a fantastic addition.
 
-### Storing Leftovers
+### Storing leftovers
 
 This salad is definitely at its best the day it's made, when the cabbage and kohlrabi are at their crunchiest. If you do have leftovers, they can be stored in an airtight container in the fridge for up to two days. The vegetables will soften a bit, but the flavours will have even more time to mingle and it will still be delicious, just a little different. I don't recommend freezing it.

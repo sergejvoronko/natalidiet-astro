@@ -21,7 +21,7 @@ The result is food that is satisfying, without the calorie load.
 
 ## 10 soups to know
 
-### 1. Light Summer Borscht (210 kcal)
+### 1. light Summer Borscht (210 kcal)
 
 The most famous Ukrainian soup, made lighter. The key is using a vegetable stock base and going easy on the potato. Topped with a small spoon of sour cream and fresh dill.
 

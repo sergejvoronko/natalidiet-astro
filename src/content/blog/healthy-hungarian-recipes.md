@@ -14,9 +14,9 @@ image: "/images/blog/healthy-hungarian-recipes.webp"
 Hungarian cuisine is built on three pillars: sweet paprika, sour cream, and pork fat (lard). These three ingredients define the distinctive character of Hungarian food, the deep rust-red colour of paprikash, the velvety richness of goulash sauce, the crispy exterior of lángos. They are also, in excess, the primary calorie challenges.
 But the underlying structure of Hungarian cooking is excellent. It is based on lean chicken, veal, and vegetables in richly spiced paprika sauces. The proteins are lean. The vegetables, peppers, tomatoes, onions, are nutritious. The fault lies almost entirely in too much lard and too much full-fat dairy. Fix those two things and Hungarian food becomes a impressive healthy cuisine.
 
-## The 7 Healthiest Hungarian Dishes (Lightened)
+## The 7 healthiest Hungarian dishes (Lightened)
 
-## The Hungarian Pantry: Essential Ingredients
+## The Hungarian pantry: Essential ingredients
 - Hungarian sweet paprika (Édesnemes), the non-negotiable foundation of Hungarian cooking
 - Smoked paprika, adds depth especially when replacing lard
 - Caraway seeds, essential in goulash, many soups, and pork dishes
@@ -25,11 +25,11 @@ But the underlying structure of Hungarian cooking is excellent. It is based on l
 - Wax beans (sárgahüvely), key ingredient in several traditional soups
 - Flat-leaf parsley, the finishing herb in almost all Hungarian savoury dishes
 
-## The Critical Technique: Blooming the Paprika
+## The Critical technique: Blooming the Paprika
 Every Hungarian recipe begins the same way, and the single most important technique is the same in all of them: the paprika bloom.
 After softening the onions, REMOVE THE PAN FROM THE HEAT. Add the paprika to the hot onions and stir for 30–60 seconds in the residual heat. Then return to the heat and continue. This off-heat blooming releases the fat-soluble flavour compounds in paprika far more effectively than adding it to a boiling pot, and crucially, it prevents the paprika from burning, which creates bitter, unpleasant flavours that cannot be corrected.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### What makes Hungarian food so rich?
 

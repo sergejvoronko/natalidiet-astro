@@ -28,16 +28,16 @@ My healthy version uses low-fat Greek yogurt added off the heat, a swap so seaml
 - 1 tsp caraway seeds (optional but traditional)
 - Salt and black pepper to taste
 
-### For the Yogurt Sauce Finish
+### For the Yogurt sauce finish
 - 150g low-fat Greek yogurt (minimum 2% fat, 0% curdles more easily)
 - 1 tbsp cornstarch / cornflour (mixed with 2 tbsp cold water, stabilises the yogurt)
 
-### Suggested Serving (not included in nutrition count)
+### Suggested serving (not included in nutrition count)
 - Cauliflower mash OR 80g cooked whole wheat egg noodles per person
 - Fresh dill and/or flat-leaf parsley
 - Cucumber salad with dill vinegar
 
-## Step-by-Step Instructions
+## Step-by-Step instructions
 - Pat chicken thighs dry with kitchen paper. Season generously with salt and pepper. Cut into large chunks (about 4cm pieces).
 - Heat olive oil in a wide, heavy-bottomed pan or Dutch oven over medium-high heat. Sear the chicken pieces for 3–4 minutes per side until golden brown. Work in batches, do not crowd the pan. Remove and set aside.
 - Reduce heat to medium. In the same pan, add onion. Cook for 6–8 minutes, stirring often, until softened and just beginning to colour. Add garlic and caraway seeds, cook 1 minute.
@@ -46,23 +46,23 @@ My healthy version uses low-fat Greek yogurt added off the heat, a swap so seaml
 - Return the seared chicken to the pan. Bring to a gentle simmer. Cover and cook on low heat for 30–35 minutes until chicken is completely tender and sauce has thickened.
 - Remove from heat. Mix Greek yogurt with cornstarch until completely smooth. Stir the yogurt mixture into the paprikash gradually. Serve immediately over cauliflower mash or noodles. Garnish with fresh dill.
 
-## Nutrition Facts
+## Nutrition facts
 Per serving of paprikash only (without sides):
 
 DIET LABELS: Gluten-Free | High Protein | Low-Fat | Diabetic-Friendly | Meal-Prep Friendly
 
-## Serving Ideas
+## Serving ideas
 - Over cauliflower mash, saves ~150 calories vs. traditional egg noodles
 - With a simple cucumber-dill salad (slice 2 cucumbers, toss with 2 tbsp apple cider vinegar, dill, salt, zero calories)
 - Over whole-grain egg noodles (adds ~160 calories per 80g cooked portion)
 - With steamed green beans or roasted courgette
 
-## Storage & Meal Prep
+## Storage & meal prep
 - Fridge: Store covered for up to 4 days. The flavour deepens beautifully overnight.
 - Freeze: Freeze WITHOUT the yogurt sauce for up to 3 months. Add fresh yogurt when reheating.
 - Meal prep tip: Make a double batch on Sunday. Portion over cauliflower mash in containers, ready in 2 minutes each day.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### What is the difference between chicken paprikash and goulash?
 

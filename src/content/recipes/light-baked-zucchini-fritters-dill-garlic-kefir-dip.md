@@ -63,12 +63,12 @@ Those fritters are a beautiful memory, but all that oil doesn't quite fit with h
 
 The dip is non-negotiable for me. Kefir, with its signature tang and probiotic benefits, is a fantastic base. The combination of fresh dill and sharp garlic is classic for a reason, it's bright, refreshing, and cuts through the richness of the fritters beautifully. The smell alone transports me right back to my mother's kitchen. It's proof that healthy eating isn't about giving things up; it's about finding smarter, lighter ways to enjoy the foods you love.
 
-### How to Serve and Store
+### How to serve and store
 
 I love these fritters best when they're hot from the oven, with a generous dollop of the cool kefir dip. They make a wonderful afternoon snack or a light lunch alongside a simple tomato and cucumber salad. Sometimes I'll even have a couple for breakfast with a poached egg on top.
 
 They're definitely best eaten fresh, but you can store leftovers in an airtight container in the fridge for up to 2 days. The trick to bringing them back to life is to avoid the microwave, which will make them soft. Instead, pop them back in a hot oven or an air fryer for 5-7 minutes until they crisp up again.
 
-### A Few Simple Variations
+### A few simple variations
 
 Once you have the basic recipe down, it's easy to play with the flavours. If you don't have dill, fresh parsley or mint would be lovely in the dip. For the fritters themselves, you could add a pinch of smoked paprika or a little finely chopped chilli for a gentle heat. If you have other summer squash like yellow squash or pattypan, they can be grated and used in place of the zucchini, just be sure to squeeze them dry

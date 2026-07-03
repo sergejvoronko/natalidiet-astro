@@ -43,12 +43,12 @@ At its core, goulash is already a lean, wholesome dish, the richness comes from 
 - Add carrots and potatoes. Continue simmering for another 25–30 minutes until vegetables and beef are completely tender and the sauce is thick and rich.
 - Remove bay leaves. Taste for seasoning. Serve with a small sprig of parsley. Optional: a tablespoon of low-fat sour cream on top.
 
-## Nutrition Facts
+## Nutrition facts
 Per serving (with vegetables, without side):
 
 DIET LABELS: Gluten-Free | High Iron | High Protein | Dairy-Free | Freezer-Friendly
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### What cut of beef is best for healthy goulash?
 

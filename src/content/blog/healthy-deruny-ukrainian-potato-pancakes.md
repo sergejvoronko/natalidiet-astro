@@ -35,12 +35,12 @@ Traditional deruny can be 350–450 calories for three pancakes. My baked versio
 - Flip carefully and bake 10–12 minutes until second side is equally golden and edges are crisp.
 - Serve immediately with low-fat sour cream, fresh herbs, and sauerkraut.
 
-## Nutrition Facts
+## Nutrition facts
 Per serving (3 deruny with 1 tbsp low-fat sour cream):
 
 DIET LABELS: Vegetarian | Gluten-Free (oat flour) | Lower Fat than Traditional
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### Why are my baked deruny not crispy?
 

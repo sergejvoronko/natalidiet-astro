@@ -64,11 +64,11 @@ While its roots are firmly in Bulgaria, this style of hearty vegetable salad is 
 
 The trick I learnt the hard way is to make sure your beans are properly dry before you mix them with the dressing. If they're still wet, the dressing will slide right off and pool at the bottom of the bowl, which is a sad sight. A quick pat-down with a kitchen towel makes all the difference, ensuring every single bean is coated in that delicious, fragrant sauce. The smell of the freshly chopped dill and garlic mixed into the cool yogurt is the true scent of summer for me.
 
-### Serving Suggestions
+### Serving suggestions
 
 I usually eat this salad on its own for a light but completely satisfying lunch. It has everything you need, protein, veggies, and healthy fats. It's also a fantastic side dish for a barbecue, especially alongside grilled chicken or some simple pan-fried fish. If you want to make it a more substantial meal, a slice of hearty, crusty sourdough bread for mopping up the dressing at the bottom of the bowl is a very good idea.
 
-### Variations and Storage
+### Variations and storage
 
 This salad is quite forgiving, so feel free to make it your own. If you don't have dill, fresh parsley works well, though it gives a different, fresher flavour. For a bit of crunch, a handful of toasted walnuts or sunflower seeds scattered on top is wonderful. You can also add some halved cherry tomatoes for a pop of sweetness and colour.
 

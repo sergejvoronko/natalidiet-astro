@@ -38,12 +38,12 @@ The traditional version can be 350–450 calories per serving, almost entirely f
 - Fold in dressing gently, do not stir vigorously or potatoes will break.
 - Refrigerate at least 1 hour before serving (3–4 hours is better). Taste and adjust seasoning before serving.
 
-## Nutrition Facts
+## Nutrition facts
 Per serving (1/6 of recipe):
 
 DIET LABELS: High Protein | Lower Fat | Gluten-Free | Make-Ahead | Party-Friendly
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### Can you taste the difference between yogurt and mayonnaise dressing?
 

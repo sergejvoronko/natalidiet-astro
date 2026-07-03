@@ -24,7 +24,7 @@ The traditional recipe is already quite well-balanced. My healthy changes: lean 
 - 1 egg
 - 1 tsp sweet paprika, 1 tsp dried marjoram
 - Salt and black pepper
-### For the Tomato Sauce
+### For the Tomato sauce
 - 1 can (400g) chopped tomatoes
 - 200ml low-sodium broth
 - 1 tbsp tomato paste
@@ -40,12 +40,12 @@ The traditional recipe is already quite well-balanced. My healthy changes: lean 
 - Gentle simmer, covered, 50–60 minutes on LOW heat until filling reaches 75°C / 165°F.
 - Serve with low-fat sour cream, fresh parsley, and buckwheat or cauliflower mash.
 
-## Nutrition Facts
+## Nutrition facts
 Per serving (2 stuffed peppers with sauce):
 
 DIET LABELS: Gluten-Free | High Protein | Very High Vitamin C | Freezer-Friendly
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### Can I use beef mince instead of turkey?
 

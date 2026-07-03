@@ -11,48 +11,61 @@ featured: false
 image: "/images/blog/how-to-lose-weight-eating-ukrainian-food.webp"
 ---
 
-This is a question I am asked constantly, by Ukrainian women living abroad who miss their food, by people whose Ukrainian grandmothers cooked for them and who want to honour that tradition, and by anyone who has ever tasted borscht and thought: surely this cannot be diet food.
-My answer is always the same: not only is it possible to lose weight eating Ukrainian food, it is one of the most sustainable and satisfying ways to do it. Ukrainian cuisine at its traditional core was built on exactly the principles that modern nutrition science endorses: fermented foods, high-fibre vegetables, slow-cooked broths, and minimal processing.
+I get asked this constantly. By Ukrainian women living abroad who miss their food. By people whose grandmothers cooked for them and who want to honour that. By anyone who has tasted borscht and thought: surely this cannot be diet food.
 
-## First: What Actually Causes Weight Gain in Modern Ukrainian Eating
-Before we discuss what to keep, let us name the specific culprits honestly.
+It can. Traditional Ukrainian cooking was built on the same things nutritionists now recommend anyway: fermented foods, plenty of high-fibre vegetables, slow broths, not much processing. The weight problem usually comes from what got added later, not from the tradition itself.
 
-## What is Already Perfect Diet Food in Ukrainian Cuisine
-This list is longer than most people expect:
+## What actually drives the weight gain
+So let us be honest about the culprits before we defend the rest. It is rarely the borscht. It is lard as the default cooking fat, salo eaten daily rather than as an occasional slice, four or five thick slices of white bread at every meal, sour cream ladled onto everything, deep-fried varenyky and deruny, and sugar in the tea and the syrniki. Fix those six habits and most of the tradition can stay exactly as it is.
+
+## The dishes that are already diet food
+The list is longer than most people expect.
+
 ### Borscht
-A large bowl of borscht made without lard is approximately 140–200 calories. Beets (anti-inflammatory, high in folate), cabbage (vitamin C, fibre), carrots, lean broth. One of the most nutrient-dense, filling, low-calorie meals in the world. Eat it every single day if you wish.
-### Green Borshch (Sorrel Soup)
-Even lighter at around 120 calories per bowl. Extremely high in vitamin C and iron. The hard-boiled egg served alongside adds protein. A genuine weight-loss meal that is also a cultural staple.
-### Buckwheat Kasha (Hrechana Kasha)
-Ukraine's most beloved everyday grain and one of the most nutritious foods you can eat. Low glycaemic index, high magnesium, meaningful plant protein. Eat it as the side dish at every meal instead of white bread or white rice.
-### Varenyky with Potato and Cottage Cheese (Baked, Not Fried)
-The baking-instead-of-frying swap makes this traditional dish weight-loss friendly. Five baked varenyky at 320 calories is a satisfying, protein-rich meal with exactly the flavours you grew up with.
-### Holubtsi in Tomato Sauce
-Shifting from the sour cream sauce to the tomato-braised version saves approximately 120 calories per serving. Two holubtsi in tomato sauce with generous vegetables is approximately 280 calories, extremely filling and traditional.
+A large bowl made without lard runs about 140–200 calories. Beets bring folate, cabbage brings fibre and vitamin C, and the broth stays lean. It is filling, cheap, and nutrient-dense. Eat it every single day if you want to.
+
+### Green borshch (sorrel soup)
+Lighter still, around 120 calories a bowl, and high in vitamin C and iron. The hard-boiled egg on the side adds the protein. A weight-loss meal that happens to be a cultural staple.
+
+### Buckwheat kasha (hrechana kasha)
+Ukraine's everyday grain, and one of the better things you can put on a plate: low glycaemic index, high magnesium, real plant protein. Use it as your side at every meal in place of white bread or white rice.
+
+### Varenyky with potato and cottage cheese (baked, not fried)
+Bake them instead of frying and the dish turns diet-friendly without losing the point. Five baked varenyky come in around 320 calories: a satisfying, protein-rich meal with the flavours you grew up with.
+
+### Holubtsi in tomato sauce
+Swap the sour cream sauce for the tomato-braised version and you save roughly 120 calories a serving. Two holubtsi with plenty of vegetables land near 280 calories and still fill you up.
+
 ### Kefir
-Plain kefir is perhaps the most underrated health food in Ukrainian tradition. 200ml of plain low-fat kefir is approximately 100 calories, 8g of protein, and billions of probiotic cultures. Research consistently links regular kefir consumption to healthy body weight. Drink it every morning.
-### Vinegret Salad
-The beet, potato, carrot, and fermented pickle salad on every Ukrainian grandmother's table is health-promoting. The pickles add probiotics, beets add antioxidants, and the whole salad is modest in calories dressed with olive oil and herbs.
+Plain kefir is the most underrated food in the whole tradition. 200ml of the low-fat kind is about 100 calories, 8g of protein, and a lot of live cultures. Studies keep tying regular kefir to healthier body weight. Drink it every morning.
 
-## The Ukrainian Weight-Loss Daily Framework
-Morning, The Kefir Habit
-Start every day with 200ml plain kefir. This is one of the most evidence-supported habits for gut health and metabolic function. Follow with buckwheat porridge (grechana kasha) cooked in water with a few berries or a small apple. Approximately 350–400 calories.
-Lunch, Soup First, Always
-The traditional Ukrainian midday meal begins with soup. This is non-negotiable in this framework, it is the rule that makes everything else work. A bowl of borscht or green borshch before your main course reduces the calories you eat at that meal without any sense of restriction. Then a modest portion of your main dish, a side of sauerkraut, and a dill cucumber salad. Approximately 450–500 calories.
-Afternoon, The Ukrainian Snack
-Cottage cheese (tvaroh) with fresh dill and cucumber, or a small bowl of kefir with a handful of walnuts. Approximately 150–180 calories. Both are traditional Ukrainian foods that happen to be excellent diet snacks.
-Dinner, Lighter Than Lunch
-Traditional Ukrainian dinner was lighter than lunch, the main meal was midday. Modern schedules often reverse this, contributing to weight gain. Aim for a lighter evening meal: baked fish with roasted vegetables, a light soup with egg, or buckwheat with mushrooms. Approximately 350–400 calories.
+### Vinegret salad
+The beet, potato, carrot and pickle salad on every grandmother's table earns its place. The pickles add probiotics and the beets add antioxidants, and dressed with olive oil and herbs it stays modest in calories.
 
-## Specific Ukrainian Recipe Adaptations
-### Deruny (Potato Pancakes)
-The healthy version: grate potatoes and SQUEEZE OUT ALL LIQUID, the single most important step that most home cooks skip. Mix with one egg, low-fat cottage cheese, and dill. Bake in the oven at 200°C on a lightly sprayed non-stick tray, 12 minutes each side. Crispy, golden deruny at approximately 120 calories for 3 pancakes instead of 400+.
-### Syrniki (Cottage Cheese Pancakes)
-Already one of the healthiest traditional Ukrainian breakfasts, primarily cottage cheese and egg. The healthy version: use low-fat cottage cheese, replace white flour with oat flour, cook in a non-stick pan with just an oil spray. Serve with fresh berries instead of jam or sour cream. Approximately 250 calories for three syrniki.
-### Olivier Salad
+## A daily framework
+### Morning: the kefir habit
+Start every day with 200ml plain kefir. It is one of the best-evidenced habits going for gut health and metabolism. Follow it with buckwheat porridge cooked in water, a few berries or a small apple on top. About 350–400 calories.
+
+### Lunch: soup first, always
+The Ukrainian midday meal starts with soup, and in this framework that part is non-negotiable. It is the rule that makes the rest work. A bowl of borscht or green borshch before the main course quietly cuts how much you eat at that meal, and it never feels like restriction. Then a modest portion of the main dish, a side of sauerkraut, a dill cucumber salad. About 450–500 calories.
+
+### Afternoon: the snack
+Cottage cheese (tvaroh) with fresh dill and cucumber, or a small bowl of kefir with a handful of walnuts. About 150–180 calories. Both are ordinary Ukrainian foods that happen to make excellent diet snacks.
+
+### Dinner: lighter than lunch
+Traditionally, dinner was the smaller meal and midday was the big one. Modern schedules flip that, and the flip puts on weight. Keep the evening lighter: baked fish with roasted vegetables, a light egg soup, or buckwheat with mushrooms. About 350–400 calories.
+
+## Adapting specific recipes
+### Deruny (potato pancakes)
+Grate the potatoes and squeeze out all the liquid. That is the step most home cooks skip, and it is the one that matters. Mix with an egg, low-fat cottage cheese and dill, then bake at 200°C on a lightly sprayed tray, 12 minutes a side. You get crisp, golden deruny at about 120 calories for three, instead of 400-plus.
+
+### Syrniki (cottage cheese pancakes)
+Already one of the better traditional breakfasts, since it is mostly cottage cheese and egg. To lighten it: low-fat cottage cheese, oat flour instead of white, a non-stick pan with just an oil spray. Serve with fresh berries rather than jam or sour cream. About 250 calories for three.
+
+### Olivier salad
 Replace full-fat mayonnaise with a 50/50 mix of low-fat Greek yogurt and a teaspoon of Dijon mustard. Add more vegetables (cucumber, peas, carrots) and reduce the potato volume. Use chicken breast instead of fatty ham. The result tastes remarkably close to the original at approximately half the calories.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### Can I eat salo (cured pork fat) on a diet?
 
@@ -68,7 +81,7 @@ This is a real and emotionally complex challenge, declining food in Eastern Euro
 
 ### What is the most weight-loss-friendly traditional Ukrainian meal?
 
-Green borshch with a hard-boiled egg at approximately 120 calories is the single most diet-friendly traditional Ukrainian meal. Close second: plain buckwheat kasha with braised mushrooms and a side of sauerkraut, approximately 250 calories of extraordinarily nutritious, filling, traditional food.
+Green borshch with a hard-boiled egg, about 120 calories, is the most diet-friendly traditional meal I know. Close second: plain buckwheat kasha with braised mushrooms and a side of sauerkraut, roughly 250 calories and about as nourishing as cheap food gets.
 
 ---
 

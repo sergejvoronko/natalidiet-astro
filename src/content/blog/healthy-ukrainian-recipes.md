@@ -11,32 +11,34 @@ featured: false
 image: "/images/blog/healthy-ukrainian-recipes.webp"
 ---
 
-Ukrainian cuisine is one of the most diverse, regional, and seasonally rooted food traditions in all of Europe. It spans from the fertile black-earth heartland of central Ukraine (grains, beets, pork) to the Carpathian highlands (mushrooms, trout, fermented dairy) to the Black Sea coast (fish, fresh herbs, lighter preparations). The diversity is extraordinary.
-For healthy cooking, Ukrainian food has a remarkable asset: the traditional daily diet is built on fermented foods, whole grains (buckwheat and rye), hearty vegetable soups, and prepared proteins. The unhealthy aspects, lard as primary cooking fat, very fatty pork, heavy smetana portions, are the minority, and easy to modify.
+Ukrainian cooking is more regional than people expect. The black-earth heartland gives you grains, beets and pork; the Carpathians add mushrooms, trout and fermented dairy; the Black Sea coast leans on fish, fresh herbs and lighter dishes. One country, very different plates.
 
-## The 8 Healthiest Traditional Ukrainian Dishes
+Most of it is already good for you. The daily diet rests on fermented foods, whole grains like buckwheat and rye, big vegetable soups and simple proteins. The parts that cause trouble, lard as the main fat, very fatty pork, heavy hand with the smetana, are the minority and easy to adjust.
 
-## The Ukrainian Pantry: 10 Ingredients to Always Have
-- Toasted buckwheat groats (kasha), the daily grain, replaces white rice at every meal
-- Plain low-fat kefir, morning ritual and probiotic staple; buy by the litre
-- Naturally fermented sauerkraut, the probiotic side dish at every lunch and dinner
-- Naturally fermented dill pickles, essential for rassolnik, salads, snacking
-- Fresh dill, the defining herb of Ukrainian cooking; use generously
-- Beets, the heart of borscht; buy several and keep in the fridge all week
-- Hungarian sweet paprika, Ukrainian cooking uses it too, especially in the west
-- Low-fat cottage cheese (tvaroh), for syrniki, varenyky filling, snacks
-- Rye crispbread or dark rye bread, the traditional daily bread
-- Dried porcini mushrooms, Ukrainian soups and buckwheat dishes use these extensively
+## The eight healthiest traditional dishes
+If you cook nothing else from this tradition, cook these: borscht, green borshch, holubtsi in tomato sauce, baked varenyky, syrniki, vinegret salad, buckwheat kasha with mushrooms, and baked deruny. Each one has its own recipe on the site with full nutrition numbers. Together they cover soup, mains, breakfast and salad, which is most of a week.
 
-## The Ukrainian Healthy Cooking Techniques
-### The Zasmazka (Sautéed Base)
-Almost every Ukrainian soup and stew begins with a zasmazka, the sautéed base of onion, carrot, and tomato paste or fresh tomato. In traditional cooking this is done in sunflower oil or lard. For healthy cooking: 1 tsp olive oil in a non-stick pan, with a splash of water to prevent burning. The result is identical.
-### The Acid Finish
-Ukrainian soups almost always finish with acid, apple cider vinegar, lemon juice, or the brine from fermented pickles. This brightens and deepens flavour, and does important work in borscht specifically by preserving the vivid red-pink colour of the beets. Always add acid at the END of cooking, never at the beginning.
-### Fermented Pickle Brine is a Flavour Secret
-The naturally-fermented brine from your pickle jar is one of the most powerful flavour enhancers in the Ukrainian kitchen. Add a tablespoon to soups, vinegrets, dressings. Use it as the acid finish in borscht. It is salty, sour, complex, and full of probiotics.
+## The Ukrainian pantry: 10 things to keep in
+- Toasted buckwheat groats (kasha), the daily grain, in place of white rice at every meal
+- Plain low-fat kefir, the morning ritual; buy it by the litre
+- Naturally fermented sauerkraut, the probiotic side at lunch and dinner
+- Naturally fermented dill pickles, for rassolnik, salads and snacking
+- Fresh dill, the herb that defines the cooking; use it generously
+- Beets, the heart of borscht; keep several in the fridge all week
+- Hungarian sweet paprika, used in the west especially
+- Low-fat cottage cheese (tvaroh), for syrniki, varenyky filling and snacks
+- Rye crispbread or dark rye bread, the everyday bread
+- Dried porcini, which the soups and buckwheat dishes lean on heavily
 
-## Frequently Asked Questions
+## Techniques that keep it light
+### The zasmazka (sautéed base)
+Almost every soup and stew starts with a zasmazka, a base of onion, carrot and tomato softened together. Traditionally that happens in sunflower oil or lard. Use 1 tsp olive oil in a non-stick pan instead, with a splash of water so nothing catches. You cannot tell the difference in the finished pot.
+### The acid finish
+The soups nearly always end with acid: cider vinegar, lemon juice, or brine from the pickle jar. It brightens the flavour, and in borscht it does one more job, holding the beets' red-pink colour instead of letting it dull. Add the acid at the end, never at the start.
+### Pickle brine is the flavour secret
+The brine from a jar of naturally fermented pickles is the strongest cheap flavour booster in this kitchen. A tablespoon lifts soups, vinegrets and dressings, and it makes a good acid finish for borscht. Salty, sour and full of live cultures.
+
+## Frequently asked questions
 
 ### What are the most popular Ukrainian dishes for weight loss?
 

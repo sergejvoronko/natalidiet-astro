@@ -14,9 +14,9 @@ image: "/images/blog/healthy-slovak-czech-recipes.webp"
 Slovakia and Czech Republic share a intertwined food culture, forged by centuries of shared history in the Austro-Hungarian Empire and then Czechoslovakia. Their cuisines are closely related but distinct: Slovak cooking leans heavily on sheep cheese (bryndza), sauerkraut, and mushrooms; Czech cooking is known for its elaborate sauces, knedlíky (bread dumplings), and a rich tradition of forest foraging.
 Both cuisines face the same healthy-cooking challenges: bread dumplings as a primary carbohydrate, cooking lard as the default fat, and rich cream sauces as the finishing touch for most main courses. And both cuisines have abundant light, nutritious options hiding underneath these challenges.
 
-## The 7 Healthiest Slovak and Czech Dishes (Lightened)
+## The 7 healthiest Slovak and Czech dishes (Lightened)
 
-## The Slovak and Czech Pantry: Essential Ingredients
+## The Slovak and Czech pantry: Essential ingredients
 - Bryndza, Slovak fermented sheep cheese; probiotic-rich, intensely salty, authentic flavour
 - Sauerkraut (domáca kapusta), the fermented backbone of Slovak cooking
 - Marjoram (majorán), the defining herb of Czech and Slovak savoury cooking
@@ -25,17 +25,17 @@ Both cuisines face the same healthy-cooking challenges: bread dumplings as a pri
 - Dark rye bread, everyday bread; much healthier than white wheat bread
 - Slivovitz (plum brandy), a flavouring in some dishes; also the regional digestif
 
-## The Bryndza Question: How to Use It Healthily
+## The Bryndza Question: how to use it Healthily
 Bryndza is Slovakia's most iconic ingredient, a soft, intensely flavourful fermented sheep cheese that is probiotic-rich, high in protein, and full of character. It is also high in sodium and fat. The healthy approach: use bryndza as a flavour accent, not a primary ingredient in large quantities.
 For the national dish bryndzové halušky (potato dumplings with bryndza sauce): use half the traditional amount of bryndza and replace the other half with low-fat Greek yogurt. Mix them together to create a sauce that is still bryndza-flavoured but with far less fat and sodium. Add a large portion of sauerkraut alongside, it is traditional and adds probiotics.
-## The Knedlíky Problem and Its Solutions
+## The Knedlíky Problem and its Solutions
 Bread dumplings (knedlíky) are the defining carbohydrate accompaniment in Czech and to some extent Slovak cooking. They are made from white bread, flour, and egg, high in refined carbohydrates and low in nutrients. For everyday healthy cooking, replace them with:
 - Steamed buckwheat, works perfectly under svíčková and goulash
 - Cauliflower mash, excellent under rich sauces; zero the carbs
 - Celeriac mash, nutty, elegant, far fewer calories than potato mash
 - Whole-grain rye crispbread alongside the dish, authentic bread tradition with more fibre
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### What is the difference between Slovak and Czech cuisine?
 

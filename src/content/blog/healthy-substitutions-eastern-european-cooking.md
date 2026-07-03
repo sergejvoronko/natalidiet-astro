@@ -14,7 +14,7 @@ image: "/images/blog/healthy-substitutions-eastern-european-cooking.webp"
 This is the reference guide I wish I had when I started cooking Eastern European food the healthy way. After years of recipe testing and occasionally making dreadful mistakes in the name of health, I have found the swaps that work, that preserve the authentic character of this cuisine while dramatically reducing calories and unhealthy fats.
 Save this page. Return to it whenever you are adapting a recipe from your grandmother's collection, a Slovak cookbook, or a Ukrainian family recipe that you love.
 
-## Fats and Cooking Oils
+## Fats and cooking Oils
 
 **Lard → Olive oil or avocado oil spray.** Saves 80–120 kcal per tablespoon. Lard is the default fat in Polish, Slovak, and Hungarian cooking, and historically it was used sparingly because it was expensive. A light spray of avocado oil in a hot pan replicates the non-stick effect without the calorie load. For dishes that need browning (kotlety, potato pancakes), use 1 tsp of olive oil maximum and finish in the oven.
 
@@ -42,7 +42,7 @@ Save this page. Return to it whenever you are adapting a recipe from your grandm
 
 **Condensed milk → Evaporated skimmed milk + sweetener.** Saves 150+ kcal per serving. In Eastern European baking, condensed milk often appears in fillings and frostings. Evaporated skimmed milk with a small amount of powdered sweetener gives the same thick sweetness at a fraction of the calories.
 
-## Meat and Protein
+## Meat and protein
 
 **Fatty pork shoulder → Pork tenderloin.** Saves 80–120 kcal per 100g. Tenderloin is the leanest cut on the pig, 3–5g fat per 100g versus 15–25g in shoulder. It dries out if overcooked, so keep it pink in the centre and let it rest properly. For slow-cooked dishes like bigos, use lean pork leg instead.
 
@@ -88,7 +88,7 @@ The swaps above are not theory, they are the result of testing these recipes rep
 
 Healthy Eastern European cooking is not about discipline or sacrifice. It is about understanding what actually made the original dishes work, and removing only the parts that do not serve that purpose.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 Most of these swaps taste identical to the original, the lard-to-olive-oil change is the one you might notice, mainly as a slightly different mouthfeel. Adding a pinch of smoked paprika to the oil compensates almost completely. The full-fat to low-fat dairy swap is undetectable in cooked dishes when the yogurt goes in properly off the heat.
 

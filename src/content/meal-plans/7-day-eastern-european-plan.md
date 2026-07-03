@@ -15,7 +15,7 @@ This 7-day plan keeps you between **1,350–1,600 kcal per day**, a sustainable 
 
 ---
 
-## Day 1, Classic Start
+## Day 1, Classic start
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -25,12 +25,12 @@ This 7-day plan keeps you between **1,350–1,600 kcal per day**, a sustainable 
 | Dinner | Herb Chicken with Roasted Root Vegetables | 380 |
 | **Day total** | | **1,020** |
 
-### Day 1, Prep tip
+### Day 1, prep tip
 Toast the buckwheat the evening before. Borscht can be made in a large batch and used for Day 3 lunch too.
 
 ---
 
-## Day 2, High Protein
+## Day 2, high protein
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -40,12 +40,12 @@ Toast the buckwheat the evening before. Borscht can be made in a large batch and
 | Dinner | Quinoa-Stuffed Roasted Bell Peppers | 340 |
 | **Day total** | | **965** |
 
-### Day 2, Prep tip
+### Day 2, prep tip
 Boil eggs in the morning for snack. Make a double batch of rassolnik, it keeps 4 days and freezes well.
 
 ---
 
-## Day 3, Vegetarian Day
+## Day 3, Vegetarian day
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -55,12 +55,12 @@ Boil eggs in the morning for snack. Make a double batch of rassolnik, it keeps 4
 | Dinner | Smoky Chickpea & Spinach Stew | 350 |
 | **Day total** | | **945** |
 
-### Day 3, Prep tip
+### Day 3, prep tip
 Make syrniki batter the night before. Kapustnyak improves overnight, make double and use leftover for Day 5.
 
 ---
 
-## Day 4, Comfort Day
+## Day 4, Comfort day
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -70,12 +70,12 @@ Make syrniki batter the night before. Kapustnyak improves overnight, make double
 | Dinner | Baked Salmon with Dill & Buckwheat | 420 |
 | **Day total** | | **1,050** |
 
-### Day 4, Prep tip
+### Day 4, prep tip
 Bean soup improves the next day, make double. Cook extra buckwheat for Day 5 dinner.
 
 ---
 
-## Day 5, Light & Fresh
+## Day 5, light & Fresh
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -85,7 +85,7 @@ Bean soup improves the next day, make double. Cook extra buckwheat for Day 5 din
 | Dinner | Kefir Chicken Paprikash with Buckwheat | 380 |
 | **Day total** | | **890** |
 
-### Day 5, Prep tip
+### Day 5, prep tip
 Chłodnik is served cold, make it the evening before and refrigerate overnight for the best flavour.
 
 ---
@@ -100,7 +100,7 @@ Chłodnik is served cold, make it the evening before and refrigerate overnight f
 | Dinner | Slovak-Style Pork Tenderloin with Roasted Carrots | 360 |
 | **Day total** | | **1,075** |
 
-### Day 6, Prep tip
+### Day 6, prep tip
 Holubtsi can be made in large batches and frozen. Defrost overnight and reheat gently for a zero-effort meal.
 
 ---
@@ -115,7 +115,7 @@ Holubtsi can be made in large batches and frozen. Defrost overnight and reheat g
 | Dinner | Lighter Hungarian Goulash with Whole Rye Bread | 420 |
 | **Day total** | | **1,085** |
 
-### Day 7, Prep tip
+### Day 7, prep tip
 Sunday is the perfect day to batch-cook for next week. Goulash keeps 5 days refrigerated and improves daily.
 
 ---
@@ -131,7 +131,7 @@ Sunday is the perfect day to batch-cook for next week. Goulash keeps 5 days refr
 
 ---
 
-## Shopping list, Week 1 (1 person)
+## Shopping list, week 1 (1 person)
 
 ### Vegetables & Fruit
 - Beetroot, 3 medium
@@ -158,7 +158,7 @@ Sunday is the perfect day to batch-cook for next week. Goulash keeps 5 days refr
 - Pork tenderloin, 300g
 - Eggs, 12
 
-### Dairy & Fermented
+### Dairy & fermented
 - Low-fat cottage cheese (tvaroh), 800g
 - Kefir, 1 litre
 - Greek yogurt (0% fat), 500g

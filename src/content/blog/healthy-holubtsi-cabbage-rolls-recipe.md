@@ -15,7 +15,7 @@ Holubtsi, pronounced ho-LOOB-tsi, are Ukrainian stuffed cabbage rolls, and they 
 The traditional recipe is already surprisingly wholesome, it is essentially seasoned meat and rice wrapped in cabbage. My healthy version makes a few strategic tweaks: I use a lean beef and turkey mix, add more vegetables to the filling, and cook the rolls in a light tomato sauce rather than a heavy sour cream sauce. The result is 280 calories per serving (2 rolls) with excellent protein and fibre.
 
 ## Ingredients
-### For the Rolls
+### For the rolls
 - 1 large head white cabbage (about 1.5kg)
 - 400g extra-lean beef mince (5% fat)
 - 200g lean turkey mince
@@ -28,7 +28,7 @@ The traditional recipe is already surprisingly wholesome, it is essentially seas
 - 1 tsp sweet paprika
 - Salt and black pepper to taste
 
-### For the Tomato Cooking Sauce
+### For the Tomato cooking sauce
 - 1 can (400g) chopped tomatoes
 - 200ml low-sodium vegetable or beef broth
 - 1 tbsp tomato paste
@@ -38,7 +38,7 @@ The traditional recipe is already surprisingly wholesome, it is essentially seas
 - 1 tsp olive oil
 - Salt, pepper, and a pinch of sugar to balance acidity
 
-## Step-by-Step Instructions
+## Step-by-Step instructions
 ### Preparing the Cabbage
 - Bring a large pot of water to a boil. Core the cabbage by cutting a deep cross into the base.
 - Submerge the whole cabbage head in the boiling water. As the outer leaves soften (about 3 minutes), gently peel them off with tongs. You need 10–12 large, pliable leaves. Set aside on a clean towel.
@@ -47,27 +47,27 @@ The traditional recipe is already surprisingly wholesome, it is essentially seas
 ### Making the Filling
 - In a large bowl, combine lean beef mince, turkey mince, cooked rice, grated onion, garlic, egg, grated carrot, dill, paprika, salt, and pepper. Mix thoroughly with your hands. Fry a small test piece in a dry pan and taste for seasoning, adjust if needed.
 
-### Assembling the Rolls
+### Assembling the rolls
 - Place a softened cabbage leaf on your work surface. Add 2–3 tablespoons of filling near the stem end. Fold the stem end over the filling, then fold in the sides, then roll forward like a burrito. The roll should be firm but not tight. Repeat with all leaves.
 
-### Making the Sauce & Cooking
+### Making the sauce & cooking
 - Heat olive oil in a large wide pot or Dutch oven. Sauté onion for 5 minutes. Add garlic and paprika, cook 1 minute. Add tomatoes, broth, tomato paste. Season with salt, pepper, and a pinch of sugar.
 - Place the holubtsi seam-side down in the sauce, they should sit snugly in a single layer (or carefully stacked). Spoon sauce over the top rolls.
 - Bring to a gentle simmer. Cover and cook on LOW heat for 50–60 minutes. The low, slow cook is essential, it melds the sauce into the rolls and ensures the filling cooks through completely.
 - Check after 50 minutes: the rolls should be completely tender. A probe thermometer should read 75°C / 165°F in the centre.
 
-## Nutrition Facts
+## Nutrition facts
 Per serving (2 rolls with sauce):
 
 DIET LABELS: Gluten-Free | High Fibre | High Protein | Meal-Prep Friendly | Freezer-Friendly
 
-## Meal Prep & Storage
+## Meal prep & storage
 - These are ideal Sunday batch-cook food. Make a full pot (10–12 rolls) and refrigerate or freeze.
 - Fridge: Store in the sauce for up to 5 days. They improve significantly by day 2.
 - Freeze: Cool completely, then freeze in the sauce in portions. Defrost overnight in the fridge. Reheat gently on the stovetop with a splash of water.
 - Reheat: Always reheat with the lid on to prevent drying out.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### Are cabbage rolls good for weight loss?
 

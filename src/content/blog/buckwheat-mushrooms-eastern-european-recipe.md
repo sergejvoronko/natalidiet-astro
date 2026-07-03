@@ -40,7 +40,7 @@ Paired with forest mushrooms, another Eastern European staple, this dish becomes
 - After 15 minutes, remove from heat. Let it sit, still covered, for 5 more minutes. Fluff gently with a fork. Fold in fresh herbs. Season with salt and pepper.
 - Serve as is, or with a small dollop of light sour cream or coconut yogurt.
 
-## Nutrition Facts
+## Nutrition facts
 Per serving (without sour cream):
 
 DIET LABELS: Vegan | Gluten-Free | High Fibre | High Magnesium | Plant-Based Protein | Diabetic-Friendly
@@ -51,7 +51,7 @@ DIET LABELS: Vegan | Gluten-Free | High Fibre | High Magnesium | Plant-Based Pro
 - CREAMY VERSION: Stir in 2 tbsp light cream cheese or cashew cream at the end
 - BUCKWHEAT BOWL: Serve cold over salad greens with a lemon-dill vinaigrette for a lunch salad
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### Does buckwheat taste like wheat?
 

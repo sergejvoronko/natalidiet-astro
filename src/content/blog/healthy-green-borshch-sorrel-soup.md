@@ -35,18 +35,18 @@ At just 120 calories per bowl and bursting with vitamin C, iron, and chlorophyll
 - Season with salt and white pepper. Taste, it should be pleasantly sour and bright.
 - Serve in bowls with a halved hard-boiled egg, a dollop of Greek yogurt, and fresh herbs.
 
-## Nutrition Facts
+## Nutrition facts
 Per serving (with 1 egg and 1 tbsp low-fat yogurt):
 
 DIET LABELS: Gluten-Free | Low-Calorie | High Vitamin C | Vegetarian | Spring Detox Friendly
 
-## Pro Tips for Perfect Green Borshch
+## Pro tips for perfect Green Borshch
 - Add sorrel at the very end and do not overcook, 2–3 minutes maximum, or it turns bitter.
 - For a silkier texture, blend 1–2 ladles of the potato-broth and stir it back into the pot.
 - For a heartier version, add 100g cooked pearl barley or 50g dried green lentils.
 - Leftover green borshch can be served cold in summer, add a dash of buttermilk for a refreshing cold soup.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### What does green borshch taste like?
 

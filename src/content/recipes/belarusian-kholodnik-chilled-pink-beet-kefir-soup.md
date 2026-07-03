@@ -63,11 +63,11 @@ This chilled soup is a lifesaver across Eastern Europe, with families in Belarus
 
 What I love about it now is how effortlessly healthy it is. You get a huge dose of gut-friendly probiotics from the kefir, which is so important for digestion and overall wellness. It's naturally low in calories but surprisingly filling thanks to the eggs and all the fibre from the vegetables. It's the perfect lunch when you want something that feels substantial but won't weigh you down.
 
-### How to Serve Kholodnik
+### How to serve Kholodnik
 
 This soup is a meal in itself, but the most traditional way I always serve it is with a side of hot, boiled new potatoes. I know, hot potatoes with cold soup sounds odd, but the contrast is fantastic. You take a spoonful of the cool, tangy soup, then a bite of the hot, fluffy potato. It's a combination I still crave. I also like to add an extra sprinkle of fresh dill and sometimes a small dollop of Greek yogurt for extra creaminess.
 
-### Variations and Storing Leftovers
+### Variations and storing leftovers
 
 You can easily play with the ingredients. The trick I learnt the hard way is to not skip the cucumber; its watery crunch is essential. But you can absolutely add finely diced radishes for a peppery kick. If you can't find kefir, a good quality, plain buttermilk will work, though the flavour will be a little less tangy.
 

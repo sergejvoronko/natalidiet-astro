@@ -46,6 +46,6 @@ What I love most is how effortlessly healthy this breakfast is. It's packed with
 
 While cherries and mint are a classic summer combination, don't be afraid to adapt this to what's in season. In early summer, I always add fresh strawberries or raspberries instead of cherries. A handful of blueberries and a squeeze of fresh lemon juice also works beautifully. For a bit of spice, a tiny pinch of cinnamon or cardamom can add a lovely warmth to the dish. If you don't have almonds, toasted sunflower or pumpkin seeds provide a similar, satisfying crunch.
 
-### Serving & Storage
+### Serving & storage
 
 I usually eat this just as it is, straight from the bowl. It's a complete and balanced meal on its own. For a more substantial breakfast, you can serve it alongside a slice of dark, dense rye bread. It also makes a fantastic high-protein afternoon snack when you need a little boost of energy. This dish is best enjoyed immediately after making it, as the mint is at its most fragrant and the cherries are fresh. If you do have leftovers, you can store them in an airtight container in the fridge for up to a day, but be aware the texture might become a little watery.

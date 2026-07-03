@@ -35,7 +35,7 @@ Syrniki are already one of the healthiest traditional Ukrainian breakfasts. The 
 - Cook 3–4 minutes per side until deep golden. Do not rush, medium-low heat ensures the inside cooks through without burning outside.
 - Serve warm with fresh berries and a drizzle of kefir or small dollop of low-fat sour cream.
 
-## Nutrition Facts
+## Nutrition facts
 Per serving (3 syrniki, without toppings):
 
 DIET LABELS: Vegetarian | High Protein | Gluten-Free adaptable | Quick (20 min)
@@ -45,7 +45,7 @@ DIET LABELS: Vegetarian | High Protein | Gluten-Free adaptable | Quick (20 min)
 - LEMON POPPY SEED: Add 1 tsp poppy seeds + extra lemon zest.
 - BAKED VERSION: Place shaped syrniki on oiled parchment, bake 200°C for 15 min each side.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### Why are my syrniki falling apart?
 

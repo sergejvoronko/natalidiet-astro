@@ -73,7 +73,7 @@ faqs:
     a: "Whisk hot broth gradually into the egg-lemon mixture off the heat, then stir it back in. Don't boil afterwards."
 ---
 
-## A Bowl of Sour, Silky Romanian Comfort
+## A bowl of Sour, Silky Romanian Comfort
 
 Ciorbă, Romania's beloved category of sour soups, is one of the great unsung staples of Eastern European cooking. Unlike a simple broth or a cream-laden chowder, ciorbă occupies a singular niche: bright with acidity, savoury from long-simmered vegetables, and finished with a velvety egg-and-dairy liaison that gives the broth a gentle richness without excess fat. Every Romanian family has its own version, its own souring agent of choice, and its own memory tied to the smell of a pot simmering on the stove.
 
@@ -83,7 +83,7 @@ From a nutritional standpoint, this ciorbă is a smart dinner choice. Chicken th
 
 ---
 
-## Serving Ideas
+## Serving ideas
 
 Serve the ciorbă in deep bowls with a thick slice of sourdough or Romanian country bread (pâine de casă) for dipping. A small side of pickled green tomatoes or fermented cucumber slices (murături) is a traditional Romanian accompaniment and adds a probiotic element to the meal. A light sprinkle of chilli flakes suits those who prefer a gentle warmth.
 
@@ -91,7 +91,7 @@ For a lower-carb dinner, skip the bread entirely, the soup is substantial enough
 
 ---
 
-## Storage and Variations
+## Storage and variations
 
 **Storage:** Allow the ciorbă to cool completely before transferring to an airtight container. It keeps well in the refrigerator for up to 3 days. Reheat gently over a low flame and do not boil, as the egg-and-sour-cream base can separate at high temperatures. This soup also freezes well *before* adding the egg yolk and sour cream mixture, freeze the plain broth with chicken and vegetables, then prepare the liaison fresh when reheating.
 

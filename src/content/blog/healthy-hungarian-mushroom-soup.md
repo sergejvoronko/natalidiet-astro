@@ -41,7 +41,7 @@ The trick is using a small amount of low-fat Greek yogurt added off the heat, pl
 - Remove from heat. Stir in Greek yogurt and lemon juice. The yogurt MUST be added off the heat or it will curdle. Season with salt and pepper.
 - Serve immediately with fresh dill, a grind of black pepper, and crusty rye bread if desired.
 
-## Nutrition Facts
+## Nutrition facts
 Per serving (without bread):
 
 DIET LABELS: Vegan option | Gluten-Free | Low-Calorie | Low-Fat | High Selenium | Diabetic-Friendly
@@ -49,7 +49,7 @@ DIET LABELS: Vegan option | Gluten-Free | Low-Calorie | Low-Fat | High Selenium 
 ## Make it Vegan
 Replace Greek yogurt with unsweetened cashew cream or coconut yogurt. Use vegetable broth. The soup is naturally vegan except for the dairy component.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### What makes this soup taste creamy without cream?
 

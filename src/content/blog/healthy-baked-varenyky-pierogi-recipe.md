@@ -29,7 +29,7 @@ Traditionally they are boiled and then pan-fried in butter until golden and cris
 - 1 tbsp fresh chives or dill, chopped
 - Salt, white pepper, and a pinch of nutmeg to taste
 
-### For Baking & Serving
+### For Baking & serving
 - 1 tbsp olive oil (for brushing before baking)
 - 4 tbsp low-fat Greek yogurt or light sour cream
 - Caramelised onion (made with 1 large onion, 1/2 tsp oil, slow-cooked 25 min, traditional topping)
@@ -53,7 +53,7 @@ Traditionally they are boiled and then pan-fried in butter until golden and cris
 - Bake for 12–15 minutes until the surfaces are golden and slightly blistered.
 - Serve immediately with caramelised onion, a dollop of Greek yogurt, and fresh dill.
 
-## Nutrition Facts
+## Nutrition facts
 Per serving (5 varenyky with filling, light yogurt, no caramelised onion):
 
 DIET LABELS: Vegetarian | Lower Fat than Traditional | Gluten-Free adaptable | Freezer-Friendly
@@ -64,7 +64,7 @@ The best way to have these on demand:
 - Transfer frozen varenyky to a zip-lock bag. They keep for 3 months.
 - To cook from frozen: boil directly in salted water for 7–8 minutes (they take 2–3 minutes longer than fresh). Then bake as normal.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### How many calories are in traditional fried pierogi?
 

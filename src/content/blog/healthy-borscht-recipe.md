@@ -15,7 +15,7 @@ Borscht is probably the most famous soup to come out of Eastern Europe, and for 
 I grew up eating borscht at least twice a week, made by my grandmother in her small Ukrainian kitchen. Her version was wonderful but heavy, full of lard and thick sour cream. Over the years I have developed this lighter version that tastes just as soulful, but works beautifully as part of a healthy eating plan or weight-loss diet.
 
 ## Ingredients
-### For the Soup Base
+### For the Soup base
 - 2 medium beets (approx. 400g), peeled and grated or julienned
 - 3 medium carrots, peeled and diced
 - 3 stalks celery, diced
@@ -29,12 +29,12 @@ I grew up eating borscht at least twice a week, made by my grandmother in her sm
 - 1 tsp olive oil
 - Salt and black pepper to taste
 
-### For Serving
+### For serving
 - 4 tbsp low-fat Greek yogurt or light sour cream (instead of full-fat)
 - Fresh dill, chopped
 - Optional: 1 hard-boiled egg per bowl for extra protein
 
-## Step-by-Step Instructions
+## Step-by-Step instructions
 - Heat olive oil in a large pot over medium heat. Add onion and celery. Sauté for 5 minutes until softened. Add garlic and cook for 1 more minute.
 - Add grated beets and carrots to the pot. Stir well and cook for 3–4 minutes. The beets will release their beautiful colour into the oil.
 - Add tomatoes (or tomato paste) and stir to coat all vegetables. Cook for 2 minutes.
@@ -43,18 +43,18 @@ I grew up eating borscht at least twice a week, made by my grandmother in her sm
 - Stir in the apple cider vinegar or lemon juice. This is critical, the acid brightens the colour and adds the characteristic slight tanginess. Season with salt and pepper.
 - Ladle into bowls. Add a dollop of Greek yogurt (NOT stirred in, place it on top so it stays white). Scatter with fresh dill. Add a boiled egg if using.
 
-## Nutrition Facts
+## Nutrition facts
 Per serving (approx. 400ml bowl), without egg:
 
 DIET LABELS: Gluten-Free | Low-Fat | High-Fibre | Vegetarian (Vegan option) | Diabetic-Friendly
 
-## Meal Prep & Storage
+## Meal prep & storage
 - Refrigerator: Store in airtight containers for up to 5 days. The colour deepens and flavour improves overnight.
 - Freezer: Freeze for up to 3 months WITHOUT the yogurt or potato. Add fresh potato when reheating.
 - Reheating: Warm gently on the stovetop over low heat. Avoid microwaving, it dulls the colour.
 - Batch cooking: This recipe doubles and triples beautifully. Make a big pot on Sunday.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### Is borscht good for weight loss?
 

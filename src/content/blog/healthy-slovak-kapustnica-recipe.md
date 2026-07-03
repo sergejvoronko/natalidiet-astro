@@ -37,12 +37,12 @@ The secret weapon in kapustnica is sauerkraut, fermented cabbage that is one of 
 - Taste and adjust: add reserved sauerkraut liquid for more sourness, or a pinch of sugar to balance if too sharp.
 - Remove bay leaf. Serve hot with a small dollop of light sour cream and rye bread (optional).
 
-## Nutrition Facts
+## Nutrition facts
 Per serving (without sour cream or bread):
 
 DIET LABELS: Gluten-Free | High Protein | High Fibre | Probiotic-Rich | Dairy-Free option
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### Is kapustnica healthy?
 
