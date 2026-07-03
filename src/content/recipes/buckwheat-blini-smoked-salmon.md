@@ -15,7 +15,7 @@ fat: 10
 fibre: 3
 tags: ["gluten-free", "high-protein", "special-occasion", "russian", "omega-3", "buckwheat"]
 category: "healthy-main-dishes"
-tip: "Let the batter rest 10 minutes before cooking — this allows the buckwheat flour to hydrate fully and makes lighter, more pliable blini."
+tip: "Let the batter rest 10 minutes before cooking, this allows the buckwheat flour to hydrate fully and makes lighter, more pliable blini."
 publishDate: 2026-04-15
 featured: false
 image: "/images/buckwheat-blini-smoked-salmon.webp"
@@ -50,13 +50,13 @@ steps:
   - "Fold in half or serve flat. Eat immediately."
 faqs:
   - q: "Are buckwheat blini gluten-free?"
-    a: "Buckwheat is naturally gluten-free — just check the flour is certified gluten-free, as some brands are milled alongside wheat."
+    a: "Buckwheat is naturally gluten-free, just check the flour is certified gluten-free, as some brands are milled alongside wheat."
   - q: "No kefir at home?"
     a: "Use buttermilk, or milk with a teaspoon of lemon juice rested for 10 minutes."
   - q: "Can I freeze the blini?"
-    a: "Yes — layer cooled blini with baking parchment and freeze. Reheat in a dry pan; top with salmon fresh."
+    a: "Yes, layer cooled blini with baking parchment and freeze. Reheat in a dry pan; top with salmon fresh."
 ---
 
-Blini are Russia's most elegant dish — thin, buckwheat pancakes that serve as the base for almost any topping. Buckwheat flour is naturally gluten-free and has a deep, earthy flavour that complements smoked salmon perfectly.
+Blini are Russia's most elegant dish, thin, buckwheat pancakes that serve as the base for almost any topping. Buckwheat flour is naturally gluten-free and has a deep, earthy flavour that complements smoked salmon perfectly.
 
 This is the Saturday morning recipe: takes 35 minutes, feels luxurious, costs almost nothing compared to any café equivalent, and is 310 calories of pure satisfaction.

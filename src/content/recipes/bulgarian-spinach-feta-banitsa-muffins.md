@@ -1,7 +1,7 @@
 ---
 title: "Bulgarian Spinach & Feta Banitsa Muffins"
 description: "These flaky, golden muffins pack all the buttery, cheesy comfort of traditional Bulgarian banitsa into a portion-controlled breakfast made with phyllo pastry, fresh spinach, and creamy feta. High in protein and calcium, they keep you full through the morning without weighing you down."
-metaDescription: "Flaky Bulgarian banitsa muffins with spinach and feta — a portion-controlled, high-protein breakfast that keeps you full all morning."
+metaDescription: "Flaky Bulgarian banitsa muffins with spinach and feta, a portion-controlled, high-protein breakfast that keeps you full all morning."
 image: "/images/bulgarian-spinach-feta-banitsa-muffins.webp"
 course: breakfast
 cuisine: "Bulgarian"
@@ -16,7 +16,7 @@ fat: 8
 fibre: 5
 tags: ["bulgarian", "breakfast", "vegetarian", "high-protein", "under-300-kcal", "feta", "spinach"]
 category: "breakfast"
-tip: "Scrunch each phyllo strip loosely rather than pressing it flat — those crinkled air pockets are exactly what gives banitsa its signature crispness."
+tip: "Scrunch each phyllo strip loosely rather than pressing it flat, those crinkled air pockets are exactly what gives banitsa its signature crispness."
 publishDate: 2026-05-15
 featured: false
 ingredients:
@@ -53,25 +53,25 @@ steps:
   - "Leave the muffins to cool in the tin for 5 minutes before lifting them out carefully with a small palette knife."
 faqs:
   - q: "Can I freeze banitsa muffins?"
-    a: "Yes, up to 2 months. Reheat in the oven at 160°C to re-crisp the phyllo — the microwave makes it soft."
+    a: "Yes, up to 2 months. Reheat in the oven at 160°C to re-crisp the phyllo, the microwave makes it soft."
   - q: "Does frozen spinach work?"
-    a: "Yes — thaw it fully and squeeze out as much water as you can, or the muffins turn soggy."
+    a: "Yes, thaw it fully and squeeze out as much water as you can, or the muffins turn soggy."
   - q: "What can replace feta?"
-    a: "Bulgarian sirene is the authentic choice. Otherwise any crumbly white cheese — light feta keeps the calories down."
+    a: "Bulgarian sirene is the authentic choice. Otherwise any crumbly white cheese, light feta keeps the calories down."
 ---
 
-My mum never called it banitsa muffins, obviously. She called it banitsa, and she made it in a huge round tin every Sunday morning, with enough filling to feed half the neighbourhood. The smell — that particular combination of toasty pastry and warm, slightly salty cheese — would pull everyone out of bed better than any alarm clock. I've been chasing that smell my whole adult life, and these little muffins are the closest I've managed to get on a regular Tuesday when I don't have a large tin, two hours, or frankly the patience.
+My mum never called it banitsa muffins, obviously. She called it banitsa, and she made it in a huge round tin every Sunday morning, with enough filling to feed half the neighbourhood. The smell, that particular combination of toasty pastry and warm, slightly salty cheese, would pull everyone out of bed better than any alarm clock. I've been chasing that smell my whole adult life, and these little muffins are the closest I've managed to get on a regular Tuesday when I don't have a large tin, two hours, or frankly the patience.
 
-The original Bulgarian banitsa is a layered phyllo pastry baked with eggs, white cheese, and often yogurt. It's centuries old, eaten for breakfast on New Year's morning for luck, served at celebrations, and made by grandmothers who seem to know exactly how buttery the pastry should feel without measuring anything. The muffin format isn't traditional, and I want to be clear about that — but it solves a real problem: portion control without sacrifice. Each muffin gives you that same crackle of pastry giving way to the soft, eggy, cheese-flecked centre, just in a size that fits a balanced morning plate.
+The original Bulgarian banitsa is a layered phyllo pastry baked with eggs, white cheese, and often yogurt. It's centuries old, eaten for breakfast on New Year's morning for luck, served at celebrations, and made by grandmothers who seem to know exactly how buttery the pastry should feel without measuring anything. The muffin format isn't traditional, and I want to be clear about that, but it solves a real problem: portion control without sacrifice. Each muffin gives you that same crackle of pastry giving way to the soft, eggy, cheese-flecked centre, just in a size that fits a balanced morning plate.
 
-What makes this work nutritionally is the combination of eggs, feta, and yogurt. You're getting a genuinely high-protein breakfast — around 18 grams per serving — from ingredients that have been a staple of Balkan diets for good reason. Feta adds calcium and that distinctive briny sharpness that keeps the whole thing from tasting bland. The spinach practically disappears into the filling once cooked, which I always find satisfying: you get the iron, the fibre, the colour, without the texture putting anyone off. I always add a tiny pinch of dried dill because my mum did, and because it makes the kitchen smell like somewhere worth being.
+What makes this work nutritionally is the combination of eggs, feta, and yogurt. You're getting a high-protein breakfast, around 18 grams per serving, from ingredients that have been a staple of Balkan diets for good reason. Feta adds calcium and that distinctive briny sharpness that keeps the whole thing from tasting bland. The spinach practically disappears into the filling once cooked, which I always find satisfying: you get the iron, the fibre, the colour, without the texture putting anyone off. I always add a tiny pinch of dried dill because my mum did, and because it makes the kitchen smell like somewhere worth being.
 
 ## Serving Ideas & Variations
 
 These muffins are good warm from the oven, but they're honestly just as good cold the next morning, which is when I usually eat them standing at the kitchen counter. Pack two in a container with a handful of cherry tomatoes and some cucumber slices and you have a complete, portable breakfast with almost no effort.
 
-If you want to play with the filling, a small handful of sun-dried tomatoes stirred through adds sweetness, and swapping some of the feta for ricotta makes the centre creamier and a bit milder for anyone who finds feta sharp. The trick I learnt the hard way is to never skip the step of squeezing the spinach dry — the one time I rushed it, the muffins were soggy in the middle and the phyllo went limp. A limp banitsa is a sad thing. Thirty seconds with a tea towel is all it takes, and it really does make every difference.
+If you want to play with the filling, a small handful of sun-dried tomatoes stirred through adds sweetness, and swapping some of the feta for ricotta makes the centre creamier and a bit milder for anyone who finds feta sharp. The trick I learnt the hard way is to never skip the step of squeezing the spinach dry, the one time I rushed it, the muffins were soggy in the middle and the phyllo went limp. A limp banitsa is a sad thing. Thirty seconds with a tea towel is all it takes, and it does make every difference.
 
 ## Storage
 
-Store cooled muffins in an airtight container in the fridge for up to three days. To reheat, pop them in the oven at 170°C for about 8 minutes rather than the microwave — the microwave works, but the pastry loses its crispness, and that crispness is half the point. They also freeze well: wrap individually, freeze for up to one month, and reheat straight from frozen at 180°C for 15 minutes.
+Store cooled muffins in an airtight container in the fridge for up to three days. To reheat, pop them in the oven at 170°C for about 8 minutes rather than the microwave, the microwave works, but the pastry loses its crispness, and that crispness is half the point. They also freeze well: wrap individually, freeze for up to one month, and reheat straight from frozen at 180°C for 15 minutes.

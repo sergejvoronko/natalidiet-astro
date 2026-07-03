@@ -1,6 +1,6 @@
 ---
 title: "Berry Cottage Cheese Bowl"
-description: "A light, protein-rich snack ready in 5 minutes. Cottage cheese with seasonal berries and a drizzle of honey — no cooking required."
+description: "A light, protein-rich snack ready in 5 minutes. Cottage cheese with seasonal berries and a drizzle of honey, no cooking required."
 course: "snack"
 cuisine: "Eastern European"
 prepTime: 5
@@ -14,7 +14,7 @@ fat: 2
 fibre: 2
 tags: ["quick", "high-protein", "no-cook", "low-calorie", "vegetarian", "cottage-cheese"]
 category: "healthy-main-dishes"
-tip: "Add a pinch of vanilla powder and the result is indistinguishable from dessert — at 150 calories."
+tip: "Add a pinch of vanilla powder and the result is indistinguishable from dessert, at 150 calories."
 publishDate: 2026-04-04
 featured: true
 image: "/images/berry-cottage.webp"
@@ -33,11 +33,11 @@ steps:
   - "Sprinkle with chia seeds and serve immediately."
 faqs:
   - q: "Can I use frozen berries?"
-    a: "Yes. Let them thaw a few minutes and stir the juice in — it sweetens the bowl naturally."
+    a: "Yes. Let them thaw a few minutes and stir the juice in, it sweetens the bowl naturally."
   - q: "Which cottage cheese works best?"
     a: "Any plain cottage cheese works; low-fat keeps it at 150 kcal. For a thicker bowl, drain it briefly in a sieve."
   - q: "Can I prepare it the night before?"
     a: "Assemble without honey and chia, cover and refrigerate; add both in the morning so the seeds don't swell overnight."
 ---
 
-Tvorog (творог) — the Eastern European equivalent of cottage cheese — has been a dietary staple for centuries. It's high in casein protein, low in fat, and incredibly versatile.
+Tvorog (творог), the Eastern European equivalent of cottage cheese, has been a dietary staple for centuries. It's high in casein protein, low in fat, and incredibly versatile.

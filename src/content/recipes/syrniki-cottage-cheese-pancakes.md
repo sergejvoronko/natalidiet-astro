@@ -45,13 +45,13 @@ steps:
   - "Serve warm with berry compote and a dollop of Greek yogurt if desired."
 faqs:
   - q: "Why do my syrniki fall apart?"
-    a: "The cheese is too wet. Drain it 30–60 minutes in a sieve — dry-curd cottage cheese is the whole secret."
+    a: "The cheese is too wet. Drain it 30–60 minutes in a sieve, dry-curd cottage cheese is the whole secret."
   - q: "Can I make them gluten-free?"
-    a: "Yes — oat flour swaps 1:1 for the plain flour in this recipe."
+    a: "Yes, oat flour swaps 1:1 for the plain flour in this recipe."
   - q: "Do syrniki freeze well?"
     a: "Very well. Fry, cool, freeze flat, then reheat in a dry pan or 160°C oven straight from frozen."
 ---
 
-Syrniki are Ukraine's answer to breakfast pancakes — but made entirely from cottage cheese, so they are high in protein and naturally filling. The texture is somewhere between a pancake and a cheesecake: soft inside, golden outside.
+Syrniki are Ukraine's answer to breakfast pancakes, but made entirely from cottage cheese, so they are high in protein and naturally filling. The texture is somewhere between a pancake and a cheesecake: soft inside, golden outside.
 
 These freeze beautifully. Make a double batch, freeze on a tray, then bag. Reheat from frozen in a 160°C oven for 12 minutes.

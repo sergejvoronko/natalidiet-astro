@@ -54,16 +54,16 @@ steps:
   - "Serve immediately for the best crunch, or let it sit for 15 minutes for the flavours to meld."
 faqs:
   - q: "What can replace kohlrabi?"
-    a: "Peeled broccoli stem, young turnip, or extra radishes — anything crisp and mildly sweet."
+    a: "Peeled broccoli stem, young turnip, or extra radishes, anything crisp and mildly sweet."
   - q: "Can I make it vegetarian?"
     a: "Skip the chicken and add white beans or halved boiled eggs to keep the protein up."
   - q: "How long does it keep dressed?"
-    a: "Best within 24 hours — the kefir dressing slowly softens the cabbage after that."
+    a: "Best within 24 hours, the kefir dressing slowly softens the cabbage after that."
 ---
 
-There's a specific sound that means spring has truly arrived in Ukraine: the sharp, satisfying crunch of the first young kohlrabi of the season. My mum would bring it from the market, its pale green skin still vibrant, and we'd often eat it raw, just sliced with a pinch of salt. It has a delicate, sweet flavour, somewhere between a cabbage heart and a mild turnip, and it’s the star of this salad. This recipe is my way of capturing those first warm days after a long winter, when all you want is something fresh, light, and full of life.
+There's a specific sound that means spring has arrived in Ukraine: the sharp, satisfying crunch of the first young kohlrabi of the season. My mum would bring it from the market, its pale green skin still vibrant, and we'd often eat it raw, just sliced with a pinch of salt. It has a delicate, sweet flavour, somewhere between a cabbage heart and a mild turnip, and it's the star of this salad. This recipe is my way of capturing those first warm days after a long winter, when all you want is something fresh, light, and full of life.
 
-This isn’t just another boring salad. It’s a proper meal, built on the foundations of simple, seasonal Slavic cooking. We use tender spring cabbage, which is so much softer than its winter counterpart, and new potatoes that add a lovely, creamy texture. The chicken makes it substantial enough for lunch, keeping you full without feeling heavy. It’s the kind of food I grew up with—unfussy, honest, and deeply connected to the seasons.
+This isn't just another boring salad. It's a proper meal, built on the foundations of simple, seasonal Slavic cooking. We use tender spring cabbage, which is so much softer than its winter counterpart, and new potatoes that add a lovely, creamy texture. The chicken makes it substantial enough for lunch, keeping you full without feeling heavy. It's the kind of food I grew up with, unfussy, honest, and connected to the seasons.
 
 The real heart of this dish, for me, is the kefir dressing. Instead of a heavy mayonnaise, we use tangy, probiotic-rich kefir, which is something we always had in the fridge. It provides a creamy coating and a slight fizz that brightens everything up, all while being fantastic for your gut health. Mixed with a mountain of fresh dill and sharp green onions, the smell alone is enough to transport me back to my family's kitchen.
 
@@ -71,8 +71,8 @@ The real heart of this dish, for me, is the kefir dressing. Instead of a heavy m
 
 I usually eat this exactly as it is for a complete and balanced lunch. It has everything you need: protein, complex carbs, and plenty of fresh vegetables. If you want to make it for a larger gathering or a barbecue, it works beautifully as a side dish next to grilled meats or fish.
 
-You can easily adapt this salad to what you have. For a vegetarian version, I swap the chicken for four hard-boiled eggs or a can of drained cannellini beans. If you can't find kohlrabi, finely sliced celery or even crisp daikon radish would work well. And if you’re a fan of extra crunch, a handful of toasted sunflower or pumpkin seeds scattered on top right before serving is a fantastic addition.
+You can easily adapt this salad to what you have. For a vegetarian version, I swap the chicken for four hard-boiled eggs or a can of drained cannellini beans. If you can't find kohlrabi, finely sliced celery or even crisp daikon radish would work well. And if you're a fan of extra crunch, a handful of toasted sunflower or pumpkin seeds scattered on top right before serving is a fantastic addition.
 
 ### Storing Leftovers
 
-This salad is definitely at its best the day it’s made, when the cabbage and kohlrabi are at their crunchiest. If you do have leftovers, they can be stored in an airtight container in the fridge for up to two days. The vegetables will soften a bit, but the flavours will have even more time to mingle and it will still be delicious—just a little different. I don't recommend freezing it.
+This salad is definitely at its best the day it's made, when the cabbage and kohlrabi are at their crunchiest. If you do have leftovers, they can be stored in an airtight container in the fridge for up to two days. The vegetables will soften a bit, but the flavours will have even more time to mingle and it will still be delicious, just a little different. I don't recommend freezing it.

@@ -2,7 +2,7 @@
 title: "Belarusian Kholodnik – A Chilled Pink Beet & Kefir Soup for Summer Days"
 description: "This vibrant Belarusian chilled beet soup, known as Kholodnik, is made with kefir, fresh dill, and crunchy cucumber. It's a refreshing, low-calorie meal packed with probiotics to support gut health."
 metaTitle: "Belarusian Kholodnik — Chilled Beet Kefir Soup"
-metaDescription: "Chilled Belarusian beet soup with kefir, dill and cucumber. Low-calorie, probiotic-rich and refreshing — perfect for hot summer days."
+metaDescription: "Chilled Belarusian beet soup with kefir, dill and cucumber. Low-calorie, probiotic-rich and refreshing, perfect for hot summer days."
 image: "/images/belarusian-kholodnik-chilled-pink-beet-kefir-soup.webp"
 course: lunch
 cuisine: "Ukrainian"
@@ -50,18 +50,18 @@ steps:
   - "Serve cold, garnished with the remaining fresh dill and a few extra grinds of black pepper."
 faqs:
   - q: "Can I make kholodnik ahead?"
-    a: "Yes — it tastes better after a few hours in the fridge. Keep up to 2 days and add the halved eggs just before serving."
+    a: "Yes, it tastes better after a few hours in the fridge. Keep up to 2 days and add the halved eggs just before serving."
   - q: "What can I use instead of kefir?"
     a: "Buttermilk is the closest match. Plain yogurt thinned with cold water and a squeeze of lemon also works."
   - q: "Is kholodnik served warm?"
-    a: "No — it is a chilled soup by design, made for hot days. Serve it cold, ideally with an ice cube in the bowl."
+    a: "No, it is a chilled soup by design, made for hot days. Serve it cold, ideally with an ice cube in the bowl."
 ---
 
-The first sign of real summer in my childhood home wasn't the weather, but the giant bowl of shocking pink Kholodnik that appeared in our fridge. My mum made this every single summer, and its cool, tangy flavour was the only thing that made sense on a sweltering afternoon. It’s a soup that’s alive with texture: the slight bite from the grated beets, the fresh crunch of cucumber, and the creamy tang of kefir tying it all together.
+The first sign of real summer in my childhood home wasn't the weather, but the giant bowl of shocking pink Kholodnik that appeared in our fridge. My mum made this every single summer, and its cool, tangy flavour was the only thing that made sense on a sweltering afternoon. It's a soup that's alive with texture: the slight bite from the grated beets, the fresh crunch of cucumber, and the creamy tang of kefir tying it all together.
 
 This chilled soup is a lifesaver across Eastern Europe, with families in Belarus, Lithuania, Poland, and Ukraine all having their own treasured versions. It was born from a need for simple, cooling food made from what the garden provided. There's no complex technique here, just fresh ingredients treated with respect. The name itself, 'Kholodnik', literally means 'chiller' or 'the cold one'. It does exactly what it promises.
 
-What I love about it now is how effortlessly healthy it is. You get a huge dose of gut-friendly probiotics from the kefir, which is so important for digestion and overall wellness. It’s naturally low in calories but surprisingly filling thanks to the eggs and all the fibre from the vegetables. It’s the perfect lunch when you want something that feels substantial but won't weigh you down.
+What I love about it now is how effortlessly healthy it is. You get a huge dose of gut-friendly probiotics from the kefir, which is so important for digestion and overall wellness. It's naturally low in calories but surprisingly filling thanks to the eggs and all the fibre from the vegetables. It's the perfect lunch when you want something that feels substantial but won't weigh you down.
 
 ### How to Serve Kholodnik
 
@@ -71,4 +71,4 @@ This soup is a meal in itself, but the most traditional way I always serve it is
 
 You can easily play with the ingredients. The trick I learnt the hard way is to not skip the cucumber; its watery crunch is essential. But you can absolutely add finely diced radishes for a peppery kick. If you can't find kefir, a good quality, plain buttermilk will work, though the flavour will be a little less tangy.
 
-For storage, Kholodnik keeps beautifully in an airtight container in the fridge for up to 3 days. I think it’s even better on the second day, once all the flavours have had a chance to really get to know each other.
+For storage, Kholodnik keeps beautifully in an airtight container in the fridge for up to 3 days. I think it's even better on the second day, once all the flavours have had a chance to get to know each other.

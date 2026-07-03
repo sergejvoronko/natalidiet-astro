@@ -1,8 +1,8 @@
 ---
 title: "Healthy Rassolnik — Ukrainian Pickle Soup for Digestion (145 kcal)"
-description: "Rassolnik — Ukrainian naturally-fermented pickle soup — at just 145 calories. High in electrolytes, gut-supporting, and uniquely flavoured. Use fermented pickles, not vinegar-brined."
+description: "Rassolnik, Ukrainian naturally-fermented pickle soup, at just 145 calories. High in electrolytes, gut-supporting, and uniquely flavoured. Use fermented pickles, not vinegar-brined."
 metaTitle: "Healthy Rassolnik — Ukrainian Pickle Soup | Natali Diet"
-metaDescription: "Rassolnik — fermented Ukrainian pickle soup at 145 calories. High in electrolytes and gut-supporting; use fermented pickles."
+metaDescription: "Rassolnik, fermented Ukrainian pickle soup at 145 calories. High in electrolytes and gut-supporting; use fermented pickles."
 category: "healthy-soups"
 tags: ["rassolnik", "pickle-soup", "ukrainian", "digestion", "gut-health", "gluten-free", "145-calories"]
 pillar: 1
@@ -11,12 +11,12 @@ featured: false
 image: "/images/blog/healthy-rassolnik-recipe.webp"
 ---
 
-Of all the soups in this pillar, rassolnik is perhaps the most surprising to Western palates — a soup made with pickled cucumbers and their brine. Yet this is one of Ukraine's most traditional and beloved soups, with centuries of history behind it. And once you taste it, the tangy, herby, deeply warming broth becomes completely addictive.
-Rassolnik is only 145 calories per generous serving, and the pickle brine base gives it extraordinary electrolyte content — making it an ideal recovery soup after illness, intense exercise, or when your digestion needs a reset.
+Of all the soups in this pillar, rassolnik is perhaps the most surprising to Western palates, a soup made with pickled cucumbers and their brine. Yet this is one of Ukraine's most traditional and beloved soups, with centuries of history behind it. And once you taste it, the tangy, herby, warming broth becomes completely addictive.
+Rassolnik is only 145 calories per generous serving, and the pickle brine base gives it extraordinary electrolyte content, making it an ideal recovery soup after illness, intense exercise, or when your digestion needs a reset.
 
 ## Ingredients
 - 3 medium dill pickles (fermented, not vinegar-brined), diced
-- 150ml pickle brine (from the jar — use the good stuff from naturally fermented pickles)
+- 150ml pickle brine (from the jar, use the good stuff from naturally fermented pickles)
 - 3 tbsp pearl barley (or substitute: brown rice for gluten-free version)
 - 2 medium potatoes, peeled and diced
 - 1 medium carrot, grated
@@ -37,7 +37,7 @@ Rassolnik is only 145 calories per generous serving, and the pickle brine base g
 - If using meat: add the chicken or beef pieces and brown on all sides for 3–4 minutes.
 - Add broth, potatoes, and bay leaf. Bring to a boil, reduce heat, simmer 15 minutes.
 - Add diced pickles, pickle brine, and pre-cooked barley. Simmer for another 10 minutes.
-- Taste carefully before adding any salt — the brine is already quite salty. Add pepper and fresh dill.
+- Taste carefully before adding any salt, the brine is already quite salty. Add pepper and fresh dill.
 - Serve hot with a dollop of yogurt/sour cream and extra fresh dill.
 
 ## Nutrition Facts
@@ -47,12 +47,12 @@ Per serving (with chicken, without sour cream):
 
 ### Why is rassolnik good for digestion?
 
-The fermented pickle brine contains naturally occurring probiotics and digestive enzymes that support healthy gut bacteria. Barley adds prebiotic fibre that feeds beneficial gut microbes. Together, they make rassolnik genuinely supportive of digestive health, not just a folk remedy.
+The fermented pickle brine contains naturally occurring probiotics and digestive enzymes that support healthy gut bacteria. Barley adds prebiotic fibre that feeds beneficial gut microbes. Together, they make rassolnik supportive of digestive health, not just a folk remedy.
 
 ### Can I make rassolnik gluten-free?
 
-Yes — replace the pearl barley with brown rice or certified gluten-free oats. Add the rice at the same point as the barley but check for doneness earlier as rice cooks faster. The soup will be slightly thinner in texture.
+Yes, replace the pearl barley with brown rice or certified gluten-free oats. Add the rice at the same point as the barley but check for doneness earlier as rice cooks faster. The soup will be slightly thinner in texture.
 
 ### Is the salty brine bad for my health?
 
-In moderation, naturally fermented brine is a genuine health food — it contains electrolytes, probiotics, and nutrients. However, if you are watching sodium intake for medical reasons, reduce the brine to 50ml and use a low-sodium broth. The total sodium in this recipe is moderate for a one-pot meal.
+In moderation, naturally fermented brine is a genuine health food, it contains electrolytes, probiotics, and nutrients. However, if you are watching sodium intake for medical reasons, reduce the brine to 50ml and use a low-sodium broth. The total sodium in this recipe is moderate for a one-pot meal.

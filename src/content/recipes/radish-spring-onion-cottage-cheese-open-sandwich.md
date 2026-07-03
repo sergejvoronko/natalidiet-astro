@@ -17,7 +17,7 @@ fat: 5
 fibre: 4
 tags: ["czech", "breakfast", "high-protein", "under-300-kcal", "vegetarian", "radish", "cottage-cheese"]
 category: "breakfast"
-tip: "Pat the radish slices dry with a piece of kitchen paper before layering them on the sandwich — this stops excess moisture from making the bread soggy."
+tip: "Pat the radish slices dry with a piece of kitchen paper before layering them on the sandwich, this stops excess moisture from making the bread soggy."
 publishDate: 2026-05-06
 featured: false
 ingredients:
@@ -56,11 +56,11 @@ faqs:
 
 ## A Czech Classic on Your Breakfast Table
 
-The *chlebíček* — the beloved Czech open sandwich — is more than a quick bite; it is a small daily ritual woven into the fabric of Central European life. Walk through any Prague delicatessen or corner *lahůdkářství* on a weekday morning and you will find trays of these carefully dressed slices lined up like edible works of art. While the most festive versions are crowned with smoked salmon, egg salad, or sliced meats, the humblest and perhaps most enduring variant is simply spread with a good soft cheese and finished with whatever the garden or market offers that season. In spring, that almost always means radishes and spring onions.
+The *chlebíček*, the beloved Czech open sandwich, is more than a quick bite; it is a small daily ritual woven into the fabric of Central European life. Walk through any Prague delicatessen or corner *lahůdkářství* on a weekday morning and you will find trays of these carefully dressed slices lined up like edible works of art. While the most festive versions are crowned with smoked salmon, egg salad, or sliced meats, the humblest and perhaps most enduring variant is spread with a good soft cheese and finished with whatever the garden or market offers that season. In spring, that almost always means radishes and spring onions.
 
-Cottage cheese — *tvaroh* in Czech — has been a staple protein source across Central and Eastern Europe for centuries, prized for its mild flavour and remarkable versatility. It is equally at home in savoury spreads and sweet pastry fillings, which is part of why Czech and Slovak cuisines make such effortless, practical use of it. Combined with the peppery crunch of fresh radishes and the gentle sharpness of spring onions on a slice of dense, nutty dark rye bread, it creates a breakfast that genuinely satisfies without excess calories or complicated preparation.
+Cottage cheese, *tvaroh* in Czech, has been a staple protein source across Central and Eastern Europe for centuries, prized for its mild flavour and remarkable versatility. It is equally at home in savoury spreads and sweet pastry fillings, which is part of why Czech and Slovak cuisines make such effortless, practical use of it. Combined with the peppery crunch of fresh radishes and the gentle sharpness of spring onions on a slice of dense, nutty dark rye bread, it creates a breakfast that satisfies without excess calories or complicated preparation.
 
-From a nutritional standpoint this open sandwich punches well above its weight. Dark rye bread provides slow-releasing complex carbohydrates and meaningful dietary fibre, helping to keep blood sugar stable through the morning. Low-fat cottage cheese contributes a substantial hit of protein — around 16 grams per serving — along with calcium and B vitamins, while radishes add vitamin C, antioxidants, and a satisfying texture for virtually no caloric cost. The entire meal comes together in under ten minutes, making it a genuinely realistic choice even on the busiest of weekday mornings.
+From a nutritional standpoint this open sandwich punches well above its weight. Dark rye bread provides slow-releasing complex carbohydrates and meaningful dietary fibre, helping to keep blood sugar stable through the morning. Low-fat cottage cheese contributes a substantial hit of protein, around 16 grams per serving, along with calcium and B vitamins, while radishes add vitamin C, antioxidants, and a satisfying texture for virtually no caloric cost. The entire meal comes together in under ten minutes, making it a realistic choice even on the busiest of weekday mornings.
 
 ---
 

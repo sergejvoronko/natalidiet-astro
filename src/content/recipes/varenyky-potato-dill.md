@@ -1,7 +1,7 @@
 ---
 title: "Varenyky with Potato & Dill Filling"
 description: "Traditional Ukrainian dumplings filled with mashed potato, caramelised onion and fresh dill. 320 kcal per serving of 8. Lighter than you think, and completely worth the effort."
-metaDescription: "Ukrainian varenyky with potato, caramelised onion and dill. 320 kcal per serving of 8 — lighter than you think."
+metaDescription: "Ukrainian varenyky with potato, caramelised onion and dill. 320 kcal per serving of 8, lighter than you think."
 course: "dinner"
 cuisine: "Ukrainian"
 prepTime: 40
@@ -15,7 +15,7 @@ fat: 8
 fibre: 3
 tags: ["traditional", "ukrainian", "vegetarian", "comfort-food", "make-ahead", "kid-friendly"]
 category: "traditional-foods-healthy"
-tip: "The dough should feel like soft earlobe — not sticky, not tight. If it tears when you stretch it, it's too dry; if it sticks to everything, add a little more flour. Rest the dough covered — this is not optional."
+tip: "The dough should feel like soft earlobe, not sticky, not tight. If it tears when you stretch it, it's too dry; if it sticks to everything, add a little more flour. Rest the dough covered, this is not optional."
 publishDate: 2026-04-19
 featured: true
 image: "/images/varenyky-potato-dill.webp"
@@ -47,13 +47,13 @@ steps:
   - "Serve immediately with a small spoonful of low-fat sour cream and extra dill."
 faqs:
   - q: "Can I freeze varenyky?"
-    a: "Yes — freeze them raw on a floured tray, then bag for up to 3 months. Boil from frozen, adding 2 minutes."
+    a: "Yes, freeze them raw on a floured tray, then bag for up to 3 months. Boil from frozen, adding 2 minutes."
   - q: "Why does my dough crack?"
     a: "It needs rest. Cover it for 30 minutes before rolling, and keep unused dough covered while you work."
   - q: "What's a lighter topping than butter?"
-    a: "Greek yogurt with fresh dill — the classic sour cream experience at a fraction of the calories."
+    a: "Greek yogurt with fresh dill, the classic sour cream experience at a fraction of the calories."
 ---
 
-Varenyky are the soul of Ukrainian cuisine. Every grandmother has her dough recipe, every family has their filling preference — potato is the most traditional, though cottage cheese (tvorog) and sauerkraut are equally beloved.
+Varenyky are the soul of Ukrainian cuisine. Every grandmother has her dough recipe, every family has their filling preference, potato is the most traditional, though cottage cheese (tvorog) and sauerkraut are equally beloved.
 
-This version uses a lean potato-dill filling and serves them with a small amount of sour cream rather than the butter they are often drowned in — saving significant calories without losing the character of the dish. Varenyky freeze beautifully: freeze them raw on a floured tray, then transfer to a bag. Cook from frozen — add 2 extra minutes to the boiling time.
+This version uses a lean potato-dill filling and serves them with a small amount of sour cream rather than the butter they are often drowned in, saving significant calories without losing the character of the dish. Varenyky freeze beautifully: freeze them raw on a floured tray, then transfer to a bag. Cook from frozen, add 2 extra minutes to the boiling time.

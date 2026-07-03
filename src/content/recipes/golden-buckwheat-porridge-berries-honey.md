@@ -1,6 +1,6 @@
 ---
 title: "Golden Buckwheat Porridge with Berries & Honey"
-description: "A warming Eastern European breakfast — nutty buckwheat crowned with seasonal berries and raw honey. Gluten-free, high-fibre, and ready in 10 minutes."
+description: "A warming Eastern European breakfast, nutty buckwheat crowned with seasonal berries and raw honey. Gluten-free, high-fibre, and ready in 10 minutes."
 course: "breakfast"
 cuisine: "Eastern European"
 prepTime: 5
@@ -14,7 +14,7 @@ fat: 4
 fibre: 5
 tags: ["gluten-free", "high-fibre", "vegetarian", "meal-prep", "ukrainian", "buckwheat"]
 category: "healthy-soups"
-tip: "Toast the dry buckwheat in a dry pan for 2 minutes before adding water — it intensifies the nutty flavour dramatically."
+tip: "Toast the dry buckwheat in a dry pan for 2 minutes before adding water, it intensifies the nutty flavour dramatically."
 publishDate: 2026-04-01
 featured: true
 image: "/images/buckwheat-porridge.webp"
@@ -42,21 +42,21 @@ faqs:
   - q: "Raw or toasted buckwheat groats?"
     a: "Raw (green) groats give a milder, creamier porridge. Toasted kasha works with the same method but tastes nuttier."
   - q: "Can I cook the groats ahead?"
-    a: "Yes — cooked buckwheat keeps 3 days in the fridge. Reheat with a splash of milk or oat milk."
+    a: "Yes, cooked buckwheat keeps 3 days in the fridge. Reheat with a splash of milk or oat milk."
   - q: "How do I make it vegan?"
-    a: "Cook with oat milk and swap honey for maple syrup — same calories, fully plant-based."
+    a: "Cook with oat milk and swap honey for maple syrup, same calories, fully plant-based."
 ---
 
 ## Why buckwheat for breakfast?
 
-Buckwheat (гречка, *hrechka*) is one of the most beloved staple foods in Ukrainian households. Despite the name, it's completely gluten-free — botanically it's a seed, related to rhubarb and sorrel, not to wheat at all.
+Buckwheat (гречка, *hrechka*) is one of the most beloved staple foods in Ukrainian households. Despite the name, it's completely gluten-free, botanically it's a seed, related to rhubarb and sorrel, not to wheat at all.
 
 What makes it special for healthy eating:
 
-- **Complete protein** — contains all 9 essential amino acids, rare for a plant food
-- **Low glycaemic index** — digests slowly, keeping blood sugar stable
-- **Rich in rutin** — a flavonoid that supports cardiovascular health
-- **High in magnesium** — important for muscle function and sleep
+- **Complete protein**, contains all 9 essential amino acids, rare for a plant food
+- **Low glycaemic index**, digests slowly, keeping blood sugar stable
+- **Rich in rutin**, a flavonoid that supports cardiovascular health
+- **High in magnesium**, important for muscle function and sleep
 
 ### The right way to cook buckwheat
 

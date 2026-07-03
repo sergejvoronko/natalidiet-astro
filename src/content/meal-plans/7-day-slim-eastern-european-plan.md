@@ -9,7 +9,7 @@ featured: true
 
 ## Overview
 
-This 7-day plan is designed for faster fat loss while staying full and nourished. It targets **1,050–1,200 kcal per day** — built around high-protein Eastern European staples like cottage cheese, kefir, buckwheat, and lean proteins that keep hunger low without restriction feeling punishing.
+This 7-day plan is designed for faster fat loss while staying full and nourished. It targets **1,050–1,200 kcal per day**, built around high-protein Eastern European staples like cottage cheese, kefir, buckwheat, and lean proteins that keep hunger low without restriction feeling punishing.
 
 **Important:** Consult your doctor or dietitian before beginning any calorie-restricted plan below 1,200 kcal. This plan is designed for short-term use (1–2 weeks) or as a reset phase.
 
@@ -17,7 +17,7 @@ This 7-day plan is designed for faster fat loss while staying full and nourished
 
 ---
 
-## Day 1 — Light & Grounding
+## Day 1, Light & Grounding
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -29,12 +29,12 @@ This 7-day plan is designed for faster fat loss while staying full and nourished
 
 *Add an optional evening snack of 150g plain Greek yogurt to reach ~1,000 kcal if needed.*
 
-### Prep tip — Day 1
-Make a large pot of borscht in the morning — it keeps 4 days and works for multiple lunches.
+### Prep tip, Day 1
+Make a large pot of borscht in the morning, it keeps 4 days and works for multiple lunches.
 
 ---
 
-## Day 2 — High Protein
+## Day 2, High Protein
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -46,12 +46,12 @@ Make a large pot of borscht in the morning — it keeps 4 days and works for mul
 
 *Add 200ml plain kefir in the evening to reach ~1,000 kcal if needed.*
 
-### Prep tip — Day 2
-Season the turkey mince well with paprika, garlic, and dill — lean meat rewards good seasoning.
+### Prep tip, Day 2
+Season the turkey mince well with paprika, garlic, and dill, lean meat rewards good seasoning.
 
 ---
 
-## Day 3 — Vegetarian Day
+## Day 3, Vegetarian Day
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -61,12 +61,12 @@ Season the turkey mince well with paprika, garlic, and dill — lean meat reward
 | Dinner | Baked bell pepper stuffed with buckwheat and mushrooms | 290 |
 | **Day total** | | **910** |
 
-### Prep tip — Day 3
-Cook extra lentils — they last 4 days refrigerated and work as a base for several meals.
+### Prep tip, Day 3
+Cook extra lentils, they last 4 days refrigerated and work as a base for several meals.
 
 ---
 
-## Day 4 — Light & Fresh
+## Day 4, Light & Fresh
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -76,12 +76,12 @@ Cook extra lentils — they last 4 days refrigerated and work as a base for seve
 | Dinner | 160g salmon fillet, baked with dill, + 80g new potatoes | 380 |
 | **Day total** | | **870** |
 
-### Prep tip — Day 4
-Okroshka is served cold — make it in the morning and refrigerate until lunch.
+### Prep tip, Day 4
+Okroshka is served cold, make it in the morning and refrigerate until lunch.
 
 ---
 
-## Day 5 — Energising
+## Day 5, Energising
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -91,12 +91,12 @@ Okroshka is served cold — make it in the morning and refrigerate until lunch.
 | Dinner | Kefir chicken paprikash with 80g buckwheat | 380 |
 | **Day total** | | **970** |
 
-### Prep tip — Day 5
-Mushroom barley soup thickens as it sits — add a splash of water when reheating.
+### Prep tip, Day 5
+Mushroom barley soup thickens as it sits, add a splash of water when reheating.
 
 ---
 
-## Day 6 — Traditional Day
+## Day 6, Traditional Day
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -108,12 +108,12 @@ Mushroom barley soup thickens as it sits — add a splash of water when reheatin
 
 *Add 200ml plain kefir in the evening to reach ~1,000 kcal if needed.*
 
-### Prep tip — Day 6
-Make vinegret in a large batch — it improves overnight as flavours meld.
+### Prep tip, Day 6
+Make vinegret in a large batch, it improves overnight as flavours meld.
 
 ---
 
-## Day 7 — Celebration & Reset
+## Day 7, Celebration & Reset
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -139,7 +139,7 @@ Make vinegret in a large batch — it improves overnight as flavours meld.
 
 ---
 
-## Shopping list — 7 days, 1 person
+## Shopping list, 7 days, 1 person
 
 ### Dairy & Eggs
 - Plain kefir, 1.5 litres
@@ -192,7 +192,7 @@ Make vinegret in a large batch — it improves overnight as flavours meld.
 - Flaxseeds, 1 tbsp
 
 ### Pantry
-- Olive oil (small amount — this plan uses very little)
+- Olive oil (small amount, this plan uses very little)
 - Sweet paprika, dried dill, cinnamon, caraway seeds
 - Raw honey (small jar)
 - Vegetable stock, 1 litre
@@ -205,7 +205,7 @@ Make vinegret in a large batch — it improves overnight as flavours meld.
 ## Tips for success on a low-calorie plan
 
 1. **Drink water between meals.** Kefir and soups naturally help, but aim for 8 glasses of water daily.
-2. **Do not skip evening kefir** on days where the base is below 900 kcal — your body needs the protein.
+2. **Do not skip evening kefir** on days where the base is below 900 kcal, your body needs the protein.
 3. **Use this as a 1–2 week reset**, not a long-term strategy. After, transition to the 7-Day Classic Plan (~1,450 kcal).
-4. **Eat slowly.** Eastern European soups and cottage cheese dishes are naturally satiating — give your body time to register fullness.
+4. **Eat slowly.** Eastern European soups and cottage cheese dishes are naturally satiating, give your body time to register fullness.
 5. **Prep on Sunday.** Cook buckwheat, make a big pot of soup, and hard-boil 4 eggs. This makes the week effortless.

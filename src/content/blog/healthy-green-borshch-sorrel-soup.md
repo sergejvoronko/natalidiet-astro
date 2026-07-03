@@ -1,8 +1,8 @@
 ---
 title: "Healthy Green Borshch — Ukrainian Sorrel Soup (120 kcal, Spring Detox)"
-description: "Ukrainian green borshch is the lightest traditional Eastern European soup at just 120 calories — a vibrant spring sorrel soup with hard-boiled egg. One of the most nutritious bowls you can eat."
+description: "Ukrainian green borshch is the lightest traditional Eastern European soup at just 120 calories, a vibrant spring sorrel soup with hard-boiled egg. One of the most nutritious bowls you can eat."
 metaTitle: "Healthy Green Borshch — Sorrel Soup, 120 kcal | Natali Diet"
-metaDescription: "Ukrainian green borshch — the lightest traditional soup at 120 calories. Vibrant spring sorrel soup with hard-boiled egg."
+metaDescription: "Ukrainian green borshch, the lightest traditional soup at 120 calories. Vibrant spring sorrel soup with hard-boiled egg."
 category: "healthy-soups"
 tags: ["green-borshch", "sorrel-soup", "ukrainian", "spring", "detox", "gluten-free", "120-calories"]
 pillar: 1
@@ -11,7 +11,7 @@ featured: false
 image: "/images/blog/healthy-green-borshch-sorrel-soup.webp"
 ---
 
-While red borscht gets all the international attention, there is another Ukrainian soup that locals know and love just as passionately: green borshch. Made with sorrel — a bright, lemony wild green — this is the soup that Ukrainians turn to in spring when the first plants emerge from the soil. It is lighter, fresher, and arguably more nutritious than its crimson cousin.
+While red borscht gets all the international attention, there is another Ukrainian soup that locals know and love just as passionately: green borshch. Made with sorrel, a bright, lemony wild green, this is the soup that Ukrainians turn to in spring when the first plants emerge from the soil. It is lighter, fresher, and arguably more nutritious than its crimson cousin.
 At just 120 calories per bowl and bursting with vitamin C, iron, and chlorophyll, green borshch is the ultimate spring detox meal. And because it comes together in under 30 minutes, it is one of the easiest weeknight soups you can make.
 
 ## Ingredients
@@ -23,39 +23,39 @@ At just 120 calories per bowl and bursting with vitamin C, iron, and chlorophyll
 - 2 cloves garlic, minced
 - 1 tsp olive oil
 - Salt and white pepper to taste
-- 4 eggs (hard-boiled, for serving — adds 6g protein per egg)
+- 4 eggs (hard-boiled, for serving, adds 6g protein per egg)
 - 4 tbsp low-fat Greek yogurt or light sour cream (for serving)
 - Fresh dill and chives, to serve
 
 ## Instructions
 - Heat olive oil in a medium pot over medium heat. Add onion and carrot, sauté for 5 minutes until soft. Add garlic, cook 1 minute.
 - Add broth and potatoes. Bring to a boil, then reduce heat and simmer for 15 minutes until potatoes are just tender.
-- Add the chopped sorrel. It will immediately turn from bright green to an olive-khaki colour — this is completely normal and happens in seconds.
-- Simmer for just 2–3 more minutes. Do not overcook — the sorrel loses its flavour quickly.
-- Season with salt and white pepper. Taste — it should be pleasantly sour and bright.
+- Add the chopped sorrel. It will immediately turn from bright green to an olive-khaki colour, this is completely normal and happens in seconds.
+- Simmer for just 2–3 more minutes. Do not overcook, the sorrel loses its flavour quickly.
+- Season with salt and white pepper. Taste, it should be pleasantly sour and bright.
 - Serve in bowls with a halved hard-boiled egg, a dollop of Greek yogurt, and fresh herbs.
 
 ## Nutrition Facts
 Per serving (with 1 egg and 1 tbsp low-fat yogurt):
 
-DIET LABELS: Gluten-Free  |  Low-Calorie  |  High Vitamin C  |  Vegetarian  |  Spring Detox Friendly
+DIET LABELS: Gluten-Free | Low-Calorie | High Vitamin C | Vegetarian | Spring Detox Friendly
 
 ## Pro Tips for Perfect Green Borshch
-- Add sorrel at the very end and do not overcook — 2–3 minutes maximum, or it turns bitter.
+- Add sorrel at the very end and do not overcook, 2–3 minutes maximum, or it turns bitter.
 - For a silkier texture, blend 1–2 ladles of the potato-broth and stir it back into the pot.
 - For a heartier version, add 100g cooked pearl barley or 50g dried green lentils.
-- Leftover green borshch can be served cold in summer — add a dash of buttermilk for a refreshing cold soup.
+- Leftover green borshch can be served cold in summer, add a dash of buttermilk for a refreshing cold soup.
 
 ## Frequently Asked Questions
 
 ### What does green borshch taste like?
 
-Green borshch has a bright, tangy, slightly sour flavour from the sorrel — think lemon-kissed spring vegetables. It is lighter and more refreshing than red borscht, with an almost herby freshness. The hard-boiled egg and yogurt add creaminess and richness.
+Green borshch has a bright, tangy, slightly sour flavour from the sorrel, think lemon-kissed spring vegetables. It is lighter and more refreshing than red borscht, with an almost herby freshness. The hard-boiled egg and yogurt add creaminess and richness.
 
 ### Is green borshch a detox soup?
 
-While 'detox' is a broad term, green borshch is genuinely a cleansing spring meal. Sorrel is a natural diuretic, rich in vitamin C and iron. The lean broth, fresh greens, and absence of heavy fats make it one of the lightest, most nutrient-dense soups in Eastern European cuisine.
+While 'detox' is a broad term, green borshch is a cleansing spring meal. Sorrel is a natural diuretic, rich in vitamin C and iron. The lean broth, fresh greens, and absence of heavy fats make it one of the lightest, most nutrient-dense soups in Eastern European cuisine.
 
 ### Can I make green borshch without sorrel?
 
-Yes — the closest substitute is a mix of baby spinach and fresh lemon juice. Use 150g spinach and 3 tbsp lemon juice. The colour will be brighter green and the flavour slightly milder, but it is still a delicious and nutritious soup.
+Yes, the closest substitute is a mix of baby spinach and fresh lemon juice. Use 150g spinach and 3 tbsp lemon juice. The colour will be brighter green and the flavour slightly milder, but it is still a delicious and nutritious soup.

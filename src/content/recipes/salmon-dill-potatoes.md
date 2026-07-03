@@ -1,6 +1,6 @@
 ---
 title: "Baked Salmon with Dill & New Potatoes"
-description: "A simple, elegant dinner — salmon fillet baked with fresh dill, garlic and lemon over halved new potatoes. 380 kcal, high protein, done in 30 minutes."
+description: "A simple, elegant dinner, salmon fillet baked with fresh dill, garlic and lemon over halved new potatoes. 380 kcal, high protein, done in 30 minutes."
 course: "dinner"
 cuisine: "Ukrainian"
 prepTime: 8
@@ -14,7 +14,7 @@ fat: 14
 fibre: 3
 tags: ["high-protein", "omega-3", "gluten-free", "quick", "ukrainian", "sheet-pan"]
 category: "healthy-main-dishes"
-tip: "Salmon is done when it flakes easily at the thickest point and the flesh has turned from translucent to opaque. Avoid overbaking — 22 minutes at 200°C for a 160g fillet is plenty. The centre can remain very slightly rosy."
+tip: "Salmon is done when it flakes easily at the thickest point and the flesh has turned from translucent to opaque. Avoid overbaking, 22 minutes at 200°C for a 160g fillet is plenty. The centre can remain very slightly rosy."
 publishDate: 2026-04-17
 featured: true
 image: "/images/salmon-dill-potatoes.webp"
@@ -41,13 +41,13 @@ steps:
   - "Serve with lemon wedges alongside."
 faqs:
   - q: "Can I use frozen salmon?"
-    a: "Yes — thaw it fully and pat it dry, otherwise it steams instead of roasting."
+    a: "Yes, thaw it fully and pat it dry, otherwise it steams instead of roasting."
   - q: "What other fish works?"
-    a: "Trout is the closest match. Cod works too but cooks faster — check it a few minutes early."
+    a: "Trout is the closest match. Cod works too but cooks faster, check it a few minutes early."
   - q: "Is it good for meal prep?"
     a: "Keeps 2 days in the fridge. Reheat gently, or flake the salmon cold over the potatoes as a salad."
 ---
 
-This is one of the simplest, most satisfying dinners in Eastern European cooking — and it requires almost no technique. Salmon baked with dill and lemon is a staple across Ukraine, the Baltic states, and Scandinavia, where dill is used as generously as other cuisines use basil.
+This is one of the simplest, most satisfying dinners in Eastern European cooking, and it requires almost no technique. Salmon baked with dill and lemon is a staple across Ukraine, the Baltic states, and Scandinavia, where dill is used as generously as other cuisines use basil.
 
-Fresh dill with salmon is not just traditional — it is genuinely better than dried. If you cannot find fresh dill, use freeze-dried rather than the dry powdered version. The omega-3 content of salmon makes it one of the best single foods for inflammation reduction and brain health.
+Fresh dill with salmon is not just traditional, it is better than dried. If you cannot find fresh dill, use freeze-dried rather than the dry powdered version. The omega-3 content of salmon makes it one of the best single foods for inflammation reduction and brain health.

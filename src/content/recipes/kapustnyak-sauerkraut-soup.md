@@ -1,7 +1,7 @@
 ---
 title: "Kapustnyak — Ukrainian Sauerkraut Soup"
-description: "A deeply satisfying Ukrainian sauerkraut soup. Probiotic-rich, only 175 calories, and ready in 35 minutes. One of Eastern Europe's best-kept weight loss secrets."
-metaDescription: "Ukrainian sauerkraut soup — probiotic-rich, 175 calories, ready in 35 minutes. One of Eastern Europe's best weight-loss dishes."
+description: "A satisfying Ukrainian sauerkraut soup. Probiotic-rich, only 175 calories, and ready in 35 minutes. One of Eastern Europe's best-kept weight loss secrets."
+metaDescription: "Ukrainian sauerkraut soup, probiotic-rich, 175 calories, ready in 35 minutes. One of Eastern Europe's best weight-loss dishes."
 course: "lunch"
 cuisine: "Ukrainian"
 prepTime: 10
@@ -53,13 +53,13 @@ steps:
   - "Serve in deep bowls with fresh parsley. Improve overnight in the fridge."
 faqs:
   - q: "Should I rinse the sauerkraut first?"
-    a: "Taste it first. Rinse only if it's very sharp — the brine carries much of the flavour that makes kapustnyak distinctive."
+    a: "Taste it first. Rinse only if it's very sharp, the brine carries much of the flavour that makes kapustnyak distinctive."
   - q: "Can I add meat?"
     a: "Traditional versions use pork or sausage. Lean turkey kielbasa adds the smoky note while keeping the bowl light."
   - q: "Does it freeze well?"
     a: "Yes, up to 3 months. The potatoes soften slightly on thawing but the flavour holds."
 ---
 
-Kapustnyak is the soup that Eastern European grandmothers made to get through winter. Sauerkraut — fermented white cabbage — is one of the most underrated ingredients in European cooking: probiotic-rich, almost zero calories, and it gives this soup an extraordinary depth of flavour that no fresh vegetable can replicate.
+Kapustnyak is the soup that Eastern European grandmothers made to get through winter. Sauerkraut, fermented white cabbage, is one of the most underrated ingredients in European cooking: probiotic-rich, almost zero calories, and it gives this soup an extraordinary depth of flavour that no fresh vegetable can replicate.
 
 At 175 calories for a large bowl, this is one of the most filling, satisfying soups in the Eastern European repertoire.

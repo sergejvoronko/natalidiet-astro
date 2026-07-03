@@ -2,7 +2,7 @@
 title: "Healthy Summer Lecsó with Bell Peppers and Eggs"
 description: "This vibrant Hungarian-style vegetable stew, Lecsó, combines sweet bell peppers and ripe tomatoes, all topped with protein-rich eggs for a complete meal. It's a perfect low-calorie, high-fibre dinner that captures the essence of summer."
 metaTitle: "Healthy Hungarian Lecsó with Peppers & Eggs"
-metaDescription: "Hungarian lecsó stew with sweet peppers, tomatoes and eggs — a 280-calorie, high-fibre summer dinner ready in 45 minutes."
+metaDescription: "Hungarian lecsó stew with sweet peppers, tomatoes and eggs, a 280-calorie, high-fibre summer dinner ready in 45 minutes."
 image: "/images/healthy-summer-lecso-bell-peppers-eggs.webp"
 course: dinner
 cuisine: "Hungarian"
@@ -62,11 +62,11 @@ faqs:
     a: "Freeze the pepper-and-tomato base without the eggs for up to 3 months. Thaw overnight in the fridge, reheat, then add fresh eggs just before serving so they stay tender."
 ---
 
-Lecsó is the taste of late summer in a bowl. Though its heart is in Hungary, this simple vegetable stew is something my mum made every year in Ukraine as soon as the markets were overflowing with sweet, colourful peppers and ripe tomatoes. The whole house would fill with the rich, sweet smell of peppers and paprika simmering away on the stove. It's one of those wonderfully rustic dishes that uses the simplest ingredients to create something truly comforting.
+Lecsó is the taste of late summer in a bowl. Though its heart is in Hungary, this simple vegetable stew is something my mum made every year in Ukraine as soon as the markets were overflowing with sweet, colourful peppers and ripe tomatoes. The whole house would fill with the rich, sweet smell of peppers and paprika simmering away on the stove. It's one of those wonderfully rustic dishes that uses the simplest ingredients to create something comforting.
 
-The base is always the same: a trio of onions, peppers, and tomatoes, brought to life with a good dose of paprika. It's not a complicated dish, and it shouldn't be. The trick I learnt the hard way is to let the vegetables cook down slowly, allowing their natural sugars to release and caramelise just a little. This creates a depth of flavour that you just can't rush. It’s the perfect way to use up a glut of summer produce.
+The base is always the same: a trio of onions, peppers, and tomatoes, brought to life with a good dose of paprika. It's not a complicated dish, and it shouldn't be. The trick I learnt the hard way is to let the vegetables cook down slowly, allowing their natural sugars to release and caramelise just a little. This creates a depth of flavour that you just can't rush. It's the perfect way to use up a glut of summer produce.
 
-This version is my go-to for a light yet satisfying weeknight dinner. By finishing it with eggs poached directly in the stew, it becomes a complete, balanced meal. The runny yolks create a creamy, rich sauce that mingles with the sweet and smoky tomato-pepper base. It’s naturally low in calories and packed with vitamins, making it a perfect fit for a healthy diet without ever feeling like you're missing out.
+This version is my go-to for a light yet satisfying weeknight dinner. By finishing it with eggs poached directly in the stew, it becomes a complete, balanced meal. The runny yolks create a creamy, rich sauce that mingles with the sweet and smoky tomato-pepper base. It's naturally low in calories and packed with vitamins, making it a perfect fit for a healthy diet without ever feeling like you're missing out.
 
 ### Serving Suggestions
 

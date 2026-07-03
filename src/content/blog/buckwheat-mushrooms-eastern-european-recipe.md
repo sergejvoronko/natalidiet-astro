@@ -1,8 +1,8 @@
 ---
 title: "Buckwheat with Forest Mushrooms — Eastern European Superfood Bowl (Vegan, 290 kcal)"
-description: "Buckwheat with forest mushrooms — a deeply earthy, completely plant-based Eastern European main dish. Vegan, gluten-free, 290 calories, 30 minutes, and one of the most nutritious meals you can make."
+description: "Buckwheat with forest mushrooms, a earthy, completely plant-based Eastern European main dish. Vegan, gluten-free, 290 calories, 30 minutes, and one of the most nutritious meals you can make."
 metaTitle: "Buckwheat with Mushrooms — Vegan, 290 kcal | Natali Diet"
-metaDescription: "Earthy buckwheat with forest mushrooms — vegan, gluten-free Eastern European main at 290 calories, ready in 30 minutes."
+metaDescription: "Earthy buckwheat with forest mushrooms, vegan, gluten-free Eastern European main at 290 calories, ready in 30 minutes."
 category: "healthy-main-dishes"
 tags: ["buckwheat", "mushrooms", "vegan", "gluten-free", "plant-based", "superfood", "290-calories"]
 pillar: 2
@@ -11,11 +11,11 @@ featured: false
 image: "/images/blog/buckwheat-mushrooms-eastern-european-recipe.webp"
 ---
 
-In Western countries, buckwheat is treated as a trendy health food or a gluten-free flour alternative. In Eastern Europe — Ukraine, Russia, Slovakia, Poland — buckwheat (grechka or pohanka) is simply everyday food. It has been a staple of the Eastern European diet for centuries, and it is one of the most nutritionally impressive grains you can eat.
-Paired with forest mushrooms — another Eastern European staple — this dish becomes genuinely extraordinary: deeply earthy and savoury, naturally high in plant protein, magnesium, and antioxidants, completely vegan and gluten-free, and ready in 30 minutes. This is comfort food that actually loves you back.
+In Western countries, buckwheat is treated as a trendy health food or a gluten-free flour alternative. In Eastern Europe, Ukraine, Russia, Slovakia, Poland, buckwheat (grechka or pohanka) is everyday food. It has been a staple of the Eastern European diet for centuries, and it is one of the most nutritionally impressive grains you can eat.
+Paired with forest mushrooms, another Eastern European staple, this dish becomes extraordinary: earthy and savoury, naturally high in plant protein, magnesium, and antioxidants, completely vegan and gluten-free, and ready in 30 minutes. This is comfort food that actually loves you back.
 
 ## Ingredients
-- 250g raw buckwheat groats (toasted/roasted kasha — the flavour is much better than raw)
+- 250g raw buckwheat groats (toasted/roasted kasha, the flavour is much better than raw)
 - 30g dried porcini mushrooms, soaked in 300ml warm water for 20 minutes
 - 300g fresh chestnut or cremini mushrooms, sliced
 - 1 large onion, diced
@@ -31,19 +31,19 @@ Paired with forest mushrooms — another Eastern European staple — this dish b
 
 ## Instructions
 - Soak dried porcini mushrooms in 300ml warm water for 20 minutes. Drain and reserve the soaking liquid (strain through a fine sieve to remove grit). Chop the porcini roughly.
-- Heat olive oil in a wide, heavy pot over medium-high heat. Add fresh mushrooms in a SINGLE LAYER (work in batches if needed). Cook without stirring for 3–4 minutes until deeply browned. This step is crucial — crowded mushrooms steam; spread mushrooms brown and develop incredible flavour.
+- Heat olive oil in a wide, heavy pot over medium-high heat. Add fresh mushrooms in a SINGLE LAYER (work in batches if needed). Cook without stirring for 3–4 minutes until browned. This step is crucial, crowded mushrooms steam; spread mushrooms brown and develop incredible flavour.
 - Remove browned mushrooms. In the same pot over medium heat, sauté onion, carrot, and celery for 6 minutes until softened. Add garlic and thyme, cook 1 minute.
 - Add the porcini mushrooms and the browned fresh mushrooms back to the pot. Stir to combine.
 - Rinse buckwheat groats in cold water. Add to the pot. Stir to coat in the vegetables.
 - Add vegetable broth and the reserved porcini soaking liquid. Stir once. Bring to a boil.
-- Cover with a tight-fitting lid. Reduce heat to very low. Cook for 15 minutes — do NOT lift the lid during this time. The buckwheat absorbs the liquid and steams perfectly.
+- Cover with a tight-fitting lid. Reduce heat to very low. Cook for 15 minutes, do NOT lift the lid during this time. The buckwheat absorbs the liquid and steams perfectly.
 - After 15 minutes, remove from heat. Let it sit, still covered, for 5 more minutes. Fluff gently with a fork. Fold in fresh herbs. Season with salt and pepper.
 - Serve as is, or with a small dollop of light sour cream or coconut yogurt.
 
 ## Nutrition Facts
 Per serving (without sour cream):
 
-DIET LABELS: Vegan  |  Gluten-Free  |  High Fibre  |  High Magnesium  |  Plant-Based Protein  |  Diabetic-Friendly
+DIET LABELS: Vegan | Gluten-Free | High Fibre | High Magnesium | Plant-Based Protein | Diabetic-Friendly
 
 ## Variations
 - ADD PROTEIN: Stir in 150g cooked lentils or chickpeas for an extra 9g protein per serving
@@ -55,11 +55,11 @@ DIET LABELS: Vegan  |  Gluten-Free  |  High Fibre  |  High Magnesium  |  Plant-B
 
 ### Does buckwheat taste like wheat?
 
-Not at all — despite the name, buckwheat is completely unrelated to wheat. Toasted buckwheat (kasha) has a distinctly nutty, earthy, slightly bitter flavour that is entirely its own. Many people find it more interesting and complex than rice or quinoa once they have tried it properly toasted and cooked with aromatics.
+Not at all, despite the name, buckwheat is completely unrelated to wheat. Toasted buckwheat (kasha) has a distinctly nutty, earthy, slightly bitter flavour that is entirely its own. Many people find it more interesting and complex than rice or quinoa once they have tried it properly toasted and cooked with aromatics.
 
 ### Is buckwheat good for weight loss?
 
-Yes — buckwheat has a low glycaemic index, which means it causes a slow, sustained rise in blood sugar rather than a spike. This helps control hunger and reduces cravings. It is also high in fibre and protein for a grain, both of which increase satiety. Studies suggest that regular buckwheat consumption is associated with healthier blood sugar and body weight.
+Yes, buckwheat has a low glycaemic index, which means it causes a slow, sustained rise in blood sugar rather than a spike. This helps control hunger and reduces cravings. It is also high in fibre and protein for a grain, both of which increase satiety. Studies suggest that regular buckwheat consumption is associated with healthier blood sugar and body weight.
 
 ### Where can I buy buckwheat groats?
 

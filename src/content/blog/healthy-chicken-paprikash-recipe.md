@@ -1,8 +1,8 @@
 ---
 title: "Healthy Chicken Paprikash — Low Calorie Hungarian Classic (310 kcal, 38g Protein)"
-description: "Chicken paprikash made healthy — 310 calories and 38g protein using Greek yogurt instead of sour cream. Authentic Hungarian flavour, gluten-free, ready in 45 minutes."
+description: "Chicken paprikash made healthy, 310 calories and 38g protein using Greek yogurt instead of sour cream. Authentic Hungarian flavour, gluten-free, ready in 45 minutes."
 metaTitle: "Healthy Chicken Paprikash — 310 kcal | Natali Diet"
-metaDescription: "Chicken paprikash at 310 calories and 38g protein — Greek yogurt replaces sour cream. Authentic, gluten-free, ready in 45 minutes."
+metaDescription: "Chicken paprikash at 310 calories and 38g protein, Greek yogurt replaces sour cream. Authentic, gluten-free, ready in 45 minutes."
 category: "healthy-main-dishes"
 tags: ["chicken-paprikash", "hungarian", "gluten-free", "high-protein", "310-calories", "comfort-food"]
 pillar: 2
@@ -11,12 +11,12 @@ featured: false
 image: "/images/blog/healthy-chicken-paprikash-recipe.webp"
 ---
 
-Chicken paprikash — csirkepaprikás in Hungarian — is one of Central Europe's greatest comfort foods. Succulent chicken pieces cooked in a sauce so deeply flavoured with sweet Hungarian paprika that the whole kitchen turns a gorgeous rust-red colour. Traditionally, the sauce is made rich and velvety with full-fat sour cream.
-My healthy version uses low-fat Greek yogurt added off the heat — a swap so seamless that even Hungarian grandmothers have been fooled. The result is 310 calories and 38 grams of protein per serving: a high-protein, deeply satisfying meal that fits beautifully into any healthy eating or weight-loss plan.
+Chicken paprikash, csirkepaprikás in Hungarian, is one of Central Europe's greatest comfort foods. Succulent chicken pieces cooked in a sauce so flavoured with sweet Hungarian paprika that the whole kitchen turns a gorgeous rust-red colour. Traditionally, the sauce is made rich and velvety with full-fat sour cream.
+My healthy version uses low-fat Greek yogurt added off the heat, a swap so seamless that even Hungarian grandmothers have been fooled. The result is 310 calories and 38 grams of protein per serving: a high-protein, satisfying meal that fits beautifully into any healthy eating or weight-loss plan.
 
 ## Ingredients
 ### For the Paprikash
-- 800g boneless, skinless chicken thighs (or breasts — thighs stay juicier)
+- 800g boneless, skinless chicken thighs (or breasts, thighs stay juicier)
 - 1 large onion, finely diced
 - 3 cloves garlic, minced
 - 3 tbsp Hungarian sweet paprika
@@ -29,8 +29,8 @@ My healthy version uses low-fat Greek yogurt added off the heat — a swap so se
 - Salt and black pepper to taste
 
 ### For the Yogurt Sauce Finish
-- 150g low-fat Greek yogurt (minimum 2% fat — 0% curdles more easily)
-- 1 tbsp cornstarch / cornflour (mixed with 2 tbsp cold water — stabilises the yogurt)
+- 150g low-fat Greek yogurt (minimum 2% fat, 0% curdles more easily)
+- 1 tbsp cornstarch / cornflour (mixed with 2 tbsp cold water, stabilises the yogurt)
 
 ### Suggested Serving (not included in nutrition count)
 - Cauliflower mash OR 80g cooked whole wheat egg noodles per person
@@ -39,9 +39,9 @@ My healthy version uses low-fat Greek yogurt added off the heat — a swap so se
 
 ## Step-by-Step Instructions
 - Pat chicken thighs dry with kitchen paper. Season generously with salt and pepper. Cut into large chunks (about 4cm pieces).
-- Heat olive oil in a wide, heavy-bottomed pan or Dutch oven over medium-high heat. Sear the chicken pieces for 3–4 minutes per side until golden brown. Work in batches — do not crowd the pan. Remove and set aside.
-- Reduce heat to medium. In the same pan, add onion. Cook for 6–8 minutes, stirring often, until deeply softened and just beginning to colour. Add garlic and caraway seeds, cook 1 minute.
-- Critical step: Remove the pan from the heat briefly. Add the sweet paprika and smoked paprika. Stir into the onion for 30 seconds. The residual heat will bloom the paprika without burning it. Burnt paprika tastes bitter — this step prevents that.
+- Heat olive oil in a wide, heavy-bottomed pan or Dutch oven over medium-high heat. Sear the chicken pieces for 3–4 minutes per side until golden brown. Work in batches, do not crowd the pan. Remove and set aside.
+- Reduce heat to medium. In the same pan, add onion. Cook for 6–8 minutes, stirring often, until softened and just beginning to colour. Add garlic and caraway seeds, cook 1 minute.
+- Critical step: Remove the pan from the heat briefly. Add the sweet paprika and smoked paprika. Stir into the onion for 30 seconds. The residual heat will bloom the paprika without burning it. Burnt paprika tastes bitter, this step prevents that.
 - Return to medium heat. Add diced bell pepper, stir for 2 minutes. Add chopped tomatoes and chicken broth. Stir well, scraping any browned bits from the bottom of the pan.
 - Return the seared chicken to the pan. Bring to a gentle simmer. Cover and cook on low heat for 30–35 minutes until chicken is completely tender and sauce has thickened.
 - Remove from heat. Mix Greek yogurt with cornstarch until completely smooth. Stir the yogurt mixture into the paprikash gradually. Serve immediately over cauliflower mash or noodles. Garnish with fresh dill.
@@ -49,18 +49,18 @@ My healthy version uses low-fat Greek yogurt added off the heat — a swap so se
 ## Nutrition Facts
 Per serving of paprikash only (without sides):
 
-DIET LABELS: Gluten-Free  |  High Protein  |  Low-Fat  |  Diabetic-Friendly  |  Meal-Prep Friendly
+DIET LABELS: Gluten-Free | High Protein | Low-Fat | Diabetic-Friendly | Meal-Prep Friendly
 
 ## Serving Ideas
-- Over cauliflower mash — saves ~150 calories vs. traditional egg noodles
-- With a simple cucumber-dill salad (slice 2 cucumbers, toss with 2 tbsp apple cider vinegar, dill, salt — zero calories)
+- Over cauliflower mash, saves ~150 calories vs. traditional egg noodles
+- With a simple cucumber-dill salad (slice 2 cucumbers, toss with 2 tbsp apple cider vinegar, dill, salt, zero calories)
 - Over whole-grain egg noodles (adds ~160 calories per 80g cooked portion)
 - With steamed green beans or roasted courgette
 
 ## Storage & Meal Prep
 - Fridge: Store covered for up to 4 days. The flavour deepens beautifully overnight.
 - Freeze: Freeze WITHOUT the yogurt sauce for up to 3 months. Add fresh yogurt when reheating.
-- Meal prep tip: Make a double batch on Sunday. Portion over cauliflower mash in containers — ready in 2 minutes each day.
+- Meal prep tip: Make a double batch on Sunday. Portion over cauliflower mash in containers, ready in 2 minutes each day.
 
 ## Frequently Asked Questions
 
@@ -74,12 +74,12 @@ Yes, but thighs are strongly preferred. Chicken thighs contain more connective t
 
 ### Why is my paprikash sauce too thin?
 
-A few fixes: (1) Cook uncovered for the last 10 minutes to let the sauce reduce. (2) Add the cornstarch-yogurt mixture — the starch thickens the sauce as well as stabilising the dairy. (3) Mix 1 tsp cornstarch with 2 tbsp cold water and stir into the simmering sauce before adding yogurt.
+A few fixes: (1) Cook uncovered for the last 10 minutes to let the sauce reduce. (2) Add the cornstarch-yogurt mixture, the starch thickens the sauce as well as stabilising the dairy. (3) Mix 1 tsp cornstarch with 2 tbsp cold water and stir into the simmering sauce before adding yogurt.
 
 ### Is chicken paprikash a traditional weight-loss food?
 
-In traditional form, no — it was made with lard and full-fat sour cream. But the structure of the dish — lean chicken protein, vegetable-based sauce, minimal fat — makes it naturally suited to healthy cooking. In this version, the calories are just 310 per serving with 38g protein, making it genuinely excellent for weight management.
+In traditional form, no, it was made with lard and full-fat sour cream. But the structure of the dish, lean chicken protein, vegetable-based sauce, minimal fat, makes it naturally suited to healthy cooking. In this version, the calories are just 310 per serving with 38g protein, making it excellent for weight management.
 
 ---
 
-**Try the kefir version:** [Kefir Chicken Paprikash with Buckwheat](/recipes/kefir-chicken-paprikash-buckwheat/) — uses kefir instead of Greek yogurt and serves over buckwheat for extra fibre and a different flavour profile.
+**Try the kefir version:** [Kefir Chicken Paprikash with Buckwheat](/recipes/kefir-chicken-paprikash-buckwheat/), uses kefir instead of Greek yogurt and serves over buckwheat for extra fibre and a different flavour profile.

@@ -1,8 +1,8 @@
 ---
 title: "Healthy Slovak Kapustnica — Lighter Sauerkraut Soup (180 kcal)"
-description: "Slovakia's beloved sauerkraut soup made lighter — lean turkey kielbasa replaces fatty pork, dropping each bowl to 180 calories. All the deep, smoky flavour remains."
+description: "Slovakia's beloved sauerkraut soup made lighter, lean turkey kielbasa replaces fatty pork, dropping each bowl to 180 calories. All the deep, smoky flavour remains."
 metaTitle: "Healthy Slovak Kapustnica — Sauerkraut Soup | Natali Diet"
-metaDescription: "Slovak sauerkraut soup made lighter — turkey kielbasa replaces fatty pork at 180 calories per bowl, smoky flavour intact."
+metaDescription: "Slovak sauerkraut soup made lighter, turkey kielbasa replaces fatty pork at 180 calories per bowl, smoky flavour intact."
 category: "healthy-soups"
 tags: ["kapustnica", "slovak", "sauerkraut", "probiotic", "gluten-free", "christmas", "180-calories"]
 pillar: 1
@@ -11,8 +11,8 @@ featured: false
 image: "/images/blog/healthy-slovak-kapustnica-recipe.webp"
 ---
 
-Kapustnica is Slovakia's most beloved winter soup — a deeply warming, slightly sour sauerkraut soup traditionally served at Christmas Eve dinner and throughout the cold months. In its classic form it can be quite rich, made with fatty pork and generous amounts of smoked sausage. My lighter version keeps every bit of the complex, tangy flavour but cuts calories nearly in half.
-The secret weapon in kapustnica is sauerkraut — fermented cabbage that is one of the most powerful probiotic foods in Central European cooking. This makes kapustnica not just a diet-friendly soup, but a genuine gut-health meal.
+Kapustnica is Slovakia's most beloved winter soup, a warming, slightly sour sauerkraut soup traditionally served at Christmas Eve dinner and throughout the cold months. In its classic form it can be quite rich, made with fatty pork and generous amounts of smoked sausage. My lighter version keeps every bit of the complex, tangy flavour but cuts calories nearly in half.
+The secret weapon in kapustnica is sauerkraut, fermented cabbage that is one of the most powerful probiotic foods in Central European cooking. This makes kapustnica not just a diet-friendly soup, but a genuine gut-health meal.
 
 ## Ingredients
 - 500g sauerkraut (drained, liquid reserved)
@@ -40,18 +40,18 @@ The secret weapon in kapustnica is sauerkraut — fermented cabbage that is one 
 ## Nutrition Facts
 Per serving (without sour cream or bread):
 
-DIET LABELS: Gluten-Free  |  High Protein  |  High Fibre  |  Probiotic-Rich  |  Dairy-Free option
+DIET LABELS: Gluten-Free | High Protein | High Fibre | Probiotic-Rich | Dairy-Free option
 
 ## Frequently Asked Questions
 
 ### Is kapustnica healthy?
 
-Very much so — especially in this lighter version. Sauerkraut is one of the most probiotic-rich foods in European cuisine, supporting gut health, immunity, and even mood. The lean turkey sausage provides protein without excessive saturated fat, and the mushroom broth adds deep minerals without calories.
+Very much so, especially in this lighter version. Sauerkraut is one of the most probiotic-rich foods in European cuisine, supporting gut health, immunity, and even mood. The lean turkey sausage provides protein without excessive saturated fat, and the mushroom broth adds deep minerals without calories.
 
 ### Can I make kapustnica vegetarian?
 
-Yes — simply omit the kielbasa and use mushroom broth. Double the dried mushrooms for more substance. The soup will still be deeply flavourful from the smoked paprika, caraway, and sauerkraut. You can also add a can of drained white beans for protein.
+Yes, omit the kielbasa and use mushroom broth. Double the dried mushrooms for more substance. The soup will still be flavourful from the smoked paprika, caraway, and sauerkraut. You can also add a can of drained white beans for protein.
 
 ### What makes this different from regular cabbage soup?
 
-The key difference is sauerkraut versus fresh cabbage. Sauerkraut's fermentation process creates a complex, tangy, umami-rich flavour that fresh cabbage simply cannot replicate. It also brings probiotic benefits that fresh cabbage does not have.
+The key difference is sauerkraut versus fresh cabbage. Sauerkraut's fermentation process creates a complex, tangy, umami-rich flavour that fresh cabbage cannot replicate. It also brings probiotic benefits that fresh cabbage does not have.

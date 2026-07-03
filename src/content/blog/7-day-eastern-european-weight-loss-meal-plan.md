@@ -1,8 +1,8 @@
 ---
 title: "7-Day Eastern European Weight Loss Meal Plan (1,400–1,600 kcal/day)"
-description: "A full week of Eastern European weight-loss eating — meal plan table, shopping list, Sunday batch-cook guide, and daily nutrition breakdown. All recipes under 400 kcal."
+description: "A full week of Eastern European weight-loss eating, meal plan table, shopping list, Sunday batch-cook guide, and daily nutrition breakdown. All recipes under 400 kcal."
 metaTitle: "7-Day Eastern European Weight Loss Meal Plan | Natali Diet"
-metaDescription: "A full week of Eastern European weight-loss eating — meal plan table, shopping list, batch-cook guide. All recipes under 400 kcal."
+metaDescription: "A full week of Eastern European weight-loss eating, meal plan table, shopping list, batch-cook guide. All recipes under 400 kcal."
 category: "meal-plans-guides"
 tags: ["meal-plan", "weight-loss", "eastern-european", "7-day", "batch-cooking", "1500-calories"]
 pillar: 3
@@ -11,16 +11,16 @@ featured: false
 image: "/images/blog/7-day-eastern-european-weight-loss-meal-plan.webp"
 ---
 
-What if your weight-loss diet was built not on bland salads and tasteless diet shakes, but on the warming, deeply satisfying traditional food of Ukraine, Slovakia, Hungary, and Poland? Borscht. Goulash. Stuffed cabbage rolls. Buckwheat with forest mushrooms. Chicken paprikash.
-That is exactly what this 7-day meal plan delivers. Built entirely from Eastern and Central European recipes — lightened with the healthy cooking techniques I use throughout this blog — every day sits between 1,400 and 1,600 calories with strong protein levels to preserve muscle and plenty of fibre to keep you full.
+What if your weight-loss diet was built not on bland salads and tasteless diet shakes, but on the warming, satisfying traditional food of Ukraine, Slovakia, Hungary, and Poland? Borscht. Goulash. Stuffed cabbage rolls. Buckwheat with forest mushrooms. Chicken paprikash.
+That is exactly what this 7-day meal plan delivers. Built entirely from Eastern and Central European recipes, lightened with the healthy cooking techniques I use throughout this blog, every day sits between 1,400 and 1,600 calories with strong protein levels to preserve muscle and plenty of fibre to keep you full.
 
 ## Key Principles Before You Start
 ### 1. Soup First, Every Day
-Traditional Eastern European eating always begins with soup. A bowl of borscht or vegetable broth before a main course reduces total calorie intake at that meal by 20–25%. It is free, filling, and flavourful — adopt this habit immediately.
+Traditional Eastern European eating always begins with soup. A bowl of borscht or vegetable broth before a main course reduces total calorie intake at that meal by 20–25%. It is free, filling, and flavourful, adopt this habit immediately.
 ### 2. Fermented Foods Daily
 Every day includes at least one fermented food: kefir, sauerkraut, pickles, or yogurt. Research links fermented food consumption to a healthier gut microbiome, better metabolic function, and reduced inflammation.
 ### 3. Buckwheat Over White Carbs
-Buckwheat (kasha) replaces white rice and white bread wherever possible. It has a lower glycaemic index, more protein, and more magnesium. It keeps blood sugar stable — which keeps hunger in check.
+Buckwheat (kasha) replaces white rice and white bread wherever possible. It has a lower glycaemic index, more protein, and more magnesium. It keeps blood sugar stable, which keeps hunger in check.
 ### 4. Sunday Batch-Cook Day
 Sunday is prep day. In 2–2.5 hours you make the borscht, paprikash, and holubtsi that carry you through most of the week. Monday-to-Friday is mostly reheating and assembling.
 
@@ -66,18 +66,18 @@ Note: Calories are estimates. Use a tracking app (MyFitnessPal, Cronometer) to c
 - Almond butter, hummus
 
 ## Sunday Prep Guide (2–2.5 hours)
-- 12:00 — Start borscht. Sauté beets, onions, carrots, add broth, simmer 35 min.
-- 12:15 — Soak 30g dried porcini in warm water (20 min passive).
-- 12:20 — Prep ALL week's vegetables: dice onions, grate carrots, chop celery, cube potatoes. Divide into labelled containers.
-- 12:40 — Start chicken paprikash. Sear chicken, build sauce, add broth, simmer 35 min.
-- 13:00 — Finish and portion borscht into 6 containers. Refrigerate.
-- 13:10 — Blanch cabbage leaves. Make holubtsi filling. Assemble 12 rolls. Start tomato sauce.
-- 13:20 — Finish paprikash (add yogurt off heat). Portion into 4 containers. Refrigerate.
-- 13:30 — Cook buckwheat with mushrooms (15 min, lid on, do not disturb).
-- 13:40 — Cook holubtsi in tomato sauce, 50 min on very low heat.
-- 13:50 — Portion buckwheat. Hard-boil 6 eggs.
-- 14:30 — Holubtsi done. Cool, portion: 4 portions fridge, 2 portions freeze.
-- 14:45 — Done. Label everything with the date.
+- 12:00, Start borscht. Sauté beets, onions, carrots, add broth, simmer 35 min.
+- 12:15, Soak 30g dried porcini in warm water (20 min passive).
+- 12:20, Prep ALL week's vegetables: dice onions, grate carrots, chop celery, cube potatoes. Divide into labelled containers.
+- 12:40, Start chicken paprikash. Sear chicken, build sauce, add broth, simmer 35 min.
+- 13:00, Finish and portion borscht into 6 containers. Refrigerate.
+- 13:10, Blanch cabbage leaves. Make holubtsi filling. Assemble 12 rolls. Start tomato sauce.
+- 13:20, Finish paprikash (add yogurt off heat). Portion into 4 containers. Refrigerate.
+- 13:30, Cook buckwheat with mushrooms (15 min, lid on, do not disturb).
+- 13:40, Cook holubtsi in tomato sauce, 50 min on very low heat.
+- 13:50, Portion buckwheat. Hard-boil 6 eggs.
+- 14:30, Holubtsi done. Cool, portion: 4 portions fridge, 2 portions freeze.
+- 14:45, Done. Label everything with the date.
 
 ## Daily Nutrition Summary
 
@@ -89,7 +89,7 @@ At 1,400–1,600 kcal/day most women will be in a 400–600 kcal daily deficit, 
 
 ### Can I follow this plan as a vegetarian?
 
-Yes — replace chicken paprikash with tofu or tempeh in the same sauce. The holubtsi can be filled with lentils and mushrooms. Goulash can be made with mushrooms and root vegetables. The buckwheat dish and soups are already plant-based. Protein levels remain strong with generous eggs, cottage cheese, and kefir.
+Yes, replace chicken paprikash with tofu or tempeh in the same sauce. The holubtsi can be filled with lentils and mushrooms. Goulash can be made with mushrooms and root vegetables. The buckwheat dish and soups are already plant-based. Protein levels remain strong with generous eggs, cottage cheese, and kefir.
 
 ### Do I have to follow the days in order?
 

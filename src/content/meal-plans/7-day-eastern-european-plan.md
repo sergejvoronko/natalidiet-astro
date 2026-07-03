@@ -1,6 +1,6 @@
 ---
 title: "7-Day Healthy Eastern European Meal Plan"
-description: "A complete week of Eastern European eating — breakfast, snack, lunch, and dinner every day. Calorie-counted, nutritionist-designed, with a full shopping list."
+description: "A complete week of Eastern European eating, breakfast, snack, lunch, and dinner every day. Calorie-counted, nutritionist-designed, with a full shopping list."
 days: 7
 totalCalories: 1450
 publishDate: 2026-04-10
@@ -9,13 +9,13 @@ featured: true
 
 ## What to expect this week
 
-This 7-day plan keeps you between **1,350–1,600 kcal per day** — a sustainable deficit for most adults. Every meal is built around Eastern European ingredients and traditions, adapted for modern kitchens and busy lives. You will eat real food, feel satisfied, and finish the week lighter.
+This 7-day plan keeps you between **1,350–1,600 kcal per day**, a sustainable deficit for most adults. Every meal is built around Eastern European ingredients and traditions, adapted for modern kitchens and busy lives. You will eat real food, feel satisfied, and finish the week lighter.
 
 **Daily targets:** ~1,450 kcal · ~110g protein · ~45g fat · ~160g carbs
 
 ---
 
-## Day 1 — Classic Start
+## Day 1, Classic Start
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -25,12 +25,12 @@ This 7-day plan keeps you between **1,350–1,600 kcal per day** — a sustainab
 | Dinner | Herb Chicken with Roasted Root Vegetables | 380 |
 | **Day total** | | **1,020** |
 
-### Day 1 — Prep tip
+### Day 1, Prep tip
 Toast the buckwheat the evening before. Borscht can be made in a large batch and used for Day 3 lunch too.
 
 ---
 
-## Day 2 — High Protein
+## Day 2, High Protein
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -40,12 +40,12 @@ Toast the buckwheat the evening before. Borscht can be made in a large batch and
 | Dinner | Quinoa-Stuffed Roasted Bell Peppers | 340 |
 | **Day total** | | **965** |
 
-### Day 2 — Prep tip
-Boil eggs in the morning for snack. Make a double batch of rassolnik — it keeps 4 days and freezes well.
+### Day 2, Prep tip
+Boil eggs in the morning for snack. Make a double batch of rassolnik, it keeps 4 days and freezes well.
 
 ---
 
-## Day 3 — Vegetarian Day
+## Day 3, Vegetarian Day
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -55,12 +55,12 @@ Boil eggs in the morning for snack. Make a double batch of rassolnik — it keep
 | Dinner | Smoky Chickpea & Spinach Stew | 350 |
 | **Day total** | | **945** |
 
-### Day 3 — Prep tip
-Make syrniki batter the night before. Kapustnyak improves overnight — make double and use leftover for Day 5.
+### Day 3, Prep tip
+Make syrniki batter the night before. Kapustnyak improves overnight, make double and use leftover for Day 5.
 
 ---
 
-## Day 4 — Comfort Day
+## Day 4, Comfort Day
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -70,12 +70,12 @@ Make syrniki batter the night before. Kapustnyak improves overnight — make dou
 | Dinner | Baked Salmon with Dill & Buckwheat | 420 |
 | **Day total** | | **1,050** |
 
-### Day 4 — Prep tip
-Bean soup improves the next day — make double. Cook extra buckwheat for Day 5 dinner.
+### Day 4, Prep tip
+Bean soup improves the next day, make double. Cook extra buckwheat for Day 5 dinner.
 
 ---
 
-## Day 5 — Light & Fresh
+## Day 5, Light & Fresh
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -85,12 +85,12 @@ Bean soup improves the next day — make double. Cook extra buckwheat for Day 5 
 | Dinner | Kefir Chicken Paprikash with Buckwheat | 380 |
 | **Day total** | | **890** |
 
-### Day 5 — Prep tip
-Chłodnik is served cold — make it the evening before and refrigerate overnight for the best flavour.
+### Day 5, Prep tip
+Chłodnik is served cold, make it the evening before and refrigerate overnight for the best flavour.
 
 ---
 
-## Day 6 — Eastern Feast
+## Day 6, Eastern Feast
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -100,12 +100,12 @@ Chłodnik is served cold — make it the evening before and refrigerate overnigh
 | Dinner | Slovak-Style Pork Tenderloin with Roasted Carrots | 360 |
 | **Day total** | | **1,075** |
 
-### Day 6 — Prep tip
+### Day 6, Prep tip
 Holubtsi can be made in large batches and frozen. Defrost overnight and reheat gently for a zero-effort meal.
 
 ---
 
-## Day 7 — Celebration Sunday
+## Day 7, Celebration Sunday
 
 | Meal | Recipe | kcal |
 |------|--------|------|
@@ -115,7 +115,7 @@ Holubtsi can be made in large batches and frozen. Defrost overnight and reheat g
 | Dinner | Lighter Hungarian Goulash with Whole Rye Bread | 420 |
 | **Day total** | | **1,085** |
 
-### Day 7 — Prep tip
+### Day 7, Prep tip
 Sunday is the perfect day to batch-cook for next week. Goulash keeps 5 days refrigerated and improves daily.
 
 ---
@@ -131,7 +131,7 @@ Sunday is the perfect day to batch-cook for next week. Goulash keeps 5 days refr
 
 ---
 
-## Shopping list — Week 1 (1 person)
+## Shopping list, Week 1 (1 person)
 
 ### Vegetables & Fruit
 - Beetroot, 3 medium
@@ -193,8 +193,8 @@ Sunday is the perfect day to batch-cook for next week. Goulash keeps 5 days refr
 ## Weekly prep guide (Sunday 90 minutes)
 
 1. **Cook a large pot of buckwheat** (enough for 3–4 days of sides). Portion into containers and refrigerate.
-2. **Make a double batch of borscht** — use for Day 1 lunch and Day 3 lunch.
-3. **Hard-boil 6 eggs** — use throughout the week for snacks.
+2. **Make a double batch of borscht**, use for Day 1 lunch and Day 3 lunch.
+3. **Hard-boil 6 eggs**, use throughout the week for snacks.
 4. **Marinate chicken thighs** for paprikash overnight in kefir.
-5. **Wash and chop all vegetables** — store in containers, ready to grab.
-6. **Make the bean soup** — improves over 24 hours, ready for Day 4.
+5. **Wash and chop all vegetables**, store in containers, ready to grab.
+6. **Make the bean soup**, improves over 24 hours, ready for Day 4.

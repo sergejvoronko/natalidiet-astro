@@ -17,7 +17,7 @@ fat: 8
 fibre: 5
 tags: ["slovak", "salad", "vegetarian", "high-protein", "under-300-kcal", "asparagus", "kefir", "spring"]
 category: "salads"
-tip: "Shock the blanched asparagus in ice-cold water the moment it comes out of the pot — this stops the cooking instantly, locks in the vivid green colour, and keeps each spear pleasantly crisp rather than limp."
+tip: "Shock the blanched asparagus in ice-cold water the moment it comes out of the pot, this stops the cooking instantly, locks in the vivid green colour, and keeps each spear pleasantly crisp rather than limp."
 publishDate: 2026-05-08
 featured: false
 ingredients:
@@ -62,20 +62,20 @@ steps:
   - "Spoon the mustard-kefir dressing generously over the salad. Finish by scattering over the chopped fresh chives and flat-leaf parsley. Serve immediately."
 faqs:
   - q: "Can I use white asparagus?"
-    a: "Yes — peel it and give it a few minutes longer to cook than green."
+    a: "Yes, peel it and give it a few minutes longer to cook than green."
   - q: "What about outside asparagus season?"
     a: "Green beans are the best off-season stand-in, blanched the same way."
   - q: "Can I prep it ahead?"
-    a: "Cook the eggs and asparagus a day ahead, but dress just before serving — the kefir dressing softens everything over time."
+    a: "Cook the eggs and asparagus a day ahead, but dress just before serving, the kefir dressing softens everything over time."
 ---
 
 ## A Taste of Slovak Spring
 
-When May arrives in Slovakia, green asparagus appears at every market stall, farmers' tables, and home garden. The brief, jubilant asparagus season is treated as something of a local celebration — families gather around big pots of freshly boiled spears and cook up salads, soups, and side dishes while the harvest lasts. This Slovak Asparagus & Egg Salad with Mustard-Kefir Dressing is rooted squarely in that tradition, combining the season's star ingredient with the hard-boiled eggs and tangy fermented dairy that have anchored Central European cooking for generations.
+When May arrives in Slovakia, green asparagus appears at every market stall, farmers' tables, and home garden. The brief, jubilant asparagus season is treated as something of a local celebration, families gather around big pots of freshly boiled spears and cook up salads, soups, and side dishes while the harvest lasts. This Slovak Asparagus & Egg Salad with Mustard-Kefir Dressing is rooted squarely in that tradition, combining the season's star ingredient with the hard-boiled eggs and tangy fermented dairy that have anchored Central European cooking for generations.
 
-Kefir, a lightly fermented milk drink beloved across Slovakia, Poland, and the wider region, makes a genuinely excellent salad dressing base. It is thicker and more pourable than buttermilk, pleasantly sour, and carries wholegrain and Dijon mustard beautifully. Blended with a little honey and lemon juice, it creates a dressing that is creamy without relying on mayonnaise or sour cream — meaning far less saturated fat but none of the flavour sacrifice. The fermented cultures in the kefir also support gut health, adding a quiet nutritional bonus to every forkful.
+Kefir, a lightly fermented milk drink beloved across Slovakia, Poland, and the wider region, makes a excellent salad dressing base. It is thicker and more pourable than buttermilk, pleasantly sour, and carries wholegrain and Dijon mustard beautifully. Blended with a little honey and lemon juice, it creates a dressing that is creamy without relying on mayonnaise or sour cream, meaning far less saturated fat but none of the flavour sacrifice. The fermented cultures in the kefir also support gut health, adding a quiet nutritional bonus to every forkful.
 
-Grounding the salad with small boiled new potatoes transforms it from a starter into a proper, filling lunch. The potatoes add slow-release carbohydrates and a soft, buttery contrast to the crisp asparagus and peppery radishes. Everything is finished with fresh chives, flat-leaf parsley, and spring onions — the kind of herb-forward generosity that defines Slovak home cooking in late spring and early summer.
+Grounding the salad with small boiled new potatoes transforms it from a starter into a proper, filling lunch. The potatoes add slow-release carbohydrates and a soft, buttery contrast to the crisp asparagus and peppery radishes. Everything is finished with fresh chives, flat-leaf parsley, and spring onions, the kind of herb-forward generosity that defines Slovak home cooking in late spring and early summer.
 
 ---
 
@@ -101,9 +101,9 @@ Grounding the salad with small boiled new potatoes transforms it from a starter 
 
 ## Serving Ideas
 
-Serve this salad as a standalone lunch — it is substantial enough to need nothing alongside it. If you are feeding people who do a lot of physical activity, a slice or two of dense Slovak rye bread or sourdough on the side adds extra carbohydrates and makes the meal even more sustaining. A cold glass of sparkling water with lemon or a glass of white kefir to drink ties the meal together beautifully.
+Serve this salad as a standalone lunch, it is substantial enough to need nothing alongside it. If you are feeding people who do a lot of physical activity, a slice or two of dense Slovak rye bread or sourdough on the side adds extra carbohydrates and makes the meal even more sustaining. A cold glass of sparkling water with lemon or a glass of white kefir to drink ties the meal together beautifully.
 
-For a more elegant presentation at a weekend lunch or light dinner party, arrange the asparagus spears in a neat fan before adding the other ingredients, and keep the egg quarters whole rather than quartered. A few edible flowers — borage or nasturtiums are ideal in May — scattered on top add a distinctly Slovak spring-market flourish.
+For a more elegant presentation at a weekend lunch or light dinner party, arrange the asparagus spears in a neat fan before adding the other ingredients, and keep the egg quarters whole rather than quartered. A few edible flowers, borage or nasturtiums are ideal in May, scattered on top add a distinctly Slovak spring-market flourish.
 
 ---
 
@@ -119,6 +119,6 @@ For a more elegant presentation at a weekend lunch or light dinner party, arrang
 
 ## Storage
 
-This salad is best assembled and eaten on the day it is made, as the dressing will begin to wilt the salad leaves and soften the asparagus after a few hours. However, you can prepare all the components separately up to 24 hours in advance and keep them refrigerated in airtight containers — the dressing in a jar, the potatoes and asparagus together, and the eggs unpeeled. Assemble just before serving for the freshest result.
+This salad is best assembled and eaten on the day it is made, as the dressing will begin to wilt the salad leaves and soften the asparagus after a few hours. However, you can prepare all the components separately up to 24 hours in advance and keep them refrigerated in airtight containers, the dressing in a jar, the potatoes and asparagus together, and the eggs unpeeled. Assemble just before serving for the freshest result.
 
 Leftover dressed salad will keep in the refrigerator for up to one day; the flavours actually deepen overnight, even if the texture softens slightly.

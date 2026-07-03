@@ -1,8 +1,8 @@
 ---
 title: "Healthy Borscht Recipe — Low Calorie Ukrainian Beet Soup (160 kcal)"
-description: "A light, authentic Ukrainian borscht at just 160 calories per bowl — olive oil instead of lard, Greek yogurt instead of sour cream. All the deep flavour, far fewer calories."
+description: "A light, authentic Ukrainian borscht at just 160 calories per bowl, olive oil instead of lard, Greek yogurt instead of sour cream. All the deep flavour, far fewer calories."
 metaTitle: "Healthy Borscht — 160 kcal Ukrainian Beet Soup | Natali Diet"
-metaDescription: "Light, authentic Ukrainian borscht at 160 calories per bowl — olive oil instead of lard, Greek yogurt instead of sour cream."
+metaDescription: "Light, authentic Ukrainian borscht at 160 calories per bowl, olive oil instead of lard, Greek yogurt instead of sour cream."
 category: "healthy-soups"
 tags: ["borscht", "ukrainian", "beet-soup", "healthy", "gluten-free", "vegan", "weight-loss"]
 pillar: 1
@@ -11,8 +11,8 @@ featured: false
 image: "/images/blog/healthy-borscht-recipe.webp"
 ---
 
-Borscht is probably the most famous soup to come out of Eastern Europe — and for very good reason. This deep crimson beet soup is rich, earthy, slightly tangy, and unbelievably satisfying. And the best news for anyone watching their weight? My healthy borscht recipe clocks in at just 160 calories per generous serving, while still delivering everything you love about the original.
-I grew up eating borscht at least twice a week, made by my grandmother in her small Ukrainian kitchen. Her version was wonderful but heavy — full of lard and thick sour cream. Over the years I have developed this lighter version that tastes just as soulful, but works beautifully as part of a healthy eating plan or weight-loss diet.
+Borscht is probably the most famous soup to come out of Eastern Europe, and for very good reason. This deep crimson beet soup is rich, earthy, slightly tangy, and unbelievably satisfying. And the best news for anyone watching their weight? My healthy borscht recipe clocks in at just 160 calories per generous serving, while still delivering everything you love about the original.
+I grew up eating borscht at least twice a week, made by my grandmother in her small Ukrainian kitchen. Her version was wonderful but heavy, full of lard and thick sour cream. Over the years I have developed this lighter version that tastes just as soulful, but works beautifully as part of a healthy eating plan or weight-loss diet.
 
 ## Ingredients
 ### For the Soup Base
@@ -40,18 +40,18 @@ I grew up eating borscht at least twice a week, made by my grandmother in her sm
 - Add tomatoes (or tomato paste) and stir to coat all vegetables. Cook for 2 minutes.
 - Pour in the broth. Bring to a boil, then reduce heat to a gentle simmer.
 - Add the cubed potatoes and shredded cabbage. Simmer for 20–25 minutes until all vegetables are tender.
-- Stir in the apple cider vinegar or lemon juice. This is critical — the acid brightens the colour and adds the characteristic slight tanginess. Season with salt and pepper.
-- Ladle into bowls. Add a dollop of Greek yogurt (NOT stirred in — place it on top so it stays white). Scatter with fresh dill. Add a boiled egg if using.
+- Stir in the apple cider vinegar or lemon juice. This is critical, the acid brightens the colour and adds the characteristic slight tanginess. Season with salt and pepper.
+- Ladle into bowls. Add a dollop of Greek yogurt (NOT stirred in, place it on top so it stays white). Scatter with fresh dill. Add a boiled egg if using.
 
 ## Nutrition Facts
 Per serving (approx. 400ml bowl), without egg:
 
-DIET LABELS: Gluten-Free  |  Low-Fat  |  High-Fibre  |  Vegetarian (Vegan option)  |  Diabetic-Friendly
+DIET LABELS: Gluten-Free | Low-Fat | High-Fibre | Vegetarian (Vegan option) | Diabetic-Friendly
 
 ## Meal Prep & Storage
 - Refrigerator: Store in airtight containers for up to 5 days. The colour deepens and flavour improves overnight.
 - Freezer: Freeze for up to 3 months WITHOUT the yogurt or potato. Add fresh potato when reheating.
-- Reheating: Warm gently on the stovetop over low heat. Avoid microwaving — it dulls the colour.
+- Reheating: Warm gently on the stovetop over low heat. Avoid microwaving, it dulls the colour.
 - Batch cooking: This recipe doubles and triples beautifully. Make a big pot on Sunday.
 
 ## Frequently Asked Questions
@@ -62,7 +62,7 @@ Yes! At only 160 calories per large bowl, borscht is one of the most filling low
 
 ### Can I make borscht without beets?
 
-Technically yes, but then it would not really be borscht — beets are the defining ingredient. Without beets you would simply have a vegetable soup. If you do not like the earthy taste of beets, try roasting them first before adding to the soup, which brings out their natural sweetness.
+Technically yes, but then it would not be borscht, beets are the defining ingredient. Without beets you would have a vegetable soup. If you do not like the earthy taste of beets, try roasting them first before adding to the soup, which brings out their natural sweetness.
 
 ### Why did my borscht turn brown?
 

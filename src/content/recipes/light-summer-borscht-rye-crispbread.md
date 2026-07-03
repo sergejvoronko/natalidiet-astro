@@ -1,6 +1,6 @@
 ---
 title: "Light Summer Borscht with Rye Crispbread"
-description: "The queen of Eastern European soups — reimagined lighter. Ruby-red, fresh, under 220 calories, and genuinely satisfying."
+description: "The queen of Eastern European soups, reimagined lighter. Ruby-red, fresh, under 220 calories, and satisfying."
 course: "lunch"
 cuisine: "Ukrainian"
 prepTime: 10
@@ -14,7 +14,7 @@ fat: 4
 fibre: 9
 tags: ["vegetarian", "meal-prep", "ukrainian", "low-calorie", "high-fibre"]
 category: "healthy-soups"
-tip: "Always add lemon juice at the very end — it preserves the vivid ruby colour and brightens the whole flavour."
+tip: "Always add lemon juice at the very end, it preserves the vivid ruby colour and brightens the whole flavour."
 publishDate: 2026-04-02
 featured: true
 image: "/images/summer-borscht.webp"
@@ -51,9 +51,9 @@ faqs:
   - q: "Is summer borscht served hot or cold?"
     a: "Either. Chilled is classic in summer; hot works any time of year. It's 210 kcal per bowl either way."
   - q: "How do I keep the beet colour vivid?"
-    a: "Add a splash of vinegar or lemon at the end and avoid hard boiling — long cooking dulls the crimson."
+    a: "Add a splash of vinegar or lemon at the end and avoid hard boiling, long cooking dulls the crimson."
   - q: "Can I freeze it?"
-    a: "Yes, up to 3 months — freeze without the yogurt topping and add it fresh after reheating."
+    a: "Yes, up to 3 months, freeze without the yogurt topping and add it fresh after reheating."
 ---
 
-Borscht is the dish that defines Ukrainian cuisine — and it's been tragically misunderstood in the West. Real borscht isn't the heavy, rich stew you might imagine. Summer borscht, in particular, is light, bright, and intensely fresh.
+Borscht is the dish that defines Ukrainian cuisine, and it's been tragically misunderstood in the West. Real borscht isn't the heavy, rich stew you might imagine. Summer borscht, in particular, is light, bright, and intensely fresh.

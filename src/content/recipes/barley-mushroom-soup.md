@@ -1,7 +1,7 @@
 ---
 title: "Pearl Barley & Mushroom Soup"
-description: "A thick, warming Eastern European soup with pearl barley, chestnut mushrooms, dried porcini, and aromatic vegetables. 195 kcal per serving — deeply satisfying and completely plant-based."
-metaDescription: "Thick Eastern European pearl barley and mushroom soup with dried porcini. 195 kcal per serving, plant-based and deeply satisfying."
+description: "A thick, warming Eastern European soup with pearl barley, chestnut mushrooms, dried porcini, and aromatic vegetables. 195 kcal per serving, satisfying and completely plant-based."
+metaDescription: "Thick Eastern European pearl barley and mushroom soup with dried porcini. 195 kcal per serving, plant-based and satisfying."
 course: "lunch"
 cuisine: "Polish"
 prepTime: 15
@@ -15,7 +15,7 @@ fat: 4
 fibre: 7
 tags: ["vegetarian", "vegan", "high-fibre", "meal-prep", "polish", "soup", "under-200-kcal"]
 category: "healthy-soups"
-tip: "Don't skip the dried porcini — they are the soul of this soup. The soaking liquid contains deep umami flavour; strain it through a fine mesh to remove any grit and add it straight to the pot."
+tip: "Don't skip the dried porcini, they are the soul of this soup. The soaking liquid contains deep umami flavour; strain it through a fine mesh to remove any grit and add it straight to the pot."
 publishDate: 2026-04-16
 featured: true
 image: "/images/barley-mushroom-soup.webp"
@@ -55,13 +55,13 @@ steps:
   - "Taste and adjust seasoning. The soy sauce adds depth without making it taste Asian — it should not be identifiable. Serve with a generous scatter of parsley."
 faqs:
   - q: "Can I make this soup gluten-free?"
-    a: "Pearl barley contains gluten. Swap it for buckwheat groats or brown rice — add them later in the cooking, as both cook faster than barley."
+    a: "Pearl barley contains gluten. Swap it for buckwheat groats or brown rice, add them later in the cooking, as both cook faster than barley."
   - q: "What if I can't find dried porcini?"
     a: "Use extra chestnut mushrooms plus a teaspoon of soy sauce for the deep umami the porcini normally provide."
   - q: "How long does it keep?"
-    a: "Up to 4 days in the fridge — the flavour improves overnight. The barley keeps thickening, so loosen with a splash of stock when reheating. Freezes well for 3 months."
+    a: "Up to 4 days in the fridge, the flavour improves overnight. The barley keeps thickening, so loosen with a splash of stock when reheating. Freezes well for 3 months."
 ---
 
-In Poland and Belarus, barley mushroom soup — sometimes called *krupnik* — is the kind of meal that appears at every family table in winter. It is humble, thick, and deeply nourishing. The combination of fresh and dried mushrooms creates a broth that is genuinely complex without any meat.
+In Poland and Belarus, barley mushroom soup, sometimes called *krupnik*, is the kind of meal that appears at every family table in winter. It is humble, thick, and nourishing. The combination of fresh and dried mushrooms creates a broth that is complex without any meat.
 
 Pearl barley is an underrated grain: rich in beta-glucan fibre (the same kind found in oats), filling, and slow-releasing. This soup is even better the day after it is made, as the barley continues to absorb the stock overnight.

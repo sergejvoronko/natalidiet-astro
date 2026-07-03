@@ -59,9 +59,9 @@ steps:
 
 Every summer in Ukraine, our garden would explode with zucchini. They grew so fast you could almost watch them, and my mum had a dozen ways to use them up. Her zucchini *oladky*, shallow-fried in oil until the edges were lacy and crisp, were my absolute favourite. We'd eat them straight from the pan, dipped in a simple sour cream and dill sauce, with the windows open to let in the warm evening air.
 
-Those fritters are a beautiful memory, but all that oil doesn't quite fit with how I like to eat now. I wanted to capture that same comforting flavour without the heaviness. By baking them instead of frying, we get that lovely golden exterior and a tender inside, but with a fraction of the fat. The Parmesan adds a savoury depth that works so well with the mild zucchini, and using whole wheat flour gives them a bit more substance and fibre. It’s a simple switch that makes these a perfect guilt-free snack or light lunch.
+Those fritters are a beautiful memory, but all that oil doesn't quite fit with how I like to eat now. I wanted to capture that same comforting flavour without the heaviness. By baking them instead of frying, we get that lovely golden exterior and a tender inside, but with a fraction of the fat. The Parmesan adds a savoury depth that works so well with the mild zucchini, and using whole wheat flour gives them a bit more substance and fibre. It's a simple switch that makes these a perfect guilt-free snack or light lunch.
 
-The dip is non-negotiable for me. Kefir, with its signature tang and probiotic benefits, is a fantastic base. The combination of fresh dill and sharp garlic is classic for a reason—it’s bright, refreshing, and cuts through the richness of the fritters beautifully. The smell alone transports me right back to my mother’s kitchen. It’s proof that healthy eating isn't about giving things up; it's about finding smarter, lighter ways to enjoy the foods you love.
+The dip is non-negotiable for me. Kefir, with its signature tang and probiotic benefits, is a fantastic base. The combination of fresh dill and sharp garlic is classic for a reason, it's bright, refreshing, and cuts through the richness of the fritters beautifully. The smell alone transports me right back to my mother's kitchen. It's proof that healthy eating isn't about giving things up; it's about finding smarter, lighter ways to enjoy the foods you love.
 
 ### How to Serve and Store
 
@@ -71,4 +71,4 @@ They're definitely best eaten fresh, but you can store leftovers in an airtight 
 
 ### A Few Simple Variations
 
-Once you have the basic recipe down, it's easy to play with the flavours. If you don't have dill, fresh parsley or mint would be lovely in the dip. For the fritters themselves, you could add a pinch of smoked paprika or a little finely chopped chilli for a gentle heat. If you have other summer squash like yellow squash or pattypan, they can be grated and used in place of the zucchini—just be sure to squeeze them dry
+Once you have the basic recipe down, it's easy to play with the flavours. If you don't have dill, fresh parsley or mint would be lovely in the dip. For the fritters themselves, you could add a pinch of smoked paprika or a little finely chopped chilli for a gentle heat. If you have other summer squash like yellow squash or pattypan, they can be grated and used in place of the zucchini, just be sure to squeeze them dry

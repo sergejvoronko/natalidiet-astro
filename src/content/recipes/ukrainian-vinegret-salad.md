@@ -15,7 +15,7 @@ fat: 6
 fibre: 6
 tags: ["vegan", "vegetarian", "ukrainian", "gluten-free", "meal-prep", "traditional", "fermented"]
 category: "traditional-foods-healthy"
-tip: "The key to proper vinegret is dressing the beetroot separately first — it prevents the entire salad from turning completely purple. Some purple blush is expected and beautiful; a uniform magenta mass is not."
+tip: "The key to proper vinegret is dressing the beetroot separately first, it prevents the entire salad from turning completely purple. Some purple blush is expected and beautiful; a uniform magenta mass is not."
 publishDate: 2026-04-18
 featured: false
 image: "/images/ukrainian-vinegret-salad.webp"
@@ -49,13 +49,13 @@ steps:
   - "Refrigerate at least 30 minutes before serving. Vinegret improves significantly after a few hours or overnight."
 faqs:
   - q: "Why oil and not mayonnaise?"
-    a: "Traditional vinegret is dressed with oil — it's the naturally vegan one. The mayo-dressed cousin is Olivier salad."
+    a: "Traditional vinegret is dressed with oil, it's the naturally vegan one. The mayo-dressed cousin is Olivier salad."
   - q: "How do I stop the beetroot staining everything?"
-    a: "Toss the diced beetroot in a little oil separately before combining — the oil seals the colour in."
+    a: "Toss the diced beetroot in a little oil separately before combining, the oil seals the colour in."
   - q: "How long does it keep?"
     a: "3 days in the fridge, and honestly better on day two once the sauerkraut and gherkins season the vegetables."
 ---
 
-Vinegret is Ukraine's answer to a composed vegetable salad — and one of the most misunderstood dishes in Eastern European cuisine. The name comes from *vinaigrette*, the dressing, not a specific dish. Every family has their version: some add kidney beans, some green peas, some a splash of brine from the gherkin jar.
+Vinegret is Ukraine's answer to a composed vegetable salad, and one of the most misunderstood dishes in Eastern European cuisine. The name comes from *vinaigrette*, the dressing, not a specific dish. Every family has their version: some add kidney beans, some green peas, some a splash of brine from the gherkin jar.
 
-This version keeps it classic: beetroot, potato, carrot, sauerkraut, gherkin. It is nutritionally impressive — the sauerkraut brings probiotics and vitamin C, the beetroot provides nitrates and folate, and the whole dish is naturally vegan, naturally gluten-free, and genuinely delicious cold. It is perfect for meal prep: make a large batch and eat it across three days.
+This version keeps it classic: beetroot, potato, carrot, sauerkraut, gherkin. It is nutritionally impressive, the sauerkraut brings probiotics and vitamin C, the beetroot provides nitrates and folate, and the whole dish is naturally vegan, naturally gluten-free, and delicious cold. It is perfect for meal prep: make a large batch and eat it across three days.

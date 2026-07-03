@@ -1,8 +1,8 @@
 ---
 title: "Healthy Deruny — Baked Ukrainian Potato Pancakes (130 kcal Each)"
-description: "Healthy deruny baked instead of fried — genuinely crispy at 130 calories each. The secret: squeeze every drop of moisture from the grated potato before baking at 220°C."
+description: "Healthy deruny baked instead of fried, crispy at 130 calories each. The secret: squeeze every drop of moisture from the grated potato before baking at 220°C."
 metaTitle: "Healthy Deruny — Ukrainian Potato Pancakes | Natali Diet"
-metaDescription: "Deruny baked instead of fried — genuinely crispy Ukrainian potato pancakes at 130 calories each, with the moisture-squeezing secret."
+metaDescription: "Deruny baked instead of fried, crispy Ukrainian potato pancakes at 130 calories each, with the moisture-squeezing secret."
 category: "traditional-foods-healthy"
 tags: ["deruny", "potato-pancakes", "ukrainian", "baked", "gluten-free", "low-calorie", "130-calories"]
 pillar: 4
@@ -11,11 +11,11 @@ featured: false
 image: "/images/blog/healthy-deruny-ukrainian-potato-pancakes.webp"
 ---
 
-Deruny are Ukrainian potato pancakes — crispy, golden, deeply satisfying, traditionally cooked in generous oil until the edges are lace-thin and crunchy. A beloved traditional dish eaten for breakfast, as a starter, or as a light lunch with smetana and chives.
-Traditional deruny can be 350–450 calories for three pancakes. My baked version comes in at approximately 130 calories each — 390 calories for three — with a genuinely crispy exterior and all the authentic flavour. The entire secret is in the moisture removal technique.
+Deruny are Ukrainian potato pancakes, crispy, golden, satisfying, traditionally cooked in generous oil until the edges are lace-thin and crunchy. A beloved traditional dish eaten for breakfast, as a starter, or as a light lunch with smetana and chives.
+Traditional deruny can be 350–450 calories for three pancakes. My baked version comes in at approximately 130 calories each, 390 calories for three, with a crispy exterior and all the authentic flavour. The entire secret is in the moisture removal technique.
 
 ## Ingredients
-- 800g floury potatoes (Maris Piper, Russet) — peeled
+- 800g floury potatoes (Maris Piper, Russet), peeled
 - 1 medium onion, finely grated
 - 2 eggs
 - 100g low-fat cottage cheese (tvaroh), well-drained
@@ -28,7 +28,7 @@ Traditional deruny can be 350–450 calories for three pancakes. My baked versio
 ## Instructions
 - Preheat oven to 220°C / 425°F. Line two large baking trays with parchment. Spray lightly with olive oil.
 - Coarsely grate the potatoes and onion into a large bowl.
-- Transfer to a clean tea towel. Twist and squeeze firmly — twice — extracting as much liquid as possible. The mixture should be nearly dry.
+- Transfer to a clean tea towel. Twist and squeeze firmly, twice, extracting as much liquid as possible. The mixture should be nearly dry.
 - Return to a dry bowl. Add eggs, cottage cheese, dill, flour, salt, and pepper. Mix until the batter holds together.
 - Scoop 2 tbsp batter per pancake onto trays. Flatten to approximately 1cm thickness with a wet hand.
 - Bake on the TOP shelf for 15 minutes until undersides are deep golden.
@@ -38,7 +38,7 @@ Traditional deruny can be 350–450 calories for three pancakes. My baked versio
 ## Nutrition Facts
 Per serving (3 deruny with 1 tbsp low-fat sour cream):
 
-DIET LABELS: Vegetarian  |  Gluten-Free (oat flour)  |  Lower Fat than Traditional
+DIET LABELS: Vegetarian | Gluten-Free (oat flour) | Lower Fat than Traditional
 
 ## Frequently Asked Questions
 
@@ -48,8 +48,8 @@ Four common causes: not enough moisture squeezed out; oven too cool (minimum 220
 
 ### Can I make deruny ahead?
 
-Make the batter up to 2 hours ahead with a squeeze of lemon juice to prevent greying. Cooked deruny reheat well in a hot oven for 5 minutes — do not use a microwave.
+Make the batter up to 2 hours ahead with a squeeze of lemon juice to prevent greying. Cooked deruny reheat well in a hot oven for 5 minutes, do not use a microwave.
 
 ### What is the difference between deruny and latkes?
 
-Both are grated potato pancakes — deruny is Ukrainian, latkes is Jewish Ashkenazi. Key difference: deruny often include cottage cheese in the batter. Both benefit enormously from the moisture-squeezing technique.
+Both are grated potato pancakes, deruny is Ukrainian, latkes is Jewish Ashkenazi. Key difference: deruny often include cottage cheese in the batter. Both benefit enormously from the moisture-squeezing technique.

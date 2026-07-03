@@ -15,7 +15,7 @@ fat: 9
 fibre: 9
 tags: ["vegetarian", "high-fibre", "iron-rich", "meal-prep", "gluten-free", "ukrainian"]
 category: "healthy-main-dishes"
-tip: "Rinse canned lentils thoroughly and pat them dry — this prevents the salad from going watery. Green or Puy lentils hold their shape better than red lentils here."
+tip: "Rinse canned lentils thoroughly and pat them dry, this prevents the salad from going watery. Green or Puy lentils hold their shape better than red lentils here."
 publishDate: 2026-04-15
 featured: true
 image: "/images/lentil-beetroot-walnut.webp"
@@ -48,13 +48,13 @@ steps:
   - "Serve at room temperature or slightly warm. The salad keeps refrigerated for up to 3 days — the flavours improve overnight."
 faqs:
   - q: "Are tinned lentils okay?"
-    a: "Yes — rinse them well. Puy or green lentils hold their shape best; red lentils turn mushy."
+    a: "Yes, rinse them well. Puy or green lentils hold their shape best; red lentils turn mushy."
   - q: "Can I make it ahead?"
     a: "It improves after an hour as the beetroot and dressing mingle. Keeps 3 days; add walnuts at serving so they stay crunchy."
   - q: "Is it vegan?"
     a: "Use maple syrup instead of honey in the dressing and it's fully vegan."
 ---
 
-This salad is a workhorse. It stores well, travels in a lunchbox, and provides a rare combination of plant protein, iron, and prebiotic fibre in a single bowl. In Eastern European cooking, beetroot and lentils have long been paired as a nourishing winter staple — here they're lightened with a sharp vinegar dressing and fresh parsley.
+This salad is a workhorse. It stores well, travels in a lunchbox, and provides a rare combination of plant protein, iron, and prebiotic fibre in a single bowl. In Eastern European cooking, beetroot and lentils have long been paired as a nourishing winter staple, here they're lightened with a sharp vinegar dressing and fresh parsley.
 
 The walnuts add crunch and heart-healthy fats. Add crumbled feta or a soft-boiled egg on top if you need more calories.

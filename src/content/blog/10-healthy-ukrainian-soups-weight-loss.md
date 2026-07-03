@@ -1,8 +1,8 @@
 ---
 title: "10 Healthy Ukrainian Soups for Weight Loss"
-description: "Discover 10 traditional Ukrainian soups under 350 calories per serving — each rooted in history, each genuinely delicious."
+description: "Discover 10 traditional Ukrainian soups under 350 calories per serving, each rooted in history, each delicious."
 metaTitle: "10 Healthy Ukrainian Soups for Weight Loss | Natali Diet"
-metaDescription: "Discover 10 traditional Ukrainian soups under 350 calories per serving. Borscht, rassolnik, solyanka and more — all calorie-counted and nutritionist-approved."
+metaDescription: "Discover 10 traditional Ukrainian soups under 350 calories per serving. Borscht, rassolnik, solyanka and more, all calorie-counted and nutritionist-approved."
 category: "healthy-soups"
 tags: ["ukrainian", "soups", "weight-loss", "low-calorie"]
 pillar: 1
@@ -11,13 +11,13 @@ featured: true
 image: "/images/blog/10-healthy-ukrainian-soups-weight-loss.webp"
 ---
 
-Ukrainian cuisine is built around soup. From the ruby-red borscht to the tangy rassolnik, Ukrainian soups are warming, deeply flavourful, and — as it turns out — surprisingly well-suited to healthy eating.
+Ukrainian cuisine is built around soup. From the ruby-red borscht to the tangy rassolnik, Ukrainian soups are warming, flavourful, and, as it turns out, surprisingly well-suited to healthy eating.
 
 ## Why Ukrainian soups are great for weight loss
 
 Most Ukrainian soups are vegetable-forward, high in fibre, and naturally low in calories. Unlike the cream-heavy soups of Western European cuisine, the Ukrainian tradition favours clarity: a deep stock enriched with vegetables, a little meat or legume for protein, and fresh herbs at the end.
 
-The result is food that is genuinely satisfying — without the calorie load.
+The result is food that is satisfying, without the calorie load.
 
 ## 10 soups to know
 
@@ -51,7 +51,7 @@ Wild mushrooms give this soup an almost meaty depth. Pearl barley provides slow-
 
 ### 8. Cold Kefir Soup / Okroshka (180 kcal)
 
-Served cold in summer — a kefir or kvass base with cucumber, radish, spring onion, and hard-boiled egg. Unusual but refreshing.
+Served cold in summer, a kefir or kvass base with cucumber, radish, spring onion, and hard-boiled egg. Unusual but refreshing.
 
 ### 9. Lentil and Carrot Soup (245 kcal)
 
@@ -59,7 +59,7 @@ Red lentils melt into a silky purée. Finished with a small swirl of kefir and f
 
 ### 10. Green Borscht / Sorrel Soup (165 kcal)
 
-Made with sorrel instead of beetroot — brightly sour, spring-fresh, and very quick to make.
+Made with sorrel instead of beetroot, brightly sour, spring-fresh, and very quick to make.
 
 ## The calorie breakdown at a glance
 
@@ -75,8 +75,8 @@ Made with sorrel instead of beetroot — brightly sour, spring-fresh, and very q
 
 Three things:
 
-1. **High water content** — soup is volume eating done right
-2. **Fibre from vegetables and legumes** — slows gastric emptying
-3. **Hot temperature** — eating hot food tends to slow consumption pace
+1. **High water content**, soup is volume eating done right
+2. **Fibre from vegetables and legumes**, slows gastric emptying
+3. **Hot temperature**, eating hot food tends to slow consumption pace
 
 The result: soups score very highly on satiety-per-calorie measures. A 250kcal bowl of borscht keeps you full significantly longer than a 250kcal sandwich.

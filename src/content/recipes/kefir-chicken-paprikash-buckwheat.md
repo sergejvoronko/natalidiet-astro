@@ -15,7 +15,7 @@ fibre: 4
 tags: ["high-protein", "gluten-free", "hungarian", "meal-prep", "low-calorie", "kefir", "buckwheat"]
 category: "healthy-main-dishes"
 image: "/images/chicken-paprikash.webp"
-tip: "Add the kefir off the heat and stir constantly — it will not curdle. Return to the lowest possible heat to warm through."
+tip: "Add the kefir off the heat and stir constantly, it will not curdle. Return to the lowest possible heat to warm through."
 publishDate: 2026-04-12
 featured: true
 ingredients:
@@ -54,11 +54,11 @@ faqs:
   - q: "How do I stop the kefir from curdling?"
     a: "Take the pan off the heat, whisk a spoonful of the hot sauce into the kefir first, then stir it back in. Never boil after adding kefir."
   - q: "Can I use chicken breast instead of thighs?"
-    a: "Yes — shorten the simmer so it doesn't dry out. Thighs stay juicier for the calories."
+    a: "Yes, shorten the simmer so it doesn't dry out. Thighs stay juicier for the calories."
   - q: "Which paprika matters here?"
-    a: "Sweet smoked paprika does the heavy lifting, with a pinch of hot. Use a fresh jar — stale paprika tastes of dust."
+    a: "Sweet smoked paprika does the heavy lifting, with a pinch of hot. Use a fresh jar, stale paprika tastes of dust."
 ---
 
-Chicken paprikash is the dish that made Hungary famous in Central European cooking. This version uses kefir instead of heavy sour cream — same creamy finish, same tang, one third of the calories.
+Chicken paprikash is the dish that made Hungary famous in Central European cooking. This version uses kefir instead of heavy sour cream, same creamy finish, same tang, one third of the calories.
 
 The secret is the paprika bloom: adding the spice to hot fat before any liquid goes in. This releases fat-soluble flavour compounds that make the paprika taste ten times more intense. Do not skip it.

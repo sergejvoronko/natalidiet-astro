@@ -1,8 +1,8 @@
 ---
 title: "Healthy Holubtsi — Ukrainian Stuffed Cabbage Rolls (280 kcal, Meal-Prep Friendly)"
-description: "Ukrainian stuffed cabbage rolls at 280 calories — lean beef-turkey filling, tomato braise instead of sour cream sauce. Excellent for meal prep and freezes beautifully for 3 months."
+description: "Ukrainian stuffed cabbage rolls at 280 calories, lean beef-turkey filling, tomato braise instead of sour cream sauce. Excellent for meal prep and freezes beautifully for 3 months."
 metaTitle: "Healthy Holubtsi — Ukrainian Cabbage Rolls | Natali Diet"
-metaDescription: "Ukrainian cabbage rolls at 280 calories — lean beef-turkey filling and tomato braise. Meal-prep friendly, freezes for 3 months."
+metaDescription: "Ukrainian cabbage rolls at 280 calories, lean beef-turkey filling and tomato braise. Meal-prep friendly, freezes for 3 months."
 category: "healthy-main-dishes"
 tags: ["holubtsi", "cabbage-rolls", "ukrainian", "gluten-free", "meal-prep", "freezer-friendly", "280-calories"]
 pillar: 2
@@ -11,15 +11,15 @@ featured: false
 image: "/images/blog/healthy-holubtsi-cabbage-rolls-recipe.webp"
 ---
 
-Holubtsi — pronounced ho-LOOB-tsi — are Ukrainian stuffed cabbage rolls, and they are one of the most beloved dishes across all of Eastern Europe. Known as gołąbki in Poland, sarmale in Romania, and sarma across the Balkans, these little bundles of comfort food appear on holiday tables from Warsaw to Odesa, from Bratislava to Bucharest.
-The traditional recipe is already surprisingly wholesome — it is essentially seasoned meat and rice wrapped in cabbage. My healthy version makes a few strategic tweaks: I use a lean beef and turkey mix, add more vegetables to the filling, and cook the rolls in a light tomato sauce rather than a heavy sour cream sauce. The result is 280 calories per serving (2 rolls) with excellent protein and fibre.
+Holubtsi, pronounced ho-LOOB-tsi, are Ukrainian stuffed cabbage rolls, and they are one of the most beloved dishes across all of Eastern Europe. Known as gołąbki in Poland, sarmale in Romania, and sarma across the Balkans, these little bundles of comfort food appear on holiday tables from Warsaw to Odesa, from Bratislava to Bucharest.
+The traditional recipe is already surprisingly wholesome, it is essentially seasoned meat and rice wrapped in cabbage. My healthy version makes a few strategic tweaks: I use a lean beef and turkey mix, add more vegetables to the filling, and cook the rolls in a light tomato sauce rather than a heavy sour cream sauce. The result is 280 calories per serving (2 rolls) with excellent protein and fibre.
 
 ## Ingredients
 ### For the Rolls
 - 1 large head white cabbage (about 1.5kg)
 - 400g extra-lean beef mince (5% fat)
 - 200g lean turkey mince
-- 150g cooked brown rice (or white rice — use whatever you prefer)
+- 150g cooked brown rice (or white rice, use whatever you prefer)
 - 1 medium onion, finely grated
 - 2 cloves garlic, minced
 - 1 egg
@@ -45,21 +45,21 @@ The traditional recipe is already surprisingly wholesome — it is essentially s
 - If leaves are thick near the stem, use a small knife to shave down the rib so the leaf rolls more easily.
 
 ### Making the Filling
-- In a large bowl, combine lean beef mince, turkey mince, cooked rice, grated onion, garlic, egg, grated carrot, dill, paprika, salt, and pepper. Mix thoroughly with your hands. Fry a small test piece in a dry pan and taste for seasoning — adjust if needed.
+- In a large bowl, combine lean beef mince, turkey mince, cooked rice, grated onion, garlic, egg, grated carrot, dill, paprika, salt, and pepper. Mix thoroughly with your hands. Fry a small test piece in a dry pan and taste for seasoning, adjust if needed.
 
 ### Assembling the Rolls
 - Place a softened cabbage leaf on your work surface. Add 2–3 tablespoons of filling near the stem end. Fold the stem end over the filling, then fold in the sides, then roll forward like a burrito. The roll should be firm but not tight. Repeat with all leaves.
 
 ### Making the Sauce & Cooking
 - Heat olive oil in a large wide pot or Dutch oven. Sauté onion for 5 minutes. Add garlic and paprika, cook 1 minute. Add tomatoes, broth, tomato paste. Season with salt, pepper, and a pinch of sugar.
-- Place the holubtsi seam-side down in the sauce — they should sit snugly in a single layer (or carefully stacked). Spoon sauce over the top rolls.
-- Bring to a gentle simmer. Cover and cook on LOW heat for 50–60 minutes. The low, slow cook is essential — it melds the sauce into the rolls and ensures the filling cooks through completely.
+- Place the holubtsi seam-side down in the sauce, they should sit snugly in a single layer (or carefully stacked). Spoon sauce over the top rolls.
+- Bring to a gentle simmer. Cover and cook on LOW heat for 50–60 minutes. The low, slow cook is essential, it melds the sauce into the rolls and ensures the filling cooks through completely.
 - Check after 50 minutes: the rolls should be completely tender. A probe thermometer should read 75°C / 165°F in the centre.
 
 ## Nutrition Facts
 Per serving (2 rolls with sauce):
 
-DIET LABELS: Gluten-Free  |  High Fibre  |  High Protein  |  Meal-Prep Friendly  |  Freezer-Friendly
+DIET LABELS: Gluten-Free | High Fibre | High Protein | Meal-Prep Friendly | Freezer-Friendly
 
 ## Meal Prep & Storage
 - These are ideal Sunday batch-cook food. Make a full pot (10–12 rolls) and refrigerate or freeze.
@@ -71,11 +71,11 @@ DIET LABELS: Gluten-Free  |  High Fibre  |  High Protein  |  Meal-Prep Friendly 
 
 ### Are cabbage rolls good for weight loss?
 
-Yes — cabbage rolls are an excellent weight-loss meal. Cabbage is extremely low in calories (about 25 kcal per 100g) and very high in volume and fibre. The meat and rice filling provides protein and slow-release carbohydrates. Two rolls at 280 calories is a very filling, high-protein, high-fibre meal that keeps you satisfied for hours.
+Yes, cabbage rolls are an excellent weight-loss meal. Cabbage is extremely low in calories (about 25 kcal per 100g) and very high in volume and fibre. The meat and rice filling provides protein and slow-release carbohydrates. Two rolls at 280 calories is a very filling, high-protein, high-fibre meal that keeps you satisfied for hours.
 
 ### Can I make holubtsi in a slow cooker?
 
-Absolutely — a slow cooker is actually ideal for cabbage rolls. Assemble the rolls and place in the slow cooker, pour the tomato sauce over. Cook on LOW for 6–8 hours or HIGH for 3–4 hours. The result is meltingly tender rolls.
+Absolutely, a slow cooker is actually ideal for cabbage rolls. Assemble the rolls and place in the slow cooker, pour the tomato sauce over. Cook on LOW for 6–8 hours or HIGH for 3–4 hours. The result is meltingly tender rolls.
 
 ### Why are my cabbage rolls falling apart?
 

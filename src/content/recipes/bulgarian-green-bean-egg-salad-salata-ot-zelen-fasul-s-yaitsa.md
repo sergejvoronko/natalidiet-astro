@@ -2,7 +2,7 @@
 title: "Bulgarian Green Bean & Egg Salad (Salata ot Zelen Fasul s Yaitsa)"
 description: "This classic Bulgarian salad combines tender green beans and hard-boiled eggs in a creamy, garlicky yogurt dressing. It's a satisfying, high-protein lunch that's perfect for staying full and managing your weight."
 metaTitle: "Bulgarian Green Bean & Egg Salad"
-metaDescription: "Classic Bulgarian green bean and egg salad in garlicky yogurt dressing. High-protein, 280 kcal — a light lunch that keeps you full."
+metaDescription: "Classic Bulgarian green bean and egg salad in garlicky yogurt dressing. High-protein, 280 kcal, a light lunch that keeps you full."
 image: "/images/bulgarian-green-bean-egg-salad-salata-ot-zelen-fasul-s-yaitsa.webp"
 course: lunch
 cuisine: "Ukrainian"
@@ -51,22 +51,22 @@ steps:
   - "Gently fold in the quartered eggs, being careful not to break them up too much. Serve immediately, or let it chill in the fridge for 30 minutes to let the flavours meld."
 faqs:
   - q: "Is this salad served warm or cold?"
-    a: "Either works — it's best at room temperature or chilled for 30 minutes so the garlic-dill dressing settles in."
+    a: "Either works, it's best at room temperature or chilled for 30 minutes so the garlic-dill dressing settles in."
   - q: "Can I use frozen green beans?"
     a: "Yes. Cook them straight from frozen and drain very well so the dressing doesn't go watery."
   - q: "How long does it keep?"
     a: "Up to 2 days in the fridge. If making ahead, keep the dressing separate and combine before serving."
 ---
 
-This salad takes me straight back to my grandmother's garden in the heat of July. She would come inside with a basket full of slender green beans, and we knew this simple, satisfying lunch wasn't far behind. It’s a classic Bulgarian summer dish, one that appears on tables all across the country as soon as the beans are ready for picking. The combination of tender beans, creamy eggs, and that sharp, garlicky yogurt dressing is just one of those perfect flavour pairings that needs no improvement.
+This salad takes me straight back to my grandmother's garden in the heat of July. She would come inside with a basket full of slender green beans, and we knew this simple, satisfying lunch wasn't far behind. It's a classic Bulgarian summer dish, one that appears on tables all across the country as soon as the beans are ready for picking. The combination of tender beans, creamy eggs, and that sharp, garlicky yogurt dressing is just one of those perfect flavour pairings that needs no improvement.
 
-While its roots are firmly in Bulgaria, this style of hearty vegetable salad is beloved all over Eastern Europe. We have similar versions in Ukraine, often using whatever is fresh from the dacha. It’s a testament to how our food cultures overlap, sharing a love for simple, honest ingredients. It fits so well into a healthy diet because it's packed with protein and fibre from the eggs and beans, keeping you full for hours without feeling heavy. The dressing uses Greek yogurt instead of mayonnaise, so you get all the creaminess with a fraction of the fat and a bonus boost of protein.
+While its roots are firmly in Bulgaria, this style of hearty vegetable salad is beloved all over Eastern Europe. We have similar versions in Ukraine, often using whatever is fresh from the dacha. It's a testament to how our food cultures overlap, sharing a love for simple, honest ingredients. It fits so well into a healthy diet because it's packed with protein and fibre from the eggs and beans, keeping you full for hours without feeling heavy. The dressing uses Greek yogurt instead of mayonnaise, so you get all the creaminess with a fraction of the fat and a bonus boost of protein.
 
-The trick I learnt the hard way is to make sure your beans are properly dry before you mix them with the dressing. If they’re still wet, the dressing will slide right off and pool at the bottom of the bowl, which is a sad sight. A quick pat-down with a kitchen towel makes all the difference, ensuring every single bean is coated in that delicious, fragrant sauce. The smell of the freshly chopped dill and garlic mixed into the cool yogurt is the true scent of summer for me.
+The trick I learnt the hard way is to make sure your beans are properly dry before you mix them with the dressing. If they're still wet, the dressing will slide right off and pool at the bottom of the bowl, which is a sad sight. A quick pat-down with a kitchen towel makes all the difference, ensuring every single bean is coated in that delicious, fragrant sauce. The smell of the freshly chopped dill and garlic mixed into the cool yogurt is the true scent of summer for me.
 
 ### Serving Suggestions
 
-I usually eat this salad on its own for a light but completely satisfying lunch. It has everything you need—protein, veggies, and healthy fats. It's also a fantastic side dish for a barbecue, especially alongside grilled chicken or some simple pan-fried fish. If you want to make it a more substantial meal, a slice of hearty, crusty sourdough bread for mopping up the dressing at the bottom of the bowl is a very good idea.
+I usually eat this salad on its own for a light but completely satisfying lunch. It has everything you need, protein, veggies, and healthy fats. It's also a fantastic side dish for a barbecue, especially alongside grilled chicken or some simple pan-fried fish. If you want to make it a more substantial meal, a slice of hearty, crusty sourdough bread for mopping up the dressing at the bottom of the bowl is a very good idea.
 
 ### Variations and Storage
 
