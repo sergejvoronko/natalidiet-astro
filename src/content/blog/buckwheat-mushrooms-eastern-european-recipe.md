@@ -11,7 +11,7 @@ featured: false
 image: "/images/blog/buckwheat-mushrooms-eastern-european-recipe.webp"
 ---
 
-In Western countries, buckwheat is treated as a trendy health food or a gluten-free flour alternative. In Eastern Europe, Ukraine, Russia, Slovakia, Poland, buckwheat (grechka or pohanka) is everyday food. It has been a staple of the Eastern European diet for centuries, and it is one of the most nutritionally impressive grains you can eat.
+In Western countries, buckwheat is treated as a trendy health food or a gluten-free flour alternative. In Eastern Europe, Ukraine, Russia, Slovakia, Poland, buckwheat (grechka or pohanka) is everyday food. It has been a staple for centuries, and it is one of the more nutritious grains you can eat.
 Paired with forest mushrooms, another Eastern European staple, this dish becomes extraordinary: earthy and savoury, naturally high in plant protein, magnesium, and antioxidants, completely vegan and gluten-free, and ready in 30 minutes. This is comfort food that actually loves you back.
 
 ## Ingredients

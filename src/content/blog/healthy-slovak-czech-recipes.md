@@ -27,7 +27,7 @@ Slovak and Czech cooking has a reputation for dumplings and heavy sauces, but a 
 - Slivovitz (plum brandy), a flavouring in some dishes; also the regional digestif
 
 ## The bryndza question: how to use it healthily
-Bryndza is Slovakia's most iconic ingredient, a soft, intensely flavourful fermented sheep cheese that is probiotic-rich, high in protein, and full of character. It is also high in sodium and fat. The healthy approach: use bryndza as a flavour accent, not a primary ingredient in large quantities.
+Bryndza is Slovakia's signature ingredient, a soft, sharp fermented sheep cheese: probiotic-rich, high in protein, full of character. It is also high in sodium and fat. The healthy approach: use bryndza as a flavour accent, not a primary ingredient in large quantities.
 For the national dish bryndzové halušky (potato dumplings with bryndza sauce): use half the traditional amount of bryndza and replace the other half with low-fat Greek yogurt. Mix them together to create a sauce that is still bryndza-flavoured but with far less fat and sodium. Add a large portion of sauerkraut alongside, it is traditional and adds probiotics.
 ## The knedlíky problem and its solutions
 Bread dumplings (knedlíky) are the defining carbohydrate accompaniment in Czech and to some extent Slovak cooking. They are made from white bread, flour, and egg, high in refined carbohydrates and low in nutrients. For everyday healthy cooking, replace them with:

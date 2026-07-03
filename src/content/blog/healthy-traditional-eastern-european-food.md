@@ -29,7 +29,7 @@ The principles below are what make those swaps work, and they carry over to almo
 ### 1. Find the Original Recipe
 Modern versions of traditional dishes are almost always heavier than the historical originals. Pre-industrial peasant cooking used fat as a precious resource, not a casual ingredient. Going back to the oldest available sources often reveals a dish that was never as heavy as modern versions suggest.
 ### 2. Moisture Management is Everything
-The single most transformative technique for lighter Eastern European cooking is moisture removal. Grating potatoes for deruny and NOT squeezing out the liquid is the primary reason home-made versions absorb far too much oil. Remove the moisture first, and the batter becomes light and crisp without excess oil.
+The technique that changes the most, when you want lighter Eastern European cooking, is moisture removal. Grating potatoes for deruny and NOT squeezing out the liquid is the primary reason home-made versions absorb far too much oil. Remove the moisture first, and the batter becomes light and crisp without excess oil.
 ### 3. Oven-Finishing Instead of Pan-Frying
 Many traditional dishes are pan-fried throughout. The healthy modern technique: sear briefly in a small amount of oil for colour and flavour, then finish in a hot oven at 200°C. Same golden exterior, fraction of the fat.
 ### 4. the dairy technique (Revisited)

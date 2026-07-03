@@ -24,7 +24,7 @@ From Ukrainian borscht to Romanian ciorbă to Polish żurek, every national trad
 ### Root vegetables and brassicas as the vegetable backbone
 Beets, carrots, celeriac, turnips, parsnips, cabbage, sauerkraut, these are the vegetable foundation of Eastern European cooking. All are nutritionally dense, very affordable, and particularly suited to winter cooking. All can be grown locally across the entire region. All are extremely diet-friendly.
 ### Buckwheat and rye as grain staples
-Across the region, buckwheat (in Ukraine, Russia, Slovakia) and rye (in Poland, Czech Republic, the Baltic states) are the traditional daily grains, far superior to white wheat in terms of fibre content, glycaemic index, and micronutrient density. This grain tradition is one of the most underappreciated nutritional strengths of Eastern European eating.
+Across the region, buckwheat (in Ukraine, Russia, Slovakia) and rye (in Poland, Czech Republic, the Baltic states) are the traditional daily grains, far superior to white wheat in terms of fibre content, glycaemic index, and micronutrient density. This grain tradition is an underrated nutritional strength of Eastern European eating.
 
 ## How to use the country guides
 Each article in this pillar is a complete standalone guide to the healthiest dishes from one national tradition. If you are of Ukrainian heritage, start with the Ukrainian guide. If you discovered Hungarian food and want to cook more of it, start there. Or work through all five, the more you explore, the more you will find that these cuisines complement each other beautifully.

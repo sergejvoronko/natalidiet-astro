@@ -43,7 +43,7 @@ Traditional Eastern European recipes often call for lard, fatty pork cuts, or he
 Here is your complete overview of the soups covered in this pillar, with a quick nutritional snapshot for each:
 
 ## How to meal-prep Eastern European soups for the week
-One of the greatest advantages of these soups is that they keep beautifully and often taste better the next day as the flavours deepen. Here is my weekly meal-prep routine:
+One handy thing about these soups: they keep well and often taste better the next day as the flavours deepen. Here is my weekly meal-prep routine:
 - Sunday: Make a large batch of base vegetable broth (2–3 litres). This is the foundation of everything.
 - Split the broth into two pots. Make borscht in one and a lighter vegetable soup in the other.
 - Portion into glass containers (400–500ml each). Label with date and calorie count.

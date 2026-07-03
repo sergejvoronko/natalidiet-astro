@@ -49,7 +49,7 @@ faqs:
 
 ## Why buckwheat for breakfast?
 
-Buckwheat (гречка, *hrechka*) is one of the most beloved staple foods in Ukrainian households. Despite the name, it's completely gluten-free, botanically it's a seed, related to rhubarb and sorrel, not to wheat at all.
+Buckwheat (гречка, *hrechka*) is a staple in Ukrainian households, and a much-loved one. Despite the name, it's completely gluten-free, botanically it's a seed, related to rhubarb and sorrel, not to wheat at all.
 
 What makes it special for healthy eating:
 

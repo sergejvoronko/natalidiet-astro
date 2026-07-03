@@ -27,7 +27,7 @@ Polish cooking's great strength for healthy eating is its extraordinary probioti
 
 ## The Żurek deep dive: Poland's most nutritious traditional soup
 Żurek is one of Poland's most ancient and distinctive dishes, a sour soup made from fermented rye starter (zakwas), served with hard-boiled eggs and occasionally kielbasa. It is Poland's version of a probiotic broth, eaten at Easter and throughout the year.
-At 190 calories per bowl with 18g of protein and genuine probiotic fermented rye content, żurek is one of the most nutritionally impressive traditional soups in all of Eastern European cooking. The fermented rye starter (zakwas) takes 3–5 days to make but lasts in the fridge for weeks.
+At 190 calories per bowl with 18g of protein and genuine probiotic fermented rye content, żurek is one of the more nutritious traditional soups in Eastern European cooking. The fermented rye starter (zakwas) takes 3–5 days to make but lasts in the fridge for weeks.
 
 ## The Christmas Eve table (Wigilia): healthy options
 Polish Christmas Eve (Wigilia) traditionally features 12 meatless dishes. Several of these are already excellent diet food:

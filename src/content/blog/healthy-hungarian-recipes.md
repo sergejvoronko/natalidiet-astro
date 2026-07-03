@@ -27,7 +27,7 @@ Most of the Hungarian repertoire survives the diet treatment intact: goulash, ch
 - Flat-leaf parsley, the finishing herb in almost all Hungarian savoury dishes
 
 ## The critical technique: blooming the paprika
-Every Hungarian recipe begins the same way, and the single most important technique is the same in all of them: the paprika bloom.
+Every Hungarian recipe begins the same way, and the technique that matters most is the same in all of them: the paprika bloom.
 After softening the onions, REMOVE THE PAN FROM THE HEAT. Add the paprika to the hot onions and stir for 30–60 seconds in the residual heat. Then return to the heat and continue. This off-heat blooming releases the fat-soluble flavour compounds in paprika far more effectively than adding it to a boiling pot, and crucially, it prevents the paprika from burning, which creates bitter, unpleasant flavours that cannot be corrected.
 
 ## Frequently asked questions

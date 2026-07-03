@@ -58,7 +58,7 @@ DIET LABELS: Gluten-Free | Low-Fat | High-Fibre | Vegetarian (Vegan option) | Di
 
 ### Is borscht good for weight loss?
 
-Yes! At only 160 calories per large bowl, borscht is one of the most filling low-calorie meals you can eat. Beets, cabbage, and carrots are all very low in calories and high in water and fibre, which means you feel satisfied for hours after eating. Many people use borscht as their lunch on weight-loss plans.
+Yes! At only 160 calories per large bowl, borscht is one of the more filling low-calorie meals you can eat. Beets, cabbage, and carrots are all very low in calories and high in water and fibre, which means you feel satisfied for hours after eating. Many people use borscht as their lunch on weight-loss plans.
 
 ### Can I make borscht without beets?
 

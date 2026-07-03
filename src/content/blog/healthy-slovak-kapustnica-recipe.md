@@ -11,8 +11,8 @@ featured: false
 image: "/images/blog/healthy-slovak-kapustnica-recipe.webp"
 ---
 
-Kapustnica is Slovakia's most beloved winter soup, a warming, slightly sour sauerkraut soup traditionally served at Christmas Eve dinner and throughout the cold months. In its classic form it can be quite rich, made with fatty pork and generous amounts of smoked sausage. My lighter version keeps every bit of the complex, tangy flavour but cuts calories nearly in half.
-The secret weapon in kapustnica is sauerkraut, fermented cabbage that is one of the most powerful probiotic foods in Central European cooking. This makes kapustnica not just a diet-friendly soup, but a genuine gut-health meal.
+Kapustnica is a much-loved Slovak winter soup, warming and slightly sour, traditionally served at Christmas Eve dinner and through the cold months. In its classic form it can be quite rich, made with fatty pork and generous amounts of smoked sausage. My lighter version keeps every bit of the complex, tangy flavour but cuts calories nearly in half.
+The secret weapon in kapustnica is sauerkraut, fermented cabbage and a serious probiotic food. This makes kapustnica not just a diet-friendly soup, but a genuine gut-health meal.
 
 ## Ingredients
 - 500g sauerkraut (drained, liquid reserved)
@@ -46,7 +46,7 @@ DIET LABELS: Gluten-Free | High Protein | High Fibre | Probiotic-Rich | Dairy-Fr
 
 ### Is kapustnica healthy?
 
-Very much so, especially in this lighter version. Sauerkraut is one of the most probiotic-rich foods in European cuisine, supporting gut health, immunity, and even mood. The lean turkey sausage provides protein without excessive saturated fat, and the mushroom broth adds deep minerals without calories.
+Very much so, especially in this lighter version. Sauerkraut is a probiotic-rich food, good for gut health, immunity and even mood. The lean turkey sausage provides protein without excessive saturated fat, and the mushroom broth adds deep minerals without calories.
 
 ### Can I make kapustnica vegetarian?
 

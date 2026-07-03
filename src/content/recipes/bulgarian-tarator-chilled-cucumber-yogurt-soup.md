@@ -58,7 +58,7 @@ faqs:
 
 ## A bowl of sunshine from the Balkans
 
-Tarator is one of the best-kept secrets of Bulgarian cuisine, a cold yogurt and cucumber soup that has been served in Bulgarian homes and restaurants for centuries. It is especially beloved during the scorching summer months, when heavy cooked meals lose their appeal and something light, cool, and satisfying takes their place. The name is believed to share roots with similar cold preparations found across the broader region, yet Bulgaria's version, built on thick strained yogurt, is widely regarded as the definitive one.
+Tarator is a quiet staple of Bulgarian cuisine, a cold yogurt and cucumber soup served in homes and restaurants there for centuries. It is especially beloved during the scorching summer months, when heavy cooked meals lose their appeal and something light, cool, and satisfying takes their place. The name is believed to share roots with similar cold preparations found across the broader region, yet Bulgaria's version, built on thick strained yogurt, is widely regarded as the definitive one.
 
 At its heart, tarator is a celebration of simplicity. The combination of just a handful of ingredients, yogurt, cucumber, garlic, dill, and olive oil, produces a soup that tastes far more complex than the sum of its parts. The garlic provides a quiet heat, the dill lifts everything with its anise-like brightness, and the olive oil rounds out each spoonful with a gentle richness. It is a dish that requires no stove, no oven, and no special equipment, making it as practical as it is delicious.
 

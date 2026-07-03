@@ -11,7 +11,7 @@ featured: false
 image: "/images/blog/healthy-olivier-salad-recipe.webp"
 ---
 
-Olivier salad is the Eastern European region's most iconic party dish. Diced potatoes, carrots, eggs, pickles, peas, and protein all bound in mayonnaise. It appears at every New Year's table, birthday, and family celebration from Kyiv to Bratislava.
+Olivier salad is the Eastern European region's classic party dish. Diced potatoes, carrots, eggs, pickles, peas, and protein all bound in mayonnaise. It appears at every New Year's table, birthday, and family celebration from Kyiv to Bratislava.
 The traditional version can be 350–450 calories per serving, almost entirely from mayonnaise. My yogurt-Dijon dressing tastes close to the original. The egg yolks whisked into the yogurt add the richness that makes mayonnaise taste the way it does.
 
 ## Ingredients

@@ -12,7 +12,7 @@ featured: false
 
 Long before "gut health" became a trending hashtag, there was a glass jar sitting on my grandmother's kitchen counter. It was covered with a small, embroidered cloth and contained a bubbling, milky liquid. To me, it was just a normal part of the kitchen landscape, next to the fresh dill and the bowl of garden tomatoes. That jar held kefir, the tangy, slightly fizzy drink that was our family's answer to everything from an upset stomach to a weak immune system.
 
-Today, I see kefir sold in fancy bottles in health food stores, praised for its probiotic power. But for me, it's not a trend. It's a connection to my roots and, surprisingly, one of the most effective tools I use to maintain a healthy weight without restrictive dieting. It's not magic; it's just a simple, powerful food that our ancestors understood long before we had the science to explain why.
+Today, I see kefir sold in fancy bottles in health food stores, praised for its probiotic power. But for me, it's not a trend. It's a connection to my roots and, surprisingly, one of the tools I rely on to keep my weight steady without restrictive dieting. It's not magic; it's just a simple, powerful food that our ancestors understood long before we had the science to explain why.
 
 ### What is Kefir, Really? (And Why It's Not Just Drinkable Yogurt)
 

@@ -22,7 +22,7 @@ No major diet tradition comes close to Eastern Europe for daily fermented food c
 ### 2. Affordability
 Buckwheat, rye bread, cabbage, beets, potatoes, dried mushrooms, and kefir are among the most affordable foods available. The Mediterranean diet's reliance on quality extra-virgin olive oil, fresh fatty fish three times a week, and a wide variety of nuts can become expensive. For families on a budget, or anyone in Northern Europe without easy access to Mediterranean produce, the Eastern European framework is far more practical.
 ### 3. Cultural Sustainability for Eastern Europeans
-The single most important predictor of long-term diet success is adherence. For people of Eastern or Central European heritage, eating borscht and buckwheat is not a sacrifice, it is home. Sustained weight loss is dramatically more successful when the food is emotionally and culturally meaningful.
+The strongest predictor of long-term diet success is adherence. For people of Eastern or Central European heritage, eating borscht and buckwheat is not a sacrifice, it is home. Sustained weight loss is dramatically more successful when the food is emotionally and culturally meaningful.
 
 ## Where the Mediterranean diet wins
 ### 1. Research Foundation

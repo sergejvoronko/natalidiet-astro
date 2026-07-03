@@ -60,6 +60,6 @@ faqs:
     a: "Yes, up to 3 months. The potatoes soften slightly on thawing but the flavour holds."
 ---
 
-Kapustnyak is the soup that Eastern European grandmothers made to get through winter. Sauerkraut, fermented white cabbage, is one of the most underrated ingredients in European cooking: probiotic-rich, almost zero calories, and it gives this soup an extraordinary depth of flavour that no fresh vegetable can replicate.
+Kapustnyak is the soup that Eastern European grandmothers made to get through winter. Sauerkraut, fermented white cabbage, is an underrated ingredient: probiotic-rich, almost no calories, and it gives this soup a depth no fresh vegetable can match.
 
-At 175 calories for a large bowl, this is one of the most filling, satisfying soups in the Eastern European repertoire.
+At 175 calories for a large bowl, this is one of the more filling soups in the Eastern European repertoire.

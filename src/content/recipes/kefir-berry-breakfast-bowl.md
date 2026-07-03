@@ -42,4 +42,4 @@ faqs:
     a: "Yes. Stir them in frozen the night before, or thaw for a few minutes if eating right away."
 ---
 
-Kefir is one of the oldest fermented foods in Eastern Europe, and one of the most powerful. Originally from the Caucasus, it spread through Ukraine, Russia, and Central Europe over centuries.
+Kefir is among the oldest fermented foods in Eastern Europe, and one I lean on constantly. Originally from the Caucasus, it spread through Ukraine, Russia, and Central Europe over centuries.

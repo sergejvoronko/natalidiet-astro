@@ -11,7 +11,7 @@ featured: false
 image: "/images/blog/healthy-polish-zurek-recipe.webp"
 ---
 
-Zurek (pronounced ZOO-rek) is Poland's most iconic and distinctive soup, a cloudy, tangy, savoury broth made from fermented rye flour starter. It is one of those tastes that divides people on first encounter and then completely wins them over. If you have ever wondered what it would taste like if sourdough bread became a soup, zurek is your answer.
+Zurek (pronounced ZOO-rek) is Poland's signature soup, a cloudy, tangy broth made from fermented rye flour starter. It is one of those tastes that divides people on first encounter and then completely wins them over. If you have ever wondered what it would taste like if sourdough bread became a soup, zurek is your answer.
 Traditional zurek can be heavy, served in bread bowls loaded with thick sausage and hard-boiled eggs. My healthy version keeps the glorious tangy flavour and protein-rich eggs but uses lean turkey sausage, reduces the fat dramatically, and serves it in a regular bowl for a satisfying, nutritious meal at just 190 calories.
 
 ## Ingredients
@@ -52,7 +52,7 @@ Zurek is distinctly sour, savoury, and comforting, with a thick, slightly cloudy
 
 ### Is zurek healthy?
 
-This healthy version of zurek is nutritious, high in protein (18g per serving from egg and lean sausage), rich in probiotics from the fermented rye starter, and relatively low in calories. It is one of the most protein-rich soups in Eastern European cuisine.
+This healthy version of zurek is nutritious, high in protein (18g per serving from egg and lean sausage), rich in probiotics from the fermented rye starter, and relatively low in calories. It is one of the more protein-rich soups in Eastern European cuisine.
 
 ### Can I make zurek gluten-free?
 

@@ -56,6 +56,6 @@ faqs:
     a: "3 days in the fridge, and honestly better on day two once the sauerkraut and gherkins season the vegetables."
 ---
 
-Vinegret is Ukraine's answer to a composed vegetable salad, and one of the most misunderstood dishes in Eastern European cuisine. The name comes from *vinaigrette*, the dressing, not a specific dish. Every family has their version: some add kidney beans, some green peas, some a splash of brine from the gherkin jar.
+Vinegret is Ukraine's answer to a composed vegetable salad, and one of the more misunderstood dishes in Eastern European cuisine. The name comes from *vinaigrette*, the dressing, not a specific dish. Every family has their version: some add kidney beans, some green peas, some a splash of brine from the gherkin jar.
 
 This version keeps it classic: beetroot, potato, carrot, sauerkraut, gherkin. It is nutritionally impressive, the sauerkraut brings probiotics and vitamin C, the beetroot provides nitrates and folate, and the whole dish is naturally vegan, naturally gluten-free, and delicious cold. It is perfect for meal prep: make a large batch and eat it across three days.

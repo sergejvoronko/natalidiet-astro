@@ -11,7 +11,7 @@ featured: false
 image: "/images/blog/healthy-romanian-recipes.webp"
 ---
 
-Romanian cuisine is the least internationally known of the Eastern European food traditions covered in this blog, and one of the most fascinating from a healthy-cooking perspective. Romania sits at the crossroads of Eastern Europe, the Balkans, and the Ottoman food world, producing a cuisine that is simultaneously familiar and completely distinctive.
+Romanian cuisine is the least internationally known of the traditions in this blog, and one of the more interesting from a healthy-cooking angle. Romania sits at the crossroads of Eastern Europe, the Balkans, and the Ottoman food world, producing a cuisine that is simultaneously familiar and completely distinctive.
 Romania's greatest gift to healthy Eastern European eating is ciorbă, a family of sour, broth-based soups made with fermented bran water (borș), lemon juice, or vinegar. These are among the lightest, most complex, most beautiful soups in all of European cooking, and they are almost entirely unknown outside Romania.
 
 ## Romania's healthiest traditional dishes
@@ -38,7 +38,7 @@ Mămăligă is Romanian polenta, cornmeal porridge that has been the staple food
 In healthy Romanian cooking, mămăligă replaces bread, dumplings, and white rice. Served with a portion of ciorbă alongside, it makes a complete, traditional Romanian meal at approximately 300–350 calories total.
 
 ## Sarmale, Romania's stuffed cabbage rolls in sauerkraut
-Romanian sarmale are stuffed cabbage rolls similar to Ukrainian holubtsi, but with a distinctive difference: sarmale are wrapped in sauerkraut (fermented cabbage) leaves rather than fresh cabbage. This creates a roll that is simultaneously the filling, the wrapper, and the probiotic delivery mechanism, one of the most ingenious combinations in Eastern European cooking.
+Romanian sarmale are stuffed cabbage rolls similar to Ukrainian holubtsi, but with a distinctive difference: sarmale are wrapped in sauerkraut (fermented cabbage) leaves rather than fresh cabbage. The kraut leaf is filling, wrapper and probiotic all at once, which is a neat trick.
 The fermented cabbage wrapper brings sour depth, probiotics and vitamin C. With a lean pork-and-turkey filling and a slow tomato braise, sarmale come in around 270 calories and still eat like a proper Sunday dish.
 
 ## Frequently asked questions

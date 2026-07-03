@@ -63,7 +63,7 @@ DIET LABELS: Gluten-Free | Very High Protein | Dairy-Free | Low-Carb | High Sele
 
 ### Is pork tenderloin leaner than chicken breast?
 
-Yes, in fact, a 100g serving of raw pork tenderloin contains approximately 143 kcal and 3.5g fat, compared to 165 kcal and 3.6g fat for raw chicken breast. They are essentially identical in nutritional profile. Pork tenderloin is one of the most underrated lean proteins in healthy cooking.
+Yes, in fact, a 100g serving of raw pork tenderloin contains approximately 143 kcal and 3.5g fat, compared to 165 kcal and 3.6g fat for raw chicken breast. They are essentially identical in nutritional profile. Pork tenderloin is an underrated lean protein.
 
 ### Can I cook this in a slow cooker?
 

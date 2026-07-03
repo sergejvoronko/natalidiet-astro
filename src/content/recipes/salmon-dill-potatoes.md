@@ -48,6 +48,6 @@ faqs:
     a: "Keeps 2 days in the fridge. Reheat gently, or flake the salmon cold over the potatoes as a salad."
 ---
 
-This is one of the simplest, most satisfying dinners in Eastern European cooking, and it requires almost no technique. Salmon baked with dill and lemon is a staple across Ukraine, the Baltic states, and Scandinavia, where dill is used as generously as other cuisines use basil.
+This is one of the simplest dinners in Eastern European cooking, and it needs almost no technique. Salmon baked with dill and lemon is a staple across Ukraine, the Baltic states, and Scandinavia, where dill is used as generously as other cuisines use basil.
 
-Fresh dill with salmon is not just traditional, it is better than dried. If you cannot find fresh dill, use freeze-dried rather than the dry powdered version. The omega-3 content of salmon makes it one of the best single foods for inflammation reduction and brain health.
+Fresh dill with salmon is not just traditional, it is better than dried. If you cannot find fresh dill, use freeze-dried rather than the dry powdered version. The omega-3 in salmon makes it a strong choice for inflammation and brain health.
