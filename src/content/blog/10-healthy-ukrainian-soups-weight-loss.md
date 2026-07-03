@@ -27,7 +27,7 @@ The most famous Ukrainian soup, made lighter. The key is using a vegetable stock
 
 ### 2. Rassolnik (195 kcal)
 
-A pickle-forward barley soup with kidney beans. The brine from pickles gives it an extraordinary savory depth that feels indulgent but isn't.
+A pickle-forward barley soup with kidney beans. The brine from the pickles gives it a savoury depth that feels indulgent but isn't.
 
 ### 3. Solyanka (280 kcal)
 

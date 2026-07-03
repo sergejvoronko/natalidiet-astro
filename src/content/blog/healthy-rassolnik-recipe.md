@@ -12,7 +12,7 @@ image: "/images/blog/healthy-rassolnik-recipe.webp"
 ---
 
 Of all the soups in this pillar, rassolnik is probably the most surprising to Western palates, a soup made with pickled cucumbers and their brine. Yet it is a long-standing Ukrainian favourite, with centuries of history behind it. And once you taste it, the tangy, herby, warming broth becomes completely addictive.
-Rassolnik is only 145 calories per generous serving, and the pickle brine base gives it extraordinary electrolyte content, making it an ideal recovery soup after illness, intense exercise, or when your digestion needs a reset.
+Rassolnik is only 145 calories per generous serving, and the pickle brine base gives it a good hit of electrolytes, which makes it a solid recovery soup after illness, hard exercise, or when your digestion needs a reset.
 
 ## Ingredients
 - 3 medium dill pickles (fermented, not vinegar-brined), diced

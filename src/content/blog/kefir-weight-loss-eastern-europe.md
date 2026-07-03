@@ -32,7 +32,7 @@ Here's what I've observed in myself and what the science is now confirming:
 
 #### 1. It Tames Cravings
 
-When my gut microbiome is out of balance, I crave sugar and simple carbs like crazy. It feels like a battle of willpower I can't win. That's because an overgrowth of certain "bad" bacteria can send signals to your brain demanding sugar, their favorite food.
+When my gut microbiome is out of balance, I crave sugar and simple carbs like crazy. It feels like a battle of willpower I can't win. That's because an overgrowth of certain "bad" bacteria can send signals to your brain demanding sugar, their favourite food.
 
 Kefir helps by repopulating your gut with beneficial bacteria. These good microbes crowd out the troublemakers and, in turn, help regulate your appetite. I've noticed that when I drink kefir regularly, my afternoon cravings for something sweet almost disappear. Instead of reaching for a cookie, I feel satisfied and stable. It's a quiet, internal shift that makes healthy eating feel effortless instead of like a constant fight.
 
@@ -57,10 +57,10 @@ I'm not a big fan of heavy breakfasts, so a kefir smoothie is perfect. It's fill
 * 1 tablespoon of ground flaxseed
 * A small handful of spinach (you won't taste it, I promise)
 
-This combination provides protein, healthy fats, fiber, and a huge dose of probiotics. It keeps me full and energized until lunch.
+This combination provides protein, healthy fats, fibre, and a big dose of probiotics. It keeps me full and energised until lunch.
 
-#### A Base for Savory Dips and Dressings
-Kefir's tangy flavor makes it a fantastic substitute for sour cream or mayonnaise in cold sauces. My favorite is a simple cucumber salad dressing.
+#### A base for savoury dips and dressings
+Kefir's tangy flavour makes it a good substitute for sour cream or mayonnaise in cold sauces. My favourite is a simple cucumber salad dressing.
 * Whisk 1/2 cup of kefir with a crushed garlic clove, a tablespoon of freshly chopped dill, a pinch of salt, and a squeeze of lemon juice.
 * Pour it over thinly sliced cucumbers. It's a perfect, refreshing side for grilled chicken or fish.
 

@@ -12,13 +12,13 @@ image: "/images/blog/healthy-eastern-european-recipes-by-country.webp"
 ---
 
 Eastern Europe is not a single cuisine, it is a fascinating mosaic of distinct national traditions, each shaped by its landscape, climate, history, and neighbours. Ukrainian food is different from Hungarian food, which is different from Polish food, which is different from Czech and Slovak cooking.
-What they share is a common thread of fermented foods, slow-cooked broths, root vegetables, and hearty proteins that, when approached intelligently, form the basis of some of the most nutritionally impressive and satisfying healthy eating possible. This guide introduces each national tradition and its best lighter dishes.
+What they share is a common thread of fermented foods, slow broths, root vegetables and lean proteins that, handled well, make for some very satisfying healthy eating. This guide introduces each national tradition and its best lighter dishes.
 
 ## Quick country comparison
 
 ## What all these cuisines share
 ### Fermented foods as daily staples
-Every Eastern European national cuisine places fermented food at the centre of the daily diet, sauerkraut, kefir, fermented pickles, fermented bread. This is not a health trend; it is a centuries-old preservation necessity that turns out to be extraordinarily beneficial for gut health, immunity, and metabolic function.
+Every Eastern European national cuisine places fermented food at the centre of the daily diet, sauerkraut, kefir, fermented pickles, fermented bread. This is not a health trend; it is a centuries-old preservation necessity that turns out to be very good for gut health, immunity and metabolism.
 ### Soup as the foundation of every meal
 From Ukrainian borscht to Romanian ciorbă to Polish żurek, every national tradition begins its main meal with soup. This habit, consistently practised, creates natural calorie control at every meal. A bowl of vegetable-rich broth before a main course reduces total calorie intake by an average of 20% without any effort.
 ### Root vegetables and brassicas as the vegetable backbone

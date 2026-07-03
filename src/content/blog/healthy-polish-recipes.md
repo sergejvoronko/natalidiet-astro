@@ -12,7 +12,7 @@ image: "/images/blog/healthy-polish-recipes.webp"
 ---
 
 Polish cuisine is one of Eastern Europe's most internationally recognised food traditions, carried across the world by one of the largest diasporas in Europe and North America. Pierogi in Chicago, bigos in London, żurek in Warsaw, barszcz at Christmas Eve supper, Polish food travels beautifully and is loved globally.
-Polish cooking's great strength for healthy eating is its extraordinary probiotic richness. Sauerkraut, fermented dill pickles, kwas buraczany (fermented beet juice), żurek (fermented rye soup), and kefir-like dairy products are all daily staples of traditional Polish eating. No European cuisine exceeds Poland in the daily volume and variety of fermented foods consumed.
+Polish cooking's great strength for healthy eating is its probiotic richness. Sauerkraut, fermented dill pickles, kwas buraczany (fermented beet juice), żurek (fermented rye soup), and kefir-like dairy products are all daily staples of traditional Polish eating. No European cuisine exceeds Poland in the daily volume and variety of fermented foods consumed.
 
 ## The 8 healthiest traditional Polish dishes
 
@@ -41,7 +41,7 @@ Polish Christmas Eve (Wigilia) traditionally features 12 meatless dishes. Severa
 
 ### What is the healthiest traditional Polish food?
 
-Barszcz czerwony (plain beet broth) is the lowest calorie at approximately 80 kcal per bowl. For a complete meal, żurek is the most nutritionally impressive, 190 calories with 18g protein and genuine probiotic fermented rye. Chłodnik (cold kefir-beet soup) is extraordinary for summer at 130 calories and full of probiotics.
+Barszcz czerwony (plain beet broth) is the lowest calorie at approximately 80 kcal per bowl. For a complete meal, żurek is the most nutritionally impressive, 190 calories with 18g protein and genuine probiotic fermented rye. Chłodnik (cold kefir-beet soup) is great for summer at 130 calories and full of probiotics.
 
 ### Is Polish food heavy?
 
