@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "prebuild": "node scripts/normalize-images.mjs",
+    "prebuild": "node scripts/normalize-images.mjs && node scripts/normalize-content.mjs",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",

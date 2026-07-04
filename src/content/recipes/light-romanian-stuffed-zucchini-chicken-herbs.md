@@ -1,6 +1,6 @@
 ---
 title: "Light Romanian Stuffed Zucchini with Lean Chicken & Herbs"
-description: "This light take on classic Romanian stuffed zucchini features lean ground chicken and fresh herbs for a flavorful, low-calorie meal. It's a perfect way to enjoy a summer vegetable bounty while staying on track with your health goals."
+description: "This light take on classic Romanian stuffed zucchini features lean ground chicken and fresh herbs for a flavourful, low-calorie meal. It's a perfect way to enjoy a summer vegetable bounty while staying on track with your health goals."
 image: "/images/light-romanian-stuffed-zucchini-chicken-herbs.webp"
 course: dinner
 cuisine: "Romanian"

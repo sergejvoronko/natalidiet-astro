@@ -11,7 +11,7 @@ featured: false
 image: "/images/blog/healthy-bigos-polish-hunters-stew.webp"
 ---
 
-Bigos is Poland's national dish, a slow-cooked stew of sauerkraut, fresh cabbage, mixed meats, dried mushrooms, and red wine. A deeply layered dish, and a slow one.
+Bigos is Poland's national dish, a slow-cooked stew of sauerkraut, fresh cabbage, mixed meats, dried mushrooms, and red wine. A layered dish, and a slow one.
 The health challenge with traditional bigos is the fatty smoked meats. My version replaces these with lean pork tenderloin and lean turkey kielbasa, doubles the sauerkraut content for more probiotics and fibre, and still produces the deep, smoke-and-acid flavour that makes bigos one of Eastern Europe's great comfort foods.
 
 ## Ingredients
