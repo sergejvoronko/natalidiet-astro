@@ -52,9 +52,9 @@ steps:
   - "Divide the salad among four plates. Top with the sliced grilled chicken and finish with a generous sprinkle of crumbled light feta cheese."
 ---
 
-I first tried a proper Shopska salad on a sun-drenched holiday in Bulgaria, and it was a revelation. It's their national salad, and you see it everywhere, for good reason. The colours alone are stunning – the red of the tomato, the green of the cucumber, and the brilliant white of the Sirene cheese (which is very similar to feta) are meant to represent the Bulgarian flag. It’s the taste of summer: crisp, fresh, and unbelievably simple. My mum would make a version of it for us on hot days, a huge bowl in the middle of the table that we'd all dig into.
+I first tried a proper Shopska salad on a sun-drenched holiday in Bulgaria, and it was a revelation. It's their national salad, and you see it everywhere, for good reason. The colours alone are stunning – the red of the tomato, the green of the cucumber, and the brilliant white of the Sirene cheese (which is very similar to feta) are meant to represent the Bulgarian flag. It's the taste of summer: crisp, fresh, and unbelievably simple. My mum would make a version of it for us on hot days, a huge bowl in the middle of the table that we'd all dig into.
 
-The classic Shopska is usually a side dish, a fresh counterpoint to grilled meats. But I wanted to turn it into a complete, balanced meal that I could have for lunch and feel satisfied until dinner. Adding simply seasoned grilled chicken was the perfect solution. It transforms the salad into a high-protein main course without adding a lot of heaviness or complicated steps. The trick I learnt the hard way is not to overdress it; you want the fresh flavours of the ripe tomatoes and crisp cucumber to be the stars.
+The classic Shopska is usually a side dish, a fresh counterpoint to grilled meats. But I wanted to turn it into a complete, balanced meal that I could have for lunch and feel satisfied until dinner. Adding seasoned grilled chicken was the perfect solution. It transforms the salad into a high-protein main course without adding a lot of heaviness or complicated steps. The trick I learnt the hard way is not to overdress it; you want the fresh flavours of the ripe tomatoes and crisp cucumber to be the stars.
 
 ### Serving and Storage
 
