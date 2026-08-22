@@ -56,11 +56,8 @@
   acceptBtn.addEventListener('click', () => {
     localStorage.setItem('nd-cookie-consent', 'accepted');
     banner.hidden = true;
-    // Load GA4 after consent
-    const s = document.createElement('script');
-    s.src = 'https://www.googletagmanager.com/gtag/js?id=G-PLACEHOLDER';
-    s.async = true;
-    document.head.appendChild(s);
+    // Signal BaseLayout's consent-gated bootstrap to load GA + MailerLite.
+    window.dispatchEvent(new Event('nd-consent-accepted'));
   });
 
   declineBtn.addEventListener('click', () => {

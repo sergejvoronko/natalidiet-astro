@@ -8,8 +8,27 @@ const { variant = 'dark', note = true } = Astro.props;
 
 <div class:list={['nd-nl-wrap', `nd-nl-${variant}`]}>
   <div class="ml-embedded" data-form="Z24hiQ"></div>
+  <p class="nd-nl-fallback" hidden>
+    Accept cookies above to sign up here — or <a href="/book">get the free recipe book →</a>
+  </p>
   {note && <p class="nd-nl-note">No spam. Unsubscribe anytime.</p>}
 </div>
+
+<script is:inline>
+  // The MailerLite form only loads after cookie consent. When consent is not
+  // granted, the embed stays empty, so show a fallback path to sign up instead.
+  (function () {
+    function consented() {
+      try { return localStorage.getItem('nd-cookie-consent') === 'accepted'; }
+      catch (e) { return false; }
+    }
+    function toggle(hidden) {
+      document.querySelectorAll('.nd-nl-fallback').forEach(function (el) { el.hidden = hidden; });
+    }
+    if (!consented()) toggle(false);
+    window.addEventListener('nd-consent-accepted', function () { toggle(true); });
+  })();
+</script>
 
 <style is:global>
 /* ── MailerLite embed resets ───────────────────────────────────── */
@@ -125,6 +144,14 @@ const { variant = 'dark', note = true } = Astro.props;
   margin-top: 12px;
   font-family: 'DM Sans', sans-serif;
 }
-.nd-nl-dark .nd-nl-note  { color: rgba(255,255,255,0.3); }
+.nd-nl-dark .nd-nl-note  { color: rgba(255,255,255,0.55); }
 .nd-nl-light .nd-nl-note { color: var(--nd-muted); }
+
+/* Fallback shown when cookie consent blocks the MailerLite embed */
+.nd-nl-fallback { font-size: 13px; margin-top: 12px; font-family: 'DM Sans', sans-serif; }
+.nd-nl-fallback a { font-weight: 600; text-decoration: underline; }
+.nd-nl-dark .nd-nl-fallback  { color: rgba(255,255,255,0.7); }
+.nd-nl-dark .nd-nl-fallback a { color: var(--nd-terra-light); }
+.nd-nl-light .nd-nl-fallback  { color: var(--nd-text); }
+.nd-nl-light .nd-nl-fallback a { color: var(--nd-terra); }
 </style>

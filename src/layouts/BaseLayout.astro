@@ -74,27 +74,6 @@ const siteSchema = {
     type={type}
   />
   <script type="application/ld+json" set:html={JSON.stringify(siteSchema)} />
-  <script is:inline>
-    // Load GA only on first user interaction: keeps gtag.js off the initial
-    // load entirely (real users trigger it on scroll/tap; near-zero perf cost).
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){ dataLayer.push(arguments); }
-    (function () {
-      var done = false;
-      function loadGA() {
-        if (done) return; done = true;
-        var s = document.createElement('script');
-        s.async = 1;
-        s.src = 'https://www.googletagmanager.com/gtag/js?id=G-08PEV2GJX1';
-        document.head.appendChild(s);
-        gtag('js', new Date());
-        gtag('config', 'G-08PEV2GJX1');
-      }
-      ['scroll', 'pointerdown', 'keydown', 'touchstart'].forEach(function (ev) {
-        window.addEventListener(ev, loadGA, { once: true, passive: true });
-      });
-    })();
-  </script>
 </head>
 <body>
   <Header />
@@ -104,13 +83,27 @@ const siteSchema = {
   <Footer />
   <CookieConsent />
   <script is:inline>
-    // Defer MailerLite off the critical path: load only when a newsletter
-    // form nears the viewport (or on first interaction). Kills the external
-    // font/CSS request chain that was blocking LCP.
+    // Consent-gated analytics. NOTHING third-party loads until the visitor has
+    // explicitly accepted (localStorage 'nd-cookie-consent' === 'accepted').
+    // After consent, GA + MailerLite are still deferred off the critical path
+    // (first interaction / newsletter nearing the viewport) to protect LCP.
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
     (function () {
-      var loaded = false;
+      var gaDone = false, mlDone = false, wired = false;
+
+      function loadGA() {
+        if (gaDone) return; gaDone = true;
+        var s = document.createElement('script');
+        s.async = 1;
+        s.src = 'https://www.googletagmanager.com/gtag/js?id=G-08PEV2GJX1';
+        document.head.appendChild(s);
+        gtag('js', new Date());
+        gtag('config', 'G-08PEV2GJX1');
+      }
+
       function loadML() {
-        if (loaded) return; loaded = true;
+        if (mlDone) return; mlDone = true;
         var w = window, d = document;
         w.ml = w.ml || function () { (w.ml.q = w.ml.q || []).push(arguments); };
         var s = d.createElement('script');
@@ -119,21 +112,46 @@ const siteSchema = {
         f.parentNode.insertBefore(s, f);
         w.ml('account', '2334622');
       }
-      var els = document.querySelectorAll('.ml-embedded');
-      if (!els.length) return;
-      if ('IntersectionObserver' in window) {
-        var io = new IntersectionObserver(function (entries) {
-          for (var i = 0; i < entries.length; i++) {
-            if (entries[i].isIntersecting) { loadML(); io.disconnect(); break; }
+
+      // Attach the deferred triggers. Only ever called once consent is granted.
+      function wireDeferred() {
+        if (wired) return; wired = true;
+        ['scroll', 'pointerdown', 'keydown', 'touchstart'].forEach(function (ev) {
+          window.addEventListener(ev, loadGA, { once: true, passive: true });
+        });
+        var els = document.querySelectorAll('.ml-embedded');
+        if (els.length) {
+          if ('IntersectionObserver' in window) {
+            var io = new IntersectionObserver(function (entries) {
+              for (var i = 0; i < entries.length; i++) {
+                if (entries[i].isIntersecting) { loadML(); io.disconnect(); break; }
+              }
+            }, { rootMargin: '400px' });
+            for (var j = 0; j < els.length; j++) io.observe(els[j]);
+          } else {
+            loadML();
           }
-        }, { rootMargin: '400px' });
-        for (var j = 0; j < els.length; j++) io.observe(els[j]);
-      } else {
-        loadML();
+          ['scroll', 'keydown', 'pointerdown', 'touchstart'].forEach(function (ev) {
+            window.addEventListener(ev, loadML, { once: true, passive: true });
+          });
+        }
       }
-      ['scroll', 'keydown', 'pointerdown', 'touchstart'].forEach(function (ev) {
-        window.addEventListener(ev, loadML, { once: true, passive: true });
-      });
+
+      function consent() {
+        try { return localStorage.getItem('nd-cookie-consent'); } catch (e) { return null; }
+      }
+
+      if (consent() === 'accepted') {
+        // Returning visitor who already opted in: keep the perf deferral.
+        wireDeferred();
+      } else {
+        // No decision yet, or declined: load nothing. If they accept this
+        // session, CookieConsent fires this event — load GA now, defer ML.
+        window.addEventListener('nd-consent-accepted', function () {
+          wireDeferred();
+          loadGA();
+        }, { once: true });
+      }
     })();
   </script>
 </body>
