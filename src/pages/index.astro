@@ -9,11 +9,11 @@ const featured = allRecipes.filter(r => r.data.featured).slice(0, 4);
 const showcase = featured.length >= 4 ? featured : allRecipes.slice(0, 4);
 
 const pillars = [
-  { icon: '🥣', title: 'Healthy Soups',           slug: '/blog?category=healthy-soups',             count: '7 articles', active: true  },
-  { icon: '🍳', title: 'Healthy Main Dishes',      slug: '/blog?category=healthy-main-dishes',       count: '7 articles', active: true  },
-  { icon: '📅', title: 'Meal Plans & Guides',      slug: '/meal-plans',                              count: '6 articles', active: true  },
-  { icon: '🥟', title: 'Traditional Made Healthy', slug: '/blog?category=traditional-foods-healthy', count: '7 articles', active: true },
-  { icon: '🌍', title: 'Country Recipe Guides',    slug: '/blog?category=country-recipe-guides',     count: '6 articles', active: true },
+  { icon: '🥣', title: 'Healthy Soups',           slug: '/blog/?category=healthy-soups',             count: '7 articles', active: true  },
+  { icon: '🍳', title: 'Healthy Main Dishes',      slug: '/blog/?category=healthy-main-dishes',       count: '7 articles', active: true  },
+  { icon: '📅', title: 'Meal Plans & Guides',      slug: '/meal-plans/',                              count: '6 articles', active: true  },
+  { icon: '🥟', title: 'Traditional Made Healthy', slug: '/blog/?category=traditional-foods-healthy', count: '7 articles', active: true },
+  { icon: '🌍', title: 'Country Recipe Guides',    slug: '/blog/?category=country-recipe-guides',     count: '6 articles', active: true },
 ];
 
 const heroCards = [
@@ -51,8 +51,8 @@ const heroCards = [
     </p>
 
     <div class="hero-actions reveal-hero" style="animation-delay:.34s">
-      <a href="/book" class="hero-btn-primary">Get the Recipe Book →</a>
-      <a href="/recipes" class="hero-btn-ghost">Browse free recipes</a>
+      <a href="/book/" class="hero-btn-primary">Get the Recipe Book →</a>
+      <a href="/recipes/" class="hero-btn-ghost">Browse free recipes</a>
     </div>
 
     <div class="hero-stats reveal-hero" style="animation-delay:.46s">
@@ -88,7 +88,7 @@ const heroCards = [
   <div class="hero-right" style="z-index:1; position:relative;">
     <div class="hero-cards-wrap">
       {heroCards.map((c, i) => (
-        <a href={`/recipes/${c.slug}`} class={`hcard hcard-${i+1} hcard-${c.hue}`} style={`animation-delay:${0.5 + i * 0.15}s`}>
+        <a href={`/recipes/${c.slug}/`} class={`hcard hcard-${i+1} hcard-${c.hue}`} style={`animation-delay:${0.5 + i * 0.15}s`}>
           <div class="hcard-emoji">{c.emoji}</div>
           <div class="hcard-info">
             <div class="hcard-name">{c.name}</div>
@@ -208,7 +208,7 @@ const heroCards = [
       </li>
     </ul>
 
-    <a href="/about" class="btn-primary about-cta">Read my story →</a>
+    <a href="/about/" class="btn-primary about-cta">Read my story →</a>
   </div>
 </section>
 
@@ -220,7 +220,7 @@ const heroCards = [
         <span class="section-label" style="color:var(--nd-terra-light);">What you'll find here</span>
         <h2 class="pillars-title">Everything you need to eat <em>beautifully</em><br>and lose weight.</h2>
       </div>
-      <a href="/blog" class="pillar-all-link">All articles →</a>
+      <a href="/blog/" class="pillar-all-link">All articles →</a>
     </div>
 
     <div class="pillars-grid reveal">
@@ -252,7 +252,7 @@ const heroCards = [
         <span class="section-label">Free Recipes</span>
         <h2 class="section-title">A taste of <em>what's waiting.</em></h2>
       </div>
-      <a href="/recipes" class="btn-primary">All recipes →</a>
+      <a href="/recipes/" class="btn-primary">All recipes →</a>
     </div>
 
     {showcase.length > 0 ? (
@@ -278,7 +278,7 @@ const heroCards = [
           { img: '/images/chicken-paprikash.webp',  name: 'Kefir Chicken Paprikash with Buckwheat',           course: 'Dinner',    kcal: 380, time: '35 min', hue: 'dinner'    },
           { img: '/images/berry-cottage.webp',      name: 'Berry Cottage Cheese Bowl',                        course: 'Snack',     kcal: 150, time: '5 min',  hue: 'snack'     },
         ].map(r => (
-          <a href="/recipes" class={`ph-card ph-${r.hue}`}>
+          <a href="/recipes/" class={`ph-card ph-${r.hue}`}>
             <div class="ph-visual ph-visual-img">
               <img src={r.img} alt={r.name} loading="lazy" />
             </div>
@@ -316,7 +316,7 @@ const heroCards = [
       </ul>
       <div class="book-price-row">
         <div class="book-price">€19.99</div>
-        <a href="/book" class="book-btn">Get the Book →</a>
+        <a href="/book/" class="book-btn">Get the Book →</a>
       </div>
     </div>
 
@@ -377,7 +377,7 @@ const heroCards = [
       <p class="cta-band-sub">Join 12,000+ readers who've changed their relationship with food — without giving up taste, joy, or their culture.</p>
     </div>
     <div class="cta-band-actions">
-      <a href="/book" class="cta-band-btn">Get the Recipe Book — €19.99</a>
+      <a href="/book/" class="cta-band-btn">Get the Recipe Book — €19.99</a>
       <a href="/#newsletter" class="cta-band-ghost">Free recipes first →</a>
     </div>
   </div>

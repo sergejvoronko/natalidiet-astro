@@ -39,10 +39,10 @@ const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
           : 'Every recipe is calorie-counted, nutritionist-crafted, and rooted in Eastern European tradition.'}
       </p>
       <nav class="filter-row" aria-label="Filter recipes by course">
-        <a href="/recipes" class:list={['filter-btn', { active: !activeCourse }]}>All</a>
+        <a href="/recipes/" class:list={['filter-btn', { active: !activeCourse }]}>All</a>
         {courses.map(c => (
           <a
-            href={`/recipes/course/${c}`}
+            href={`/recipes/course/${c}/`}
             class:list={['filter-btn', { active: activeCourse === c }]}
             aria-current={activeCourse === c ? 'page' : undefined}
           >{cap(c)}</a>

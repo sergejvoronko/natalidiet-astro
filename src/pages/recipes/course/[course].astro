@@ -21,7 +21,7 @@ const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
 <BaseLayout
   title={`${cap(course)} Recipes`}
   description={`Healthy Eastern European ${course} recipes — calorie-counted, nutritionist-crafted, and genuinely delicious.`}
-  canonical={`https://natalidiet.eu/recipes/course/${course}`}
+  canonical={`https://natalidiet.eu/recipes/course/${course}/`}
 >
   <RecipesListing recipes={recipes} activeCourse={course} />
 </BaseLayout>

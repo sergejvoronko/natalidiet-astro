@@ -23,7 +23,7 @@ plans.sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
       {plans.length > 0 ? (
         <div class="plans-grid">
           {plans.map(plan => (
-            <a href={`/meal-plans/${plan.id}`} class="plan-card card">
+            <a href={`/meal-plans/${plan.id}/`} class="plan-card card">
               <div class="plan-icon" aria-hidden="true">📅</div>
               <div class="plan-days">{plan.data.days}-day plan</div>
               <h2 class="plan-title">{plan.data.title}</h2>
@@ -78,7 +78,7 @@ plans.sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
         <p class="plans-disclaimer">
           Calorie targets are general guidance, not medical advice. If you have a health condition
           or specific nutritional needs, check with a registered dietitian or your doctor first —
-          see the <a href="/disclaimer">full health disclaimer</a>.
+          see the <a href="/disclaimer/">full health disclaimer</a>.
         </p>
       </section>
     </div>

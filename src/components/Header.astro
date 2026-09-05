@@ -4,10 +4,10 @@ const isActive = (href: string) =>
   href === '/' ? currentPath === '/' : currentPath.startsWith(href);
 
 const navItems = [
-  { label: 'Recipes',    href: '/recipes' },
-  { label: 'Meal Plans', href: '/meal-plans' },
-  { label: 'Blog',       href: '/blog' },
-  { label: 'About',      href: '/about' },
+  { label: 'Recipes',    href: '/recipes/' },
+  { label: 'Meal Plans', href: '/meal-plans/' },
+  { label: 'Blog',       href: '/blog/' },
+  { label: 'About',      href: '/about/' },
 ];
 ---
 
@@ -27,7 +27,7 @@ const navItems = [
         {item.label}
       </a>
     ))}
-    <a href="/book" class="nav-cta">Get the Book</a>
+    <a href="/book/" class="nav-cta">Get the Book</a>
   </nav>
 
   <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="nav-links">

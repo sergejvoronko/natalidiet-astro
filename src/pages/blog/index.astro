@@ -36,10 +36,10 @@ const formatDate = (d: Date) => d.toLocaleDateString('en-GB', { day: 'numeric', 
         <div class="sidebar-inner">
           <div class="sidebar-title">Categories</div>
           <nav id="cat-nav">
-            <a href="/blog" class="cat-link" data-cat="">📋 All articles</a>
+            <a href="/blog/" class="cat-link" data-cat="">📋 All articles</a>
             {categories.map(c => (
               <a
-                href={`/blog?category=${c.slug}`}
+                href={`/blog/?category=${c.slug}`}
                 class="cat-link"
                 data-cat={c.slug}
               >
@@ -61,7 +61,7 @@ const formatDate = (d: Date) => d.toLocaleDateString('en-GB', { day: 'numeric', 
             </div>
           </div>
           <p class="sa-bio">Eastern European recipes adapted for healthy eating. Real food, real results.</p>
-          <a href="/about" class="sa-link">Read my story →</a>
+          <a href="/about/" class="sa-link">Read my story →</a>
 
           <!-- Newsletter mini -->
           <div class="sidebar-nl">
@@ -105,10 +105,10 @@ const formatDate = (d: Date) => d.toLocaleDateString('en-GB', { day: 'numeric', 
                   <time class="post-date" datetime={post.data.publishDate.toISOString()}>{formatDate(post.data.publishDate)}</time>
                 </div>
                 <h2 class="post-title">
-                  <a href={`/blog/${post.id}`}>{post.data.title}</a>
+                  <a href={`/blog/${post.id}/`}>{post.data.title}</a>
                 </h2>
                 <p class="post-desc">{post.data.description}</p>
-                <a href={`/blog/${post.id}`} class="read-more">Read article →</a>
+                <a href={`/blog/${post.id}/`} class="read-more">Read article →</a>
               </div>
             </article>
           ))}
@@ -146,7 +146,7 @@ const formatDate = (d: Date) => d.toLocaleDateString('en-GB', { day: 'numeric', 
       link.addEventListener('click', e => {
         e.preventDefault();
         const next = link.dataset.cat ?? '';
-        const url = next ? `/blog?category=${next}` : '/blog';
+        const url = next ? `/blog/?category=${next}` : '/blog/';
         history.pushState({}, '', url);
         applyFilter(next);
       });

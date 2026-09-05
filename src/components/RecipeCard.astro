@@ -28,7 +28,7 @@ const bg = courseColors[course] ?? courseColors.lunch;
 const emoji = courseEmojis[course] ?? '🍽️';
 ---
 
-<a href={`/recipes/${slug}`} class:list={['recipe-card', 'card', { featured }]} aria-label={title}>
+<a href={`/recipes/${slug}/`} class:list={['recipe-card', 'card', { featured }]} aria-label={title}>
   <div class="recipe-visual" style={`background: ${bg}`}>
     {image
       ? <img src={image} alt={title} width="400" height="280" loading="lazy" class="recipe-img" />
