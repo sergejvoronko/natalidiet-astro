@@ -60,18 +60,18 @@ steps:
   - "Let it rest for at least 10 minutes before cutting and serving. This helps it hold its shape."
 ---
 
-Moussaka is one of those dishes that feels like a warm hug, but the traditional version, with its rich, buttery béchamel and fried vegetables, can feel a bit heavy. In our family, we love the flavours but not the calories, so this is the version my mum made for us. It’s a distinctly Eastern European take on a Balkan classic, inspired by the vegetable casseroles, or *zapikanka*, that are so common in Ukraine. We swap the heavy cream sauce for a tangy, light topping of Greek yogurt and egg, which browns beautifully in the oven.
+Moussaka is one of those dishes that feels like a warm hug, but the traditional version, with its rich, buttery béchamel and fried vegetables, can feel a bit heavy. In our family, we love the flavours but not the calories, so this is the version my mum made for us. It's a distinctly Eastern European take on a Balkan classic, inspired by the vegetable casseroles, or *zapikanka*, that are so common in Ukraine. We swap the heavy cream sauce for a tangy, light topping of Greek yogurt and egg, which browns beautifully in the oven.
 
-The trick I learnt the hard way is not to skip the pre-baking of the vegetable slices. Frying them in oil adds so many unnecessary calories, and putting them in raw just results in a watery mess. A quick roast in the oven makes them tender and perfect for layering. I also always add a thin layer of potato at the bottom. It’s not strictly traditional for Greek moussaka, but it is for the Balkan versions I grew up with, and it adds a lovely, comforting base to the dish.
+The trick I learnt the hard way is not to skip the pre-baking of the vegetable slices. Frying them in oil adds so many unnecessary calories, and putting them in raw just results in a watery mess. A quick roast in the oven makes them tender and perfect for layering. I also always add a thin layer of potato at the bottom. It's not strictly traditional for Greek moussaka, but it is for the Balkan versions I grew up with, and it adds a lovely, comforting base to the dish.
 
-The scent of the oregano and garlic mingling with the simmering tomato sauce always takes me right back to my mother’s kitchen. It’s proof that you don’t need a lot of fat to create deep, satisfying flavour. This moussaka is light enough for a weeknight dinner but special enough for when you have guests. It’s packed with vegetables and lean protein, making it a balanced meal that fits perfectly into a healthy lifestyle without feeling like you're missing out on anything.
+The scent of the oregano and garlic mingling with the simmering tomato sauce always takes me right back to my mother's kitchen. It's proof that you don't need a lot of fat to create deep, satisfying flavour. This moussaka is light enough for a weeknight dinner but special enough for when you have guests. It's packed with vegetables and lean protein, making it a balanced meal that fits perfectly into a healthy lifestyle without feeling like you're missing out on anything.
 
 ### How to Serve and Store
 
 I think this moussaka is best served with a simple, crisp green salad dressed with a sharp lemon and olive oil vinaigrette to cut through the richness of the casserole. A dollop of extra Greek yogurt on the side is also delicious.
 
-It stores wonderfully. Just cover the baking dish or transfer leftovers to an airtight container and keep it in the fridge for up to 3 days. It reheats really well in the oven or microwave, and the flavours often get even better the next day.
+It stores wonderfully. Just cover the baking dish or transfer leftovers to an airtight container and keep it in the fridge for up to 3 days. It reheats well in the oven or microwave, and the flavours often get even better the next day.
 
 ### Simple Variations
 
-This recipe is very forgiving, so feel free to make it your own. If you’re not a fan of eggplant, you can easily use all zucchini instead. For an extra layer of flavour, you could add a layer of roasted red bell peppers. If you don't have dill, fresh parsley works just as well in the yogurt topping. It’s a great way to use up whatever vegetables you have in the fridge.
+This recipe is very forgiving, so feel free to make it your own. If you're not a fan of eggplant, you can easily use all zucchini instead. For an extra layer of flavour, you could add a layer of roasted red bell peppers. If you don't have dill, fresh parsley works just as well in the yogurt topping. It's a great way to use up whatever vegetables you have in the fridge.

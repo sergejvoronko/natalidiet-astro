@@ -50,11 +50,11 @@ steps:
   - "Remove the cooked dumplings with a slotted spoon, drain well, and serve immediately. Top them with a dollop of the sweetened yogurt, a drizzle of melted butter, and a generous sprinkle of ground walnuts."
 ---
 
-When late summer arrives, my kitchen always fills with the sweet, jammy scent of plums. It’s a smell that takes me right back to my childhood. My mum made these cottage cheese dumplings, *tvarohové knedlíky*, every September, a perfect celebration of the harvest. Her versions were amazing, but often quite heavy. My take on this classic Czech comfort food keeps all the soul but lightens it up significantly, making it a treat you can feel good about.
+When late summer arrives, my kitchen always fills with the sweet, jammy scent of plums. It's a smell that takes me right back to my childhood. My mum made these cottage cheese dumplings, *tvarohové knedlíky*, every September, a perfect celebration of the harvest. Her versions were amazing, but often quite heavy. My take on this classic Czech comfort food keeps all the soul but lightens it up significantly, making it a treat you can feel good about.
 
 The secret is in the dough. Instead of a dense, flour-heavy mixture, we use *tvaroh*, a fresh, unripened cheese similar to cottage cheese or quark. It creates a dough that is incredibly soft, light, and packed with protein. When you bite through the pillowy dumpling, you get that burst of a warm, juicy plum inside. It's a simple dish, but the contrast between the tender dough and the sweet, slightly tart fruit is just perfect.
 
-This recipe is all about celebrating seasonal ingredients at their peak. You want to use plums that are ripe and sweet, as their natural sugar means you need very little added sweetener. It's the kind of cooking I love most: simple, tied to the season, and deeply satisfying without weighing you down.
+This recipe is all about celebrating seasonal ingredients at their peak. You want to use plums that are ripe and sweet, as their natural sugar means you need very little added sweetener. It's the kind of cooking I love most: simple, tied to the season, and satisfying without weighing you down.
 
 ### How to Serve Your Plum Dumplings
 
@@ -64,4 +64,4 @@ I think these are best served warm, fresh from the pot, when the dough is at its
 
 While plums are the classic choice, this recipe is beautiful with other stone fruits. Small, ripe apricots work wonderfully in early summer. You could even try using large strawberries, though you'll need to work quickly to seal the dumplings.
 
-These dumplings are really best eaten fresh. If you do have leftovers, you can store them in an airtight container in the fridge for a day. Reheat them gently by steaming them for a few minutes until warmed through; microwaving can make them tough. I wouldn't recommend freezing the cooked dumplings, but you can freeze them uncooked. Just form the dumplings, place them on a tray in the freezer until solid, and then transfer them to a freezer bag. You can boil them straight from frozen, just add a few extra minutes to the cooking time.
+These dumplings are best eaten fresh. If you do have leftovers, you can store them in an airtight container in the fridge for a day. Reheat them gently by steaming them for a few minutes until warmed through; microwaving can make them tough. I wouldn't recommend freezing the cooked dumplings, but you can freeze them uncooked. Just form the dumplings, place them on a tray in the freezer until solid, and then transfer them to a freezer bag. You can boil them straight from frozen, just add a few extra minutes to the cooking time.

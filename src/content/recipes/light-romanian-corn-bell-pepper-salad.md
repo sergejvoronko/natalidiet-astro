@@ -51,15 +51,15 @@ steps:
   - "Pour the dressing over the salad and toss everything gently to combine. Let it sit for a few minutes for the flavours to meld together before serving."
 ---
 
-This salad takes me straight back to my grandmother's garden in the summer. In Romania, a simple `salată de vară` (summer salad) is a staple, made with whatever is bursting with flavour at that moment. The combination of sweet corn and `ardei copți`—smoky, sweet roasted peppers—is classic. The smell of peppers charring over an open flame is one of those core food memories for me. It meant something delicious and simple was on its way.
+This salad takes me straight back to my grandmother's garden in the summer. In Romania, a simple `salată de vară` (summer salad) is a staple, made with whatever is bursting with flavour at that moment. The combination of sweet corn and `ardei copți`—smoky, sweet roasted peppers, is classic. The smell of peppers charring over an open flame is one of those core food memories for me. It meant something delicious and simple was on its way.
 
-My mum made this every time we had a barbecue. While the *mici* were sizzling on the grill, she'd throw a few peppers on the side to char. It wasn't a fancy side dish, just a natural part of the meal. I've adapted her simple recipe to be a complete, balanced lunch by adding lean grilled chicken. It turns a light side into a genuinely satisfying meal that keeps you full for hours. It’s fresh, it’s colourful, and it proves that healthy eating doesn't mean boring food.
+My mum made this every time we had a barbecue. While the *mici* were sizzling on the grill, she'd throw a few peppers on the side to char. It wasn't a fancy side dish, just a natural part of the meal. I've adapted her simple recipe to be a complete, balanced lunch by adding lean grilled chicken. It turns a light side into a satisfying meal that keeps you full for hours. It's fresh, it's colourful, and it proves that healthy eating doesn't mean boring food.
 
-What I love most is how the textures and flavours play together. You get the sweet pop of the corn kernels, the soft, smoky flesh of the pepper, the sharp bite of red onion, and the incredible freshness from a huge handful of dill. Dill is non-negotiable in so many Romanian dishes, and here it lifts everything up. It’s a perfect example of how a few good ingredients, treated simply, can create something truly special.
+What I love most is how the textures and flavours play together. You get the sweet pop of the corn kernels, the soft, smoky flesh of the pepper, the sharp bite of red onion, and the incredible freshness from a huge handful of dill. Dill is non-negotiable in so many Romanian dishes, and here it lifts everything up. It's a perfect example of how a few good ingredients, treated simply, can create something special.
 
 ### How to Serve This Salad
 
-This salad is a fantastic standalone lunch, as it has everything you need—protein, carbs, and healthy fats. It's already balanced and filling. I often eat it just as it is, sometimes with a slice of dark rye or wholemeal bread to mop up the delicious lemony dressing at the bottom of the bowl. It also works beautifully as a side dish for a larger meal, perhaps alongside grilled fish or a simple baked potato.
+This salad is a fantastic standalone lunch, as it has everything you need, protein, carbs, and healthy fats. It's already balanced and filling. I often eat it just as it is, sometimes with a slice of dark rye or wholemeal bread to mop up the delicious lemony dressing at the bottom of the bowl. It also works beautifully as a side dish for a larger meal, perhaps alongside grilled fish or a simple baked potato.
 
 ### Variations and Storage
 

@@ -1,6 +1,6 @@
 ---
 title: "Light Bulgarian Stuffed Bell Peppers (Pulneni Chushki) with Lean Chicken & Herbs"
-description: "A lighter take on the classic Bulgarian stuffed peppers, this recipe uses lean chicken mince and fresh herbs for a flavourful, high-protein dinner. It’s a perfectly balanced meal that’s both satisfying and great for weight management."
+description: "A lighter take on the classic Bulgarian stuffed peppers, this recipe uses lean chicken mince and fresh herbs for a flavourful, high-protein dinner. It's a perfectly balanced meal that's both satisfying and great for weight management."
 image: "/images/light-bulgarian-stuffed-bell-peppers-pulneni-chushki.webp"
 course: dinner
 cuisine: "Bulgarian"
@@ -54,11 +54,11 @@ steps:
   - "Let the peppers rest for a few minutes before serving. Garnish with the remaining fresh dill and parsley."
 ---
 
-Stuffed peppers, or *Pulneni Chushki*, take me straight back to my grandmother's kitchen in the summertime. The sweet aroma of roasting peppers would fill the entire house, a promise of the comforting meal to come. It’s one of those classic dishes that every Bulgarian family has their own version of. Hers was rich, made with a mix of pork and beef and often served with a generous dollop of thick yogurt. It was pure comfort on a plate.
+Stuffed peppers, or *Pulneni Chushki*, take me straight back to my grandmother's kitchen in the summertime. The sweet aroma of roasting peppers would fill the entire house, a promise of the comforting meal to come. It's one of those classic dishes that every Bulgarian family has their own version of. Hers was rich, made with a mix of pork and beef and often served with a generous dollop of thick yogurt. It was pure comfort on a plate.
 
-My version here is a little lighter, adapted for a more balanced, everyday diet, but it loses none of the soul of the original. I've swapped the heavier meats for lean ground chicken, which keeps things light but still wonderfully flavourful. The filling is packed with fresh herbs like dill and parsley – a combination that’s quintessentially Bulgarian and brightens everything up. The rice soaks up all the juices from the chicken and the simple tomato sauce as it bakes inside the pepper.
+My version here is a little lighter, adapted for a more balanced, everyday diet, but it loses none of the soul of the original. I've swapped the heavier meats for lean ground chicken, which keeps things light but still wonderfully flavourful. The filling is packed with fresh herbs like dill and parsley – a combination that's quintessentially Bulgarian and brightens everything up. The rice soaks up all the juices from the chicken and the simple tomato sauce as it bakes inside the pepper.
 
-This isn't just a 'healthy version'; it's a genuinely delicious meal that feels both wholesome and satisfying. It’s proof that you don’t need a lot of fat or heavy ingredients to create something truly memorable. The trick I learnt the hard way is not to overstuff the peppers; the rice needs room to expand and become fluffy, not dense.
+This isn't just a 'healthy version'; it's a delicious meal that feels both wholesome and satisfying. It's proof that you don't need a lot of fat or heavy ingredients to create something memorable. The trick I learnt the hard way is not to overstuff the peppers; the rice needs room to expand and become fluffy, not dense.
 
 ### How to Serve Your Stuffed Peppers
 

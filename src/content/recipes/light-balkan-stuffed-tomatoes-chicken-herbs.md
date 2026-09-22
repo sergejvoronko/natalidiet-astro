@@ -57,9 +57,9 @@ steps:
 
 Stuffed vegetables are the heart and soul of summer cooking across the Balkans and Eastern Europe. My mum made stuffed peppers every August, a rich and hearty version with pork mince that would perfume the entire house. It was a signal that the harvest was in full swing. While I adore that nostalgic meal, it can feel a bit heavy for a regular weeknight. This recipe is my lighter take on that tradition, keeping all the flavour but making it something you can feel good about eating any day.
 
-I've swapped the traditional pork or beef for lean ground chicken and packed the filling with fresh summer herbs like parsley and dill. The result is a dish that’s bright, fragrant, and surprisingly filling without weighing you down. The real magic happens in the oven, when the tomatoes soften and release their sweet juices into the savoury filling. The amazing smell of baked tomatoes and herbs filling the kitchen is pure comfort to me, a perfect blend of old-world tradition and modern, healthy eating.
+I've swapped the traditional pork or beef for lean ground chicken and packed the filling with fresh summer herbs like parsley and dill. The result is a dish that's bright, fragrant, and surprisingly filling without weighing you down. The real magic happens in the oven, when the tomatoes soften and release their sweet juices into the savoury filling. The amazing smell of baked tomatoes and herbs filling the kitchen is pure comfort to me, a perfect blend of old-world tradition and modern, healthy eating.
 
-This dish is proof that you don't need a lot of fat or heavy ingredients to create something deeply satisfying. It's a celebration of simple, seasonal ingredients, where the sweetness of the sun-ripened tomatoes and the freshness of the herbs do all the work. It’s a complete, balanced meal that’s both beautiful on the plate and great for your body.
+This dish is proof that you don't need a lot of fat or heavy ingredients to create something satisfying. It's a celebration of simple, seasonal ingredients, where the sweetness of the sun-ripened tomatoes and the freshness of the herbs do all the work. It's a complete, balanced meal that's both beautiful on the plate and great for your body.
 
 ### How to Serve Your Stuffed Tomatoes
 

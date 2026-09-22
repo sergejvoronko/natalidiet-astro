@@ -48,11 +48,11 @@ steps:
   - "Turn off the heat completely. Stir in the generous amount of fresh dill. Let it sit for a few minutes for the flavours to meld before serving."
 ---
 
-This stew, *Mâncare de Fasole Păstăi*, is pure Romanian summer in a bowl. My mum made this every August, when the garden was overflowing with green beans and the tomatoes were so ripe they’d split if you looked at them too hard. The whole house would fill with the sweet smell of simmering tomatoes and, most importantly, the fresh, almost grassy scent of a massive bunch of dill. It’s a simple, humble dish that celebrates vegetables at their absolute peak.
+This stew, *Mâncare de Fasole Păstăi*, is pure Romanian summer in a bowl. My mum made this every August, when the garden was overflowing with green beans and the tomatoes were so ripe they'd split if you looked at them too hard. The whole house would fill with the sweet smell of simmering tomatoes and, most importantly, the fresh, almost grassy scent of a massive bunch of dill. It's a simple, humble dish that celebrates vegetables at their absolute peak.
 
-Unlike heavy winter stews, this one is light, brothy, and vibrant. The sauce isn't thick and heavy; it’s a flavourful broth created by the tomatoes and stock, perfect for soaking up with a piece of good bread. The traditional version is often vegetarian, but I've found that adding a bit of lean chicken breast turns it into a complete, balanced meal that keeps me full for hours without feeling weighed down. It’s exactly the kind of food I want to eat when I’m focused on my health goals but refuse to eat boring meals.
+Unlike heavy winter stews, this one is light, brothy, and vibrant. The sauce isn't thick and heavy; it's a flavourful broth created by the tomatoes and stock, perfect for soaking up with a piece of good bread. The traditional version is often vegetarian, but I've found that adding a bit of lean chicken breast turns it into a complete, balanced meal that keeps me full for hours without feeling weighed down. It's exactly the kind of food I want to eat when I'm focused on my health goals but refuse to eat boring meals.
 
-The key to its magic is simplicity and the quality of the ingredients. Don't be shy with the dill—it’s not just a garnish here, it's a primary flavour. Using fresh, in-season green beans and ripe, juicy tomatoes makes a world of difference. It’s a dish that proves healthy eating isn’t about deprivation; it's about making smart, delicious choices with real food.
+The key to its magic is simplicity and the quality of the ingredients. Don't be shy with the dill, it's not just a garnish here, it's a primary flavour. Using fresh, in-season green beans and ripe, juicy tomatoes makes a world of difference. It's a dish that proves healthy eating isn't about deprivation; it's about making smart, delicious choices with real food.
 
 ### Serving & Storage
 
@@ -62,4 +62,4 @@ This stew keeps beautifully. Store any leftovers in an airtight container in the
 
 ### Easy Variations
 
-For a completely vegetarian version, simply leave out the chicken. To keep the protein high, you could add a can of cannellini beans or chickpeas during the last 10 minutes of simmering. If you're not a fan of dill (though I can't imagine why!), you could use fresh parsley instead, but the character of the dish will change quite a bit. A pinch of dried thyme added with the onions also works nicely.
+For a completely vegetarian version, leave out the chicken. To keep the protein high, you could add a can of cannellini beans or chickpeas during the last 10 minutes of simmering. If you're not a fan of dill (though I can't imagine why!), you could use fresh parsley instead, but the character of the dish will change quite a bit. A pinch of dried thyme added with the onions also works nicely.
