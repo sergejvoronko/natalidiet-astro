@@ -83,24 +83,12 @@ const siteSchema = {
   <Footer />
   <CookieConsent />
   <script is:inline>
-    // Consent-gated analytics. NOTHING third-party loads until the visitor has
-    // explicitly accepted (localStorage 'nd-cookie-consent' === 'accepted').
-    // After consent, GA + MailerLite are still deferred off the critical path
-    // (first interaction / newsletter nearing the viewport) to protect LCP.
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){ dataLayer.push(arguments); }
+    // Consent-gated MailerLite. Nothing third-party loads until the visitor has
+    // explicitly accepted (localStorage 'nd-cookie-consent' === 'accepted'), and
+    // even then it waits for the newsletter to near the viewport to protect LCP.
+    // No Google Analytics: dropped for page weight; GSC verifies via DNS instead.
     (function () {
-      var gaDone = false, mlDone = false, wired = false;
-
-      function loadGA() {
-        if (gaDone) return; gaDone = true;
-        var s = document.createElement('script');
-        s.async = 1;
-        s.src = 'https://www.googletagmanager.com/gtag/js?id=G-08PEV2GJX1';
-        document.head.appendChild(s);
-        gtag('js', new Date());
-        gtag('config', 'G-08PEV2GJX1');
-      }
+      var mlDone = false, wired = false;
 
       function loadML() {
         if (mlDone) return; mlDone = true;
@@ -116,9 +104,6 @@ const siteSchema = {
       // Attach the deferred triggers. Only ever called once consent is granted.
       function wireDeferred() {
         if (wired) return; wired = true;
-        ['scroll', 'pointerdown', 'keydown', 'touchstart'].forEach(function (ev) {
-          window.addEventListener(ev, loadGA, { once: true, passive: true });
-        });
         var els = document.querySelectorAll('.ml-embedded');
         if (els.length) {
           if ('IntersectionObserver' in window) {
@@ -146,11 +131,8 @@ const siteSchema = {
         wireDeferred();
       } else {
         // No decision yet, or declined: load nothing. If they accept this
-        // session, CookieConsent fires this event — load GA now, defer ML.
-        window.addEventListener('nd-consent-accepted', function () {
-          wireDeferred();
-          loadGA();
-        }, { once: true });
+        // session, CookieConsent fires this event and ML is wired up.
+        window.addEventListener('nd-consent-accepted', wireDeferred, { once: true });
       }
     })();
   </script>
