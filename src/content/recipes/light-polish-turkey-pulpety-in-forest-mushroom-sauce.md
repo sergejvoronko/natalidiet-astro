@@ -1,6 +1,8 @@
 ---
 title: "Light Polish Turkey Pulpety in Forest Mushroom Sauce"
 description: "These tender Polish turkey meatballs simmer in an earthy forest mushroom broth instead of heavy cream. Using lean poultry and wild mushrooms keeps the dish rich in protein and comfort while staying wonderfully light."
+metaTitle: "Polish Turkey Pulpety in Mushroom Sauce"
+metaDescription: "Lean turkey meatballs in a deep forest mushroom sauce, thickened without cream. A Polish dinner at 240 calories."
 image: "/images/light-polish-turkey-pulpety-in-forest-mushroom-sauce.webp"
 course: dinner
 cuisine: "Polish"
@@ -50,6 +52,13 @@ steps:
   - "Carefully drop the turkey pulpety into the bubbling liquid, cover with a lid, and let them simmer gently for 20 minutes until cooked through."
   - "Stir the cornstarch mixed with cold water into the sauce, swirling the pan gently for 2 minutes until the liquid thickens and coats the meatballs."
   - "Remove from the heat, sprinkle generously with fresh dill, and serve immediately."
+faqs:
+  - q: "How do I get real depth in the sauce?"
+    a: "Soak the dried mushrooms in hot broth rather than plain water, then use that soaking liquid in the sauce. It carries most of the flavour."
+  - q: "My turkey meatballs came out dry. What went wrong?"
+    a: "Lean turkey has little fat to spare, so grated onion and egg matter, and they should simmer gently in the sauce rather than being browned hard first."
+  - q: "Can I freeze the pulpety?"
+    a: "Yes, in their sauce, for up to three months. Thaw overnight and reheat slowly; add a splash of broth if the sauce has thickened too far."
 ---
 
 My mum made this every autumn as soon as the air turned crisp and the local foragers started selling dried borowiki at the morning market. Traditional Polish pulpety are comfort food in its purest form, soft, braised meatballs that rely on gentle simmering rather than a heavy frying pan. Standing by the stove, you catch that unmistakable earthy, woody scent of wild mushrooms rehydrating in hot stock. It smells exactly like an October forest after a heavy rain.

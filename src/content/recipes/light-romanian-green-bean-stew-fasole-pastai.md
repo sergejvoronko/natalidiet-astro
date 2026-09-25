@@ -1,6 +1,8 @@
 ---
 title: "Light Romanian Green Bean Stew (Mâncare de Fasole Păstăi)"
 description: "This light Romanian green bean stew, known as Mâncare de Fasole Păstăi, is brimming with fresh tomatoes, tender chicken, and a huge bunch of dill. It's a satisfying, high-protein meal under 300 calories, perfect for a healthy summer lunch."
+metaTitle: "Romanian Green Bean Stew (Fasole Păstăi)"
+metaDescription: "Fresh green beans braised with tomato, paprika and a generous amount of dill. A light Romanian stew at 275 calories."
 image: "/images/light-romanian-green-bean-stew-fasole-pastai.webp"
 course: lunch
 cuisine: "Romanian"
@@ -46,6 +48,13 @@ steps:
   - "Add the green beans, stir everything together, and cover the pot. Reduce the heat to low and let it simmer for about 20-25 minutes, or until the beans are tender but still have a slight bite."
   - "Taste the stew and adjust the seasoning with more salt and pepper if needed. Make sure the chicken is cooked through."
   - "Turn off the heat completely. Stir in the generous amount of fresh dill. Let it sit for a few minutes for the flavours to meld before serving."
+faqs:
+  - q: "When do I add the dill?"
+    a: "Right at the end, after the heat is off. Dill cooked for any length of time loses its perfume and the stew tastes flat."
+  - q: "Can I use frozen green beans?"
+    a: "Yes, and there is no need to thaw them. Add them straight to the pot and allow a few extra minutes for the liquid to come back up to a simmer."
+  - q: "Can I make it vegetarian?"
+    a: "Leave out the chicken and use vegetable stock. The beans, tomato and paprika carry the dish perfectly well on their own."
 ---
 
 This stew, *Mâncare de Fasole Păstăi*, is pure Romanian summer in a bowl. My mum made this every August, when the garden was overflowing with green beans and the tomatoes were so ripe they'd split if you looked at them too hard. The whole house would fill with the sweet smell of simmering tomatoes and, most importantly, the fresh, almost grassy scent of a massive bunch of dill. It's a simple, humble dish that celebrates vegetables at their absolute peak.

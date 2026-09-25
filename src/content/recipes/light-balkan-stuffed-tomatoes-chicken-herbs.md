@@ -1,6 +1,8 @@
 ---
 title: "Light Balkan Stuffed Tomatoes with Lean Ground Chicken & Summer Herbs"
 description: "This recipe reimagines a Balkan classic, using lean ground chicken and a fragrant mix of summer herbs for a lighter, protein-packed meal. It's a fantastic way to enjoy summer's best produce without the extra calories."
+metaTitle: "Balkan Stuffed Tomatoes with Chicken"
+metaDescription: "Beefsteak tomatoes stuffed with lean ground chicken, rice and summer herbs. A light Bulgarian dinner at 280 calories a serving."
 image: "/images/light-balkan-stuffed-tomatoes-chicken-herbs.webp"
 course: dinner
 cuisine: "Bulgarian"
@@ -53,6 +55,13 @@ steps:
   - "Pat the inside of the tomato shells dry. Arrange them snugly in a baking dish. Carefully spoon the chicken and rice mixture into each tomato, packing it in gently."
   - "Place the reserved tomato tops back on each tomato. Pour the chicken or vegetable broth into the bottom of the baking dish, around the tomatoes."
   - "Bake for 25-30 minutes. You'll know they're ready when the tomatoes are tender and the filling is piping hot. Let them rest for a few minutes before you serve them."
+faqs:
+  - q: "How do I stop the tomatoes going watery?"
+    a: "Lightly salt the inside of each hollowed tomato and stand them upside down for a few minutes. The salt pulls out excess juice that would otherwise pool in the baking dish."
+  - q: "Do I need to cook the rice first?"
+    a: "Yes. This filling uses already-cooked rice, so the stuffing only needs to heat through and the tomatoes keep their shape rather than collapsing."
+  - q: "Can I prepare them in advance?"
+    a: "Stuff them up to a day ahead and keep them covered in the fridge, then bake when you need them. Add about five minutes to the baking time from cold."
 ---
 
 Stuffed vegetables are the heart and soul of summer cooking across the Balkans and Eastern Europe. My mum made stuffed peppers every August, a rich and hearty version with pork mince that would perfume the entire house. It was a signal that the harvest was in full swing. While I adore that nostalgic meal, it can feel a bit heavy for a regular weeknight. This recipe is my lighter take on that tradition, keeping all the flavour but making it something you can feel good about eating any day.

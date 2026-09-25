@@ -1,6 +1,7 @@
 ---
 title: "Light Romanian Summer Vegetable Ghiveci"
 description: "A light yet hearty Romanian vegetable stew (ghiveci) packed with seasonal produce like zucchini and bell peppers. It's a perfect low-calorie, high-protein lunch that's both satisfying and delicious."
+metaDescription: "Romanian summer vegetable stew with chicken, peppers and zucchini in tomato. A light one-pot lunch at 280 calories."
 image: "/images/light-romanian-summer-vegetable-ghiveci.webp"
 course: lunch
 cuisine: "Romanian"
@@ -54,6 +55,13 @@ steps:
   - "Pour in the can of chopped tomatoes and vegetable broth. Add the bay leaf and return the seared chicken to the pot. Season with salt and pepper."
   - "Bring the stew to a simmer, then reduce the heat to low, cover, and let it cook for 15-20 minutes, or until the vegetables are tender and the chicken is cooked through."
   - "Remove the pot from the heat and discard the bay leaf. Stir in the fresh dill and parsley, taste, and adjust seasoning if necessary before serving."
+faqs:
+  - q: "Why sear the chicken in batches?"
+    a: "An overcrowded pan steams instead of searing. Two batches give you a proper golden crust, which is where most of the flavour comes from."
+  - q: "Can I make ghiveci vegetarian?"
+    a: "Yes, and it is traditional in fasting periods. Leave out the chicken, use vegetable broth, and add beans or chickpeas if you want the protein."
+  - q: "Which vegetables can I swap in?"
+    a: "Ghiveci is a use-what-you-have stew. Green beans, peas, potato or eggplant all suit it; keep the total quantity similar so the braise is not swamped."
 ---
 There are certain smells that instantly take me back to my grandmother's kitchen in the middle of July. The sharp, clean scent of fresh dill is one of them. My mum made a version of this *ghiveci* every summer, a vibrant stew that used up whatever was bursting from the garden. It's less a strict recipe and more of a beautiful, chaotic celebration of the season. The name itself, *ghiveci*, comes from the Turkish word for an earthenware pot, and it speaks to the dish's rustic, one-pot nature.
 

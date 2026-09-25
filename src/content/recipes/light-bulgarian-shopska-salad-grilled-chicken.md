@@ -1,6 +1,8 @@
 ---
 title: "Light Bulgarian Shopska Salad with Grilled Chicken"
 description: "The classic Bulgarian Shopska salad gets a protein boost with tender grilled chicken. This light, refreshing meal is packed with fresh vegetables and feta, perfect for a healthy summer lunch."
+metaTitle: "Shopska Salad with Grilled Chicken"
+metaDescription: "The classic Bulgarian shopska salad with grilled chicken and light feta. Fresh, high in protein and ready in 15 minutes."
 image: "/images/light-bulgarian-shopska-salad-grilled-chicken.webp"
 course: lunch
 cuisine: "Bulgarian"
@@ -50,6 +52,13 @@ steps:
   - "For the dressing, whisk together the extra virgin olive oil and fresh lemon juice. Season with a pinch of salt and pepper."
   - "Pour the dressing over the vegetables and toss gently to combine everything well."
   - "Divide the salad among four plates. Top with the sliced grilled chicken and finish with a generous sprinkle of crumbled light feta cheese."
+faqs:
+  - q: "Should the chicken be served warm or cold?"
+    a: "Either works. Rest it 5 to 10 minutes after grilling so the juices settle, then slice it over the salad warm, or chill it and use it straight from the fridge."
+  - q: "Can I make this ahead for lunches?"
+    a: "Chop the vegetables and grill the chicken ahead, but keep the dressing and the grated cheese separate until serving or the salad waters down."
+  - q: "Is feta the right cheese for shopska?"
+    a: "Traditionally it is sirene, a Bulgarian brined white cheese. Feta is the usual substitute and gives the same salty, crumbly finish."
 ---
 
 I first tried a proper Shopska salad on a sun-drenched holiday in Bulgaria, and it was a revelation. It's their national salad, and you see it everywhere, for good reason. The colours alone are stunning – the red of the tomato, the green of the cucumber, and the brilliant white of the Sirene cheese (which is very similar to feta) are meant to represent the Bulgarian flag. It's the taste of summer: crisp, fresh, and unbelievably simple. My mum would make a version of it for us on hot days, a huge bowl in the middle of the table that we'd all dig into.

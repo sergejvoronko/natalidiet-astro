@@ -1,6 +1,8 @@
 ---
 title: "Light Bulgarian Mish-Mash (Scrambled Eggs with Roasted Red Peppers & Feta)"
 description: "Sweet roasted red peppers and tangy feta fold perfectly into fluffy scrambled eggs for this quick Balkan classic. It provides a fantastic protein boost without heavy oils, keeping you full and energised all afternoon."
+metaTitle: "Bulgarian Mish-Mash with Peppers & Feta"
+metaDescription: "Bulgarian scrambled eggs with roasted red peppers, tomato and sirene cheese. A 15-minute lunch under 300 calories."
 image: "/images/light-bulgarian-mish-mash-roasted-peppers-feta.webp"
 course: lunch
 cuisine: "Bulgarian"
@@ -44,6 +46,13 @@ steps:
   - "Crumble the light feta cheese into the pan as the eggs begin to set."
   - "Cook for 2 to 3 more minutes, stirring softly until the eggs are cooked through but still slightly moist."
   - "Remove from the heat, stir in the fresh parsley, and season with black pepper before serving."
+faqs:
+  - q: "Can I use jarred roasted peppers?"
+    a: "Yes, and it makes this a fast lunch. Drain them thoroughly and pat them dry, or the eggs will turn watery."
+  - q: "What can I use instead of sirene?"
+    a: "Feta is the closest and easiest to find. A firm, salty white cheese is what matters; avoid anything creamy or it will melt away into the eggs."
+  - q: "How do I keep the eggs soft?"
+    a: "Low heat and patience. Pull the pan off the heat while the eggs still look slightly underdone, because they carry on setting in the residual heat."
 ---
 
 The smell of sweet peppers hitting a hot skillet takes me straight back to warm Balkan summers. Mish-Mash is a staple across Bulgaria, a humble and incredibly comforting dish my friends from Sofia introduced me to years ago. They always made it for quick lunches, tossing whatever ripe tomatoes and peppers were sitting on the counter into a pan with farm-fresh eggs. It is home cooking in its purest form, relying entirely on the quality of a few good ingredients rather than complex techniques.

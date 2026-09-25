@@ -1,6 +1,8 @@
 ---
 title: "Light Bulgarian Stuffed Bell Peppers (Pulneni Chushki) with Lean Chicken & Herbs"
 description: "A lighter take on the classic Bulgarian stuffed peppers, this recipe uses lean chicken mince and fresh herbs for a flavourful, high-protein dinner. It's a perfectly balanced meal that's both satisfying and great for weight management."
+metaTitle: "Bulgarian Stuffed Peppers (Pulneni Chushki)"
+metaDescription: "Bell peppers stuffed with lean chicken, rice and dill, braised in tomato. A lighter take on pulneni chushki at 280 calories."
 image: "/images/light-bulgarian-stuffed-bell-peppers-pulneni-chushki.webp"
 course: dinner
 cuisine: "Bulgarian"
@@ -52,6 +54,13 @@ steps:
   - "In a small bowl, mix the remaining chopped tomatoes with the 1/2 cup of water or broth. Pour this sauce into the bottom of the baking dish, around the peppers."
   - "Cover the dish tightly with foil and bake for 20 minutes. Then, carefully remove the foil and bake for a final 10 minutes, until the peppers are tender and the filling is cooked through."
   - "Let the peppers rest for a few minutes before serving. Garnish with the remaining fresh dill and parsley."
+faqs:
+  - q: "Why halve the peppers instead of capping them?"
+    a: "Slicing them lengthwise gives you two shallow boats rather than one deep cavity, so they cook faster and far more evenly."
+  - q: "Do I use raw or cooked rice?"
+    a: "Raw. It absorbs the tomato braising liquid as the peppers cook, which is what gives the filling its texture and stops the sauce being thin."
+  - q: "Can I freeze them?"
+    a: "Yes. Freeze them in their sauce once cooled, for up to three months, and reheat gently so the peppers do not fall apart."
 ---
 
 Stuffed peppers, or *Pulneni Chushki*, take me straight back to my grandmother's kitchen in the summertime. The sweet aroma of roasting peppers would fill the entire house, a promise of the comforting meal to come. It's one of those classic dishes that every Bulgarian family has their own version of. Hers was rich, made with a mix of pork and beef and often served with a generous dollop of thick yogurt. It was pure comfort on a plate.

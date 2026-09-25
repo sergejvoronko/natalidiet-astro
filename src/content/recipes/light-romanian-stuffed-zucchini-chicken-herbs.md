@@ -1,6 +1,8 @@
 ---
 title: "Light Romanian Stuffed Zucchini with Lean Chicken & Herbs"
 description: "This light take on classic Romanian stuffed zucchini features lean ground chicken and fresh herbs for a flavourful, low-calorie meal. It's a perfect way to enjoy a summer vegetable bounty while staying on track with your health goals."
+metaTitle: "Romanian Stuffed Zucchini with Chicken"
+metaDescription: "Zucchini boats filled with lean chicken, toasted rice and herbs, baked in crushed tomato. 280 calories a serving."
 image: "/images/light-romanian-stuffed-zucchini-chicken-herbs.webp"
 course: dinner
 cuisine: "Romanian"
@@ -49,6 +51,13 @@ steps:
   - "Spoon the chicken and rice mixture evenly into the hollowed-out zucchini boats, mounding it slightly on top."
   - "Pour the 400g can of crushed tomatoes into the bottom of a baking dish large enough to hold the zucchini in a single layer. Arrange the stuffed zucchini on top of the tomatoes."
   - "Bake for 30 minutes, or until the zucchini is tender and the chicken filling is cooked through and lightly browned on top."
+faqs:
+  - q: "Why toast the rice first?"
+    a: "A few minutes in a dry pan until it smells fragrant adds a nutty depth that costs nothing in calories and lifts the whole filling."
+  - q: "How do I stop the zucchini going watery?"
+    a: "Scoop them out, salt the hollows lightly and leave them to drain for a few minutes before filling. Do not over-bake them either."
+  - q: "Can I assemble them ahead?"
+    a: "Yes, up to a day ahead, covered in the fridge. Bake them straight from cold and allow a few extra minutes."
 ---
 
 Stuffed vegetables, or *legume umplute*, are the heart and soul of Romanian home cooking, especially in the summer. My mum made this every time the garden overflowed with zucchini so big you could barely get your arms around them. The traditional recipe often uses a mix of pork and beef with more rice, which is delicious but can be quite heavy. This version is my way of capturing that same comforting flavour in a much lighter package, perfect for a weeknight dinner.

@@ -1,6 +1,8 @@
 ---
 title: "Light Romanian Mămăligă with Cottage Cheese & Kefir"
 description: "A lighter take on the classic Romanian mămăligă, this version uses creamy cottage cheese and tangy kefir for a high-protein breakfast. It's a comforting, gluten-free dish that's fantastic for gut health."
+metaTitle: "Romanian Mămăligă with Cheese & Kefir"
+metaDescription: "Creamy cornmeal mămăligă layered with cottage cheese, kefir and salty telemea. A Romanian breakfast at 290 calories."
 image: "/images/light-romanian-mamaliga-cottage-cheese-kefir.webp"
 course: breakfast
 cuisine: "Romanian"
@@ -44,6 +46,13 @@ steps:
   - "To serve, divide the warm mămăligă among four bowls. Top each serving with a generous scoop of the 500g of low-fat cottage cheese."
   - "Drizzle the 200ml of kefir over the cottage cheese and mămăligă."
   - "Finally, sprinkle with the 40g of crumbled salty cheese and 2 tbsp of fresh dill before serving immediately."
+faqs:
+  - q: "How do I avoid lumps in the mămăligă?"
+    a: "Sprinkle the cornmeal into the boiling water slowly, like fine rain, whisking constantly. Tipping it in at once is what creates lumps."
+  - q: "Is polenta the same as mămăligă cornmeal?"
+    a: "Close enough. Both are ground maize; use a fine grind for a smooth, porridge-like result rather than a coarse, grainy one."
+  - q: "What can I do with leftovers?"
+    a: "Let it set firm in the fridge, then slice it and fry the slices until crisp. Cold mămăligă holds together far better than warm."
 ---
 
 Mămăligă is one of those dishes that feels like a hug from the inside. In Romania, and across much of Eastern Europe, it's more than just polenta; it's a cornerstone of home cooking. It can be a simple side for stews or a main course in its own right, often served with sour cream, cheese, and maybe a fried egg. My mum made this every few weeks, and the simple, earthy smell of cornmeal cooking on the stove is a scent that instantly takes me back to her kitchen. It's peasant food at its finest, humble, filling, and satisfying.

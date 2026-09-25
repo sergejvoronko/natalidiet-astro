@@ -1,6 +1,8 @@
 ---
 title: "Light Romanian Corn & Bell Pepper Salad with Fresh Herbs"
 description: "This vibrant Romanian salad combines the sweetness of corn with smoky roasted bell peppers for a perfectly light lunch. It's packed with lean protein, making it a satisfying meal that supports weight loss without sacrificing flavour."
+metaTitle: "Romanian Corn & Roasted Pepper Salad"
+metaDescription: "Charred red peppers with sweet corn, red onion and plenty of fresh dill. A light Romanian salad ready in minutes."
 image: "/images/light-romanian-corn-bell-pepper-salad.webp"
 course: lunch
 cuisine: "Romanian"
@@ -49,6 +51,13 @@ steps:
   - "Slice or dice the rested chicken breast and add it to the salad."
   - "In a small jar, combine the extra virgin olive oil, fresh lemon juice, sea salt, and a generous amount of black pepper. Shake well to create the dressing."
   - "Pour the dressing over the salad and toss everything gently to combine. Let it sit for a few minutes for the flavours to meld together before serving."
+faqs:
+  - q: "What is the best way to char the peppers?"
+    a: "Straight over a gas flame with tongs until the skin blackens all over, then steam them in a covered bowl so the skins slip off easily."
+  - q: "Can I use canned or frozen corn?"
+    a: "Yes. Drain canned corn well; thaw and pat frozen corn dry. Either way, a quick turn in a hot dry pan adds a bit of char that lifts the salad."
+  - q: "How long will it keep?"
+    a: "Two to three days in the fridge, and the flavour deepens overnight. Add the fresh herbs shortly before serving so they stay green."
 ---
 
 This salad takes me straight back to my grandmother's garden in the summer. In Romania, a simple `salată de vară` (summer salad) is a staple, made with whatever is bursting with flavour at that moment. The combination of sweet corn and `ardei copți`—smoky, sweet roasted peppers, is classic. The smell of peppers charring over an open flame is one of those core food memories for me. It meant something delicious and simple was on its way.

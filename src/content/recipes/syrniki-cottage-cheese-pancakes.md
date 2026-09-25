@@ -1,6 +1,7 @@
 ---
 title: "Syrniki — Cottage Cheese Pancakes"
 description: "Fluffy Ukrainian cottage cheese pancakes with berry compote. A 290-calorie breakfast that tastes like dessert. Traditional, high-protein, naturally filling."
+metaDescription: "Fluffy Ukrainian cottage cheese pancakes with berry compote. A 290-calorie breakfast, high in protein and naturally filling."
 course: "breakfast"
 cuisine: "Ukrainian"
 prepTime: 10

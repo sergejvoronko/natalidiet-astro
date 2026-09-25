@@ -1,6 +1,8 @@
 ---
 title: "Light Czech Kulajda (Wild Mushroom & Dill Soup with Poached Egg)"
 description: "Earthy wild mushrooms and fresh dill take centre stage in this creamy, comforting soup. By swapping heavy cream for a lighter alternative, you get all the traditional tang and vitamin D benefits without the excess calories."
+metaTitle: "Czech Kulajda — Mushroom & Dill Soup"
+metaDescription: "Creamy Czech kulajda with wild mushrooms, dill and a poached egg, lightened with semi-skimmed milk. 250 calories a bowl."
 image: "/images/light-czech-kulajda-mushroom-soup.webp"
 course: lunch
 cuisine: "Czech"
@@ -50,6 +52,13 @@ steps:
   - "Let the soup thicken over low heat for 5 minutes, then remove from the heat and stir in the fresh dill and white wine vinegar."
   - "Bring a separate small saucepan of water to a gentle boil, add a splash of vinegar, and carefully poach the eggs one by one for about 3 minutes each."
   - "Ladle the hot, fragrant soup into bowls and gently place a poached egg into the centre of each portion."
+faqs:
+  - q: "How do I get a neat poached egg?"
+    a: "Add a splash of white vinegar to the poaching water. It helps the whites set quickly and wrap tightly around the yolk instead of feathering."
+  - q: "Can I use fresh mushrooms instead of dried?"
+    a: "You can, but dried porcini give the soup its depth. If you use fresh, brown them well first and the soup will still be good, just milder."
+  - q: "Why did my soup curdle?"
+    a: "The milk went in too hot or too fast. Take the pot off the boil, temper the milk with a ladle of hot broth, then stir it back in gently."
 ---
 
 The smell of simmering dill and earthy mushrooms always transports me straight to the damp, mossy forests of Central Europe. Kulajda is a traditional dish that normally leans heavily on thick double cream and heaps of butter. My mum made this every autumn when the wild mushrooms were in full season, drying whatever we could not eat fresh. I remember standing by the stove, watching the opaque white broth bubble around chunks of golden potato, waiting for the sharp tang of vinegar to hit the air. 

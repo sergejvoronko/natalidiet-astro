@@ -1,6 +1,7 @@
 ---
 title: "Light Buckwheat, Feta & Summer Vegetable Salad"
 description: "This refreshing buckwheat salad combines earthy grains with a generous amount of salty feta, crisp cucumber, and sweet tomatoes. It's a surprisingly high-protein, low-calorie lunch that keeps you full for hours."
+metaDescription: "Fluffy buckwheat with cucumber, tomato, feta and dill. A fresh Eastern European summer salad, high in fibre at 280 calories."
 image: "/images/light-buckwheat-feta-summer-vegetable-salad.webp"
 course: lunch
 cuisine: "Ukrainian"
@@ -48,6 +49,13 @@ steps:
   - "In a small bowl or jar, make the dressing. Whisk together 1 tbsp of extra virgin olive oil, the juice of 1 lemon, 1/2 tsp of salt, and 1/4 tsp of black pepper until combined."
   - "In a large salad bowl, combine the cooled buckwheat with the diced cucumber, halved cherry tomatoes, diced red bell pepper, sliced red onion, and chopped fresh dill."
   - "Pour the dressing over the salad. Crumble the 300g of low-fat feta cheese over the top and gently toss everything together. Taste and add more salt if needed. Serve immediately or chill for 30 minutes for the flavours to meld."
+faqs:
+  - q: "How do I stop the buckwheat going mushy?"
+    a: "Once the water is absorbed, take the pot off the heat and let it steam with the lid on for 10 minutes. It finishes cooking gently and the grains stay separate."
+  - q: "Can I use another grain?"
+    a: "Quinoa, bulgur or millet all work here. Keep the ratio of grain to vegetables the same so the salad stays fresh rather than stodgy."
+  - q: "How long does it keep?"
+    a: "Three days in the fridge. Dress it just before serving if you are making it ahead, otherwise the cucumber softens and releases water."
 ---
 
 Growing up, buckwheat, or *hrechka*, wasn't just food; it was a constant. My babushka would make a big pot of it at the start of the week, and we'd eat it for days: as a warm, buttery kasha for breakfast; mixed with fried onions and mushrooms for dinner; or stuffed into peppers. It has a wonderfully nutty, earthy scent that, for me, smells exactly like home. But it was always a warm, comforting dish for the colder months.

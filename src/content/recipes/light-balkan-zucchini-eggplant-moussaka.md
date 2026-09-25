@@ -1,6 +1,7 @@
 ---
 title: "Light Balkan Zucchini & Eggplant Moussaka"
 description: "This recipe reimagines the classic moussaka with layers of tender zucchini, eggplant, and lean chicken, topped with a light yogurt sauce. It's a satisfying, protein-packed dinner that's surprisingly low in calories."
+metaDescription: "Layered zucchini, eggplant and potato moussaka with lean chicken, lightened without a heavy bechamel. 280 calories a serving."
 image: "/images/light-balkan-zucchini-eggplant-moussaka.webp"
 course: dinner
 cuisine: "Ukrainian"
@@ -58,6 +59,13 @@ steps:
   - "Pour the yogurt and egg mixture evenly over the top layer."
   - "Bake for 25-30 minutes, or until the top is golden brown and the sauce is bubbling at the edges."
   - "Let it rest for at least 10 minutes before cutting and serving. This helps it hold its shape."
+faqs:
+  - q: "Should I salt the eggplant first?"
+    a: "Yes. Salting the slices for 10 minutes draws out excess water, which stops the finished moussaka turning watery and helps the eggplant brown instead of steam."
+  - q: "Can I make this vegetarian?"
+    a: "Easily. Leave out the ground chicken and use brown or green lentils instead; they hold the layers together and keep the protein respectable."
+  - q: "Does it freeze well?"
+    a: "It does. Cool it completely, portion it, and freeze for up to three months. Reheat from frozen in a moderate oven so the layers warm through without drying out."
 ---
 
 Moussaka is one of those dishes that feels like a warm hug, but the traditional version, with its rich, buttery béchamel and fried vegetables, can feel a bit heavy. In our family, we love the flavours but not the calories, so this is the version my mum made for us. It's a distinctly Eastern European take on a Balkan classic, inspired by the vegetable casseroles, or *zapikanka*, that are so common in Ukraine. We swap the heavy cream sauce for a tangy, light topping of Greek yogurt and egg, which browns beautifully in the oven.

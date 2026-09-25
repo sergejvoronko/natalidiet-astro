@@ -1,6 +1,8 @@
 ---
 title: "Light Romanian Ciorbă de Perișoare (Lean Turkey Meatball Soup)"
 description: "This lightened-up version of traditional Romanian meatball soup swaps fatty pork for lean turkey, keeping the vibrant sour tang intact. Packed with root vegetables and fresh herbs, it offers plenty of satisfying protein without feeling heavy."
+metaTitle: "Romanian Ciorbă de Perișoare"
+metaDescription: "Lean turkey meatball soup with rice and root vegetables. A lighter ciorbă de perișoare at 280 calories a bowl."
 image: "/images/light-romanian-ciorba-de-perisoare-meatball-soup.webp"
 course: lunch
 cuisine: "Romanian"
@@ -53,6 +55,13 @@ steps:
   - "Carefully drop the turkey meatballs into the simmering broth one by one, reducing the heat to medium-low."
   - "Cover the pot and let the soup simmer for 20 minutes, or until the meatballs are cooked through and the rice inside them is tender."
   - "Stir in the lemon juice, fresh lovage, and parsley, simmering for 2 more minutes before removing from the heat."
+faqs:
+  - q: "How do I stop the mixture sticking to my hands?"
+    a: "Wet your hands before rolling. Damp palms stop the lean turkey mixture clinging and you get neater, rounder perișoare."
+  - q: "Why did my meatballs break up in the soup?"
+    a: "Either the mixture was too loose or the soup was at a rolling boil. Keep it at a bare simmer and let them set for a few minutes before stirring."
+  - q: "What makes the soup sour?"
+    a: "Traditionally borș, a fermented wheat bran liquid. Lemon juice or a splash of vinegar added at the end gives a similar brightness if you cannot find it."
 ---
 
 Growing up, a steaming bowl of ciorbă de perișoare was a staple on our family table. Its distinctive sour broth always cut through the rich, heavy pork meatballs my grandmother insisted on making. I can still smell the sharp, citrusy tang of the boiling liquid mingling with earthy root vegetables on a Sunday afternoon. While I still adore those traditional flavours, my stomach prefers a lighter touch these days. 

@@ -1,6 +1,8 @@
 ---
 title: "Light Eastern European Summer Millet Pilaf with Feta & Herbs"
 description: "This vibrant millet pilaf uses fresh summer vegetables and salty feta for a satisfying, light lunch. It's a fantastic gluten-free and vegetarian option that supports a healthy weight loss plan."
+metaTitle: "Summer Millet Pilaf with Feta & Herbs"
+metaDescription: "Toasted millet pilaf with peppers, zucchini, feta and fresh herbs. A light Eastern European lunch at 270 calories."
 image: "/images/light-eastern-european-summer-millet-pilaf-feta-herbs.webp"
 course: lunch
 cuisine: "Ukrainian"
@@ -49,6 +51,13 @@ steps:
   - "Once boiling, reduce the heat to low, cover the pot with a tight-fitting lid, and let it simmer for about 20 minutes, or until all the liquid has been absorbed and the millet is fluffy."
   - "Turn off the heat and let the pilaf stand, covered, for 5 more minutes. The trick I learnt the hard way is not to skip this step; it's essential for getting the perfect texture."
   - "Fluff the millet with a fork. Gently fold in the crumbled feta cheese, chopped fresh dill, and fresh parsley. Adjust seasoning if needed and serve immediately."
+faqs:
+  - q: "Should I toast the millet?"
+    a: "Yes, it is worth the two or three minutes. Toasting the dry grains in the pot before any liquid goes in gives the pilaf a deeper, nuttier flavour."
+  - q: "My millet tastes slightly bitter. Why?"
+    a: "Millet carries a natural coating that can taste bitter. Rinse it well under cold water before toasting and the bitterness goes."
+  - q: "Does it work as a make-ahead lunch?"
+    a: "It does. Keep it up to three days in the fridge and add the feta and herbs fresh when you serve, so they do not go limp."
 ---
 
 When I think of summer in Ukraine, I think of my grandmother's dacha, where the air smells of sun-baked earth and dill. We'd come back from the garden with baskets full of sweet peppers and zucchini, and my mum would turn them into something simple and wonderful. While buckwheat gets all the attention, millet was our go-to for lighter dishes. It has a delicate, almost fluffy texture that doesn't weigh you down, making it perfect for a warm-weather lunch.

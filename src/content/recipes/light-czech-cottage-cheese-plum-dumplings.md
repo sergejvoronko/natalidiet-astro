@@ -1,6 +1,8 @@
 ---
 title: "Light Czech Cottage Cheese Plum Dumplings (Tvarohové Knedlíky se Švestkami)"
 description: "These light Czech plum dumplings are made with high-protein cottage cheese instead of a heavy flour-based dough. They're a wonderfully satisfying, low-calorie treat perfect for enjoying the late summer plum harvest."
+metaTitle: "Czech Cottage Cheese Plum Dumplings"
+metaDescription: "Tvarohové knedlíky se švestkami made lighter with low-fat tvaroh and whole wheat flour. Soft plum dumplings under 300 calories."
 image: "/images/light-czech-cottage-cheese-plum-dumplings.webp"
 course: snack
 cuisine: "Czech"
@@ -48,6 +50,13 @@ steps:
   - "Once the dumplings float to the surface, which takes about 5-7 minutes, continue to cook them for another 2-3 minutes to ensure the dough is cooked through."
   - "While the dumplings cook, melt the butter in a small pan. In a separate bowl, mix the Greek yogurt with your chosen sweetener and the ground cinnamon."
   - "Remove the cooked dumplings with a slotted spoon, drain well, and serve immediately. Top them with a dollop of the sweetened yogurt, a drizzle of melted butter, and a generous sprinkle of ground walnuts."
+faqs:
+  - q: "Why is my dough falling apart?"
+    a: "Usually overworking. Mix only until it just comes together; it should stay slightly sticky. Extra flour and extra kneading both make the dumplings tough."
+  - q: "Can I use frozen plums?"
+    a: "Yes, but thaw and drain them well first. Wet fruit releases liquid into the dough and the dumplings split open in the water."
+  - q: "Can I freeze the dumplings?"
+    a: "Freeze them raw on a tray, then bag them once solid. Cook from frozen and add two or three minutes to the simmering time."
 ---
 
 When late summer arrives, my kitchen always fills with the sweet, jammy scent of plums. It's a smell that takes me right back to my childhood. My mum made these cottage cheese dumplings, *tvarohové knedlíky*, every September, a perfect celebration of the harvest. Her versions were amazing, but often quite heavy. My take on this classic Czech comfort food keeps all the soul but lightens it up significantly, making it a treat you can feel good about.

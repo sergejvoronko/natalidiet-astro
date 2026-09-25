@@ -1,6 +1,8 @@
 ---
 title: "Light Hungarian Chilled Sour Cherry Soup (Meggyleves)"
 description: "A refreshing Hungarian chilled sour cherry soup, lightened up with kefir and Skyr for a significant protein boost. This low-calorie summer classic is the perfect healthy snack to beat the heat."
+metaTitle: "Hungarian Chilled Sour Cherry Soup"
+metaDescription: "Meggyleves, the Hungarian chilled sour cherry soup, lightened with kefir and Skyr. A refreshing 280-calorie summer dish."
 image: "/images/light-hungarian-chilled-sour-cherry-soup-meggyleves.webp"
 course: snack
 cuisine: "Ukrainian"
@@ -51,6 +53,13 @@ steps:
   - "Very slowly, pour a ladleful of the warm (not hot!) cherry mixture into the kefir blend, whisking constantly to temper it. Continue adding the cherry soup ladle by ladle until it's all incorporated. This is the trick I learnt the hard way to avoid a lumpy disaster."
   - "Cover the soup and refrigerate for at least 4 hours, though I find it's always best overnight. The flavours need that time to get to know each other."
   - "Serve chilled, garnished with a few fresh cherries or a sprig of mint if you're feeling fancy."
+faqs:
+  - q: "How do I stop the dairy curdling?"
+    a: "Let the cherry base cool right down before the kefir and Skyr go in. Stirring cold dairy into a hot, acidic soup is what splits it."
+  - q: "Can I use sweet cherries?"
+    a: "You can, but you lose the point of the dish. Sour cherries give meggyleves its tartness; with sweet ones, cut the honey back and add lemon juice."
+  - q: "Is this a starter or a dessert?"
+    a: "In Hungary it is served as a chilled first course in summer, though it is sweet enough that it works just as well as a light dessert."
 ---
 
 Every July, the heat would settle over our town and my thoughts would turn to one thing: chilled soup. While my Ukrainian roots gave me a love for holodnyk (cold beet soup), it was our Hungarian neighbour, Mrs. Kovács, who introduced me to the magic of *Meggyleves*. I remember peering over her fence as a child, watching her pit a mountain of sour cherries from her garden, her fingers stained a brilliant ruby red. Her version was sweet, creamy, and felt like the ultimate summer indulgence.

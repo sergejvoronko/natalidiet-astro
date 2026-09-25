@@ -1,6 +1,8 @@
 ---
 title: "Light Cottage Cheese with Fresh Cherries & Mint"
 description: "A simple, high-protein breakfast featuring creamy cottage cheese, sweet seasonal cherries, and a hint of fresh mint. It's a perfect way to start your day with a light yet satisfying meal."
+metaTitle: "Cottage Cheese with Fresh Cherries & Mint"
+metaDescription: "Low-fat cottage cheese with fresh cherries, mint and flaked almonds. A five-minute high-protein breakfast at 290 calories."
 image: "/images/light-cottage-cheese-fresh-cherries-mint.webp"
 course: breakfast
 cuisine: "Ukrainian"
@@ -34,6 +36,13 @@ steps:
   - "If you like a very smooth texture, you can blend the cottage cheese for about 30 seconds with an immersion blender. I usually skip this as I like the traditional curd texture."
   - "In a medium bowl, combine the cottage cheese, halved cherries, most of the chopped fresh mint, and the honey. Gently fold everything together until just combined."
   - "Divide the mixture between two bowls. Top with the remaining fresh mint and a sprinkle of toasted flaked almonds for a wonderful crunch."
+faqs:
+  - q: "How do I pit cherries without a pitter?"
+    a: "Push a sturdy straw or a chopstick through the stem end and the stone pops out the other side. Do it over a bowl, because it sprays."
+  - q: "Can I use frozen cherries?"
+    a: "Yes, out of season. Thaw them first and drain the juice, or stir them in still frozen and let them soften into the cottage cheese."
+  - q: "Can I make this the night before?"
+    a: "Assemble the cottage cheese and cherries ahead, but add the almonds and mint just before eating so the nuts stay crisp and the mint does not blacken."
 ---
 
 Growing up in Ukraine, cottage cheese, or *syr* as we call it, was a constant on our breakfast table. It wasn't the fancy whipped kind you see today, but a simple, rustic cheese with a pleasant curd. My mum made this every other day, often just with a dollop of sour cream and a spoonful of whatever jam was open in the fridge. It was hearty, simple, and the kind of food that fuels your morning. It's a memory that feels incredibly comforting and real to me.

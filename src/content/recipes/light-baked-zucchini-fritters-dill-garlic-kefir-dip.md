@@ -1,6 +1,8 @@
 ---
 title: "Light Baked Zucchini Fritters with Dill & Garlic Kefir Dip"
 description: "These golden, baked zucchini fritters are a light and healthy take on a classic Eastern European snack. Served with a tangy dill and garlic kefir dip, they're a perfect low-calorie treat packed with summer flavour."
+metaTitle: "Baked Zucchini Fritters with Kefir Dip"
+metaDescription: "Light baked zucchini fritters with a dill and garlic kefir dip. Oven-baked rather than fried, high in protein and under 300 calories."
 image: "/images/light-baked-zucchini-fritters-dill-garlic-kefir-dip.webp"
 course: snack
 cuisine: "Ukrainian"
@@ -55,6 +57,13 @@ steps:
   - "Bake for 20-25 minutes, flipping them halfway through, until they are golden brown and firm to the touch."
   - "While the fritters are baking, prepare the dip. In a small bowl, stir together the plain kefir, chopped fresh dill, minced garlic, and lemon juice. Season with a pinch of salt to taste."
   - "Serve the warm zucchini fritters immediately with the cool, tangy kefir dip on the side."
+faqs:
+  - q: "Why did my fritters turn out soggy?"
+    a: "Almost always trapped water. Salt the grated zucchini and let it sit for 10 minutes, then squeeze it hard in a clean towel before mixing. You will be surprised how much liquid comes out."
+  - q: "Can I fry these instead of baking them?"
+    a: "You can, but they will drink up oil and the calorie count climbs quickly. Baking keeps them light; brush the tops with a little olive oil if you want more colour."
+  - q: "Can the kefir dip be made ahead?"
+    a: "Yes, and it is better for it. Mix the dip a few hours ahead so the garlic and dill infuse, and keep it covered in the fridge for up to three days."
 ---
 
 Every summer in Ukraine, our garden would explode with zucchini. They grew so fast you could almost watch them, and my mum had a dozen ways to use them up. Her zucchini *oladky*, shallow-fried in oil until the edges were lacy and crisp, were my absolute favourite. We'd eat them straight from the pan, dipped in a simple sour cream and dill sauce, with the windows open to let in the warm evening air.
