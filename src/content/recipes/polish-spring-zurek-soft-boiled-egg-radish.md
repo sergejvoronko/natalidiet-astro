@@ -10,11 +10,11 @@ prepTime: 15
 cookTime: 30
 totalTime: 45
 servings: 4
-calories: 280
-protein: 18
-carbs: 24
-fat: 8
-fibre: 5
+calories: 205
+protein: 9
+carbs: 21
+fat: 9
+fibre: 3
 tags: ["polish", "soup", "high-protein", "under-300-kcal", "fermented", "vegetarian"]
 category: "healthy-soups"
 tip: "Whisk 2 tablespoons of the hot broth into the sour rye starter before adding it to the pot, this tempers the starter and keeps the soup silky rather than grainy."
@@ -70,7 +70,7 @@ faqs:
 
 This spring version leans into the season. Instead of the heavier winter variations loaded with smoked meats, it uses soft-boiled eggs for protein, crisp young radishes for colour and crunch, and a scattering of fresh chives that tastes unmistakably of April. The result is a soup that feels clean and alive without sacrificing any of the depth that makes żurek so comforting.
 
-From a nutritional standpoint, żurek is a quietly impressive choice for a healthy lunch. The fermented rye starter contributes live cultures that support digestive health and adds a gentle sourness that keeps the soup interesting without extra fat or salt. Eggs supply complete protein and choline, potatoes offer slow-release carbohydrates, and the radishes bring vitamin C and a satisfying bite. At roughly 280 calories per generous bowl, it is one of the more nourishing light lunches in Central European cooking.
+From a nutritional standpoint, żurek is a quietly impressive choice for a healthy lunch. The fermented rye starter contributes live cultures that support digestive health and adds a gentle sourness that keeps the soup interesting without extra fat or salt. Eggs supply complete protein and choline, potatoes offer slow-release carbohydrates, and the radishes bring vitamin C and a satisfying bite. At roughly 205 calories per generous bowl, it is one of the more nourishing light lunches in Central European cooking.
 
 ---
 

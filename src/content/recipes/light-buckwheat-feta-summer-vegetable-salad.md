@@ -1,7 +1,7 @@
 ---
 title: "Light Buckwheat, Feta & Summer Vegetable Salad"
 description: "This refreshing buckwheat salad combines earthy grains with a generous amount of salty feta, crisp cucumber, and sweet tomatoes. It's a surprisingly high-protein, low-calorie lunch that keeps you full for hours."
-metaDescription: "Fluffy buckwheat with cucumber, tomato, feta and dill. A fresh Eastern European summer salad, high in fibre at 280 calories."
+metaDescription: "Fluffy buckwheat with cucumber, tomato, feta and dill. A fresh Eastern European summer salad, high in fibre at 295 calories."
 image: "/images/light-buckwheat-feta-summer-vegetable-salad.webp"
 course: lunch
 cuisine: "Ukrainian"
@@ -9,10 +9,10 @@ prepTime: 15
 cookTime: 30
 totalTime: 45
 servings: 4
-calories: 280
+calories: 295
 protein: 18
-carbs: 24
-fat: 8
+carbs: 29
+fat: 13
 fibre: 5
 tags: ["ukrainian", "salad", "high-protein", "under-300-kcal", "vegetarian", "summer"]
 category: "salads"

@@ -1,7 +1,7 @@
 ---
 title: "Light Romanian Summer Vegetable Ghiveci"
 description: "A light yet hearty Romanian vegetable stew (ghiveci) packed with seasonal produce like zucchini and bell peppers. It's a perfect low-calorie, high-protein lunch that's both satisfying and delicious."
-metaDescription: "Romanian summer vegetable stew with chicken, peppers and zucchini in tomato. A light one-pot lunch at 280 calories."
+metaDescription: "Romanian summer vegetable stew with chicken, peppers and zucchini in tomato. A light one-pot lunch at 235 calories."
 image: "/images/light-romanian-summer-vegetable-ghiveci.webp"
 course: lunch
 cuisine: "Romanian"
@@ -9,11 +9,11 @@ prepTime: 15
 cookTime: 30
 totalTime: 45
 servings: 4
-calories: 280
-protein: 18
-carbs: 24
-fat: 8
-fibre: 5
+calories: 235
+protein: 26
+carbs: 17
+fat: 7
+fibre: 4
 tags: ["romanian", "stew", "high-protein", "under-300-kcal", "seasonal-vegetables"]
 category: "mains"
 tip: "Don't overcrowd the pan when searing the chicken. Searing in two batches ensures it gets a lovely golden-brown crust, which adds a huge amount of flavour to the final stew."

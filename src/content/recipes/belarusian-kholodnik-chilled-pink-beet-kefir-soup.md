@@ -5,17 +5,17 @@ metaTitle: "Belarusian Kholodnik — Chilled Beet Kefir Soup"
 metaDescription: "Chilled Belarusian beet soup with kefir, dill and cucumber. Low-calorie, probiotic-rich and refreshing, perfect for hot summer days."
 image: "/images/belarusian-kholodnik-chilled-pink-beet-kefir-soup.webp"
 course: lunch
-cuisine: "Ukrainian"
+cuisine: "Belarusian"
 prepTime: 15
 cookTime: 30
 totalTime: 45
 servings: 4
-calories: 280
+calories: 235
 protein: 18
-carbs: 24
+carbs: 26
 fat: 8
-fibre: 5
-tags: ["ukrainian", "soup", "high-protein", "under-300-kcal"]
+fibre: 4
+tags: ["belarusian", "soup", "high-protein", "under-300-kcal"]
 category: "healthy-soups"
 tip: "For the most intense pink colour, use a splash of the beet cooking water to thin the soup. It's packed with colour and nutrients you'd otherwise throw away."
 publishDate: 2026-05-31

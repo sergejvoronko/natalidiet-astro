@@ -2,19 +2,19 @@
 title: "Bulgarian Green Bean & Egg Salad (Salata ot Zelen Fasul s Yaitsa)"
 description: "This classic Bulgarian salad combines tender green beans and hard-boiled eggs in a creamy, garlicky yogurt dressing. It's a satisfying, high-protein lunch that's perfect for staying full and managing your weight."
 metaTitle: "Bulgarian Green Bean & Egg Salad"
-metaDescription: "Classic Bulgarian green bean and egg salad in garlicky yogurt dressing. High-protein, 280 kcal, a light lunch that keeps you full."
+metaDescription: "Classic Bulgarian green bean and egg salad in garlicky yogurt dressing. High-protein, 230 kcal, a light lunch that keeps you full."
 image: "/images/bulgarian-green-bean-egg-salad-salata-ot-zelen-fasul-s-yaitsa.webp"
 course: lunch
-cuisine: "Ukrainian"
+cuisine: "Bulgarian"
 prepTime: 15
 cookTime: 30
 totalTime: 45
 servings: 4
-calories: 280
-protein: 18
-carbs: 24
-fat: 8
-fibre: 5
+calories: 230
+protein: 13
+carbs: 13
+fat: 14
+fibre: 4
 tags: ["bulgarian", "salad", "high-protein", "under-300-kcal", "vegetarian", "summer"]
 category: "salads"
 tip: "For perfectly easy-to-peel hard-boiled eggs, plunge them into an ice bath immediately after boiling. The shock makes the shell pull away from the white."

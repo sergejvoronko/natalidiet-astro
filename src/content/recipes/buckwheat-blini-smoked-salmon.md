@@ -1,9 +1,9 @@
 ---
 title: "Buckwheat Blini with Smoked Salmon & Dill"
-description: "Thin, golden Russian buckwheat pancakes with smoked salmon and fresh dill. A special-occasion breakfast at 310 calories. Gluten-free and naturally high in protein."
+description: "Thin, golden buckwheat pancakes with smoked salmon and fresh dill. A special-occasion breakfast at 310 calories. Gluten-free and naturally high in protein."
 metaDescription: "Golden buckwheat blini with smoked salmon and dill. Gluten-free, high-protein special-occasion breakfast at 310 calories."
 course: "breakfast"
-cuisine: "Russian / Eastern European"
+cuisine: "Eastern European"
 prepTime: 15
 cookTime: 20
 totalTime: 35
@@ -13,7 +13,7 @@ protein: 26
 carbs: 28
 fat: 10
 fibre: 3
-tags: ["gluten-free", "high-protein", "special-occasion", "russian", "omega-3", "buckwheat"]
+tags: ["gluten-free", "high-protein", "special-occasion", "eastern-european", "omega-3", "buckwheat"]
 category: "healthy-main-dishes"
 tip: "Let the batter rest 10 minutes before cooking, this allows the buckwheat flour to hydrate fully and makes lighter, more pliable blini."
 publishDate: 2026-04-15
@@ -57,6 +57,6 @@ faqs:
     a: "Yes, layer cooled blini with baking parchment and freeze. Reheat in a dry pan; top with salmon fresh."
 ---
 
-Blini are Russia's most elegant dish, thin, buckwheat pancakes that serve as the base for almost any topping. Buckwheat flour is naturally gluten-free and has a deep, earthy flavour that complements smoked salmon perfectly.
+Blini are one of Eastern Europe's most elegant dishes, thin, buckwheat pancakes that serve as the base for almost any topping. Buckwheat flour is naturally gluten-free and has a deep, earthy flavour that complements smoked salmon perfectly.
 
 This is the Saturday morning recipe: takes 35 minutes, feels luxurious, costs almost nothing compared to any café equivalent, and is 310 calories of pure satisfaction.

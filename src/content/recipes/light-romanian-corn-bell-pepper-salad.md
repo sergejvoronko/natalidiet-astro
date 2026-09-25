@@ -10,11 +10,11 @@ prepTime: 15
 cookTime: 30
 totalTime: 45
 servings: 4
-calories: 280
-protein: 18
-carbs: 24
-fat: 8
-fibre: 5
+calories: 265
+protein: 21
+carbs: 25
+fat: 10
+fibre: 4
 tags: ["romanian", "salad", "high-protein", "under-300-kcal"]
 category: "salads"
 tip: "For the best smoky flavour, char the bell peppers directly over a gas flame using tongs until the skin is completely blackened. The flesh steams inside and becomes incredibly sweet."

@@ -11,10 +11,10 @@ cookTime: 15
 totalTime: 30
 servings: 4
 calories: 280
-protein: 18
-carbs: 24
-fat: 8
-fibre: 5
+protein: 17
+carbs: 33
+fat: 10
+fibre: 4
 tags: ["czech", "snack", "high-protein", "under-300-kcal", "seasonal-plums", "vegetarian"]
 category: "snacks"
 tip: "The trick I learnt the hard way is to not overwork the dough. Mix it just until it comes together; it should be slightly sticky. A wet hand makes shaping the dumplings around the plums much easier and prevents a tough, chewy result."

@@ -1,20 +1,20 @@
 ---
 title: "Light Balkan Zucchini & Eggplant Moussaka"
 description: "This recipe reimagines the classic moussaka with layers of tender zucchini, eggplant, and lean chicken, topped with a light yogurt sauce. It's a satisfying, protein-packed dinner that's surprisingly low in calories."
-metaDescription: "Layered zucchini, eggplant and potato moussaka with lean chicken, lightened without a heavy bechamel. 280 calories a serving."
+metaDescription: "Layered zucchini, eggplant and potato moussaka with lean chicken, lightened without a heavy bechamel. 245 calories a serving."
 image: "/images/light-balkan-zucchini-eggplant-moussaka.webp"
 course: dinner
-cuisine: "Ukrainian"
+cuisine: "Balkan"
 prepTime: 15
 cookTime: 30
 totalTime: 45
 servings: 4
-calories: 280
-protein: 18
-carbs: 24
+calories: 245
+protein: 19
+carbs: 25
 fat: 8
-fibre: 5
-tags: ["ukrainian", "casserole", "high-protein", "under-300-kcal", "low-calorie"]
+fibre: 6
+tags: ["balkan", "casserole", "high-protein", "under-300-kcal", "low-calorie"]
 category: "mains"
 tip: "Salting the eggplant slices and letting them sit for 10 minutes before cooking draws out excess water. This prevents the final moussaka from becoming soggy and helps the eggplant get a lovely texture."
 publishDate: 2026-08-06

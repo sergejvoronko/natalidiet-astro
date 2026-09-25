@@ -11,10 +11,10 @@ cookTime: 30
 totalTime: 45
 servings: 4
 calories: 280
-protein: 18
-carbs: 24
-fat: 8
-fibre: 5
+protein: 20
+carbs: 35
+fat: 7
+fibre: 6
 tags: ["bulgarian", "pulneni-chushki", "high-protein", "under-300-kcal", "chicken-dinner"]
 category: "mains"
 tip: "For faster, more even cooking, slice the peppers in half lengthwise instead of just cutting off the tops. This creates little 'boats' that cook through much quicker in the oven."

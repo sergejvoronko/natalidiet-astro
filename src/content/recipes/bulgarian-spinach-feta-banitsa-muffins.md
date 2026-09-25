@@ -9,12 +9,12 @@ prepTime: 15
 cookTime: 30
 totalTime: 45
 servings: 4
-calories: 280
-protein: 18
-carbs: 24
-fat: 8
-fibre: 5
-tags: ["bulgarian", "breakfast", "vegetarian", "high-protein", "under-300-kcal", "feta", "spinach"]
+calories: 320
+protein: 15
+carbs: 20
+fat: 21
+fibre: 2
+tags: ["bulgarian", "breakfast", "vegetarian", "high-protein", "under-400-kcal", "feta", "spinach"]
 category: "breakfast"
 tip: "Scrunch each phyllo strip loosely rather than pressing it flat, those crinkled air pockets are exactly what gives banitsa its signature crispness."
 publishDate: 2026-05-15

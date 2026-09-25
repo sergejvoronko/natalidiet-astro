@@ -11,9 +11,9 @@ cookTime: 30
 totalTime: 45
 servings: 4
 calories: 280
-protein: 18
-carbs: 24
-fat: 8
+protein: 23
+carbs: 29
+fat: 9
 fibre: 5
 tags: ["romanian", "stuffed-vegetables", "high-protein", "under-300-kcal", "chicken"]
 category: "mains"

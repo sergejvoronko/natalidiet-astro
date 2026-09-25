@@ -10,11 +10,11 @@ prepTime: 15
 cookTime: 30
 totalTime: 45
 servings: 4
-calories: 280
-protein: 18
-carbs: 24
-fat: 8
-fibre: 5
+calories: 170
+protein: 12
+carbs: 19
+fat: 6
+fibre: 4
 tags: ["slovak", "salad", "vegetarian", "high-protein", "under-300-kcal", "asparagus", "kefir", "spring"]
 category: "salads"
 tip: "Shock the blanched asparagus in ice-cold water the moment it comes out of the pot, this stops the cooking instantly, locks in the vivid green colour, and keeps each spear pleasantly crisp rather than limp."

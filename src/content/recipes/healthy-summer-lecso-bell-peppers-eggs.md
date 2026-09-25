@@ -2,7 +2,7 @@
 title: "Healthy Summer Lecsó with Bell Peppers and Eggs"
 description: "This vibrant Hungarian-style vegetable stew, Lecsó, combines sweet bell peppers and ripe tomatoes, all topped with protein-rich eggs for a complete meal. It's a perfect low-calorie, high-fibre dinner that captures the essence of summer."
 metaTitle: "Healthy Hungarian Lecsó with Peppers & Eggs"
-metaDescription: "Hungarian lecsó stew with sweet peppers, tomatoes and eggs, a 280-calorie, high-fibre summer dinner ready in 45 minutes."
+metaDescription: "Hungarian lecsó stew with sweet peppers, tomatoes and eggs, a 260-calorie, high-fibre summer dinner ready in 45 minutes."
 image: "/images/healthy-summer-lecso-bell-peppers-eggs.webp"
 course: dinner
 cuisine: "Hungarian"
@@ -10,11 +10,11 @@ prepTime: 15
 cookTime: 30
 totalTime: 45
 servings: 4
-calories: 280
-protein: 18
-carbs: 24
-fat: 8
-fibre: 5
+calories: 260
+protein: 12
+carbs: 33
+fat: 9
+fibre: 9
 tags: ["hungarian", "lecso", "summer-recipe", "bell-pepper", "vegetarian", "high-protein", "under-300-kcal"]
 category: "mains"
 tip: "For a deeper, smokier flavour, char the bell peppers over a gas flame or under the grill until the skins are blackened. Let them steam in a covered bowl, then peel before slicing."

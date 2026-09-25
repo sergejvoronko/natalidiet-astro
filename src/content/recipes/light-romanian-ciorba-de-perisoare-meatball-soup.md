@@ -2,7 +2,7 @@
 title: "Light Romanian Ciorbă de Perișoare (Lean Turkey Meatball Soup)"
 description: "This lightened-up version of traditional Romanian meatball soup swaps fatty pork for lean turkey, keeping the vibrant sour tang intact. Packed with root vegetables and fresh herbs, it offers plenty of satisfying protein without feeling heavy."
 metaTitle: "Romanian Ciorbă de Perișoare"
-metaDescription: "Lean turkey meatball soup with rice and root vegetables. A lighter ciorbă de perișoare at 280 calories a bowl."
+metaDescription: "Lean turkey meatball soup with rice and root vegetables. A lighter ciorbă de perișoare at 270 calories a bowl."
 image: "/images/light-romanian-ciorba-de-perisoare-meatball-soup.webp"
 course: lunch
 cuisine: "Romanian"
@@ -10,11 +10,11 @@ prepTime: 15
 cookTime: 30
 totalTime: 45
 servings: 4
-calories: 280
-protein: 18
-carbs: 24
+calories: 270
+protein: 28
+carbs: 22
 fat: 8
-fibre: 5
+fibre: 3
 tags: ["romanian", "soup", "high-protein", "under-300-kcal"]
 category: "healthy-soups"
 tip: "Roll the meatballs with damp hands to stop the lean turkey mixture from sticking to your fingers."

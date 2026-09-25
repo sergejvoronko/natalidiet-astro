@@ -11,10 +11,10 @@ cookTime: 30
 totalTime: 45
 servings: 4
 calories: 280
-protein: 18
-carbs: 24
-fat: 8
-fibre: 5
+protein: 14
+carbs: 25
+fat: 14
+fibre: 3
 tags: ["polish", "salad", "high-protein", "under-300-kcal", "smoked-mackerel", "new-potatoes", "dill"]
 category: "salads"
 tip: "For the best flavour, dress the potatoes while they're still slightly warm. They'll absorb the creamy kefir dressing much better than when they're cold."

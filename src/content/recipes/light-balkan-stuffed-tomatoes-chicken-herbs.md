@@ -2,7 +2,7 @@
 title: "Light Balkan Stuffed Tomatoes with Lean Ground Chicken & Summer Herbs"
 description: "This recipe reimagines a Balkan classic, using lean ground chicken and a fragrant mix of summer herbs for a lighter, protein-packed meal. It's a fantastic way to enjoy summer's best produce without the extra calories."
 metaTitle: "Balkan Stuffed Tomatoes with Chicken"
-metaDescription: "Beefsteak tomatoes stuffed with lean ground chicken, rice and summer herbs. A light Bulgarian dinner at 280 calories a serving."
+metaDescription: "Beefsteak tomatoes stuffed with lean ground chicken, rice and summer herbs. A light Bulgarian dinner at 235 calories a serving."
 image: "/images/light-balkan-stuffed-tomatoes-chicken-herbs.webp"
 course: dinner
 cuisine: "Bulgarian"
@@ -10,11 +10,11 @@ prepTime: 15
 cookTime: 30
 totalTime: 45
 servings: 4
-calories: 280
-protein: 18
+calories: 235
+protein: 19
 carbs: 24
 fat: 8
-fibre: 5
+fibre: 4
 tags: ["stuffed tomatoes", "balkan", "bulgarian", "healthy dinner", "chicken", "low-calorie", "under-300-kcal", "high-protein"]
 category: "mains"
 tip: "The trick I learnt the hard way is to lightly salt the inside of the hollowed-out tomatoes and turn them upside down for 10 minutes. This draws out excess water and stops the final dish from being soggy."

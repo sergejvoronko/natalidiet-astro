@@ -10,10 +10,10 @@ prepTime: 15
 cookTime: 30
 totalTime: 45
 servings: 4
-calories: 280
-protein: 18
-carbs: 24
-fat: 8
+calories: 285
+protein: 17
+carbs: 29
+fat: 12
 fibre: 5
 tags: ["ukrainian", "snack", "baked-fritters", "low-calorie", "under-300-kcal", "vegetarian", "zucchini"]
 category: "snacks"

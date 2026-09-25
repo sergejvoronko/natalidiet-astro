@@ -2,20 +2,20 @@
 title: "Light Hungarian Chilled Sour Cherry Soup (Meggyleves)"
 description: "A refreshing Hungarian chilled sour cherry soup, lightened up with kefir and Skyr for a significant protein boost. This low-calorie summer classic is the perfect healthy snack to beat the heat."
 metaTitle: "Hungarian Chilled Sour Cherry Soup"
-metaDescription: "Meggyleves, the Hungarian chilled sour cherry soup, lightened with kefir and Skyr. A refreshing 280-calorie summer dish."
+metaDescription: "Meggyleves, the Hungarian chilled sour cherry soup, lightened with kefir and Skyr. A refreshing 205-calorie summer dish."
 image: "/images/light-hungarian-chilled-sour-cherry-soup-meggyleves.webp"
 course: snack
-cuisine: "Ukrainian"
+cuisine: "Hungarian"
 prepTime: 15
 cookTime: 30
 totalTime: 45
 servings: 4
-calories: 280
-protein: 18
-carbs: 24
-fat: 8
-fibre: 5
-tags: ["ukrainian", "soup", "high-protein", "under-300-kcal", "kefir", "hungarian"]
+calories: 205
+protein: 12
+carbs: 30
+fat: 5
+fibre: 2
+tags: ["hungarian", "soup", "high-protein", "under-300-kcal", "kefir"]
 category: "healthy-soups"
 tip: "To prevent the kefir and Skyr from curdling, make sure the cherry soup base has cooled down significantly, ideally to just warm, before you whisk them in. Patience is key for a silky smooth texture."
 publishDate: 2026-07-03
