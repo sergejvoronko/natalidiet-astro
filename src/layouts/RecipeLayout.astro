@@ -58,9 +58,32 @@ const emoji = courseEmojis[course] ?? '🍽️';
 const formattedDate = publishDate.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
 
 const allRecipes = await getCollection('recipes');
+// This used to be "the first 3 recipes of the same course", unsorted, so every
+// lunch page linked the same three alphabetically-first lunches and most
+// recipes got no related links at all; Search Console then reported a third of
+// them as unknown to Google. Score by what a reader would call similar, and
+// spread ties with a stable hash of the page pair so links cover the archive
+// and stay the same between builds.
+const current = allRecipes.find(r => r.id === recipeId);
+const pairHash = (a: string, b: string) => {
+  let h = 2166136261;
+  for (const ch of a + '|' + b) h = Math.imul(h ^ ch.charCodeAt(0), 16777619);
+  return h >>> 0;
+};
 const relatedRecipes = allRecipes
-  .filter(r => r.id !== recipeId && r.data.course === course)
-  .slice(0, 3);
+  .filter(r => r.id !== recipeId)
+  .map(r => {
+    let score = 0;
+    if (r.data.course === course) score += 2;
+    if (current?.data.cuisine && r.data.cuisine === current.data.cuisine) score += 2;
+    if (current?.data.category && r.data.category === current.data.category) score += 1;
+    for (const t of tags) if (r.data.tags?.includes(t)) score += 1;
+    return { r, score };
+  })
+  .filter(({ score }) => score > 0)
+  .sort((a, b) => b.score - a.score || pairHash(recipeId, a.r.id) - pairHash(recipeId, b.r.id))
+  .slice(0, 6)
+  .map(({ r }) => r);
 
 const hubMap: Record<string, { href: string; label: string }> = {
   kefir: { href: '/kefir-recipes/', label: 'Kefir recipes' },
