@@ -47,17 +47,12 @@ faqs:
     a: "Cook with oat milk and swap honey for maple syrup, same calories, fully plant-based."
 ---
 
-## Why buckwheat for breakfast?
+Buckwheat porridge is breakfast in a great many Ukrainian kitchens, and once you've made it properly you'll understand why. Ukrainians call the groats *hrechka* (гречка), and they turn up at every meal of the day, but a warm bowl first thing in the morning is where they shine. Despite the name, buckwheat has nothing to do with wheat. It's the seed of a plant related to rhubarb and sorrel, so it's naturally gluten-free.
 
-Buckwheat (гречка, *hrechka*) is a staple in Ukrainian households, and a much-loved one. Despite the name, it's completely gluten-free, botanically it's a seed, related to rhubarb and sorrel, not to wheat at all.
+The step that makes the difference is the one most people skip: toasting the dry groats before any water goes in. Two minutes in a dry pan and the kitchen fills with a smell somewhere between popcorn and roasted hazelnuts.
 
-What makes it special for healthy eating:
+That nuttiness carries all the way through to the finished bowl, and it means you need far less honey to make it taste like a treat.
 
-- **Complete protein**, contains all 9 essential amino acids, rare for a plant food
-- **Low glycaemic index**, digests slowly, keeping blood sugar stable
-- **Rich in rutin**, a flavonoid that supports cardiovascular health
-- **High in magnesium**, important for muscle function and sleep
+Nutritionally it's a quietly excellent way to start the day. Buckwheat has an unusually good protein profile for a grain, including the lysine that most cereals are short on, and it brings magnesium and rutin along with it. The fibre and the moderate glycaemic load keep you full well into the morning, which matters when the goal is not reaching for a biscuit at eleven. I like the berries warmed rather than cold. A minute in a small pan and they start to burst and bleed their juice into the porridge, turning pockets of it a deep purple. Frozen berries are perfect for this, and honestly better value than fresh outside summer. The pumpkin seeds are optional, but I'd keep them for the crunch and the extra bit of protein.
 
-### The right way to cook buckwheat
-
-Most people overcook it into a stodgy paste. The key: **use a 1:2 ratio** (1 part buckwheat, 2 parts liquid) and never lift the lid during cooking. The steam inside does the work.
+Cooked buckwheat keeps in the fridge for three days, so it's worth making a double batch. Reheat it with a splash of water or oat milk, stirring until it loosens, then add the warm berries fresh. If you want it creamier, cook the groats in oat milk rather than water. For a savoury version, skip the honey and vanilla and top it with a soft-boiled egg and a spoonful of kefir instead.

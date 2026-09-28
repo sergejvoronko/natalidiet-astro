@@ -42,4 +42,12 @@ faqs:
     a: "Yes. Stir them in frozen the night before, or thaw for a few minutes if eating right away."
 ---
 
-Kefir is among the oldest fermented foods in Eastern Europe, and one I lean on constantly. Originally from the Caucasus, it spread through Ukraine, Russia, and Central Europe over centuries.
+Kefir is among the oldest fermented foods in Eastern Europe, and one I lean on constantly. It's made by fermenting milk with kefir grains, small clusters of bacteria and yeasts living together, which is why it tastes sharper and slightly fizzier than yogurt. It started in the Caucasus and spread across Eastern and Central Europe, where it still sits in almost every fridge.
+
+This bowl is barely a recipe, and that's the point. It takes five minutes, needs no cooking and gives you a proper breakfast rather than a snack. The oats soak up some of the kefir while it rests, softening into something close to a thin porridge, while the berries keep it fresh and bright.
+
+A little honey takes the edge off the sourness without turning it into dessert.
+
+What I like about it nutritionally is the combination. Kefir typically carries a wider range of live cultures than most yogurts, and it brings protein and calcium with it. The oats add slow-release carbohydrate and soluble fibre, and flaxseed adds more fibre plus plant omega-3. It's the kind of breakfast that keeps you going until lunch without a mid-morning slump. Full-fat kefir makes a noticeably creamier bowl. The extra fat is small in absolute terms, and it makes the whole thing more satisfying, so I'd use it unless you have a reason not to. If your flaxseeds are whole, grinding them first helps, because whole seeds tend to pass straight through without giving up much of their goodness.
+
+You can also make this the night before. Stir the kefir and oats together, cover the bowl and leave it in the fridge. By morning the oats are fully soft and the texture is thick and spoonable. Add the berries, honey and flaxseed just before eating so the fruit stays fresh. In winter, frozen berries work well; stir them in the night before and they'll thaw into the kefir, turning it pale pink.

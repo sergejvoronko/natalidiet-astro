@@ -38,7 +38,7 @@ Make a large pot of borscht in the morning, it keeps 4 days and works for multip
 
 | Meal | Recipe | kcal |
 |------|--------|------|
-| Breakfast | 150g low-fat tvorog (cottage cheese) with ½ apple | 160 |
+| Breakfast | 150g low-fat cottage cheese (syr) with ½ apple | 160 |
 | Snack | 20g walnuts + a small pear | 150 |
 | Lunch | Sauerkraut soup (kapustnyak) with 1 rye crispbread | 195 |
 | Dinner | 180g turkey mince with braised cabbage, no oil | 310 |
@@ -101,7 +101,7 @@ Mushroom barley soup thickens as it sits, add a splash of water when reheating.
 | Meal | Recipe | kcal |
 |------|--------|------|
 | Breakfast | 2 syrniki (cottage cheese pancakes), no sour cream | 215 |
-| Snack | Radishes with 60g plain tvorog dip | 80 |
+| Snack | Radishes with 60g plain cottage cheese dip | 80 |
 | Lunch | Vinegret salad (beetroot, potato, carrot, sauerkraut) | 195 |
 | Dinner | Turkey buckwheat kotlety (3 pieces) with cucumber salad | 310 |
 | **Day total** | | **800** |
@@ -143,7 +143,7 @@ Make vinegret in a large batch, it improves overnight as flavours meld.
 
 ### Dairy & eggs
 - Plain kefir, 1.5 litres
-- Low-fat cottage cheese (tvorog), 600g
+- Low-fat cottage cheese (syr or twaróg), 600g
 - Plain Greek yogurt (0% fat), 400g
 - Low-fat quark, 150g
 - Eggs, 8

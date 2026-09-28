@@ -48,6 +48,12 @@ faqs:
     a: "Keeps 2 days in the fridge. Reheat gently, or flake the salmon cold over the potatoes as a salad."
 ---
 
-This is one of the simplest dinners in Eastern European cooking, and it needs almost no technique. Salmon baked with dill and lemon is a staple across Ukraine, the Baltic states, and Scandinavia, where dill is used as generously as other cuisines use basil.
+This is one of the simplest dinners I know, and it needs almost no technique. Salmon baked with dill and lemon turns up across Ukraine, the Baltic states and Scandinavia, where dill is used as freely as other cuisines use basil. Dill earns its place beside fish on flavour alone. Its bright, faintly aniseed taste cuts through the richness of the salmon in a way few other herbs manage.
 
-Fresh dill with salmon is not just traditional, it is better than dried. If you cannot find fresh dill, use freeze-dried rather than the dry powdered version. The omega-3 in salmon makes it a strong choice for inflammation and brain health.
+The whole meal cooks on one tray. The potatoes go in first because they need longer, and the salmon joins them for the final stretch, so everything is ready at the same moment.
+
+Halving the new potatoes gives you more cut surface to crisp against the hot tray, and the edges turn golden while the insides stay soft and creamy.
+
+Nutritionally this is about as well balanced as a dinner gets. Salmon is one of the best sources of the long-chain omega-3 fats EPA and DHA, along with high-quality protein and vitamin D. New potatoes provide slow energy and some fibre, especially with the skins left on. There's very little added fat in the dish, because the salmon brings its own. The most important thing is not to overcook the fish. It's done when the flesh has turned from translucent to opaque and flakes easily at the thickest point. A thicker fillet may need a couple more minutes and a thin tail piece a couple fewer, so check it rather than trusting the clock. White pepper is a small detail I'd keep, because it seasons without leaving dark specks on the pale fish.
+
+Leftover salmon keeps for a day or two in the fridge and is lovely cold, flaked into a salad with cucumber and a spoonful of kefir dressing. Reheating tends to dry it out, so I'd avoid it. For a variation, swap the dill for chives, or scatter a few capers over the fish before it goes into the oven for a sharper, saltier finish.

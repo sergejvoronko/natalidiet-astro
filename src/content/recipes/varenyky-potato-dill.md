@@ -54,6 +54,12 @@ faqs:
     a: "Greek yogurt with fresh dill, the classic sour cream experience at a fraction of the calories."
 ---
 
-Varenyky are the soul of Ukrainian cuisine. Every grandmother has her dough recipe, every family has their filling preference, potato is the most traditional, though cottage cheese (tvorog) and sauerkraut are equally beloved.
+Varenyky are at the heart of Ukrainian cooking. Every family has its own dough recipe and its own favourite filling. Potato is the most traditional, but cottage cheese, known in Ukraine as *syr*, and sauerkraut are just as loved, and in summer you'll find them filled with sour cherries. They're close cousins of Polish pierogi, and the two dishes share a great deal.
 
-This version uses a lean potato-dill filling and serves them with a small amount of sour cream rather than the butter they are often drowned in, saving significant calories without losing the character of the dish. Varenyky freeze beautifully: freeze them raw on a floured tray, then transfer to a bag. Cook from frozen, add 2 extra minutes to the boiling time.
+This version keeps the filling simple: floury potatoes mashed while hot, with slowly caramelised onion and plenty of fresh dill. The onion is the part not to rush. Twenty minutes in a pan turns it deep golden and sweet, and that sweetness is what makes a plain potato filling taste rich.
+
+Mashing the potatoes while they're hot gives a smooth filling without needing butter or cream.
+
+The dough is where most people struggle, so here's the test. It should feel as soft as an earlobe: not sticky and not tight. If it tears when you stretch it, it's too dry; if it clings to everything, add a little flour. Resting it for half an hour lets the gluten relax, which makes rolling it thin far easier. Seal each one firmly, pressing out any air, or they may burst in the water. Served with a small spoonful of low-fat sour cream, known as *smetana*, rather than the traditional pool of butter and fried onion, varenyky become a much lighter meal. They're still satisfying, because the potato filling and dough are filling on their own. A fresh salad of cucumber and radish on the side adds crunch and freshness.
+
+Varenyky freeze brilliantly, which makes the effort of shaping them worthwhile. Freeze them uncooked on a floured tray, spaced so they don't touch, then transfer them to a bag once solid. Cook them straight from frozen, adding a couple of minutes to the boiling time. Any cooked leftovers are delicious the next day, pan-fried until crisp and golden on both sides.

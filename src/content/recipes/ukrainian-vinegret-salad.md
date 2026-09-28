@@ -56,6 +56,12 @@ faqs:
     a: "3 days in the fridge, and honestly better on day two once the sauerkraut and gherkins season the vegetables."
 ---
 
-Vinegret is Ukraine's answer to a composed vegetable salad, and one of the more misunderstood dishes in Eastern European cuisine. The name comes from *vinaigrette*, the dressing, not a specific dish. Every family has their version: some add kidney beans, some green peas, some a splash of brine from the gherkin jar.
+Vinegret is one of the most familiar salads in Ukrainian cooking, and one of the more misunderstood. The name comes from the French *vinaigrette*, meaning the dressing, rather than any specific set of ingredients. Every family has its own version: some add beans, some green peas, some a splash of brine from the gherkin jar. This one keeps to the classic core of beetroot, potato, carrot, sauerkraut and pickles.
 
-This version keeps it classic: beetroot, potato, carrot, sauerkraut, gherkin. It is nutritionally impressive, the sauerkraut brings probiotics and vitamin C, the beetroot provides nitrates and folate, and the whole dish is naturally vegan, naturally gluten-free, and delicious cold. It is perfect for meal prep: make a large batch and eat it across three days.
+The trick that separates a good vinegret from a muddy one is dressing the beetroot on its own first. A little oil coats the pieces and slows the colour bleeding into everything else.
+
+You'll still get a pink blush across the potatoes, which is part of the charm, but the salad keeps its separate colours instead of turning uniformly purple.
+
+It's also worth cutting everything to roughly the same size. When the beetroot, potato and carrot are all neat small cubes, every spoonful has a bit of each, and the salad looks as good as it tastes. Waxy potatoes hold their shape once diced; floury ones crumble and turn the salad mushy. This is a remarkably healthy dish for something so comforting. It's almost entirely vegetables, with fibre from every ingredient and very little fat. The sauerkraut and pickles add sourness and crunch, and if you buy unpasteurised sauerkraut, it brings live cultures too. Traditionally it's dressed with unrefined sunflower oil, which has a toasty, seedy smell, and I'd use it if you can find it.
+
+Vinegret keeps well in the fridge for up to three days, and it tastes better after a few hours as the flavours mingle. That makes it ideal for preparing ahead or taking to work. Serve it on its own as a light lunch, or alongside a slice of rye bread and a boiled egg to make it more filling. A spoonful of cooked white beans turns it into a more substantial meal with extra protein.

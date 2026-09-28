@@ -40,4 +40,12 @@ faqs:
     a: "Assemble without honey and chia, cover and refrigerate; add both in the morning so the seeds don't swell overnight."
 ---
 
-Tvorog (творог), the Eastern European equivalent of cottage cheese, has been a dietary staple for centuries. It's high in casein protein, low in fat, and incredibly versatile.
+Cottage cheese has been part of everyday eating across Eastern Europe for centuries. In Ukraine it's *syr* (сир), in Poland *twaróg*, and in both it's eaten sweet as often as savoury. It's one of the simplest high-protein foods you can buy: low in fat, mild enough to pair with almost anything, and filling far beyond what its calorie count suggests.
+
+This bowl is my answer to the afternoon slump. It takes five minutes to put together and delivers a surprising amount of protein for 150 calories. Most of that protein is casein, which digests slowly, so it keeps hunger at bay for longer than a piece of fruit or a biscuit would.
+
+That makes it a good option between lunch and dinner, or even as a light dessert in the evening.
+
+The texture matters here. If you find ordinary cottage cheese too lumpy, look for a smoother Polish-style twaróg or give it a quick whisk with a fork before spooning it into the bowl. The berries bring colour and a little sharpness, the honey rounds it out, and the chia seeds add a gentle crunch plus a useful dose of fibre. A pinch of vanilla powder is the small change that makes the biggest difference. It makes the whole bowl taste like a cheesecake filling, without any of the sugar or fat that would normally come with it. If you want more crunch, a few toasted flaked almonds or a spoonful of pumpkin seeds work well on top.
+
+This is best eaten fresh, because the chia seeds start to absorb moisture and thicken once they sit. If you want to prepare it ahead, keep the cottage cheese and the toppings separate and combine them when you're ready. In summer, swap the mixed berries for whatever is in season: sour cherries, apricots or thin slices of ripe plum all work beautifully with the mild cheese.

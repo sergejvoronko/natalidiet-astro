@@ -59,6 +59,12 @@ faqs:
     a: "Sweet smoked paprika does the heavy lifting, with a pinch of hot. Use a fresh jar, stale paprika tastes of dust."
 ---
 
-Chicken paprikash is the dish that made Hungary famous in Central European cooking. This version uses kefir instead of heavy sour cream, same creamy finish, same tang, one third of the calories.
+Chicken paprikash, *paprikás csirke* in Hungarian, is one of the dishes that made Hungarian cooking famous across Central Europe. The classic version is rich with sour cream and served with small egg dumplings called *nokedli*. This lighter take swaps the sour cream for kefir and the dumplings for buckwheat, keeping the creamy, tangy character while cutting a good share of the calories.
 
-The secret is the paprika bloom: adding the spice to hot fat before any liquid goes in. This releases fat-soluble flavour compounds that make the paprika taste ten times more intense. Do not skip it.
+The flavour comes from the paprika, so it's worth giving it proper attention. Blooming the spice in hot fat before any liquid goes in releases its colour and aroma into the oil, and the pan turns a deep, glossy red. Keep the heat moderate at this point and move quickly, though.
+
+Paprika contains natural sugars and scorches easily, and burnt paprika turns bitter in a way you can't fix.
+
+Kefir is the part people worry about, because it can split if it's boiled. The trick is to take the pan off the heat before stirring it in, then return it to the lowest possible heat just to warm through. Treated gently, it gives the sauce the same silky, slightly sour finish that sour cream does, with more protein and far less fat. I use bone-in chicken thighs because they stay juicy through the simmer and flavour the sauce as they cook. Breast meat works if you prefer it, but it dries out faster, so take it off the heat as soon as it's cooked through. Buckwheat might seem an unusual partner for a Hungarian dish, but its nutty flavour stands up well to the paprika, and it soaks up the sauce beautifully.
+
+Paprikash is even better the next day, once the flavours have settled. Keep it in the fridge for up to three days and reheat it gently, adding a splash of stock if the sauce has thickened. Avoid bringing it back to a boil, or the kefir may split. For a traditional finish, serve it with a scattering of fresh dill and a little extra kefir spooned over the top.

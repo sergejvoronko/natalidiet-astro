@@ -55,6 +55,12 @@ faqs:
     a: "Use maple syrup instead of honey in the dressing and it's fully vegan."
 ---
 
-This salad is a workhorse. It stores well, travels in a lunchbox, and provides a rare combination of plant protein, iron, and prebiotic fibre in a single bowl. In Eastern European cooking, beetroot and lentils have long been paired as a nourishing winter staple, here they're lightened with a sharp vinegar dressing and fresh parsley.
+This salad is a workhorse. It keeps well, travels in a lunchbox and gives you plant protein, iron and fibre in a single bowl. Beetroot and lentils are an old pairing in Eastern European kitchens, especially through the winter months when both were easy to store. Here they're brightened with a sharp mustard vinaigrette and a generous handful of parsley.
 
-The walnuts add crunch and heart-healthy fats. Add crumbled feta or a soft-boiled egg on top if you need more calories.
+The key to a good version is texture. Green or Puy lentils hold their shape once cooked, where red lentils collapse into a purée, so they're worth seeking out. If you're using tinned lentils, rinse them well and pat them dry, because excess liquid dilutes the dressing and leaves the salad watery.
+
+The walnuts go on last and roughly broken, so every forkful has a little crunch.
+
+The beetroot does more than add colour. It's a good source of dietary nitrates and folate, and its sweetness balances the sharp red wine vinegar in the dressing. Lentils provide plant protein and a meaningful amount of iron, and the vitamin C in the parsley actually helps your body absorb that iron. The walnuts add plant omega-3 fats, which is why a small handful goes a long way. I like to dress the lentils while they're still slightly warm if I've cooked them from dry, because they soak up the vinaigrette more readily. Keep the beetroot separate until the end, though, or it will stain everything a vivid pink. A little blush is fine; a completely purple salad is less appetising.
+
+The dressed salad keeps in the fridge for two to three days, and it tastes better on the second day as the flavours settle. Store the walnuts separately and add them just before eating so they stay crisp. For a more substantial lunch, crumble a little feta or goat's cheese over the top, or serve it beside a slice of dark rye bread. Roasted beetroot instead of boiled gives a deeper, slightly caramelised flavour.

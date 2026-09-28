@@ -62,6 +62,12 @@ faqs:
     a: "Up to 4 days in the fridge, the flavour improves overnight. The barley keeps thickening, so loosen with a splash of stock when reheating. Freezes well for 3 months."
 ---
 
-In Poland and Belarus, barley mushroom soup, sometimes called *krupnik*, is the kind of meal that appears at every family table in winter. It is humble, thick, and nourishing. The combination of fresh and dried mushrooms creates a broth that is complex without any meat.
+In Poland and Belarus, barley and mushroom soup is the kind of meal that appears on family tables all winter. The Polish name is *krupnik*, from *krupy*, meaning groats, and at its heart it's a humble, thick soup made from whatever keeps through the cold months. It's filling, cheap and savoury, even without any meat.
 
-Pearl barley is an underrated grain: rich in beta-glucan fibre (the same kind found in oats), filling, and slow-releasing. This soup is even better the day after it is made, as the barley continues to absorb the stock overnight.
+The soul of this soup is the dried porcini. A small amount goes a long way, and the soaking water holds as much flavour as the mushrooms themselves. Strain it through a fine sieve or a coffee filter before adding it to the pot, because dried mushrooms often carry a little grit.
+
+The fresh chestnut mushrooms add body and texture, while the porcini give the broth its dark, woodsy depth.
+
+Pearl barley is an underrated grain. It's rich in beta-glucan, a soluble fibre linked to healthier cholesterol levels, and it thickens the soup naturally as it cooks, so there's no need for cream or flour. The soy sauce isn't traditional, I'll admit, but a single tablespoon adds a rounded savouriness that makes the whole pot taste as though it has simmered for hours. When the mushrooms hit the hot pan, give them room and let them brown properly before stirring. That colour is flavour, and a crowded pan just steams them grey. The kitchen smells wonderful at this point, all earthy mushroom and softened onion, and it's the moment the soup starts to come together.
+
+Barley keeps absorbing liquid as the soup sits, so the next day you'll find something closer to a stew. That's no bad thing, but add a splash of stock or water when you reheat it to bring it back to a soup. It keeps for four days in the fridge and freezes reasonably well, though the barley softens a little after thawing. Serve it with a scattering of parsley and, if you like, a spoonful of kefir or thick yogurt swirled on top.

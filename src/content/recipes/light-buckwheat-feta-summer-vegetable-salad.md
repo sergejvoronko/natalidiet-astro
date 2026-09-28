@@ -72,4 +72,4 @@ For storing, you can keep it in an airtight container in the fridge for up to 3 
 
 ### Simple variations
 
-This salad is very forgiving, so feel free to make it your own. For a bit of extra texture, I sometimes add a handful of toasted sunflower or pumpkin seeds right before serving. The crunch is a great contrast to the soft feta. If you're not a fan of feta, a crumbly, dry farmer's cheese (*tvorog*) is a more traditional choice and just as delicious. You can also add other vegetables you have on hand, radishes, grated carrot, or even some blanched green beans work well.
+This salad is very forgiving, so feel free to make it your own. For a bit of extra texture, I sometimes add a handful of toasted sunflower or pumpkin seeds right before serving. The crunch is a great contrast to the soft feta. If you're not a fan of feta, a crumbly, dry farmer's cheese (Ukrainian *syr*) is a more traditional choice and just as delicious. You can also add other vegetables you have on hand, radishes, grated carrot, or even some blanched green beans work well.
