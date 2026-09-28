@@ -6,6 +6,7 @@ import AuthorBlock from '../components/AuthorBlock.astro';
 import FAQBlock from '../components/FAQBlock.astro';
 import { getCollection } from 'astro:content';
 import RecipeCard from '../components/RecipeCard.astro';
+import { srcsetFor } from '../lib/responsive';
 
 interface Ingredient { amount: string; name: string; }
 
@@ -113,7 +114,7 @@ const hubLinks = tags.filter(t => t in hubMap).map(t => hubMap[t]);
           <!-- Visual -->
           <div class="recipe-visual-wrap" style={`background: ${bg}`}>
             {image
-              ? <img src={image} alt={title} width="480" height="480" loading="eager" class="recipe-hero-img" />
+              ? <img src={image} srcset={srcsetFor(image)} sizes="(max-width: 900px) calc(100vw - 40px), 660px" alt={title} width="480" height="480" loading="eager" class="recipe-hero-img" />
               : <span class="recipe-hero-emoji" aria-hidden="true">{emoji}</span>
             }
           </div>

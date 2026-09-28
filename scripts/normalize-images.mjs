@@ -12,19 +12,24 @@
 //
 // Runs as `prebuild`, so it executes locally AND on the Cloudflare Pages build.
 
-import { readdir, stat, rename } from 'node:fs/promises';
+import { readdir, stat, rename, writeFile, mkdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import sharp from 'sharp';
 
 const DIR = new URL('../public/images/', import.meta.url).pathname;
+const MANIFEST = new URL('../src/data/image-widths.json', import.meta.url).pathname;
 const MAX_WIDTH = 1600;        // recipes never display wider than this
 const MAX_BYTES = 400 * 1024;  // recompress anything heavier
 const QUALITY = 80;
+// Smaller copies for srcset. Cards and the recipe hero display at ~350px, so
+// without these every card downloaded the full 1400-1600px original.
+const VARIANT_WIDTHS = [400, 800];
+const isVariant = f => /-(400|800)\.webp$/i.test(f);
 
 let fixed = 0;
 
 for (const file of await readdir(DIR)) {
-  if (!file.toLowerCase().endsWith('.webp')) continue;
+  if (!file.toLowerCase().endsWith('.webp') || isVariant(file)) continue;
 
   const path = join(DIR, file);
   const { size } = await stat(path);
@@ -55,3 +60,30 @@ for (const file of await readdir(DIR)) {
 }
 
 console.log(fixed ? `normalize-images: fixed ${fixed} file(s)` : 'normalize-images: all clean');
+
+// Responsive variants. Generated here rather than committed, so every image the
+// generator adds gets them on the next build. A variant is (re)made when it is
+// missing or older than its original, and never wider than the original.
+// The manifest records each original's real width for the srcset descriptor.
+const widths = {};
+let made = 0;
+for (const file of await readdir(DIR)) {
+  if (!file.toLowerCase().endsWith('.webp') || isVariant(file)) continue;
+  const path = join(DIR, file);
+  let meta;
+  try { meta = await sharp(path).metadata(); } catch { continue; }
+  if (!meta.width) continue;
+  widths[`/images/${file}`] = meta.width;
+  const srcTime = (await stat(path)).mtimeMs;
+  for (const w of VARIANT_WIDTHS) {
+    if (w >= meta.width) continue;
+    const out = join(DIR, file.replace(/\.webp$/i, `-${w}.webp`));
+    const fresh = await stat(out).then(s => s.mtimeMs >= srcTime, () => false);
+    if (fresh) continue;
+    await sharp(path).resize({ width: w }).webp({ quality: QUALITY }).toFile(out);
+    made++;
+  }
+}
+await mkdir(new URL('../src/data/', import.meta.url).pathname, { recursive: true });
+await writeFile(MANIFEST, JSON.stringify(widths, null, 1) + '\n');
+console.log(`normalize-images: ${made} variant(s) generated, ${Object.keys(widths).length} images in manifest`);

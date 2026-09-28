@@ -1,4 +1,5 @@
 ---
+import { srcsetFor } from '../lib/responsive';
 interface Props {
   title: string;
   slug: string;
@@ -31,7 +32,7 @@ const emoji = courseEmojis[course] ?? '🍽️';
 <a href={`/recipes/${slug}/`} class:list={['recipe-card', 'card', { featured }]} aria-label={title}>
   <div class="recipe-visual" style={`background: ${bg}`}>
     {image
-      ? <img src={image} alt={title} width="400" height="280" loading="lazy" class="recipe-img" />
+      ? <img src={image} srcset={srcsetFor(image)} sizes="(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 380px" alt={title} width="400" height="280" loading="lazy" class="recipe-img" />
       : <span class="recipe-emoji" aria-hidden="true">{emoji}</span>
     }
     <span class={`badge badge-${course} recipe-badge`}>
