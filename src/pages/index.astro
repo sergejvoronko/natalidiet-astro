@@ -75,14 +75,18 @@ const heroCards = [
 
   <!-- Center figure — sits between title (left) and cards (right) -->
   <div class="hero-figure" aria-hidden="true">
-    <img
-      src="/images/hero-figure.webp"
-      alt=""
-      class="hero-figure-img"
-      width="480"
-      height="860"
-      fetchpriority="high"
-    />
+    <picture>
+      {/* Figure is hidden below 900px; a 1x1 placeholder stops phones downloading it */}
+      <source media="(max-width: 900px)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAACH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
+      <img
+        src="/images/hero-figure-800.webp"
+        alt=""
+        class="hero-figure-img"
+        width="480"
+        height="860"
+        fetchpriority="high"
+      />
+    </picture>
   </div>
 
   <div class="hero-right" style="z-index:1; position:relative;">
