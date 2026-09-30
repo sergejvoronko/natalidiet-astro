@@ -62,7 +62,7 @@ faqs:
   - q: "Is it better to serve Ryba po Grecku warm or cold?"
     a: "Traditionally in Poland, it is served cold on Christmas Eve, but this baked version is fantastic warm straight from the pan. Both ways are delicious, though the flavours actually deepen after a night in the fridge."
   - q: "I do not have parsley root. What else can I use?"
-    a: "Parsnip is the closest substitute for parsley root, offering a similar earthy sweetness. If you cannot find parsnip either, simply use extra carrots and extra celeriac."
+    a: "Parsnip is the closest substitute for parsley root, offering a similar earthy sweetness. If you cannot find parsnip either, use extra carrots and extra celeriac."
 ---
 
 The name "Ryba po Grecku" translates directly to "Fish Greek-style", though I have it on good authority that no one in Greece has ever heard of this dish. It is a Polish classic through and through, heavily reliant on the holy trinity of Eastern European root veg: carrots, parsley root, and celeriac. Growing up, my mum made massive glass platters of this for Wigilia, our traditional Christmas Eve supper. The heavy scent of whole allspice berries and sweet carrots simmering on the stove is pure nostalgia for me.
@@ -73,7 +73,7 @@ The trick to getting the vegetable topping right is patience. When you add the t
 
 ### Serving ideas
 
-You really do not need much to turn this into a satisfying meal. A thick slice of dark sourdough rye bread is perfect for mopping up the sweet, earthy tomato juices left on your plate. If I am making this for a weekend dinner and want something a bit heartier, I boil a few new potatoes and toss them in freshly chopped dill to serve alongside the fish.
+You do not need much to turn this into a satisfying meal. A thick slice of dark sourdough rye bread is perfect for mopping up the sweet, earthy tomato juices left on your plate. If I am making this for a weekend dinner and want something a bit heartier, I boil a few new potatoes and toss them in freshly chopped dill to serve alongside the fish.
 
 ### Storage and leftovers
 
