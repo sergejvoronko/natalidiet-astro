@@ -98,7 +98,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   .about-header { background: var(--nd-forest) url('/images/hero-about.webp') center/cover no-repeat; padding: 72px 48px 80px; position: relative; overflow: hidden; }
   .about-header::before { content: ''; position: absolute; inset: 0; background: linear-gradient(to right, rgba(20,35,25,0.82) 50%, rgba(20,35,25,0.55) 100%); pointer-events: none; }
   .about-header-inner { max-width: var(--max-w); margin: 0 auto; position: relative; z-index: 1; }
-  .about-title { font-family: var(--font-serif); font-size: clamp(38px, 5vw, 60px); font-weight: 900; color: #fff; line-height: 1.1; letter-spacing: -0.03em; }
+  .about-title { font-family: var(--font-serif); font-size: clamp(38px, 5vw, 60px); font-weight: 900; color: #fff; line-height: 1.1; letter-spacing: normal; }
   .about-title em { font-style: italic; color: var(--nd-terra-light); }
 
   .about-content { max-width: var(--max-w); margin: 0 auto; padding: 64px 48px 100px; }
@@ -128,7 +128,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   /* Right col */
   .about-text-col p { font-size: 16px; line-height: 1.8; color: var(--nd-text); font-weight: 300; margin-bottom: 18px; }
   .about-text-col strong { font-weight: 600; color: var(--nd-forest); }
-  .about-h2 { font-family: var(--font-serif); font-size: 26px; font-weight: 700; color: var(--nd-forest); margin: 40px 0 18px; letter-spacing: -0.02em; }
+  .about-h2 { font-family: var(--font-serif); font-size: 26px; font-weight: 700; color: var(--nd-forest); margin: 40px 0 18px; letter-spacing: normal; }
   .belief-list { list-style: none; display: flex; flex-direction: column; gap: 12px; margin-bottom: 20px; }
   .belief-list li { display: flex; align-items: flex-start; gap: 12px; font-size: 16px; color: var(--nd-text); line-height: 1.6; font-weight: 300; }
   .belief-list li::before { content: '→'; color: var(--nd-terra); font-weight: 600; flex-shrink: 0; margin-top: 1px; }
