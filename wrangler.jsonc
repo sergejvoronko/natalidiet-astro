@@ -3,6 +3,9 @@
 	"compatibility_flags": ["global_fetch_strictly_public"],
 	"name": "natalidiet-astro",
 	"pages_build_output_dir": "./dist",
+	"analytics_engine_datasets": [
+		{ "binding": "GO_CLICKS", "dataset": "natalidiet_go_clicks" }
+	],
 	"observability": {
 		"enabled": true
 	}

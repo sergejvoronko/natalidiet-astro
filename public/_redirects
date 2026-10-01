@@ -1,5 +1,4 @@
 # Rules cover both the slashed and unslashed form: Cloudflare matches paths
 # exactly and the site's URLs end in "/", so a single form lets the other 404.
-/go/book  https://airbrushden.gumroad.com/l/rvayve  301
 /meal-plans/4-day-eastern-european-plan/  /meal-plans/7-day-slim-eastern-european-plan/  301
 /meal-plans/4-day-eastern-european-plan  /meal-plans/7-day-slim-eastern-european-plan/  301
