@@ -45,7 +45,7 @@ ingredients:
 steps:
   - "First, cook the buckwheat. Rinse the 100g of buckwheat groats under cold water. In a small pot, combine the rinsed buckwheat with 200ml of cold water and a pinch of salt. Bring to a boil, then reduce the heat to a low simmer, cover, and cook for 15 minutes, or until all the water is absorbed."
   - "While the buckwheat is cooking, prepare your vegetables. Dice the large cucumber and red bell pepper, halve the 250g of cherry tomatoes, and finely slice half a small red onion. Chop your fresh dill."
-  - "Once the buckwheat is cooked, turn off the heat and let it stand, covered, for another 10 minutes to steam. The trick I learnt the hard way is not to skip this part; it makes it so much fluffier. Afterwards, fluff it with a fork and spread it on a large plate or baking sheet to cool down quickly."
+  - "Once the buckwheat is cooked, turn off the heat and let it stand, covered, for another 10 minutes to steam. Do not skip this part; it makes it much fluffier. Afterwards, fluff it with a fork and spread it on a large plate or baking sheet to cool down quickly."
   - "In a small bowl or jar, make the dressing. Whisk together 1 tbsp of extra virgin olive oil, the juice of 1 lemon, 1/2 tsp of salt, and 1/4 tsp of black pepper until combined."
   - "In a large salad bowl, combine the cooled buckwheat with the diced cucumber, halved cherry tomatoes, diced red bell pepper, sliced red onion, and chopped fresh dill."
   - "Pour the dressing over the salad. Crumble the 300g of low-fat feta cheese over the top and gently toss everything together. Taste and add more salt if needed. Serve immediately or chill for 30 minutes for the flavours to meld."
@@ -58,17 +58,17 @@ faqs:
     a: "Three days in the fridge. Dress it just before serving if you are making it ahead, otherwise the cucumber softens and releases water."
 ---
 
-Growing up, buckwheat, or *hrechka*, wasn't just food; it was a constant. My babushka would make a big pot of it at the start of the week, and we'd eat it for days: as a warm, buttery kasha for breakfast; mixed with fried onions and mushrooms for dinner; or stuffed into peppers. It has a wonderfully nutty, earthy scent that, for me, smells exactly like home. But it was always a warm, comforting dish for the colder months.
+In Ukraine, buckwheat, or *hrechka*, is not just food; it's a constant. A big pot can last for days: warm, buttery kasha for breakfast, mixed with fried onions and mushrooms for dinner, or stuffed into peppers. It has a wonderfully nutty, earthy scent. But it is usually a warm, comforting dish for the colder months.
 
-When summer came, with its long, bright evenings at the dacha, a hot bowl of kasha was the last thing anyone wanted. My mum started making this salad as a way to use our beloved *hrechka* in the heat. She'd use whatever was fresh from the garden, crisp cucumbers still warm from the sun, sweet little tomatoes, and always a huge amount of dill. The combination of the hearty grain with the cool, crunchy vegetables and the sharp, salty cheese is just perfect. It's the taste of a Ukrainian summer for me.
+In summer, a hot bowl of kasha is the last thing anyone wants, and that is where this salad comes in: buckwheat with whatever is fresh, crisp cucumbers, sweet little tomatoes, and a huge amount of dill. The combination of the hearty grain with the cool, crunchy vegetables and the sharp, salty cheese is just perfect. It's the taste of a Ukrainian summer.
 
-This salad fits so well into a healthy way of living because it's not trying to be something it isn't. It's naturally balanced. The buckwheat provides slow-release energy and fibre that keeps you full, the vegetables are packed with vitamins, and the generous helping of feta gives it a serious protein boost without feeling heavy. It's a proper, satisfying meal that just happens to be light.
+This salad fits so well into a healthy way of living because it's not trying to be something it isn't. It's naturally balanced. The buckwheat provides slow-release energy and fibre that keeps you full, the vegetables are packed with vitamins, and the feta adds protein without feeling heavy. It's a proper, satisfying meal that just happens to be light.
 
 ### How to serve and store
 
 I love this salad for lunch, scooped into a bowl all on its own. It's substantial enough that you don't need anything else. It also makes a fantastic side dish for a barbecue, especially next to some grilled chicken or sausages. The fresh flavours cut through the richness of the meat beautifully.
 
-For storing, you can keep it in an airtight container in the fridge for up to 3 days. The vegetables will soften a little over time, but it still tastes wonderful. If I know I'm making it for meal prep, the trick I always use is to keep the dressing separate and only add it right before I eat. This keeps the cucumber and peppers perfectly crisp.
+For storing, you can keep it in an airtight container in the fridge for up to 3 days. The vegetables will soften a little over time, but it still tastes wonderful. For meal prep, keep the dressing separate and only add it right before I eat. This keeps the cucumber and peppers perfectly crisp.
 
 ### Simple variations
 

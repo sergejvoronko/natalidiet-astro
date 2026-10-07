@@ -60,9 +60,9 @@ faqs:
     a: "Yes, up to a day ahead, covered in the fridge. Bake them straight from cold and allow a few extra minutes."
 ---
 
-Stuffed vegetables, or *legume umplute*, are the heart and soul of Romanian home cooking, especially in the summer. My mum made this every time the garden overflowed with zucchini so big you could barely get your arms around them. The traditional recipe often uses a mix of pork and beef with more rice, which is delicious but can be quite heavy. This version is my way of capturing that same comforting flavour in a much lighter package, perfect for a weeknight dinner.
+Stuffed vegetables, or *legume umplute*, are the heart and soul of Romanian home cooking, especially in the summer. They are the classic answer to a garden overflowing with zucchini. The traditional recipe often uses a mix of pork and beef with more rice, which is delicious but can be quite heavy. This version captures that same comforting flavour in a much lighter package, perfect for a weeknight dinner.
 
-I swap the pork for lean ground chicken and pack the filling with an almost-obscene amount of fresh dill and parsley. If you ask me, you can never have too much dill; it's the defining taste of so many dishes I grew up with. When this is in the oven, my whole kitchen fills with the scent of herbs, sweet tomatoes, and roasted zucchini. It's a simple, honest meal that feels both wholesome and incredibly satisfying. The trick I learnt the hard way is to only par-boil the rice; it finishes cooking inside the zucchini, absorbing all the juices from the chicken and vegetables.
+It swaps the pork for lean ground chicken and pack the filling with an almost-obscene amount of fresh dill and parsley. If you ask me, you can never have too much dill; it's the defining taste of so many dishes in this part of the world. When this is in the oven, my whole kitchen fills with the scent of herbs, sweet tomatoes, and roasted zucchini. It's a simple, honest meal that feels both wholesome and incredibly satisfying. Only par-boil the rice: it finishes cooking inside the zucchini, absorbing all the juices from the chicken and vegetables.
 
 ### Serving & storing
 

@@ -17,7 +17,7 @@ fat: 12
 fibre: 5
 tags: ["ukrainian", "snack", "baked-fritters", "low-calorie", "under-300-kcal", "vegetarian", "zucchini"]
 category: "snacks"
-tip: "The trick I learnt the hard way is to salt the zucchini and let it sit for 10 minutes. This draws out a surprising amount of water, which you must squeeze out thoroughly for crispy, not soggy, fritters."
+tip: "Salt the zucchini and let it sit for 10 minutes. This draws out a surprising amount of water, which you must squeeze out thoroughly for crispy, not soggy, fritters."
 publishDate: 2026-06-19
 featured: false
 ingredients:
@@ -66,11 +66,11 @@ faqs:
     a: "Yes, and it is better for it. Mix the dip a few hours ahead so the garlic and dill infuse, and keep it covered in the fridge for up to three days."
 ---
 
-Every summer in Ukraine, our garden would explode with zucchini. They grew so fast you could almost watch them, and my mum had a dozen ways to use them up. Her zucchini *oladky*, shallow-fried in oil until the edges were lacy and crisp, were my absolute favourite. We'd eat them straight from the pan, dipped in a simple sour cream and dill sauce, with the windows open to let in the warm evening air.
+Every summer, Ukrainian gardens overflow with zucchini, and there are a dozen traditional ways to use them up. Zucchini *oladky*, shallow-fried in oil until the edges are lacy and crisp, are one of the best, eaten straight from the pan with a simple sour cream and dill sauce.
 
-Those fritters are a beautiful memory, but all that oil doesn't quite fit with how I like to eat now. I wanted to capture that same comforting flavour without the heaviness. By baking them instead of frying, we get that lovely golden exterior and a tender inside, but with a fraction of the fat. The Parmesan adds a savoury depth that works so well with the mild zucchini, and using whole wheat flour gives them a bit more substance and fibre. It's a simple switch that makes these a perfect guilt-free snack or light lunch.
+All that oil makes them heavy, though, so this version keeps the comforting flavour without it. By baking them instead of frying, we get that lovely golden exterior and a tender inside, but with a fraction of the fat. The Parmesan adds a savoury depth that works so well with the mild zucchini, and using whole wheat flour gives them a bit more substance and fibre. It's a simple switch that makes these a perfect guilt-free snack or light lunch.
 
-The dip is non-negotiable for me. Kefir, with its signature tang and probiotic benefits, is a fantastic base. The combination of fresh dill and sharp garlic is classic for a reason, it's bright, refreshing, and cuts through the richness of the fritters beautifully. The smell alone transports me right back to my mother's kitchen. It's proof that healthy eating isn't about giving things up; it's about finding smarter, lighter ways to enjoy the foods you love.
+The dip is non-negotiable for me. Kefir, with its signature tang, is a fantastic base, and because the dip is not cooked it keeps its live cultures. The combination of fresh dill and sharp garlic is classic for a reason, it's bright, refreshing, and cuts through the richness of the fritters beautifully. It's proof that healthy eating isn't about giving things up; it's about finding smarter, lighter ways to enjoy the foods you love.
 
 ### How to serve and store
 

@@ -63,9 +63,9 @@ faqs:
   - q: "Which vegetables can I swap in?"
     a: "Ghiveci is a use-what-you-have stew. Green beans, peas, potato or eggplant all suit it; keep the total quantity similar so the braise is not swamped."
 ---
-There are certain smells that instantly take me back to my grandmother's kitchen in the middle of July. The sharp, clean scent of fresh dill is one of them. My mum made a version of this *ghiveci* every summer, a vibrant stew that used up whatever was bursting from the garden. It's less a strict recipe and more of a beautiful, chaotic celebration of the season. The name itself, *ghiveci*, comes from the Turkish word for an earthenware pot, and it speaks to the dish's rustic, one-pot nature.
+The sharp, clean scent of fresh dill is the smell of a Romanian July. *Ghiveci* is a vibrant summer stew that uses up whatever is bursting from the garden. It's less a strict recipe and more of a beautiful, chaotic celebration of the season. The name itself, *ghiveci*, comes from the Turkish word for an earthenware pot, and it speaks to the dish's rustic, one-pot nature.
 
-This isn't my mum's exact recipe, though. Hers was often richer, sometimes made with pork or a more generous glug of oil. My version is lighter, adapted for the way I eat now. I use lean chicken breast for a solid protein kick and just enough olive oil to build a base of flavour without making it heavy. It's the kind of meal that fills you up properly but leaves you feeling energised, not sleepy. The trick I learnt the hard way is to let the vegetables keep a little bit of their texture; you want a stew, not a mash.
+Traditional versions are often richer, sometimes made with pork or a generous glug of oil. This version is lighter, with lean chicken breast for a solid protein kick and just enough olive oil to build a base of flavour without making it heavy. It's the kind of meal that fills you up properly but leaves you feeling energised, not sleepy. Let the vegetables keep a little bit of their texture; you want a stew, not a mash.
 
 The real magic happens when you let it simmer. The sweetness of the carrots and peppers melds with the acidity of the tomatoes, and the kitchen fills with that comforting, herby aroma. It's simple, honest food that relies on the quality of its ingredients rather than complicated techniques.
 

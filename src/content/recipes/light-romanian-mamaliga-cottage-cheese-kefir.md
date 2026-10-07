@@ -39,7 +39,7 @@ ingredients:
     name: "fresh dill, chopped"
 steps:
   - "In a medium, heavy-bottomed pot, bring the 600ml of water and 1 tsp of sea salt to a rolling boil."
-  - "Lower the heat to a simmer. Start whisking the water while you slowly pour in the 120g of fine cornmeal in a thin, steady stream. The trick I learnt the hard way is to never dump it in all at once!"
+  - "Lower the heat to a simmer. Start whisking the water while you slowly pour in the 120g of fine cornmeal in a thin, steady stream. Never dump it in all at once!"
   - "Continue whisking for 1-2 minutes until the mixture thickens and no lumps remain. Switch to a wooden spoon."
   - "Cook on low heat for 15-20 minutes, stirring frequently to prevent it from sticking to the bottom of the pot. The mămăligă is ready when it pulls away from the sides of the pot as you stir."
   - "Once cooked, turn off the heat and stir in the 20g of butter until it melts completely and makes the mămăligă glossy."
@@ -55,9 +55,9 @@ faqs:
     a: "Let it set firm in the fridge, then slice it and fry the slices until crisp. Cold mămăligă holds together far better than warm."
 ---
 
-Mămăligă is one of those dishes that feels like a hug from the inside. In Romania, and across much of Eastern Europe, it's more than just polenta; it's a cornerstone of home cooking. It can be a simple side for stews or a main course in its own right, often served with sour cream, cheese, and maybe a fried egg. My mum made this every few weeks, and the simple, earthy smell of cornmeal cooking on the stove is a scent that instantly takes me back to her kitchen. It's peasant food at its finest, humble, filling, and satisfying.
+Mămăligă is one of those dishes that feels like a hug from the inside. In Romania, and across much of Eastern Europe, it's more than just polenta; it's a cornerstone of home cooking. It can be a simple side for stews or a main course in its own right, often served with sour cream, cheese, and maybe a fried egg. The simple, earthy smell of cornmeal cooking on the stove is pure comfort. It's peasant food at its finest, humble, filling, and satisfying.
 
-This version is my own lighter interpretation, designed to be a powerful, protein-packed breakfast that keeps you full for hours. Instead of the traditional heavy sour cream, I use a combination of low-fat cottage cheese and tangy kefir. This swap not only cuts down on fat but also introduces a huge dose of protein and gut-friendly probiotics first thing in the morning. It transforms the dish from a simple carb base into a balanced meal without losing any of its comforting soul. It's proof that you don't need to sacrifice flavour or tradition to eat well.
+This lighter version is designed as a protein-rich breakfast that keeps you full. Instead of the traditional heavy sour cream, it uses a combination of low-fat cottage cheese and tangy kefir. This swap not only cuts down on fat but also adds protein, and the uncooked kefir brings live cultures. It transforms the dish from a simple carb base into a balanced meal without losing any of its comforting soul. It's proof that you don't need to sacrifice flavour or tradition to eat well.
 
 ### Serving & Variations
 

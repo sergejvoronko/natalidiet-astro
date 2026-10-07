@@ -50,7 +50,7 @@ steps:
   - "Stir the cornflour slurry into the simmering soup and cook for another 1-2 minutes, stirring constantly, until it thickens just slightly."
   - "Remove the pot from the heat and stir in the honey and lemon zest. Now, you must let it cool on the counter for at least 30 minutes, or until it's just warm to the touch."
   - "In a separate large bowl, whisk together the full-fat kefir and Skyr until they are perfectly smooth and combined."
-  - "Very slowly, pour a ladleful of the warm (not hot!) cherry mixture into the kefir blend, whisking constantly to temper it. Continue adding the cherry soup ladle by ladle until it's all incorporated. This is the trick I learnt the hard way to avoid a lumpy disaster."
+  - "Very slowly, pour a ladleful of the warm (not hot!) cherry mixture into the kefir blend, whisking constantly to temper it. Continue adding the cherry soup ladle by ladle until it's all incorporated. This avoids lumps."
   - "Cover the soup and refrigerate for at least 4 hours, though I find it's always best overnight. The flavours need that time to get to know each other."
   - "Serve chilled, garnished with a few fresh cherries or a sprig of mint if you're feeling fancy."
 faqs:
@@ -62,9 +62,9 @@ faqs:
     a: "In Hungary it is served as a chilled first course in summer, though it is sweet enough that it works just as well as a light dessert."
 ---
 
-Every July, the heat would settle over our town and my thoughts would turn to one thing: chilled soup. While my Ukrainian roots gave me a love for holodnyk (cold beet soup), it was our Hungarian neighbour, Mrs. Kovács, who introduced me to the magic of *Meggyleves*. I remember peering over her fence as a child, watching her pit a mountain of sour cherries from her garden, her fingers stained a brilliant ruby red. Her version was sweet, creamy, and felt like the ultimate summer indulgence.
+When the July heat settles in, chilled soup is the answer. Ukraine has its cold beet soup, and Hungary has *Meggyleves*, a chilled sour cherry soup that is sweet, creamy, and feels like the ultimate summer indulgence.
 
-This recipe is my tribute to those memories, but with a healthy twist that fits my way of eating. Traditional Meggyleves often uses sour cream and a good amount of sugar. I've swapped these for full-fat kefir and Skyr. This simple change does two wonderful things: it packs the soup with protein, making it a surprisingly filling snack, and it adds a complex tang and gut-friendly probiotics. It transforms the dish from a simple dessert soup into something substantial enough to stave off that 4 p.m. hunger.
+This version gives it a lighter twist. Traditional Meggyleves often uses sour cream and a good amount of sugar. I've swapped these for full-fat kefir and Skyr. This simple change does two wonderful things: it packs the soup with protein, making it a surprisingly filling snack, and it adds a complex tang, and because the kefir and Skyr go in after the soup has cooled, their live cultures survive. It transforms the dish from a simple dessert soup into something substantial enough to stave off that 4 p.m. hunger.
 
 The process is simple, but it demands a little patience. The key is allowing the cooked cherry base to cool properly before introducing the dairy. Rushing this step will cause the kefir and Skyr to curdle, and you'll lose that luxurious, silky texture. The shocking pink colour, the balance of tart and sweet, and the deep chill make it one of my favourite things to have waiting in the fridge on a blistering hot day.
 

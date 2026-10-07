@@ -1,8 +1,8 @@
 ---
 title: "Polish Spring Żurek with Soft-Boiled Egg & Radish"
-description: "A light yet satisfying fermented rye soup loaded with soft-boiled eggs, crisp spring radishes, and a whisper of marjoram, żurek delivers gut-friendly probiotics alongside serious staying power in under 300 calories per bowl."
+description: "A light yet satisfying fermented rye soup loaded with soft-boiled eggs, crisp spring radishes, and a whisper of marjoram, żurek delivers serious staying power in under 300 calories per bowl."
 metaTitle: "Polish Spring Żurek with Egg & Radish"
-metaDescription: "Light fermented rye żurek with soft-boiled egg, radish and marjoram. Probiotic-rich and under 300 calories per bowl."
+metaDescription: "Light fermented rye żurek with soft-boiled egg, radish and marjoram. Tangy, filling and under 300 calories per bowl."
 image: "/images/polish-spring-zurek-soft-boiled-egg-radish.webp"
 course: lunch
 cuisine: "Polish"
@@ -70,7 +70,7 @@ faqs:
 
 This spring version leans into the season. Instead of the heavier winter variations loaded with smoked meats, it uses soft-boiled eggs for protein, crisp young radishes for colour and crunch, and a scattering of fresh chives that tastes unmistakably of April. The result is a soup that feels clean and alive without sacrificing any of the depth that makes żurek so comforting.
 
-From a nutritional standpoint, żurek is a quietly impressive choice for a healthy lunch. The fermented rye starter contributes live cultures that support digestive health and adds a gentle sourness that keeps the soup interesting without extra fat or salt. Eggs supply complete protein and choline, potatoes offer slow-release carbohydrates, and the radishes bring vitamin C and a satisfying bite. At roughly 205 calories per generous bowl, it is one of the more nourishing light lunches in Central European cooking.
+From a nutritional standpoint, żurek is a quietly impressive choice for a healthy lunch. The fermented rye starter adds a gentle sourness that keeps the soup interesting without extra fat or salt. Eggs supply complete protein and choline, potatoes offer slow-release carbohydrates, and the radishes bring vitamin C and a satisfying bite. At roughly 205 calories per generous bowl, it is one of the more nourishing light lunches in Central European cooking.
 
 ---
 

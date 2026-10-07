@@ -44,7 +44,7 @@ steps:
   - "While the potatoes are cooking, prepare the other ingredients. Thinly slice the radishes and spring onions. Finely chop the fresh dill."
   - "In a small bowl, prepare the dressing by whisking together the kefir, Dijon mustard, lemon juice, and a good pinch of salt and pepper. Stir in about half of the chopped dill."
   - "Once the potatoes are cooked, drain them and let them cool just enough to handle. Cut any larger potatoes in half or into quarters so they are all bite-sized."
-  - "In a large mixing bowl, add the still-warm potatoes and pour over the kefir dressing. Gently toss to coat them evenly. The trick I learnt the hard way is that warm potatoes soak up flavour beautifully."
+  - "In a large mixing bowl, add the still-warm potatoes and pour over the kefir dressing. Gently toss to coat them evenly. Warm potatoes soak up flavour beautifully."
   - "Flake the smoked mackerel fillets into large chunks, being careful to remove any small bones you might find. Add the mackerel, sliced radishes, and spring onions to the bowl."
   - "Add the remaining fresh dill and gently fold everything together. Try not to break up the mackerel or potatoes too much."
   - "Taste and adjust the seasoning with more salt, pepper, or lemon juice if needed. You can serve it straight away or let it sit for 20 minutes for the flavours to meld."
@@ -57,9 +57,9 @@ faqs:
     a: "Up to 2 days in the fridge. The dill fades, so add a fresh pinch before serving leftovers."
 ---
 
-The moment new potatoes arrive in the markets, I know that spring has started in Poland. My mum made this salad every year, a lighter version of the heavy, mayonnaise-laden potato salads you often see. For us, the classic taste of home was simple boiled new potatoes with a knob of butter and a huge handful of freshly chopped dill (*ziemniaki z koperkiem*). This recipe takes that core memory and turns it into a complete, balanced meal that's perfect for a healthy lunch.
+When new potatoes arrive in the markets, spring has started in Poland. The classic way to eat them is boiled, with a knob of butter and a huge handful of freshly chopped dill (*ziemniaki z koperkiem*). This salad takes that idea, keeps it far lighter than the usual mayonnaise-laden potato salads, and turns it into a complete, balanced meal that's perfect for a healthy lunch.
 
-This isn't your average potato salad. Instead of a thick, fatty dressing, I use kefir, which gives it a lovely tang and a probiotic boost. It's light, refreshing, and feels so much better for you. The smoky, oily mackerel adds a fantastic depth of flavour and a healthy dose of omega-3s, while the peppery crunch of fresh radishes and the mild bite of spring onions cut through the richness. The dill, of course, is non-negotiable; its fresh, almost grassy scent is the heart of this dish. It's a salad that's hearty enough to be a meal on its own, keeping you full and satisfied without weighing you down.
+This isn't your average potato salad. Instead of a thick, fatty dressing, it uses kefir, which gives it a lovely tang and, since it is not cooked, live cultures. It's light, refreshing, and feels so much better for you. The smoky, oily mackerel adds a fantastic depth of flavour and a healthy dose of omega-3s, while the peppery crunch of fresh radishes and the mild bite of spring onions cut through the richness. The dill, of course, is non-negotiable; its fresh, almost grassy scent is the heart of this dish. It's a salad that's hearty enough to be a meal on its own, keeping you full and satisfied without weighing you down.
 
 ### Serving suggestions
 

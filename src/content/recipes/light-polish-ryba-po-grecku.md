@@ -65,15 +65,15 @@ faqs:
     a: "Parsnip is the closest substitute for parsley root, offering a similar earthy sweetness. If you cannot find parsnip either, use extra carrots and extra celeriac."
 ---
 
-The name "Ryba po Grecku" translates directly to "Fish Greek-style", though I have it on good authority that no one in Greece has ever heard of this dish. It is a Polish classic through and through, heavily reliant on the holy trinity of Eastern European root veg: carrots, parsley root, and celeriac. Growing up, my mum made massive glass platters of this for Wigilia, our traditional Christmas Eve supper. The heavy scent of whole allspice berries and sweet carrots simmering on the stove is pure nostalgia for me.
+The name "Ryba po Grecku" translates directly to "Fish Greek-style", though it has nothing to do with Greek cooking. It is a Polish classic through and through, heavily reliant on the holy trinity of Eastern European root veg: carrots, parsley root, and celeriac. It is a fixture of Wigilia, the Polish Christmas Eve supper, served on big platters, and the scent of whole allspice berries and sweet carrots simmering on the stove is unmistakable.
 
-Traditionally, the fish in this recipe is heavily coated in flour and pan-fried in generous amounts of oil before being buried under the vegetables. I learnt the hard way that frying white fish often leaves it greasy and masks its delicate flavour. Instead, I bake the cod naked, with just a pinch of salt and pepper. We still get that thick, sweet, tomato-heavy vegetable blanket, but the meal stays incredibly light and packed with lean protein. 
+Traditionally, the fish in this recipe is heavily coated in flour and pan-fried in generous amounts of oil before being buried under the vegetables. Frying can leave white fish greasy and mask its delicate flavour, so this version bakes the cod plain, with just a pinch of salt and pepper. We still get that thick, sweet, tomato-heavy vegetable blanket, but the meal stays incredibly light and packed with lean protein. 
 
 The trick to getting the vegetable topping right is patience. When you add the tomato paste to the sizzling onions and roots, let it cook dry for a minute. You want to hear it sputtering in the pan; this caramelises the sugars in the paste and removes any tinny, acidic harshness before you pour in the broth. 
 
 ### Serving ideas
 
-You do not need much to turn this into a satisfying meal. A thick slice of dark sourdough rye bread is perfect for mopping up the sweet, earthy tomato juices left on your plate. If I am making this for a weekend dinner and want something a bit heartier, I boil a few new potatoes and toss them in freshly chopped dill to serve alongside the fish.
+You do not need much to turn this into a satisfying meal. A thick slice of dark sourdough rye bread is perfect for mopping up the sweet, earthy tomato juices left on your plate. For something heartier, boil a few new potatoes and toss them in freshly chopped dill to serve alongside the fish.
 
 ### Storage and leftovers
 

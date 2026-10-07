@@ -1,6 +1,6 @@
 ---
 title: "Spring Nettle and Egg Drop Soup (Kropyvianyi Borshch)"
-description: "A vibrant Ukrainian spring soup made with tender young nettles, eggs, and vegetables, delivering a powerful boost of iron, vitamin C, and plant protein in every bowl."
+description: "A vibrant Ukrainian spring soup made with tender young nettles, eggs, and vegetables, with a good dose of vitamin C, minerals and protein in every bowl."
 metaTitle: "Spring Nettle & Egg Drop Soup"
 metaDescription: "Ukrainian spring nettle and egg drop soup, iron, vitamin C and plant protein in one light bowl."
 image: "/images/spring-nettle-egg-drop-soup.webp"
@@ -72,9 +72,9 @@ faqs:
 
 Long before kale became a superfood buzzword in Western wellness circles, Ukrainian grandmothers were heading to the forest edges and riverbanks every April to harvest young nettles, and turning them into *kropyvianyi borshch* (кропивʼяний борщ). This soup belongs to the rich tradition of Ukrainian "green borscht" (*zeleny borshch*), a seasonal family that also includes the beloved sorrel-based *shchavel borshch*. Unlike the deep ruby beetroot borshch that most of the world associates with Ukrainian cuisine, spring nettle borshch is a pale, vivid green, a colour that signals renewal, lightness, and the end of a long, root-vegetable-heavy winter.
 
-Nettles (*Urtica dioica*) have been a staple spring green across Eastern Europe and beyond for centuries, valued precisely because they appear early in the season when little else is growing. They are extraordinarily nutritious: young nettle tops are rich in iron, calcium, magnesium, vitamins A and C, and offer a surprising amount of plant protein. The egg drop technique, borrowed into Ukrainian cooking from long culinary exchange routes across the continent, turns this modest wild green soup into a satisfying, protein-rich meal that requires almost no effort once your vegetables are prepped.
+Nettles (*Urtica dioica*) have been a staple spring green across Eastern Europe and beyond for centuries, valued precisely because they appear early in the season when little else is growing. They are very nutritious: young nettle tops are rich in calcium, vitamins A and K, and also provide iron, magnesium and vitamin C. Stirring beaten egg into the hot broth turns this modest wild green soup into a satisfying, protein-rich meal that requires almost no effort once your vegetables are prepped.
 
-For a healthy, balanced diet, *kropyvianyi borshch* is close to ideal. It is low in calories (around 210 kcal per serving), high in protein from the eggs, rich in fibre from the vegetables, and contains no refined carbohydrates. The apple cider vinegar adds a gentle brightness that lifts the whole bowl and helps with iron absorption from the nettles, a small but meaningful nutritional detail. Whether you gather nettles from a clean meadow or source them at a farmers' market, making this soup connects you to one of the older, more honest traditions in Eastern European cooking.
+For a healthy, balanced diet, *kropyvianyi borshch* is close to ideal. It is low in calories (around 210 kcal per serving), high in protein from the eggs, rich in fibre from the vegetables, and contains no refined carbohydrates. The apple cider vinegar adds a gentle brightness that lifts the whole bowl. Whether you gather nettles from a clean meadow or source them at a farmers' market, making this soup connects you to one of the older, more honest traditions in Eastern European cooking.
 
 ---
 

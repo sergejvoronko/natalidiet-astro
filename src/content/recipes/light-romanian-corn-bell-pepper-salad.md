@@ -60,9 +60,9 @@ faqs:
     a: "Two to three days in the fridge, and the flavour deepens overnight. Add the fresh herbs shortly before serving so they stay green."
 ---
 
-This salad takes me straight back to my grandmother's garden in the summer. In Romania, a simple `salată de vară` (summer salad) is a staple, made with whatever is bursting with flavour at that moment. The combination of sweet corn and `ardei copți`—smoky, sweet roasted peppers, is classic. The smell of peppers charring over an open flame is one of those core food memories for me. It meant something delicious and simple was on its way.
+In Romania, a simple `salată de vară` (summer salad) is a staple, made with whatever is bursting with flavour at that moment. The combination of sweet corn and `ardei copți`—smoky, sweet roasted peppers, is classic. It is a natural part of a Romanian barbecue: while the *mici* sizzle on the grill, a few peppers go on the side to char.
 
-My mum made this every time we had a barbecue. While the *mici* were sizzling on the grill, she'd throw a few peppers on the side to char. It wasn't a fancy side dish, just a natural part of the meal. I've adapted her simple recipe to be a complete, balanced lunch by adding lean grilled chicken. It turns a light side into a satisfying meal that keeps you full for hours. It's fresh, it's colourful, and it proves that healthy eating doesn't mean boring food.
+This version turns that simple side into a complete, balanced lunch by adding lean grilled chicken, so it fills you up. It's fresh, it's colourful, and it proves that healthy eating doesn't mean boring food.
 
 What I love most is how the textures and flavours play together. You get the sweet pop of the corn kernels, the soft, smoky flesh of the pepper, the sharp bite of red onion, and the incredible freshness from a huge handful of dill. Dill is non-negotiable in so many Romanian dishes, and here it lifts everything up. It's a perfect example of how a few good ingredients, treated simply, can create something special.
 
@@ -72,6 +72,6 @@ This salad is a fantastic standalone lunch, as it has everything you need, prote
 
 ### Variations and Storage
 
-There are a few ways you can adapt this salad. For a vegetarian version, the trick I always use is to swap the chicken for about 200g of crumbled Romanian `brânză` or a good quality feta cheese. It adds a salty, creamy element that's just wonderful. For extra crunch, you could add a chopped cucumber or a handful of toasted sunflower seeds.
+There are a few ways you can adapt this salad. For a vegetarian version, swap the chicken for about 200g of crumbled Romanian `brânză` or a good quality feta cheese. It adds a salty, creamy element that's just wonderful. For extra crunch, you could add a chopped cucumber or a handful of toasted sunflower seeds.
 
 The salad keeps well in the fridge for up to two days in an airtight container. If you plan to make it ahead, it's best to store the dressing separately and toss it through just before serving to keep the herbs and vegetables as fresh as possible. The flavours actually get even better on the second day as they have more time to mingle.

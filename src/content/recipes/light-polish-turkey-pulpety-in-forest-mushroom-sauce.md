@@ -61,9 +61,9 @@ faqs:
     a: "Yes, in their sauce, for up to three months. Thaw overnight and reheat slowly; add a splash of broth if the sauce has thickened too far."
 ---
 
-My mum made this every autumn as soon as the air turned crisp and the local foragers started selling dried borowiki at the morning market. Traditional Polish pulpety are comfort food in its purest form, soft, braised meatballs that rely on gentle simmering rather than a heavy frying pan. Standing by the stove, you catch that unmistakable earthy, woody scent of wild mushrooms rehydrating in hot stock. It smells exactly like an October forest after a heavy rain.
+This is an autumn dish, for when the air turns crisp and dried borowiki (porcini) appear at the market. Traditional Polish pulpety are comfort food in its purest form, soft, braised meatballs that rely on gentle simmering rather than a heavy frying pan. Standing by the stove, you catch that unmistakable earthy, woody scent of wild mushrooms rehydrating in hot stock. It smells exactly like an October forest after a heavy rain.
 
-I always make my pulpety with lean turkey breast instead of the traditional heavy mix of pork and beef. Turkey absorbs the deep, savoury notes of the mushroom sauce beautifully while keeping the dish incredibly light and easy to digest. The trick I learnt the hard way is not to over-mix the poultry; a light, quick touch keeps the meatballs pillowy and tender. 
+This version uses lean turkey breast instead of the traditional heavier mix of pork and beef. Turkey absorbs the deep, savoury notes of the mushroom sauce beautifully while keeping the dish light. Do not over-mix the meat: a light, quick touch keeps the meatballs pillowy and tender. 
 
 By skipping the heavy cream usually poured into the pan at the very end, we let the pure, unadulterated flavour of the forest mushrooms shine through. The lightly thickened broth coats the meat just enough to feel indulgent, creating a brilliant high-protein dinner that won't weigh you down.
 
@@ -73,4 +73,4 @@ I love spooning these meatballs and their dark, glossy sauce over buckwheat kash
 
 ### Keeping the Leftovers
 
-I've found they actually taste better the next day once the turkey has rested in that savoury liquid overnight. Keep them in an airtight glass container in the fridge for up to three days. I just reheat them gently on the stove over low heat, adding a tiny splash of water or extra broth if the sauce has thickened up too much in the cold.
+They often taste even better the next day once the turkey has rested in that savoury liquid overnight. Keep them in an airtight glass container in the fridge for up to three days. I just reheat them gently on the stove over low heat, adding a tiny splash of water or extra broth if the sauce has thickened up too much in the cold.

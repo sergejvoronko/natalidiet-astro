@@ -49,7 +49,7 @@ steps:
   - "Add the diced red bell pepper and zucchini to the pot. Cook for another 5-7 minutes, stirring occasionally, until the vegetables begin to soften."
   - "Stir in the rinsed millet, coating it with the oil and vegetables. Pour in the vegetable broth, add the salt and black pepper, and bring the mixture to a boil."
   - "Once boiling, reduce the heat to low, cover the pot with a tight-fitting lid, and let it simmer for about 20 minutes, or until all the liquid has been absorbed and the millet is fluffy."
-  - "Turn off the heat and let the pilaf stand, covered, for 5 more minutes. The trick I learnt the hard way is not to skip this step; it's essential for getting the perfect texture."
+  - "Turn off the heat and let the pilaf stand, covered, for 5 more minutes. Do not skip this step; it's essential for the right texture."
   - "Fluff the millet with a fork. Gently fold in the crumbled feta cheese, chopped fresh dill, and fresh parsley. Adjust seasoning if needed and serve immediately."
 faqs:
   - q: "Should I toast the millet?"
@@ -60,11 +60,11 @@ faqs:
     a: "It does. Keep it up to three days in the fridge and add the feta and herbs fresh when you serve, so they do not go limp."
 ---
 
-When I think of summer in Ukraine, I think of my grandmother's dacha, where the air smells of sun-baked earth and dill. We'd come back from the garden with baskets full of sweet peppers and zucchini, and my mum would turn them into something simple and wonderful. While buckwheat gets all the attention, millet was our go-to for lighter dishes. It has a delicate, almost fluffy texture that doesn't weigh you down, making it perfect for a warm-weather lunch.
+Summer in Ukraine means gardens full of sweet peppers, zucchini and dill, turned into simple, wonderful meals. While buckwheat gets all the attention, millet is a great choice for lighter dishes. It has a delicate, almost fluffy texture that doesn't weigh you down, making it perfect for a warm-weather lunch.
 
-This pilaf is my modern take on those summer meals. It's not a traditional, heavy pilaf, but a bright, vegetable-packed dish that feels both satisfying and energising. The sweetness of the sautéed peppers and onions, the gentle bite of zucchini, and the fluffy millet create a beautiful base. But the real magic happens at the end. The sharp, salty feta melts just slightly into the warm grain, and a huge handful of fresh dill and parsley cuts through everything with a clean, green flavour.
+This pilaf is a modern take on those summer meals. It's not a traditional, heavy pilaf, but a bright, vegetable-packed dish that feels both satisfying and energising. The sweetness of the sautéed peppers and onions, the gentle bite of zucchini, and the fluffy millet create a beautiful base. But the real magic happens at the end. The sharp, salty feta melts just slightly into the warm grain, and a huge handful of fresh dill and parsley cuts through everything with a clean, green flavour.
 
-It's exactly the kind of food I want to eat when I'm focused on my health. It's naturally gluten-free and packed with nutrients from the vegetables. This isn't a meal that will send you to the sofa for a nap. It's light, it's colourful, and it's the taste of a long, sunny afternoon.
+It's naturally gluten-free and packed with nutrients from the vegetables. This isn't a meal that will send you to the sofa for a nap. It's light, it's colourful, and it's the taste of a long, sunny afternoon.
 
 ### Serving & Variations
 

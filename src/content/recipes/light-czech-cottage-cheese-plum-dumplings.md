@@ -17,7 +17,7 @@ fat: 10
 fibre: 4
 tags: ["czech", "snack", "high-protein", "under-300-kcal", "seasonal-plums", "vegetarian"]
 category: "snacks"
-tip: "The trick I learnt the hard way is to not overwork the dough. Mix it just until it comes together; it should be slightly sticky. A wet hand makes shaping the dumplings around the plums much easier and prevents a tough, chewy result."
+tip: "Do not overwork the dough. Mix it just until it comes together; it should be slightly sticky. A wet hand makes shaping the dumplings around the plums much easier and prevents a tough, chewy result."
 publishDate: 2026-09-08
 featured: false
 ingredients:
@@ -59,7 +59,7 @@ faqs:
     a: "Freeze them raw on a tray, then bag them once solid. Cook from frozen and add two or three minutes to the simmering time."
 ---
 
-When late summer arrives, my kitchen always fills with the sweet, jammy scent of plums. It's a smell that takes me right back to my childhood. My mum made these cottage cheese dumplings, *tvarohové knedlíky*, every September, a perfect celebration of the harvest. Her versions were amazing, but often quite heavy. My take on this classic Czech comfort food keeps all the soul but lightens it up significantly, making it a treat you can feel good about.
+Late summer means plum season, and few things celebrate it better than these Czech cottage cheese dumplings, *tvarohové knedlíky*, with a whole plum inside. Traditional versions are often quite heavy. This take on the classic keeps all the soul but lightens it up significantly, making it a treat you can feel good about.
 
 The secret is in the dough. Instead of a dense, flour-heavy mixture, we use *tvaroh*, a fresh, unripened cheese similar to cottage cheese or quark. It creates a dough that is incredibly soft, light, and packed with protein. When you bite through the pillowy dumpling, you get that burst of a warm, juicy plum inside. It's a simple dish, but the contrast between the tender dough and the sweet, slightly tart fruit is just perfect.
 

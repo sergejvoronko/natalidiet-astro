@@ -1,8 +1,8 @@
 ---
 title: "Light Spring Kohlrabi and Cabbage Salad with Kefir Dressing"
-description: "This crisp and refreshing salad combines tender kohlrabi and young spring cabbage with protein-rich chicken and a creamy, probiotic kefir dressing. It's a light yet satisfying meal packed with fibre and gut-friendly bacteria."
+description: "This crisp and refreshing salad combines tender kohlrabi and young spring cabbage with protein-rich chicken and a creamy, probiotic kefir dressing. It's a light yet satisfying meal packed with fibre, with a tangy kefir dressing."
 metaTitle: "Kohlrabi & Cabbage Salad with Kefir Dressing"
-metaDescription: "Crisp kohlrabi and spring cabbage salad with chicken and probiotic kefir dressing. Light, high-fibre and gut-friendly."
+metaDescription: "Crisp kohlrabi and spring cabbage salad with chicken and probiotic kefir dressing. Light, high-fibre and refreshing."
 image: "/images/light-spring-kohlrabi-cabbage-salad-kefir-dressing.webp"
 course: lunch
 cuisine: "Ukrainian"
@@ -49,7 +49,7 @@ steps:
   - "Prepare the vegetables. Using a mandoline or a sharp knife, shred the peeled kohlrabi and the young spring cabbage into fine strips. Place them in a large bowl, sprinkle with 1/2 tsp salt, and toss to combine. Let it sit for about 10 minutes."
   - "Finely chop the fresh dill and slice the green onions. Once the potatoes have cooled slightly, cut them into bite-sized cubes."
   - "Make the kefir dressing. In a small bowl, whisk together the plain kefir, lemon juice, chopped dill, and sliced green onions. Season with a pinch of black pepper."
-  - "Squeeze any excess water from the salted kohlrabi and cabbage mixture. The trick I learnt the hard way is that this step is crucial for a crisp, not soggy, salad."
+  - "Squeeze any excess water from the salted kohlrabi and cabbage mixture. This step is crucial for a crisp, not soggy, salad."
   - "Add the cooled, cubed potatoes and diced chicken to the bowl with the kohlrabi and cabbage. Pour over the kefir dressing and gently toss everything together until well combined. Taste and adjust seasoning if needed."
   - "Serve immediately for the best crunch, or let it sit for 15 minutes for the flavours to meld."
 faqs:
@@ -61,11 +61,11 @@ faqs:
     a: "Best within 24 hours, the kefir dressing slowly softens the cabbage after that."
 ---
 
-There's a specific sound that means spring has arrived in Ukraine: the sharp, satisfying crunch of the first young kohlrabi of the season. My mum would bring it from the market, its pale green skin still vibrant, and we'd often eat it raw, just sliced with a pinch of salt. It has a delicate, sweet flavour, somewhere between a cabbage heart and a mild turnip, and it's the star of this salad. This recipe is my way of capturing those first warm days after a long winter, when all you want is something fresh, light, and full of life.
+There's a specific sound that means spring has arrived in Ukraine: the sharp, satisfying crunch of the first young kohlrabi of the season. It is often eaten raw, just sliced with a pinch of salt. It has a delicate, sweet flavour, somewhere between a cabbage heart and a mild turnip, and it's the star of this salad. This recipe captures those first warm days after a long winter, when all you want is something fresh, light, and full of life.
 
-This isn't just another boring salad. It's a proper meal, built on the foundations of simple, seasonal Slavic cooking. We use tender spring cabbage, which is so much softer than its winter counterpart, and new potatoes that add a lovely, creamy texture. The chicken makes it substantial enough for lunch, keeping you full without feeling heavy. It's the kind of food I grew up with, unfussy, honest, and connected to the seasons.
+This isn't just another boring salad. It's a proper meal, built on the foundations of simple, seasonal Slavic cooking. We use tender spring cabbage, which is so much softer than its winter counterpart, and new potatoes that add a lovely, creamy texture. The chicken makes it substantial enough for lunch, keeping you full without feeling heavy. It's unfussy, honest food, connected to the seasons.
 
-The real heart of this dish, for me, is the kefir dressing. Instead of a heavy mayonnaise, we use tangy, probiotic-rich kefir, which is something we always had in the fridge. It provides a creamy coating and a slight fizz that brightens everything up, all while being fantastic for your gut health. Mixed with a mountain of fresh dill and sharp green onions, the smell alone is enough to transport me back to my family's kitchen.
+The real heart of this dish, for me, is the kefir dressing. Instead of a heavy mayonnaise, it uses tangy kefir, a staple in many Eastern European fridges. It gives a creamy coating and a slight fizz that brightens everything up, and since it is not cooked it keeps its live cultures. Mixed with a mountain of fresh dill and sharp green onions, it smells wonderful.
 
 ### Serving and variations
 

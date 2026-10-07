@@ -64,15 +64,15 @@ faqs:
     a: "Traditionally borș, a fermented wheat bran liquid. Lemon juice or a splash of vinegar added at the end gives a similar brightness if you cannot find it."
 ---
 
-Growing up, a steaming bowl of ciorbă de perișoare was a staple on our family table. Its distinctive sour broth always cut through the rich, heavy pork meatballs my grandmother insisted on making. I can still smell the sharp, citrusy tang of the boiling liquid mingling with earthy root vegetables on a Sunday afternoon. While I still adore those traditional flavours, my stomach prefers a lighter touch these days. 
+Ciorbă de perișoare is a Romanian family-table staple: a sour broth full of root vegetables, with meatballs that are traditionally made from rich, fatty pork.
 
-To keep that nostalgic, comforting essence without the post-meal sluggishness, I swap the traditional fatty pork for lean turkey mince. It binds beautifully with a little egg white and rice, turning into delicate, tender little spheres that poach gently in the tomato-tinted broth. The real secret of Romanian ciorbă is the souring agent. Authentic recipes call for a fermented wheat bran liquid called borș, but I've found that a generous squeeze of fresh lemon juice creates that exact lip-smacking acidity I crave.
+To keep its comforting character with a lighter touch, this version swaps the pork for lean turkey mince. It binds beautifully with a little egg white and rice, turning into delicate, tender little spheres that poach gently in the tomato-tinted broth. The real secret of Romanian ciorbă is the souring agent. Authentic recipes call for a fermented wheat bran liquid called borș, but a generous squeeze of fresh lemon juice gives a similar lip-smacking acidity.
 
 This soup fits perfectly into a balanced routine because it relies on the natural sweetness of carrots and bell peppers, lean protein from the turkey, and a bit of filling starch from the rice hidden inside the meatballs. You get a complete, satisfying meal in one bowl that won't weigh you down.
 
 ## How I Serve It
 
-I always serve this with a dollop of low-fat Greek yoghurt stirred right into the bowl, replacing the traditional heavy sour cream. It creates a creamy, velvety finish that beautifully mellows the sharp lemon broth. A slice of dense, crusty sourdough bread on the side is perfect for mopping up every last drop of the rust-coloured liquid. If you like a bit of heat, bite into a raw green chilli between spoonfuls of soup, which is exactly how they do it in Bucharest.
+Serve it with a dollop of low-fat Greek yoghurt stirred right into the bowl, replacing the traditional heavy sour cream. It creates a creamy, velvety finish that beautifully mellows the sharp lemon broth. A slice of dense, crusty sourdough bread on the side is perfect for mopping up every last drop of the rust-coloured liquid. If you like a bit of heat, bite into a raw green chilli between spoonfuls of soup, which is exactly how they do it in Bucharest.
 
 ## Storage and Easy Swaps
 

@@ -63,11 +63,11 @@ faqs:
     a: "Yes. Freeze them in their sauce once cooled, for up to three months, and reheat gently so the peppers do not fall apart."
 ---
 
-Stuffed peppers, or *Pulneni Chushki*, take me straight back to my grandmother's kitchen in the summertime. The sweet aroma of roasting peppers would fill the entire house, a promise of the comforting meal to come. It's one of those classic dishes that every Bulgarian family has their own version of. Hers was rich, made with a mix of pork and beef and often served with a generous dollop of thick yogurt. It was pure comfort on a plate.
+Stuffed peppers, or *Pulneni Chushki*, are a Bulgarian summer classic, and the sweet aroma of roasting peppers fills the whole kitchen. Every Bulgarian family has its own version. Traditional ones are rich, often made with a mix of pork and beef and served with a generous dollop of thick yogurt. It was pure comfort on a plate.
 
 My version here is a little lighter, adapted for a more balanced, everyday diet, but it loses none of the soul of the original. I've swapped the heavier meats for lean ground chicken, which keeps things light but still wonderfully flavourful. The filling is packed with fresh herbs like dill and parsley – a combination that's quintessentially Bulgarian and brightens everything up. The rice soaks up all the juices from the chicken and the simple tomato sauce as it bakes inside the pepper.
 
-This isn't just a 'healthy version'; it's a delicious meal that feels both wholesome and satisfying. It's proof that you don't need a lot of fat or heavy ingredients to create something memorable. The trick I learnt the hard way is not to overstuff the peppers; the rice needs room to expand and become fluffy, not dense.
+This isn't just a 'healthy version'; it's a delicious meal that feels both wholesome and satisfying. It's proof that you don't need a lot of fat or heavy ingredients to create something memorable. Do not overstuff the peppers: the rice needs room to expand and become fluffy, not dense.
 
 ### How to Serve Your Stuffed Peppers
 

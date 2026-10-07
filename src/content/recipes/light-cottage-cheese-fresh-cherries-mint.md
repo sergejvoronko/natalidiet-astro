@@ -32,7 +32,7 @@ ingredients:
   - amount: "20g"
     name: "flaked almonds, toasted"
 steps:
-  - "First, prepare your cherries. Wash them well, remove the stems, and pit them. The trick I learned the hard way is that cherry juice stains, so be careful! Slice each cherry in half."
+  - "First, prepare your cherries. Wash them well, remove the stems, and pit them. Cherry juice stains, so be careful! Slice each cherry in half."
   - "If you like a very smooth texture, you can blend the cottage cheese for about 30 seconds with an immersion blender. I usually skip this as I like the traditional curd texture."
   - "In a medium bowl, combine the cottage cheese, halved cherries, most of the chopped fresh mint, and the honey. Gently fold everything together until just combined."
   - "Divide the mixture between two bowls. Top with the remaining fresh mint and a sprinkle of toasted flaked almonds for a wonderful crunch."
@@ -45,9 +45,9 @@ faqs:
     a: "Assemble the cottage cheese and cherries ahead, but add the almonds and mint just before eating so the nuts stay crisp and the mint does not blacken."
 ---
 
-Growing up in Ukraine, cottage cheese, or *syr* as we call it, was a constant on our breakfast table. It wasn't the fancy whipped kind you see today, but a simple, rustic cheese with a pleasant curd. My mum made this every other day, often just with a dollop of sour cream and a spoonful of whatever jam was open in the fridge. It was hearty, simple, and the kind of food that fuels your morning. It's a memory that feels incredibly comforting and real to me.
+In Ukraine, cottage cheese, or *syr*, is a breakfast staple: not the fancy whipped kind, but a simple, rustic cheese with a pleasant curd, often eaten with a dollop of sour cream and a spoonful of jam. It's hearty, simple, and the kind of food that fuels your morning.
 
-This recipe is my way of taking that humble breakfast and giving it a fresh, seasonal twist. When summer arrives, the markets are overflowing with the most beautiful, deep-red cherries, and my garden is full of mint. The combination of the sweet, juicy fruit with the cool, bright flavour of mint is just incredible. The aroma of freshly chopped mint instantly reminds me of warm mornings in my grandmother's garden. It's a clean, light, and surprisingly sophisticated pairing that transforms simple cottage cheese into something special.
+This recipe is my way of taking that humble breakfast and giving it a fresh, seasonal twist. When summer arrives, the markets overflow with deep-red cherries and fresh mint. The combination of the sweet, juicy fruit with the cool, bright flavour of mint is just incredible. It's a clean, light, and surprisingly sophisticated pairing that transforms simple cottage cheese into something special.
 
 What I love most is how effortlessly healthy this breakfast is. It's packed with protein, which keeps me feeling full and satisfied until lunchtime, preventing any mid-morning snack cravings. The natural sweetness from the cherries means you only need a tiny drizzle of honey, if any at all. It's a no-cook meal that comes together in minutes, perfect for those warm days when the thought of turning on the stove is just too much to bear.
 

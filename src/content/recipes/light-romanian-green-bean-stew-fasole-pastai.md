@@ -17,7 +17,7 @@ fat: 7
 fibre: 6
 tags: ["romanian", "stew", "high-protein", "under-300-kcal", "summer-vegetables", "dill-recipe"]
 category: "healthy-soups"
-tip: "The trick I learnt the hard way is to add the fresh dill right at the end, after turning off the heat. Cooking it for even a minute dulls its bright, fresh flavour."
+tip: "Add the fresh dill right at the end, after turning off the heat. Cooking it for even a minute dulls its bright, fresh flavour."
 publishDate: 2026-08-07
 featured: false
 ingredients:
@@ -57,9 +57,9 @@ faqs:
     a: "Leave out the chicken and use vegetable stock. The beans, tomato and paprika carry the dish perfectly well on their own."
 ---
 
-This stew, *Mâncare de Fasole Păstăi*, is pure Romanian summer in a bowl. My mum made this every August, when the garden was overflowing with green beans and the tomatoes were so ripe they'd split if you looked at them too hard. The whole house would fill with the sweet smell of simmering tomatoes and, most importantly, the fresh, almost grassy scent of a massive bunch of dill. It's a simple, humble dish that celebrates vegetables at their absolute peak.
+This stew, *Mâncare de Fasole Păstăi*, is pure Romanian summer in a bowl. It's an August dish, for when gardens overflow with green beans and tomatoes are so ripe they split. The whole kitchen fills with the sweet smell of simmering tomatoes and, most importantly, the fresh, almost grassy scent of a massive bunch of dill. It's a simple, humble dish that celebrates vegetables at their absolute peak.
 
-Unlike heavy winter stews, this one is light, brothy, and vibrant. The sauce isn't thick and heavy; it's a flavourful broth created by the tomatoes and stock, perfect for soaking up with a piece of good bread. The traditional version is often vegetarian, but I've found that adding a bit of lean chicken breast turns it into a complete, balanced meal that keeps me full for hours without feeling weighed down. It's exactly the kind of food I want to eat when I'm focused on my health goals but refuse to eat boring meals.
+Unlike heavy winter stews, this one is light, brothy, and vibrant. The sauce isn't thick and heavy; it's a flavourful broth created by the tomatoes and stock, perfect for soaking up with a piece of good bread. The traditional version is often vegetarian, but adding a bit of lean chicken breast turns it into a complete, balanced meal that fills you up without feeling heavy.
 
 The key to its magic is simplicity and the quality of the ingredients. Don't be shy with the dill, it's not just a garnish here, it's a primary flavour. Using fresh, in-season green beans and ripe, juicy tomatoes makes a world of difference. It's a dish that proves healthy eating isn't about deprivation; it's about making smart, delicious choices with real food.
 

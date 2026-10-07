@@ -1,7 +1,7 @@
 ---
 title: "Kapustnyak — Ukrainian Sauerkraut Soup"
-description: "A satisfying Ukrainian sauerkraut soup. Probiotic-rich, only 175 calories, and ready in 35 minutes. One of Eastern Europe's best-kept weight loss secrets."
-metaDescription: "Ukrainian sauerkraut soup, probiotic-rich, 175 calories, ready in 35 minutes. One of Eastern Europe's best weight-loss dishes."
+description: "A satisfying Ukrainian sauerkraut soup. Tangy, only 175 calories, and ready in 35 minutes. One of Eastern Europe's best-kept weight loss secrets."
+metaDescription: "Ukrainian sauerkraut soup, tangy and filling, 175 calories, ready in 35 minutes. One of Eastern Europe's best weight-loss dishes."
 course: "lunch"
 cuisine: "Ukrainian"
 prepTime: 10
@@ -60,6 +60,6 @@ faqs:
     a: "Yes, up to 3 months. The potatoes soften slightly on thawing but the flavour holds."
 ---
 
-Kapustnyak is the soup that Eastern European grandmothers made to get through winter. Sauerkraut, fermented white cabbage, is an underrated ingredient: probiotic-rich, almost no calories, and it gives this soup a depth no fresh vegetable can match.
+Kapustnyak is the soup that Eastern European grandmothers made to get through winter. Sauerkraut, fermented white cabbage, is an underrated ingredient: very low in calories, full of fibre, and it gives this soup a depth no fresh vegetable can match.
 
 At 175 calories for a large bowl, this is one of the more filling soups in the Eastern European repertoire.

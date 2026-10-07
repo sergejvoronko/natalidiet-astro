@@ -55,11 +55,11 @@ faqs:
     a: "Low heat and patience. Pull the pan off the heat while the eggs still look slightly underdone, because they carry on setting in the residual heat."
 ---
 
-The smell of sweet peppers hitting a hot skillet takes me straight back to warm Balkan summers. Mish-Mash is a staple across Bulgaria, a humble and incredibly comforting dish my friends from Sofia introduced me to years ago. They always made it for quick lunches, tossing whatever ripe tomatoes and peppers were sitting on the counter into a pan with farm-fresh eggs. It is home cooking in its purest form, relying entirely on the quality of a few good ingredients rather than complex techniques.
+The smell of sweet peppers hitting a hot skillet is the smell of a Balkan summer. Mish-Mash is a staple across Bulgaria, a humble and incredibly comforting dish, often made for quick lunches by tossing whatever ripe tomatoes and peppers are on the counter into a pan with fresh eggs. It is home cooking in its purest form, relying entirely on the quality of a few good ingredients rather than complex techniques.
 
-I tweaked the traditional farmhouse method slightly to fit my own weekday routine. Standard versions often rely on a generous glug of sunflower oil and heavy chunks of full-fat sirene cheese. I use just a tiny bit of olive oil and a lighter feta to keep it protein-rich but much lower in heavy fats. The result is just as satisfying. Hearing the eggs sizzle and hiss as they hit the sweet, reduced tomato and pepper base is pure joy when I am starving at 1 PM. The moisture from the tomatoes makes the scrambled eggs incredibly tender, almost like a soft curd.
+This version tweaks the traditional farmhouse method slightly. Standard versions often rely on a generous glug of sunflower oil and heavy chunks of full-fat sirene cheese. This one uses just a little olive oil and a lighter feta to keep it protein-rich but much lower in heavy fats. The result is just as satisfying. Hearing the eggs sizzle as they hit the sweet, reduced tomato and pepper base is pure joy at lunchtime. The moisture from the tomatoes makes the scrambled eggs incredibly tender, almost like a soft curd.
 
-This meal delivers a massive hit of vitamins from the red vegetables, while the eggs and cheese provide the sustained energy I need for the rest of the day. You don't feel weighed down afterwards. Because the vegetables break down into a rich, savoury sauce, you get immense flavour in every single bite.
+Peppers and tomatoes bring plenty of vitamin C, while the eggs and cheese bring protein that keeps you going. You don't feel weighed down afterwards. Because the vegetables break down into a rich, savoury sauce, you get immense flavour in every single bite.
 
 ## Serving Ideas
 
@@ -67,7 +67,7 @@ I love eating this straight out of a shallow bowl with a thick slice of toasted 
 
 ## Storage
 
-I rarely have leftovers, but you can keep the cooked vegetable base in an airtight container in the fridge for up to three days. The trick I learnt the hard way is to only scramble the eggs into the portion you plan to eat right away. Reheated eggs tend to go rubbery, so warm the tomato and pepper base on the stove when you are ready to eat, and crack fresh eggs directly into the pan.
+You can keep the cooked vegetable base in an airtight container in the fridge for up to three days. Only scramble the eggs into the portion you plan to eat right away. Reheated eggs tend to go rubbery, so warm the tomato and pepper base on the stove when you are ready to eat, and crack fresh eggs directly into the pan.
 
 ## Variations
 
