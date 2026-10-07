@@ -11,23 +11,23 @@ featured: false
 image: "/images/blog/healthy-traditional-eastern-european-food.webp"
 ---
 
-Traditional Eastern European food is, in many ways, already healthy. The problem is not the cuisine, it is how it evolved over the 20th century. Soviet-era food shortages made fat the primary calorie source. Post-communist access to cheap refined carbohydrates changed eating patterns. The loss of traditional small-portion wisdom followed.
-This pillar is about going back. Back to the authentic roots of these dishes, stripping away the accumulated layers of excess fat and poor-quality ingredients, and revealing the nourishing food that was always underneath.
+Traditional Eastern European food is, in many ways, already healthy. Everyday cooking was built on grains, vegetables, soups and fermented foods, with meat and fat in modest amounts, while the richest dishes were kept for feasts. Today many of those festive dishes are eaten every day, in bigger portions, with more fat and more refined flour.
+This pillar is about getting back to the everyday core of these dishes: trimming the excess fat and oversized portions, and keeping the nourishing food underneath.
 
-## The 6 dishes in this pillar
-The main-dish pillar rebuilds six classics so they land under 400 calories without losing what makes them worth cooking:
-- Chicken paprikash with Greek yogurt (310 kcal)
+## The six main dishes
+The main-dish guide rebuilds six classics so they land under 400 calories without losing what makes them worth cooking:
+- Chicken paprikash with Greek yogurt (350 kcal)
 - Holubtsi, cabbage rolls in tomato sauce (280 kcal)
-- Hungarian goulash, lighter but still deep (340 kcal)
-- Baked varenyky/pierogi (320 kcal)
-- Buckwheat with mushrooms (290 kcal)
-- Slovak pork tenderloin (360 kcal)
+- Hungarian goulash, lighter but still deep (370 kcal)
+- Baked varenyky/pierogi (300 kcal)
+- Buckwheat with mushrooms (300 kcal)
+- Slovak pork tenderloin (380 kcal)
 
 The principles below are what make those swaps work, and they carry over to almost any dish in the tradition.
 
 ## Universal principles for healthy traditional cooking
 ### 1. Find the Original Recipe
-Modern versions of traditional dishes are almost always heavier than the historical originals. Pre-industrial peasant cooking used fat as a precious resource, not a casual ingredient. Going back to the oldest available sources often reveals a dish that was never as heavy as modern versions suggest.
+Restaurant and festive versions of traditional dishes are often much heavier than everyday home cooking. Fat used to be a precious resource rather than a casual ingredient, so older, everyday versions of a dish are often lighter than the ones served today.
 ### 2. Moisture Management is Everything
 The technique that changes the most, when you want lighter Eastern European cooking, is moisture removal. Grating potatoes for deruny and NOT squeezing out the liquid is the primary reason home-made versions absorb far too much oil. Remove the moisture first, and the batter becomes light and crisp without excess oil.
 ### 3. Oven-Finishing Instead of Pan-Frying
@@ -39,11 +39,11 @@ Low-fat Greek yogurt replaces full-fat sour cream in all cooked applications, al
 
 ### Can traditional Eastern European food be light?
 
-Yes, and the historical evidence is clear. Pre-industrial peasant cooking was light because fat was scarce and expensive. The heavy versions we associate with these cuisines are largely a product of the 20th century. The original dishes are often beautifully lean.
+Yes. Everyday cooking in the region relied on vegetables, grains and soups, with fat and meat used sparingly because they were expensive. Many of the heavy versions we associate with these cuisines are festive or restaurant dishes. With leaner cuts, less fat and lighter dairy, most of them become light.
 
 ### Do these healthier versions taste like the real thing?
 
-For most dishes in this pillar, yes, very closely. Baked deruny taste nearly identical to fried ones. Syrniki with oat flour are excellent. The dish where the healthy version differs most noticeably is svíčková, the cream sauce is distinctive and the yogurt version, while delicious, is somewhat lighter in texture.
+For most dishes, they come close. Baked deruny are crisp and very close to fried ones. Syrniki with oat flour are excellent. The dish where the healthy version differs most noticeably is svíčková, the cream sauce is distinctive and the yogurt version, while delicious, is somewhat lighter in texture.
 
 ### Which dish is easiest to make healthy?
 

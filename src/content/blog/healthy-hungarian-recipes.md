@@ -12,22 +12,22 @@ image: "/images/blog/healthy-hungarian-recipes.webp"
 ---
 
 Hungarian cuisine is built on three pillars: sweet paprika, sour cream, and pork fat (lard). These three ingredients define the distinctive character of Hungarian food, the deep rust-red colour of paprikash, the velvety richness of goulash sauce, the crispy exterior of lángos. They are also, in excess, the primary calorie challenges.
-But the underlying structure of Hungarian cooking is excellent. It is based on lean chicken, veal, and vegetables in richly spiced paprika sauces. The proteins are lean. The vegetables, peppers, tomatoes, onions, are nutritious. The fault lies almost entirely in too much lard and too much full-fat dairy. Fix those two things and Hungarian food becomes a impressive healthy cuisine.
+But the underlying structure of many Hungarian dishes is sound: meat or poultry and plenty of vegetables, peppers, tomatoes and onions, in richly spiced paprika sauces. Much of the heaviness comes from lard, fatty cuts and full-fat dairy. Choose leaner meat, use less fat and lighter dairy, and Hungarian food becomes a very good healthy cuisine.
 
 ## The Hungarian dishes worth lightening
-Most of the Hungarian repertoire survives the diet treatment intact: goulash, chicken paprikash, lecsó, stuffed cabbage and even lángos all work once you swap the lard and the sour cream. The trick is almost always the same two changes plus good paprika, which is what the rest of this guide walks through.
+Much of the Hungarian repertoire lightens up well: goulash, chicken paprikash, lecsó and stuffed cabbage all work once you swap the lard and the sour cream. Deep-fried favourites like lángos are better kept as an occasional treat. The trick is almost always the same two changes plus good paprika, which is what the rest of this guide walks through.
 
 ## The Hungarian pantry: essential ingredients
 - Hungarian sweet paprika (Édesnemes), the non-negotiable foundation of Hungarian cooking
 - Smoked paprika, adds depth especially when replacing lard
 - Caraway seeds, essential in goulash, many soups, and pork dishes
 - Low-fat Greek yogurt, replaces sour cream in all cooked applications
-- Cherry peppers (paprika), for lecsó and stuffed pepper dishes
+- Pale yellow-green Hungarian wax peppers, for lecsó and stuffed pepper dishes
 - Wax beans (sárgahüvely), key ingredient in several traditional soups
 - Flat-leaf parsley, the finishing herb in almost all Hungarian savoury dishes
 
 ## The critical technique: blooming the paprika
-Every Hungarian recipe begins the same way, and the technique that matters most is the same in all of them: the paprika bloom.
+Many Hungarian recipes begin the same way, and the technique that matters most is the paprika bloom.
 After softening the onions, REMOVE THE PAN FROM THE HEAT. Add the paprika to the hot onions and stir for 30–60 seconds in the residual heat. Then return to the heat and continue. This off-heat blooming releases the fat-soluble flavour compounds in paprika far more effectively than adding it to a boiling pot, and crucially, it prevents the paprika from burning, which creates bitter, unpleasant flavours that cannot be corrected.
 
 ## Frequently asked questions
@@ -42,4 +42,4 @@ They are related but distinctly different. Goulash (gulyás) is a beef-based ste
 
 ### Can I make Hungarian food without lard?
 
-Yes, and the result is authentically Hungarian in flavour. Hungarian cooking did not always use lard; it became dominant in the 19th and 20th centuries. Modern Hungarian chefs increasingly use olive oil. The paprika bloom technique and quality paprika carry the flavour profile, the lard's main contributions were texture and calories.
+Yes. Lard gives a particular richness, and you will notice a small difference, but many Hungarian home cooks today use sunflower oil instead, and the paprika bloom and good-quality paprika carry most of the flavour. A teaspoon of oil is enough to soften the onions.

@@ -1,10 +1,10 @@
 ---
-title: "Healthy Syrniki — Ukrainian Cottage Cheese Pancakes (220 kcal, 18g Protein)"
-description: "Healthy syrniki at 220 calories and 18g protein, low-fat cottage cheese, oat flour, a non-stick pan. The key is draining the cottage cheese for 30–60 minutes before mixing."
+title: "Healthy Syrniki — Ukrainian Cottage Cheese Pancakes (150 kcal, 16g Protein)"
+description: "Healthy syrniki at about 150 calories and 16g protein for three, low-fat cottage cheese, oat flour, a non-stick pan. The key is draining the cottage cheese for 30–60 minutes before mixing."
 metaTitle: "Healthy Syrniki — Cottage Cheese Pancakes | Natali Diet"
-metaDescription: "Syrniki at 220 calories and 18g protein, low-fat cottage cheese and oat flour. Key step: drain the cheese 30–60 minutes."
+metaDescription: "Syrniki at about 150 calories and 16g protein for three, low-fat cottage cheese and oat flour. Key step: drain the cheese 30–60 minutes."
 category: "traditional-foods-healthy"
-tags: ["syrniki", "cottage-cheese-pancakes", "ukrainian", "high-protein", "vegetarian", "breakfast", "220-calories"]
+tags: ["syrniki", "cottage-cheese-pancakes", "ukrainian", "high-protein", "vegetarian", "breakfast", "low-calorie"]
 pillar: 4
 publishDate: 2024-05-15
 featured: false
@@ -13,9 +13,11 @@ canonical: "https://natalidiet.eu/recipes/syrniki-cottage-cheese-pancakes/"
 ---
 
 Syrniki are Ukrainian cottage cheese pancakes, soft, slightly tangy, golden on the outside, creamy inside. Eaten across Eastern Europe for breakfast, made from tvaroh (farmer's cheese), eggs, and a small amount of flour.
-Syrniki are already a good traditional Ukrainian breakfast. The base is mostly protein-rich cottage cheese and egg. My version optimises what is already there: low-fat cottage cheese, oat flour instead of white, and a non-stick pan with minimal oil. Result: 220 calories with 18g protein per serving.
+Syrniki are already a good traditional Ukrainian breakfast. The base is mostly protein-rich cottage cheese and egg. This lighter version builds on that: low-fat cottage cheese, oat flour instead of white, and a non-stick pan with minimal oil. Result: about 150 calories and 16g protein for three syrniki.
 
 ## Ingredients
+Makes about 16 syrniki (5 servings of 3).
+
 - 500g low-fat cottage cheese (tvaroh), drained 30–60 min
 - 2 eggs
 - 4 tbsp oat flour (plus more for dusting)
@@ -36,9 +38,9 @@ Syrniki are already a good traditional Ukrainian breakfast. The base is mostly p
 - Serve warm with fresh berries and a drizzle of kefir or small dollop of low-fat sour cream.
 
 ## Nutrition facts
-Per serving (3 syrniki, without toppings):
+Per serving (3 syrniki, without toppings): about 150 kcal, 16g protein, 4g fat, 12g carbohydrate. Values are estimates calculated from the ingredients.
 
-DIET LABELS: Vegetarian | High Protein | Gluten-Free adaptable | Quick (20 min)
+DIET LABELS: Vegetarian | High Protein | Gluten-free with certified GF oat flour | 20 min cooking (plus draining)
 
 ## Variations
 - SAVOURY: Remove honey/vanilla; add 2 tbsp fresh dill, 1 tbsp chives. Serve with sauerkraut.
@@ -57,4 +59,4 @@ Yes, make the batter the night before and refrigerate. Chilled batter is actuall
 
 ### Are syrniki nutritious for breakfast?
 
-Exceptionally so. The cottage cheese base provides excellent protein with modest calories, along with calcium, selenium, and B vitamins. At 220 calories and 18g protein per serving, they make a strong traditional breakfast for a high-protein plan.
+Yes. The cottage cheese base provides plenty of protein for modest calories, along with calcium and B vitamins. At about 150 calories and 16g protein for three, they make a good traditional breakfast for a high-protein plan; add berries and a little kefir to make a fuller meal.

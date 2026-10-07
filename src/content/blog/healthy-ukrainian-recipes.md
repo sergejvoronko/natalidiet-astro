@@ -21,7 +21,7 @@ If you cook nothing else from this tradition, cook these: borscht, green borshch
 ## The Ukrainian pantry: 10 things to keep in
 - Toasted buckwheat groats (kasha), the daily grain, in place of white rice at every meal
 - Plain low-fat kefir, the morning ritual; buy it by the litre
-- Naturally fermented sauerkraut, the probiotic side at lunch and dinner
+- Naturally fermented sauerkraut, eaten raw as a side, when it also brings live cultures
 - Naturally fermented dill pickles, for rassolnik, salads and snacking
 - Fresh dill, the herb that defines the cooking; use it generously
 - Beets, the heart of borscht; keep several in the fridge all week
@@ -32,9 +32,9 @@ If you cook nothing else from this tradition, cook these: borscht, green borshch
 
 ## Techniques that keep it light
 ### The zasmazka (sautéed base)
-Almost every soup and stew starts with a zasmazka, a base of onion, carrot and tomato softened together. Traditionally that happens in sunflower oil or lard. Use 1 tsp olive oil in a non-stick pan instead, with a splash of water so nothing catches. You cannot tell the difference in the finished pot.
+Almost every soup and stew starts with a zasmazka, a base of onion, carrot and tomato softened together. Traditionally that happens in sunflower oil or lard. Use 1 tsp olive oil in a non-stick pan instead, with a splash of water so nothing catches. In a finished soup the difference is small.
 ### The acid finish
-The soups nearly always end with acid: cider vinegar, lemon juice, or brine from the pickle jar. It brightens the flavour, and in borscht it does one more job, holding the beets' red-pink colour instead of letting it dull. Add the acid at the end, never at the start.
+The soups nearly always end with acid: cider vinegar, lemon juice, or brine from the pickle jar. It brightens the flavour, and in borscht it does one more job: acid helps the beets keep their red colour. Many cooks add a splash while the beets cook and a little more at the end.
 ### Pickle brine is the flavour secret
 The brine from a jar of naturally fermented pickles is the strongest cheap flavour booster in this kitchen. A tablespoon lifts soups, vinegrets and dressings, and it makes a good acid finish for borscht. Salty, sour and full of live cultures.
 
@@ -42,11 +42,11 @@ The brine from a jar of naturally fermented pickles is the strongest cheap flavo
 
 ### What are the most popular Ukrainian dishes for weight loss?
 
-Borscht (160 kcal), green borshch (120 kcal), and vinegret salad (130 kcal) are the three lightest traditional Ukrainian dishes. For main courses: buckwheat with mushrooms (290 kcal) and holubtsi in tomato sauce (280 kcal). These five dishes alone can build an entire weight-loss weekly meal plan with completely authentic Ukrainian flavours.
+Borscht (about 150 kcal a bowl), green borshch (about 150 kcal, 230 with egg) and vinegret salad are among the lightest traditional Ukrainian dishes. For main courses: buckwheat with mushrooms (about 300 kcal) and holubtsi in tomato sauce (about 280 kcal). Together with kefir, cottage cheese and fresh vegetables, these can carry a whole week of lighter eating.
 
 ### Is Ukrainian food good for gut health?
 
-Exceptionally so, perhaps better than any other European national cuisine for gut health. The combination of daily kefir, naturally fermented sauerkraut, fermented dill pickles, sourdough rye bread, and fermented beet kvass provides a daily stream of diverse probiotic cultures and prebiotic fibre that supports a diverse, healthy gut microbiome.
+It can be. Kefir, raw fermented sauerkraut and fermented pickles bring live cultures, and vegetables, beans, buckwheat and rye bread bring plenty of fibre. A diet rich in fermented foods and fibre is linked to a more diverse gut microbiome, though research on exactly how much this matters for health is still developing.
 
 ### Where can I find Ukrainian ingredients outside Ukraine?
 

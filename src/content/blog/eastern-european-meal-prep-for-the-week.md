@@ -12,7 +12,7 @@ image: "/images/blog/eastern-european-meal-prep-for-the-week.webp"
 ---
 
 Eastern European cooking was batch cooking long before 'meal prep' became a lifestyle trend. Borscht was made in a giant pot that lasted days and tasted better each time. Holubtsi were assembled by the dozen. Buckwheat was cooked once and reheated in multiple forms, side dish, breakfast porridge, lunch bowl. This cuisine was designed for efficiency and for making the most of every ingredient.
-In this guide I will show you exactly how I structure my Sunday prep session, the sequence, the timings, the storage rules, and the reheating techniques, to have a full week of healthy Eastern European meals ready with just 2–2.5 hours of active cooking on Sunday.
+This guide shows how to structure a Sunday prep session, the sequence, the timings, the storage rules, and the reheating techniques, to have a full week of healthy Eastern European meals ready with just 2–2.5 hours of active cooking on Sunday.
 
 ## The Sunday prep sequence
 The key to efficient Eastern European meal prep is sequencing. Everything simmers while you work on the next task. Follow this exact order:
@@ -21,7 +21,7 @@ The key to efficient Eastern European meal prep is sequencing. Everything simmer
 ### 12:15, Soak Dried Porcini Mushrooms (20 min passive)
 - Place 30g dried porcini in 300ml warm water. Ready in 20 min for the buckwheat dish.
 ### 12:20, prep all vegetables for the week (20 min)
-- While borscht simmers: dice all onions, grate all carrots, chop all celery, cube all potatoes, slice all mushrooms. Store in labelled containers. This saves 15–20 minutes every weekday.
+- While borscht simmers: dice onions, grate carrots, chop celery and slice mushrooms for the week. Store in labelled containers in the fridge and use within 3–4 days. Leave potatoes whole until the day you cook them, because cut raw potatoes discolour. This saves time on busy weekdays.
 ### 12:40, start Chicken Paprikash (50 min total, hands-on: 15 min)
 - Sear chicken, build paprika sauce, add broth. Simmer 35 min. Now you have two pots simmering simultaneously.
 ### 13:00, Borscht Finishes
@@ -42,17 +42,23 @@ The key to efficient Eastern European meal prep is sequencing. Everything simmer
 
 ## Storage & reheating guide
 
+- **Cooked soups, stews and kasha** (borscht, paprikash, holubtsi, buckwheat): cool within 2 hours, then keep in the fridge for 3–4 days. Freeze anything you will not eat by then.
+- **Hard-boiled eggs**: up to a week in the fridge, in their shells.
+- **Prepped raw vegetables**: 3–4 days in airtight containers.
+- **Freezer**: soups, holubtsi and paprikash keep well for 2–3 months. Defrost overnight in the fridge.
+- **Reheating**: reheat until piping hot all the way through, and only reheat each portion once.
+
 * Freeze paprikash WITHOUT the yogurt sauce, dairy separates when frozen. Add fresh yogurt only when reheating the thawed dish.
 
 ## Frequently asked questions
 
 ### Does borscht taste good the next day?
 
-Better. Borscht is one of those dishes, like most stews and slow-cooked soups, that deepens in flavour overnight as the spices meld and vegetables fully absorb the broth. Many Ukrainian and Eastern European cooks consider day-two borscht to be superior to freshly made. It is one of the ideal batch-cook foods.
+Better. Borscht is one of those dishes, like most stews and slow-cooked soups, that deepens in flavour overnight as the spices meld and vegetables fully absorb the broth. Many cooks prefer day-two borscht to freshly made. It is one of the ideal batch-cook foods.
 
 ### How do I stop borscht losing its colour when reheating?
 
-Reheat gently on the stovetop over medium-low heat, never boil vigorously, never microwave. High heat destroys the betalain pigments in beets that give borscht its deep red colour. Add a few drops of lemon juice before serving to brighten and refresh the colour.
+Reheat gently over medium-low heat and avoid long, vigorous boiling: prolonged heat breaks down the betalain pigments that give borscht its deep red colour. A few drops of lemon juice before serving help brighten it.
 
 ### Can I freeze borscht?
 

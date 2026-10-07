@@ -1,20 +1,22 @@
 ---
-title: "Healthy Hungarian Mushroom Soup — Creamy Without Cream (110 kcal)"
-description: "The lightest soup on the blog at just 110 calories, creamy Hungarian mushroom soup made without cream using a blended-potato technique and off-heat Greek yogurt."
-metaTitle: "Healthy Hungarian Mushroom Soup — 110 kcal | Natali Diet"
-metaDescription: "Creamy Hungarian mushroom soup without cream, 110 calories using a blended-potato technique and off-heat Greek yogurt."
+title: "Healthy Hungarian Mushroom Soup — Creamy Without Cream (130 kcal)"
+description: "One of the lightest soups on the blog at about 130 calories, creamy Hungarian mushroom soup made without cream using a blended-potato technique and off-heat Greek yogurt."
+metaTitle: "Healthy Hungarian Mushroom Soup — 130 kcal | Natali Diet"
+metaDescription: "Creamy Hungarian mushroom soup without cream, about 130 calories using a blended-potato technique and off-heat Greek yogurt."
 category: "healthy-soups"
-tags: ["mushroom-soup", "hungarian", "vegan", "gluten-free", "immune-health", "110-calories"]
+tags: ["mushroom-soup", "hungarian", "vegetarian", "gluten-free", "low-calorie"]
 pillar: 1
 publishDate: 2024-02-28
 featured: false
 image: "/images/blog/healthy-hungarian-mushroom-soup.webp"
 ---
 
-Hungary is famous for paprika, and for good reason. The deep, slightly smoky sweet paprika that defines Hungarian cuisine works absolute magic in this creamy mushroom soup. Traditionally made with full-fat sour cream and a heavy flour roux, this classic would hit 300+ calories per bowl. My healthy version achieves the same silky, velvety texture and all the flavour complexity for just 110 calories.
-The trick is using a small amount of low-fat Greek yogurt added off the heat, plus a blended potato to create natural creaminess without any cream at all. The result is indistinguishable from the traditional version, but kind to your waistline.
+Hungary is famous for paprika, and for good reason. The deep, slightly smoky sweet paprika that defines Hungarian cuisine works absolute magic in this creamy mushroom soup. Traditionally made with full-fat sour cream and a heavy flour roux, this classic would hit 300+ calories per bowl. This lighter version gets a silky, velvety texture and plenty of flavour for about 130 calories a bowl.
+The trick is a small amount of low-fat Greek yogurt added off the heat, plus a blended potato to create natural creaminess without any cream at all. It is lighter than the traditional version but still rich and satisfying.
 
 ## Ingredients
+Serves 4.
+
 - 500g chestnut or cremini mushrooms, cleaned and sliced
 - 20g dried porcini mushrooms + 250ml warm water for soaking
 - 1 large onion, diced
@@ -42,9 +44,9 @@ The trick is using a small amount of low-fat Greek yogurt added off the heat, pl
 - Serve immediately with fresh dill, a grind of black pepper, and crusty rye bread if desired.
 
 ## Nutrition facts
-Per serving (without bread):
+Per serving (serves 4, without bread): about 130 kcal, 8g protein, 2g fat, 20g carbohydrate. Values are estimates calculated from the ingredients.
 
-DIET LABELS: Vegan option | Gluten-Free | Low-Calorie | Low-Fat | High Selenium | Diabetic-Friendly
+DIET LABELS: Vegan option | Gluten-Free (check your broth) | Low-Calorie | Low-Fat | Source of Selenium
 
 ## Make it vegan
 Replace Greek yogurt with unsweetened cashew cream or coconut yogurt. Use vegetable broth. The soup is naturally vegan except for the dairy component.
@@ -53,19 +55,17 @@ Replace Greek yogurt with unsweetened cashew cream or coconut yogurt. Use vegeta
 
 ### What makes this soup taste creamy without cream?
 
-Two techniques: first, the partially blended potato acts as a natural thickener and gives a silky body to the soup. Second, the off-heat Greek yogurt adds just enough dairy richness without the calories of cream. Most people cannot tell the difference.
+Two techniques: first, the partially blended potato acts as a natural thickener and gives a silky body to the soup. Second, the off-heat Greek yogurt adds a little dairy richness without the calories of cream.
 
 ### Can I use any type of mushrooms?
 
 Yes, but the variety matters for flavour. Chestnut or cremini mushrooms give the best flavour. Button mushrooms work but are milder. The dried porcini are the secret weapon, even a small amount adds incredible depth that fresh mushrooms alone cannot replicate.
 
-### Is mushroom soup good for the immune system?
+### Is mushroom soup good for you?
 
-Yes! Mushrooms are one of the few non-animal food sources of vitamin D, and they contain beta-glucans, polysaccharides shown in research to support immune function. The selenium content in mushrooms is also important for thyroid health and immune response.
+Yes, it is a light, nourishing soup. Chestnut and cremini mushrooms are a good source of selenium and B vitamins, and the soup is low in fat and calories. Mushrooms are sometimes promoted for vitamin D, but ordinary supermarket mushrooms contain very little unless they have been exposed to UV light, which the label will say.
 
 ### Can I make this soup ahead of time?
 
 Yes, this soup keeps beautifully in the fridge for 3–4 days. Store without the yogurt added. When reheating, warm gently on the stovetop and add the yogurt fresh just before serving.
 
-— End of Pillar 1: Healthy Soups & Broths —
-Next up: Pillar 2, Healthy Eastern European Main Dishes

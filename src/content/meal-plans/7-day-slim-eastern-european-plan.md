@@ -1,5 +1,5 @@
 ---
-title: "7-Day Eastern European Slim Plan (1,200 kcal)"
+title: "7-Day Eastern European Slim Plan (about 1,100 kcal)"
 description: "A calorie-restricted 7-day Eastern European meal plan of about 1,100 kcal per day, for short-term use. High-protein, light and satisfying."
 days: 7
 totalCalories: 1100

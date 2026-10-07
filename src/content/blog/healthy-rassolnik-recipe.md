@@ -1,20 +1,22 @@
 ---
-title: "Healthy Rassolnik — Ukrainian Pickle Soup for Digestion (145 kcal)"
-description: "Rassolnik, Ukrainian naturally-fermented pickle soup, at just 145 calories. High in electrolytes, gut-supporting, and uniquely flavoured. Use fermented pickles, not vinegar-brined."
+title: "Healthy Rassolnik — Tangy Pickle and Barley Soup (150 kcal)"
+description: "Rassolnik, the tangy pickle and barley soup popular in Ukraine and its neighbours, at about 150 calories a bowl. Uniquely flavoured; use fermented pickles, not vinegar-brined."
 metaTitle: "Healthy Rassolnik — Ukrainian Pickle Soup | Natali Diet"
-metaDescription: "Rassolnik, fermented Ukrainian pickle soup at 145 calories. High in electrolytes and gut-supporting; use fermented pickles."
+metaDescription: "Rassolnik, the tangy pickle and barley soup, at about 150 calories a bowl. Use naturally fermented pickles for the best flavour."
 category: "healthy-soups"
-tags: ["rassolnik", "pickle-soup", "ukrainian", "digestion", "gut-health", "gluten-free", "145-calories"]
+tags: ["rassolnik", "pickle-soup", "ukrainian", "barley", "low-calorie"]
 pillar: 1
 publishDate: 2024-02-25
 featured: false
 image: "/images/blog/healthy-rassolnik-recipe.webp"
 ---
 
-Of all the soups in this pillar, rassolnik is probably the most surprising to Western palates, a soup made with pickled cucumbers and their brine. Yet it is a long-standing Ukrainian favourite, with centuries of history behind it. And once you taste it, the tangy, herby, warming broth becomes completely addictive.
-Rassolnik is only 145 calories per generous serving, and the pickle brine base gives it a good hit of electrolytes, which makes it a solid recovery soup after illness, hard exercise, or when your digestion needs a reset.
+Of all the soups in this pillar, rassolnik is probably the most surprising to Western palates, a soup made with pickled cucumbers and their brine. Yet it is a much-loved soup in Ukraine and its neighbours, and once you taste it, the tangy, herby, warming broth is easy to love.
+Rassolnik is about 150 calories per generous bowl, filling thanks to the barley and potatoes, and bright with the sourness of the pickles. It is also fairly salty, so go easy on any extra salt.
 
 ## Ingredients
+Serves 5.
+
 - 3 medium dill pickles (fermented, not vinegar-brined), diced
 - 150ml pickle brine (from the jar, use the good stuff from naturally fermented pickles)
 - 3 tbsp pearl barley (or substitute: brown rice for gluten-free version)
@@ -41,13 +43,15 @@ Rassolnik is only 145 calories per generous serving, and the pickle brine base g
 - Serve hot with a dollop of yogurt/sour cream and extra fresh dill.
 
 ## Nutrition facts
-Per serving (with chicken, without sour cream):
+Per serving (serves 5, with chicken, without sour cream): about 150 kcal, 8g protein, 2g fat, 22g carbohydrate. Values are estimates calculated from the ingredients.
+
+DIET LABELS: Low-Calorie | Low-Fat | Gluten-free with rice instead of barley
 
 ## Frequently asked questions
 
-### Why is rassolnik good for digestion?
+### Is rassolnik good for digestion?
 
-The fermented pickle brine contains naturally occurring probiotics and digestive enzymes that support healthy gut bacteria. Barley adds prebiotic fibre that feeds beneficial gut microbes. Together, they make rassolnik supportive of digestive health, not just a folk remedy.
+It is a light, warming soup, and the barley adds fibre, which helps keep digestion regular. The pickles are fermented, but the soup is simmered after they go in, so it does not contain live probiotic cultures. For those, eat a fermented pickle or some raw sauerkraut on the side.
 
 ### Can I make rassolnik gluten-free?
 
@@ -55,4 +59,4 @@ Yes, replace the pearl barley with brown rice or certified gluten-free oats. Add
 
 ### Is the salty brine bad for my health?
 
-In moderation, naturally fermented brine is a genuine health food, it contains electrolytes, probiotics, and nutrients. However, if you are watching sodium intake for medical reasons, reduce the brine to 50ml and use a low-sodium broth. The total sodium in this recipe is moderate for a one-pot meal.
+Pickles and their brine are high in salt, so rassolnik is a fairly salty soup: a bowl can easily provide a significant share of your daily salt limit. If you are watching your sodium intake, reduce the brine to 50ml, use a low-sodium broth, and do not add extra salt.

@@ -1,8 +1,8 @@
 ---
 title: "10 Healthy Ukrainian Soups for Weight Loss"
-description: "Discover 10 traditional Ukrainian soups under 350 calories per serving, each rooted in history, each delicious."
+description: "10 light Ukrainian and Ukrainian-style soups that suit weight loss, from borscht and rassolnik to green borshch and okroshka."
 metaTitle: "10 Healthy Ukrainian Soups for Weight Loss | Natali Diet"
-metaDescription: "Discover 10 traditional Ukrainian soups under 350 calories per serving. Borscht, rassolnik, solyanka and more, all calorie-counted and nutritionist-approved."
+metaDescription: "10 light Ukrainian and Ukrainian-style soups for weight loss: borscht, rassolnik, kapustnyak, green borshch, okroshka and more."
 category: "healthy-soups"
 tags: ["ukrainian", "soups", "weight-loss", "low-calorie"]
 pillar: 1
@@ -11,72 +11,64 @@ featured: true
 image: "/images/blog/10-healthy-ukrainian-soups-weight-loss.webp"
 ---
 
-Ukrainian cuisine is built around soup. From the ruby-red borscht to the tangy rassolnik, Ukrainian soups are warming, flavourful, and, as it turns out, surprisingly well-suited to healthy eating.
+Ukrainian cuisine is built around soup. From the ruby-red borscht to the tangy rassolnik, Ukrainian soups are warming, flavourful, and, as it turns out, well-suited to healthy eating.
 
 ## Why Ukrainian soups are great for weight loss
 
-Most Ukrainian soups are vegetable-forward, high in fibre, and naturally low in calories. Unlike the cream-heavy soups of Western European cuisine, the Ukrainian tradition favours clarity: a deep stock enriched with vegetables, a little meat or legume for protein, and fresh herbs at the end.
+Most Ukrainian soups are vegetable-forward, high in fibre, and naturally low in calories. Unlike the cream-heavy soups of some Western European cooking, the Ukrainian tradition favours broth: a good stock full of vegetables, a little meat or legume for protein, and fresh herbs at the end.
 
-The result is food that is satisfying, without the calorie load.
+The result is food that is satisfying without a heavy calorie load.
 
 ## 10 soups to know
 
-### 1. light Summer Borscht (210 kcal)
+Where a soup has a full recipe on this blog, the calories are per bowl of that recipe. For the others, calories depend on how you make them, but all of them can be kept light.
 
-The most famous Ukrainian soup, made lighter. The key is using a vegetable stock base and going easy on the potato. Topped with a small spoon of sour cream and fresh dill.
+### 1. Light Summer Borscht (210 kcal)
 
-### 2. Rassolnik (195 kcal)
+The most famous Ukrainian soup, made lighter with a vegetable stock base, served with rye crispbread. [Get the recipe](/recipes/light-summer-borscht-rye-crispbread/), or try the classic [healthy borscht](/blog/healthy-borscht-recipe/) at about 150 kcal a bowl.
 
-A pickle-forward barley soup with kidney beans. The brine from the pickles gives it a savoury depth that feels indulgent but isn't.
+### 2. Rassolnik (150 kcal)
 
-### 3. Solyanka (280 kcal)
+A pickle-and-barley soup. The brine from the pickles gives it a savoury, sour depth that feels indulgent but isn't, although it is fairly salty. [Get the recipe](/blog/healthy-rassolnik-recipe/).
 
-A rich, slightly spicy mixed meat soup with olives, capers, and lemon. Originally a feast dish, made lighter here with chicken and no added fat.
+### 3. Solyanka
+
+A rich, sour mixed-meat soup with pickles, olives, capers, and lemon. Traditionally a hearty dish; using chicken and lean ham instead of fatty smoked meats makes it much lighter.
 
 ### 4. Kapustnyak (175 kcal)
 
-Sauerkraut soup with buckwheat. The fermented cabbage provides probiotics; the buckwheat makes it filling. An underrated gem.
+Sauerkraut soup with potatoes, carrot and onion, sour and warming. Some versions add millet. An underrated gem. [Get the recipe](/recipes/kapustnyak-sauerkraut-soup/).
 
-### 5. Potato and Dill Soup (190 kcal)
+### 5. Potato and Dill Soup
 
-Deceptively simple. A good stock, good potatoes, and a generous hand with fresh dill. Ready in 20 minutes.
+Deceptively simple. A good stock, good potatoes, and a generous hand with fresh dill. Light and quick to make.
 
-### 6. Bean and Smoked Paprika Soup (260 kcal)
+### 6. Bean and Smoked Paprika Soup
 
-White beans slow-cooked with smoked paprika and tomato. Plant-based protein at its most comforting.
+A modern twist: white beans slow-cooked with smoked paprika and tomato. Plant-based protein at its most comforting.
 
-### 7. Mushroom and Barley (220 kcal)
+### 7. Mushroom and Barley Soup (195 kcal)
 
-Wild mushrooms give this soup an almost meaty depth. Pearl barley provides slow-releasing carbohydrates.
+Dried mushrooms give this soup an almost meaty depth, and pearl barley makes it filling. [Get the recipe](/recipes/barley-mushroom-soup/).
 
-### 8. Cold Kefir Soup / Okroshka (180 kcal)
+### 8. Okroshka
 
-Served cold in summer, a kefir or kvass base with cucumber, radish, spring onion, and hard-boiled egg. Unusual but refreshing.
+Served cold in summer: a kefir or kvass base with cucumber, radish, spring onion, herbs and hard-boiled egg. Unusual but refreshing.
 
-### 9. Lentil and Carrot Soup (245 kcal)
+### 9. Lentil and Carrot Soup
 
-Red lentils melt into a silky purée. Finished with a small swirl of kefir and fresh coriander.
+Another modern addition: red lentils melt into a silky purée, finished with a swirl of kefir and fresh herbs.
 
-### 10. Green Borscht / Sorrel Soup (165 kcal)
+### 10. Green Borshch / Sorrel Soup (about 150 kcal, 230 with egg)
 
-Made with sorrel instead of beetroot, brightly sour, spring-fresh, and very quick to make.
-
-## The calorie breakdown at a glance
-
-| Soup | Calories | Protein | Fibre |
-|------|---------|---------|-------|
-| Light Borscht | 210 kcal | 8g | 9g |
-| Rassolnik | 195 kcal | 11g | 7g |
-| Solyanka | 280 kcal | 24g | 4g |
-| Kapustnyak | 175 kcal | 7g | 8g |
-| Potato & Dill | 190 kcal | 5g | 6g |
+Made with sorrel instead of beetroot, brightly sour, spring-fresh, and quick to make. [Get the recipe](/blog/healthy-green-borshch-sorrel-soup/).
 
 ## What makes them filling despite the low calories?
 
 Three things:
 
 1. **High water content**, soup is volume eating done right
-2. **Fibre from vegetables and legumes**, slows gastric emptying
-3. **Hot temperature**, eating hot food tends to slow consumption pace
+2. **Fibre from vegetables and legumes**, which adds bulk and slows digestion a little
+3. **Hot temperature**, eating hot food tends to slow you down
 
-The result: soups score very highly on satiety-per-calorie measures. A 250kcal bowl of borscht keeps you full significantly longer than a 250kcal sandwich.
+The result: broth-based soups fill you up for few calories. In one well-known study, people who started lunch with a low-calorie soup ate about 20% fewer calories at that meal in total.

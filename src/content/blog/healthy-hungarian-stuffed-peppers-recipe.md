@@ -1,10 +1,10 @@
 ---
-title: "Healthy Hungarian Stuffed Peppers — Töltött Paprika (290 kcal, 26g Protein)"
-description: "Hungarian stuffed peppers made healthy, lean turkey filling, brown rice, rich tomato braise. 290 calories per serving and 26g protein. Freezes beautifully."
-metaTitle: "Healthy Hungarian Stuffed Peppers, 290 kcal | Natali Diet"
-metaDescription: "Hungarian stuffed peppers made healthy, lean turkey filling, brown rice, rich tomato braise. 290 calories per serving and 26g protein. Freezes beautifully."
+title: "Healthy Hungarian Stuffed Peppers — Töltött Paprika (330 kcal, 25g Protein)"
+description: "Hungarian stuffed peppers made healthy, lean turkey filling, brown rice, rich tomato braise. About 330 calories per serving and 25g protein. Freezes well."
+metaTitle: "Healthy Hungarian Stuffed Peppers, 330 kcal | Natali Diet"
+metaDescription: "Hungarian stuffed peppers made healthy, lean turkey filling, brown rice, rich tomato braise. About 330 calories per serving and 25g protein. Freezes well."
 category: "traditional-foods-healthy"
-tags: ["stuffed-peppers", "hungarian", "töltött-paprika", "turkey", "gluten-free", "290-calories"]
+tags: ["stuffed-peppers", "hungarian", "töltött-paprika", "turkey", "gluten-free", "high-protein"]
 pillar: 4
 publishDate: 2024-05-20
 featured: false
@@ -12,9 +12,11 @@ image: "/images/blog/healthy-hungarian-stuffed-peppers-recipe.webp"
 ---
 
 Töltött paprika, Hungarian stuffed peppers, are sweet pointed peppers filled with seasoned meat and rice, braised slowly in a rich tomato sauce. A much-loved Hungarian home dish, and the kind of food that makes a whole apartment smell incredible on a Sunday afternoon.
-The traditional recipe is already quite well-balanced. My healthy changes: lean turkey mince instead of pork, a small amount of brown rice, and a light-handed tomato sauce. The result is 290 calories per serving, two generously filled peppers, with excellent protein.
+The traditional recipe is already quite well-balanced. The lighter changes: lean turkey mince instead of pork, a small amount of brown rice, and a light-handed tomato sauce. The result is about 330 calories per serving of two generously filled peppers, with plenty of protein.
 
 ## Ingredients
+Serves 4 (2 peppers each).
+
 ### For the peppers
 - 8 medium sweet pointed peppers (or bell peppers, tops removed and seeds cleared)
 - 400g lean turkey mince
@@ -41,15 +43,15 @@ The traditional recipe is already quite well-balanced. My healthy changes: lean 
 - Serve with low-fat sour cream, fresh parsley, and buckwheat or cauliflower mash.
 
 ## Nutrition facts
-Per serving (2 stuffed peppers with sauce):
+Per serving (2 stuffed peppers with sauce): about 330 kcal, 25g protein, 10g fat, 31g carbohydrate. Values are estimates calculated from the ingredients.
 
-DIET LABELS: Gluten-Free | High Protein | Very High Vitamin C | Freezer-Friendly
+DIET LABELS: Gluten-Free (check your broth) | High Protein | High Vitamin C | Freezer-Friendly
 
 ## Frequently asked questions
 
 ### Can I use beef mince instead of turkey?
 
-Yes, extra-lean beef mince (5% fat) is closer to the traditional Hungarian version and adds approximately 40 kcal per serving. A 50/50 turkey-beef mix gives the best balance of authentic flavour and lean nutrition.
+Yes. Traditional töltött paprika is made with pork mince, and lean pork or extra-lean beef mince both work well here. They add a little more flavour and usually a few more calories than lean turkey; a 50/50 mix with turkey is a good compromise.
 
 ### How do I stop stuffed peppers falling over?
 
@@ -57,4 +59,4 @@ Use a pot where peppers fit snugly so they support each other. Or crumple baking
 
 ### Can I freeze stuffed peppers?
 
-Excellently, freeze with the sauce for up to 3 months. Defrost overnight in the fridge. Reheat covered in the oven at 180°C for 25 minutes or on the stovetop over low heat.
+Yes, freeze with the sauce for up to 3 months. Defrost overnight in the fridge. Reheat covered in the oven at 180°C for 25 minutes or on the stovetop over low heat.

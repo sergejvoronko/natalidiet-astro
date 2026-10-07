@@ -4,7 +4,7 @@ description: "The complete guide to the healthiest traditional Polish recipes, b
 metaTitle: "Healthy Polish Recipes — Complete Guide | Natali Diet"
 metaDescription: "The healthiest traditional Polish recipes, bigos, żurek, barszcz, gołąbki, pierogi, plus Poland's fermented food tradition."
 category: "country-recipe-guides"
-tags: ["polish-recipes", "poland", "healthy", "bigos", "zurek", "pierogi", "barszcz", "probiotic"]
+tags: ["polish-recipes", "poland", "healthy", "bigos", "zurek", "pierogi", "barszcz", "fermented-foods"]
 pillar: 5
 publishDate: 2024-06-25
 featured: false
@@ -12,40 +12,38 @@ image: "/images/blog/healthy-polish-recipes.webp"
 ---
 
 Polish cuisine is one of Eastern Europe's most internationally recognised food traditions, carried across the world by one of the largest diasporas in Europe and North America. Pierogi in Chicago, bigos in London, żurek in Warsaw, barszcz at Christmas Eve supper, Polish food travels beautifully and is loved globally.
-Polish cooking's great strength for healthy eating is its probiotic richness. Sauerkraut, fermented dill pickles, kwas buraczany (fermented beet juice), żurek (fermented rye soup), and kefir-like dairy products are all daily staples of traditional Polish eating. No European cuisine exceeds Poland in the daily volume and variety of fermented foods consumed.
-
-## The 8 healthiest traditional Polish dishes
+Polish cooking's great strength for healthy eating is its fermented-food tradition. Sauerkraut, fermented dill pickles, fermented beet juice (kwas buraczany), żurek (fermented rye soup), kefir and soured milk are everyday foods. Eaten raw, like pickles, sauerkraut salad or kefir, they also bring live cultures; once cooked into a soup or stew, they add flavour rather than probiotics.
 
 ## The Polish pantry: essential ingredients
 - Naturally fermented sauerkraut (kapusta kiszona), buy from a Polish deli for the real thing
 - Naturally fermented dill pickles (ogórki kiszone), essential; must be fermented, not vinegar-brined
 - Marjoram (majeranek), the defining herb of Polish meat dishes and żurek
-- Fermented rye starter (zakwas) for żurek, make your own (3-day ferment) or buy at Polish deli
-- White borscht beet base, for barszcz; roast beets and ferment briefly for depth
+- Fermented rye starter (zakwas) for żurek, make your own (3–5 day ferment) or buy at a Polish deli
+- Fermented beet starter (zakwas buraczany), the traditional sour base of red barszcz
 - Lovage (lubczyk), the underused Polish herb with incredible depth; adds to broths
 - Lean turkey kielbasa, replaces fatty pork kielbasa in bigos and soups
 
 ## The Żurek deep dive: Poland's most nutritious traditional soup
-Żurek is one of Poland's most ancient and distinctive dishes, a sour soup made from fermented rye starter (zakwas), served with hard-boiled eggs and occasionally kielbasa. It is Poland's version of a probiotic broth, eaten at Easter and throughout the year.
-At 190 calories per bowl with 18g of protein and genuine probiotic fermented rye content, żurek is one of the more nutritious traditional soups in Eastern European cooking. The fermented rye starter (zakwas) takes 3–5 days to make but lasts in the fridge for weeks.
+Żurek is one of Poland's most ancient and distinctive dishes, a sour soup made from fermented rye starter (zakwas), served with hard-boiled eggs and occasionally kielbasa. It is eaten at Easter and throughout the year.
+The [lighter żurek recipe](/blog/healthy-polish-zurek-recipe/) on this blog comes to about 160 calories and 12g of protein per bowl. The fermented rye starter (zakwas) takes 3–5 days to make and keeps in the fridge for about a week.
 
 ## The Christmas Eve table (Wigilia): healthy options
 Polish Christmas Eve (Wigilia) traditionally features 12 meatless dishes. Several of these are already excellent diet food:
-- Barszcz z uszkami, clear beet broth with tiny mushroom dumplings (~80 kcal)
-- Kapusta z grzybami, sauerkraut with mushrooms (~100 kcal), probiotic side
-- Śledź w oleju, pickled herring, high omega-3, probiotic from the brine (~150 kcal)
-- Kompot z suszonych owoców, dried fruit compote, traditional Christmas drink (~80 kcal)
-- Pierogi z kapustą i grzybami, mushroom-sauerkraut pierogi, baked not fried (~260 kcal)
+- Barszcz z uszkami, clear beet broth with tiny mushroom dumplings, light as long as you keep the uszka to a few
+- Kapusta z grzybami, sauerkraut with mushrooms, low in calories and full of fibre
+- Śledź w oleju, herring in oil, a good source of omega-3 fats (drain off some of the oil)
+- Kompot z suszonych owoców, dried fruit compote, the traditional Christmas drink, best unsweetened
+- Pierogi z kapustą i grzybami, mushroom-sauerkraut pierogi, baked rather than fried
 
 ## Frequently asked questions
 
 ### What is the healthiest traditional Polish food?
 
-Barszcz czerwony (plain beet broth) is the lowest calorie at approximately 80 kcal per bowl. For a complete meal, żurek is the most nutritionally impressive, 190 calories with 18g protein and genuine probiotic fermented rye. Chłodnik (cold kefir-beet soup) is great for summer at 130 calories and full of probiotics.
+Clear barszcz czerwony (beet broth) is one of the lightest dishes. For a complete meal, a lighter żurek with egg gives about 160 calories and 12g protein a bowl. Chłodnik, the cold kefir and beet soup, is great for summer, and because the kefir is not cooked it keeps its live cultures.
 
 ### Is Polish food heavy?
 
-Traditional Polish food has a heavy reputation, but like all Eastern European cuisines, the heaviness is concentrated in specific dishes, heavy smoked meats, lard, thick sour cream. The vast majority of the Polish culinary tradition, its soups, its fermented vegetables, its fish dishes, its egg and dairy preparations, is light and nutritious.
+Traditional Polish food has a heavy reputation, but like all Eastern European cuisines, the heaviness is concentrated in specific dishes, heavy smoked meats, lard, thick sour cream. Much of the rest of the tradition, the soups, fermented vegetables, fish dishes, and egg and dairy preparations, is light or easy to lighten.
 
 ### Where can I buy authentic fermented Polish pickles outside Poland?
 

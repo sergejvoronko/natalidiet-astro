@@ -1,10 +1,10 @@
 ---
-title: "Healthy Olivier Salad — Eastern European Potato Salad with Yogurt Dressing (180 kcal)"
-description: "Healthy Olivier salad with yogurt-Dijon dressing instead of mayonnaise, 180 calories per serving. The classic Eastern European party salad made lighter, with egg yolks stirred into the yogurt for authentic richness."
+title: "Healthy Olivier Salad — Eastern European Potato Salad with Yogurt Dressing (215 kcal)"
+description: "Healthy Olivier salad with yogurt-Dijon dressing instead of mayonnaise, about 215 calories per serving. The classic Eastern European party salad made lighter, with egg yolks stirred into the yogurt for authentic richness."
 metaTitle: "Healthy Olivier Salad with Yogurt Dressing | Natali Diet"
-metaDescription: "Olivier salad with yogurt-Dijon dressing instead of mayonnaise, 180 calories, with egg yolks in the dressing for richness."
+metaDescription: "Olivier salad with yogurt-Dijon dressing instead of mayonnaise, about 215 calories, with egg yolks in the dressing for richness."
 category: "traditional-foods-healthy"
-tags: ["olivier-salad", "eastern-european", "potato-salad", "yogurt-dressing", "180-calories", "party-food"]
+tags: ["olivier-salad", "eastern-european", "potato-salad", "yogurt-dressing", "low-calorie", "party-food"]
 pillar: 4
 publishDate: 2024-05-28
 featured: false
@@ -12,13 +12,15 @@ image: "/images/blog/healthy-olivier-salad-recipe.webp"
 ---
 
 Olivier salad is the Eastern European region's classic party dish. Diced potatoes, carrots, eggs, pickles, peas, and protein all bound in mayonnaise. It appears at every New Year's table, birthday, and family celebration from Kyiv to Bratislava.
-The traditional version can be 350–450 calories per serving, almost entirely from mayonnaise. My yogurt-Dijon dressing tastes close to the original. The egg yolks whisked into the yogurt add the richness that makes mayonnaise taste the way it does.
+The traditional version can be 350–450 calories per serving, almost entirely from mayonnaise. A yogurt-Dijon dressing gets close to the original: egg yolks whisked into the yogurt add some of the richness that makes mayonnaise taste the way it does.
 
 ## Ingredients
+Serves 6.
+
 ### The salad
 - 400g waxy potatoes, boiled and diced into 1cm cubes
 - 2 medium carrots, boiled and diced into 1cm cubes
-- 4 hard-boiled eggs, whites diced, yolks reserved for dressing
+- 4 hard-boiled eggs: 2 yolks reserved for the dressing, the 2 remaining yolks and all 4 whites diced
 - 200g cooked chicken breast, diced
 - 100g frozen peas, defrosted
 - 3 naturally-fermented dill pickles, diced
@@ -39,7 +41,7 @@ The traditional version can be 350–450 calories per serving, almost entirely f
 - Refrigerate at least 1 hour before serving (3–4 hours is better). Taste and adjust seasoning before serving.
 
 ## Nutrition facts
-Per serving (1/6 of recipe):
+Per serving (1/6 of recipe): about 215 kcal, 20g protein, 5g fat, 20g carbohydrate. Values are estimates calculated from the ingredients.
 
 DIET LABELS: High Protein | Lower Fat | Gluten-Free | Make-Ahead | Party-Friendly
 
@@ -47,7 +49,7 @@ DIET LABELS: High Protein | Lower Fat | Gluten-Free | Make-Ahead | Party-Friendl
 
 ### Can you taste the difference between yogurt and mayonnaise dressing?
 
-With egg yolks whisked into the yogurt, honestly, the difference is minimal for most people. The egg yolks add the fat and richness that makes mayonnaise taste the way it does. The yogurt version is slightly lighter and tangier, which actually brightens the whole salad.
+A little. The egg yolks add some of the richness of mayonnaise, but the yogurt version is lighter and tangier. Many people like how that brightens the salad.
 
 ### What protein works best?
 
@@ -57,5 +59,3 @@ Poached or roasted chicken breast is the best choice, neutral flavour, excellent
 
 Essentially yes, 'Russian salad' in Western European delis is based on the same concept. The original was created by chef Lucien Olivier in 1860s Moscow and has become the defining party dish of the entire former Soviet region. Every family has their own version.
 
-— End of Pillar 4: Traditional Foods Made Healthy —
-Next: Pillar 5, Country-Specific Recipe Guides

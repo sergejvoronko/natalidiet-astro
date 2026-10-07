@@ -1,10 +1,10 @@
 ---
-title: "Healthy Svíčková — Czech Braised Beef in Lighter Cream Sauce (380 kcal, 36g Protein)"
-description: "Czech svíčková made healthy, lean beef topside in a root vegetable and yogurt sauce, served with buckwheat instead of dumplings. 380 calories and 36g protein."
+title: "Healthy Svíčková — Czech Braised Beef in Lighter Cream Sauce (420 kcal, 37g Protein)"
+description: "Czech svíčková made healthy, lean beef topside in a root vegetable and yogurt sauce, served with buckwheat instead of dumplings. About 420 calories and 37g protein."
 metaTitle: "Healthy Svíčková — Czech Beef in Cream Sauce | Natali Diet"
-metaDescription: "Czech svíčková made healthy, lean beef in root vegetable yogurt sauce with buckwheat instead of dumplings. 380 kcal, 36g protein."
+metaDescription: "Czech svíčková made healthy, lean beef in root vegetable yogurt sauce with buckwheat instead of dumplings. About 420 kcal, 37g protein."
 category: "traditional-foods-healthy"
-tags: ["svíčková", "czech", "braised-beef", "cream-sauce", "high-protein", "380-calories", "special-occasion"]
+tags: ["svíčková", "czech", "braised-beef", "cream-sauce", "high-protein", "special-occasion"]
 pillar: 4
 publishDate: 2024-05-28
 featured: false
@@ -12,9 +12,11 @@ image: "/images/blog/healthy-svieckova-czech-beef-cream-sauce.webp"
 ---
 
 Svíčková na smetaně is arguably the Czech Republic's most celebrated national dish. Thinly sliced braised beef in a velvety sauce of root vegetables and cream, topped traditionally with whipped cream and cranberry jam, served with bread dumplings.
-A restaurant portion can reach 900–1,000 calories. My healthy version makes targeted changes: lean beef topside, a yogurt-thickened vegetable-purée sauce instead of heavy cream, and buckwheat in place of bread dumplings. Result: 380 calories and 36g protein, all the warmth and elegance of the original at less than half the calories.
+A restaurant portion can reach 900–1,000 calories. This lighter version makes targeted changes: lean beef topside, a yogurt-thickened vegetable-purée sauce instead of heavy cream, and buckwheat in place of bread dumplings. Result: about 420 calories and 37g protein, with the warmth of the original at well under half the calories.
 
 ## Ingredients
+Serves 6.
+
 ### For the beef
 - 800g lean beef topside, trimmed of all fat
 - 1 tsp olive oil, salt, pepper, dried thyme
@@ -42,20 +44,20 @@ A restaurant portion can reach 900–1,000 calories. My healthy version makes ta
 - Slice beef thinly (5–7mm). Fan over buckwheat. Pour sauce generously. Top with cranberry jam and parsley.
 
 ## Nutrition facts
-Per serving (with buckwheat, without dumplings):
+Per serving (serves 6, with 100g buckwheat and 1 tbsp cranberry sauce): about 420 kcal, 37g protein, 9g fat, 40g carbohydrate. Values are estimates calculated from the ingredients.
 
-DIET LABELS: High Protein | High Iron | Gluten-Free (with GF broth) | Special Occasion Recipe
+DIET LABELS: High Protein | Good Source of Iron | Gluten-Free (with GF broth and mustard) | Special Occasion Recipe
 
 ## Frequently asked questions
 
 ### Does this taste like restaurant svíčková?
 
-Very closely. The primary difference is the sauce texture, the yogurt version is lighter and slightly tangier than heavy cream. For everyday cooking it is excellent. For a Czech celebration meal, you might add 1 tablespoon of actual cream at the end for full authenticity (adds approximately 30 calories).
+It is close, but not identical. The main difference is the sauce, which is lighter and slightly tangier than one made with cream. For a celebration meal, stir a couple of tablespoons of real cream into the whole pot at the end; spread over six servings it adds only about 15–20 calories each.
 
 ### What cut of beef is best?
 
-Lean topside or silverside braise beautifully and have very little fat. Traditional svíčková uses sirloin, but lean topside cuts calories significantly and produces tender results with proper slow cooking.
+Lean topside or silverside braise well and have very little fat. The dish takes its name from beef tenderloin (svíčková in Czech), but home cooks often use cheaper, leaner round cuts like topside, which become tender with slow braising.
 
 ### Can I use a slow cooker?
 
-Perfectly suited. After searing beef and sautéeing vegetables, transfer everything to the slow cooker. Cook LOW for 8 hours or HIGH for 5 hours. Remove beef, blend vegetables and liquid into sauce, finish with yogurt off heat.
+Yes. After searing beef and sautéeing vegetables, transfer everything to the slow cooker. Cook LOW for 8 hours or HIGH for 5 hours. Remove beef, blend vegetables and liquid into sauce, finish with yogurt off heat.
