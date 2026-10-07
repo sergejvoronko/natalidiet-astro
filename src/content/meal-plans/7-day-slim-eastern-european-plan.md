@@ -1,8 +1,8 @@
 ---
 title: "7-Day Eastern European Slim Plan (1,200 kcal)"
-description: "A calorie-restricted 7-day Eastern European meal plan under 1,200 kcal per day. Nutritionist-designed, high-protein, light and satisfying."
+description: "A calorie-restricted 7-day Eastern European meal plan of about 1,100 kcal per day, for short-term use. High-protein, light and satisfying."
 days: 7
-totalCalories: 1150
+totalCalories: 1100
 publishDate: 2026-04-01
 featured: true
 ---
@@ -13,7 +13,7 @@ This 7-day plan is designed for faster fat loss while staying full and nourished
 
 **Important:** Consult your doctor or dietitian before beginning any calorie-restricted plan below 1,200 kcal. This plan is designed for short-term use (1–2 weeks) or as a reset phase.
 
-**Daily targets:** ~1,150 kcal · ~95g protein · ~35g fat · ~130g carbs
+**Daily target:** about 1,100 kcal, and every day below stays between 1,050 and 1,200. The evening snack is part of that total, not an extra. Calorie values are estimates per serving.
 
 ---
 
@@ -22,12 +22,11 @@ This 7-day plan is designed for faster fat loss while staying full and nourished
 | Meal | Recipe | kcal |
 |------|--------|------|
 | Breakfast | Plain kefir with 1 tbsp flaxseeds & a handful of berries | 150 |
-| Snack | 1 hard-boiled egg + cucumber slices | 95 |
+| Snack | 1 hard-boiled egg + cucumber slices + 10g almonds | 155 |
 | Lunch | Light Borscht with 1 rye crispbread | 210 |
-| Dinner | Baked cod with dill and steamed buckwheat (100g) | 320 |
-| **Day total** | | **775** |
-
-*Add an optional evening snack of 150g plain Greek yogurt to reach ~1,000 kcal if needed.*
+| Dinner | Baked cod with dill and steamed buckwheat (100g), + 1 slice whole rye bread (40g) | 420 |
+| Evening snack | 150g plain Greek yogurt (0%) + 100g berries | 140 |
+| **Day total** | | **1,075** |
 
 ### Prep tip, day 1
 Make a large pot of borscht in the morning, it keeps 4 days and works for multiple lunches.
@@ -39,12 +38,11 @@ Make a large pot of borscht in the morning, it keeps 4 days and works for multip
 | Meal | Recipe | kcal |
 |------|--------|------|
 | Breakfast | 150g low-fat cottage cheese (syr) with ½ apple | 160 |
-| Snack | 20g walnuts + a small pear | 150 |
-| Lunch | Sauerkraut soup (kapustnyak) with 1 rye crispbread | 195 |
-| Dinner | 180g turkey mince with braised cabbage, no oil | 310 |
-| **Day total** | | **815** |
-
-*Add 200ml plain kefir in the evening to reach ~1,000 kcal if needed.*
+| Snack | 20g walnuts + a small pear | 215 |
+| Lunch | Sauerkraut soup (kapustnyak) with 2 rye crispbreads | 230 |
+| Dinner | 180g turkey mince with braised cabbage, no oil, + 100g boiled potatoes | 385 |
+| Evening snack | 200ml plain kefir | 100 |
+| **Day total** | | **1,090** |
 
 ### Prep tip, day 2
 Season the turkey mince well with paprika, garlic, and dill, lean meat rewards good seasoning.
@@ -57,9 +55,10 @@ Season the turkey mince well with paprika, garlic, and dill, lean meat rewards g
 |------|--------|------|
 | Breakfast | Rye porridge (50g dry rye flakes) with grated apple & cinnamon | 230 |
 | Snack | 2 rye crispbreads with herbed cottage cheese (80g) | 155 |
-| Lunch | Lentil and beetroot salad | 235 |
+| Lunch | Lentil and beetroot salad, + 1 slice whole rye bread (40g) | 335 |
 | Dinner | Baked bell pepper stuffed with buckwheat and mushrooms | 290 |
-| **Day total** | | **910** |
+| Evening snack | 200ml plain kefir | 100 |
+| **Day total** | | **1,110** |
 
 ### Prep tip, day 3
 Cook extra lentils, they last 4 days refrigerated and work as a base for several meals.
@@ -71,10 +70,11 @@ Cook extra lentils, they last 4 days refrigerated and work as a base for several
 | Meal | Recipe | kcal |
 |------|--------|------|
 | Breakfast | Berry kefir smoothie: 200ml kefir + 100g frozen berries, blended | 155 |
-| Snack | Small apple + 10g almonds | 120 |
-| Lunch | Cold okroshka (kefir + cucumber + egg + dill) | 215 |
+| Snack | Small apple + 10g almonds | 140 |
+| Lunch | Cold okroshka (kefir + cucumber + egg + dill), + 1 slice whole rye bread (40g) | 315 |
 | Dinner | 160g salmon fillet, baked with dill, + 80g new potatoes | 380 |
-| **Day total** | | **870** |
+| Evening snack | 150g plain Greek yogurt (0%) | 90 |
+| **Day total** | | **1,080** |
 
 ### Prep tip, day 4
 Okroshka is served cold, make it in the morning and refrigerate until lunch.
@@ -89,7 +89,8 @@ Okroshka is served cold, make it in the morning and refrigerate until lunch.
 | Snack | 150g plain Greek yogurt (0%) with ½ tsp honey | 115 |
 | Lunch | Mushroom barley soup (200ml serving) | 190 |
 | Dinner | Kefir chicken paprikash with 80g buckwheat | 380 |
-| **Day total** | | **970** |
+| Evening snack | 200ml plain kefir | 100 |
+| **Day total** | | **1,070** |
 
 ### Prep tip, day 5
 Mushroom barley soup thickens as it sits, add a splash of water when reheating.
@@ -102,11 +103,10 @@ Mushroom barley soup thickens as it sits, add a splash of water when reheating.
 |------|--------|------|
 | Breakfast | 2 syrniki (cottage cheese pancakes), no sour cream | 215 |
 | Snack | Radishes with 60g plain cottage cheese dip | 80 |
-| Lunch | Vinegret salad (beetroot, potato, carrot, sauerkraut) | 195 |
-| Dinner | Turkey buckwheat kotlety (3 pieces) with cucumber salad | 310 |
-| **Day total** | | **800** |
-
-*Add 200ml plain kefir in the evening to reach ~1,000 kcal if needed.*
+| Lunch | Vinegret salad (beetroot, potato, carrot, sauerkraut), + 1 slice whole rye bread (40g) | 295 |
+| Dinner | Turkey buckwheat kotlety (3 pieces) with cucumber salad, + 100g boiled potatoes | 385 |
+| Evening snack | 200ml plain kefir | 100 |
+| **Day total** | | **1,075** |
 
 ### Prep tip, day 6
 Make vinegret in a large batch, it improves overnight as flavours meld.
@@ -120,10 +120,9 @@ Make vinegret in a large batch, it improves overnight as flavours meld.
 | Breakfast | Pumpkin millet porridge with 1 tsp honey | 260 |
 | Snack | Pumpkin seed & date energy balls (2 balls) | 105 |
 | Lunch | Beetroot and walnut salad with flat-leaf parsley | 175 |
-| Dinner | Zucchini herb fritters (3) with plain yogurt dip | 255 |
-| **Day total** | | **795** |
-
-*Add 200ml kefir with 10g walnuts in the evening for an extra 150 kcal if needed.*
+| Dinner | Zucchini herb fritters (3) with plain yogurt dip, + 1 slice whole rye bread (40g) | 355 |
+| Evening snack | 200ml plain kefir + 10g walnuts | 165 |
+| **Day total** | | **1,060** |
 
 ---
 
@@ -131,20 +130,18 @@ Make vinegret in a large batch, it improves overnight as flavours meld.
 
 | | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |--|-----|-----|-----|-----|-----|-----|-----|
-| kcal (base) | 775 | 815 | 910 | 870 | 970 | 800 | 795 |
-| kcal (with optional snack) | ~1,000 | ~1,000 | 910 | 870 | 970 | ~1,000 | ~950 |
-| Protein | 72g | 84g | 70g | 78g | 95g | 80g | 65g |
+| kcal | 1,075 | 1,090 | 1,110 | 1,080 | 1,070 | 1,075 | 1,060 |
 
-*Optional evening kefir or yogurt snack recommended on lower-calorie days to keep total above 900 kcal.*
+Values are estimates per serving. Every day includes a protein source at each main meal: cottage cheese, kefir, eggs, fish or lean meat.
 
 ---
 
 ## Shopping list, 7 days, 1 person
 
 ### Dairy & eggs
-- Plain kefir, 1.5 litres
+- Plain kefir, 2.5 litres
 - Low-fat cottage cheese (syr or twaróg), 600g
-- Plain Greek yogurt (0% fat), 400g
+- Plain Greek yogurt (0% fat), 500g
 - Low-fat quark, 150g
 - Eggs, 8
 
@@ -158,13 +155,13 @@ Make vinegret in a large batch, it improves overnight as flavours meld.
 - Buckwheat groats (dry), 300g
 - Rye flakes, 100g
 - Rye crispbreads, 1 pack (~10)
-- Dense rye bread, ½ small loaf
+- Dense rye bread, 1 small loaf
 - Millet, 60g
 - Pearl barley, 80g
 
 ### Vegetables
 - Beetroot (cooked), 400g
-- Potatoes (new/waxy), 300g
+- Potatoes (new/waxy), 500g
 - White cabbage, 500g
 - Sauerkraut, 250g
 - Carrots, 4 medium
@@ -179,16 +176,16 @@ Make vinegret in a large batch, it improves overnight as flavours meld.
 - Garlic, 1 bulb
 
 ### Fruit
-- Mixed berries (frozen), 250g
+- Mixed berries (frozen), 350g
 - Apple, 2
 - Pear, 1
 - Lemon, 2
 - Medjool dates, 40g (for energy balls)
 
 ### Nuts & seeds
-- Walnuts, 60g
+- Walnuts, 70g
 - Pumpkin seeds, 40g
-- Almonds, 30g
+- Almonds, 40g
 - Flaxseeds, 1 tbsp
 
 ### Pantry
@@ -204,8 +201,8 @@ Make vinegret in a large batch, it improves overnight as flavours meld.
 
 ## Tips for success on a low-calorie plan
 
-1. **Drink water between meals.** Kefir and soups naturally help, but aim for 8 glasses of water daily.
-2. **Do not skip evening kefir** on days where the base is below 900 kcal, your body needs the protein.
-3. **Use this as a 1–2 week reset**, not a long-term strategy. After, transition to the 7-Day Classic Plan (~1,450 kcal).
+1. **Drink water through the day.** Soups and kefir count towards it too.
+2. **Do not skip the evening snack.** It is part of the daily total, and going much lower than this plan is not something to do without medical advice.
+3. **Use this as a 1–2 week reset**, not a long-term strategy. After, transition to the 7-Day Classic Plan (~1,400 kcal).
 4. **Eat slowly.** Eastern European soups and cottage cheese dishes are naturally satiating, give your body time to register fullness.
 5. **Prep on Sunday.** Cook buckwheat, make a big pot of soup, and hard-boil 4 eggs. This makes the week effortless.

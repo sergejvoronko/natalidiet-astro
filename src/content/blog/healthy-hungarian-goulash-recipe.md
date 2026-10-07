@@ -1,10 +1,10 @@
 ---
-title: "Healthy Hungarian Goulash — Lighter Beef Stew (340 kcal, 32g Protein)"
-description: "Healthy Hungarian goulash, 340 calories with lean beef and a deep paprika sauce. The same slow-cooked depth of the original at a fraction of the calories."
-metaTitle: "Healthy Hungarian Goulash — 340 kcal Beef Stew | Natali Diet"
-metaDescription: "Healthy Hungarian goulash, 340 calories with lean beef and a deep paprika sauce. The same slow-cooked depth of the original at a fraction of the calories."
+title: "Healthy Hungarian Goulash — Lighter Beef Stew (370 kcal, 33g Protein)"
+description: "Healthy Hungarian goulash, about 370 calories with lean beef and a deep paprika sauce. The same slow-cooked depth as the original with far less fat."
+metaTitle: "Healthy Hungarian Goulash — 370 kcal Beef Stew | Natali Diet"
+metaDescription: "Healthy Hungarian goulash, about 370 calories with lean beef and a deep paprika sauce. The same slow-cooked depth as the original with far less fat."
 category: "healthy-main-dishes"
-tags: ["goulash", "hungarian", "beef-stew", "gluten-free", "high-iron", "340-calories"]
+tags: ["goulash", "hungarian", "beef-stew", "gluten-free", "high-protein", "low-calorie"]
 pillar: 2
 publishDate: 2024-03-20
 featured: false
@@ -12,9 +12,11 @@ image: "/images/blog/healthy-hungarian-goulash-recipe.webp"
 ---
 
 Goulash, gulyás in Hungarian, began as a simple herdsman's stew cooked over open fires on the Hungarian plains. Beef, onions, paprika: three ingredients that somehow produce a deep, satisfying flavour. Over the centuries it evolved into Hungary's national dish, spreading across the entire region, with every country adapting it to local tastes.
-At its core, goulash is already a lean, wholesome dish, the richness comes from the paprika and slow cooking, not from lots of fat. My healthy version amplifies those characteristics: I use a lean beef cut, add more vegetables, skip the lard, and cook it long and slow. The result is a deep, warming, iron-rich stew that is excellent for weight loss.
+At its core, goulash is already a lean, wholesome dish, the richness comes from the paprika and slow cooking, not from lots of fat. This lighter version builds on that: a lean beef cut, more vegetables, no lard, and a long, slow cook. The result is a deep, warming, high-protein stew that suits a weight-loss plan.
 
 ## Ingredients
+Serves 5.
+
 - 700g lean beef (shin, chuck, or stewing beef), trim all visible fat
 - 2 large onions, diced
 - 4 cloves garlic, minced
@@ -44,15 +46,15 @@ At its core, goulash is already a lean, wholesome dish, the richness comes from 
 - Remove bay leaves. Taste for seasoning. Serve with a small sprig of parsley. Optional: a tablespoon of low-fat sour cream on top.
 
 ## Nutrition facts
-Per serving (with vegetables, without side):
+Per serving (serves 5, with vegetables, without side): about 370 kcal, 33g protein, 10g fat, 34g carbohydrate. Values are estimates calculated from the ingredients.
 
-DIET LABELS: Gluten-Free | High Iron | High Protein | Dairy-Free | Freezer-Friendly
+DIET LABELS: Gluten-Free (check your broth) | High Protein | Good Source of Iron | Dairy-Free | Freezer-Friendly
 
 ## Frequently asked questions
 
 ### What cut of beef is best for healthy goulash?
 
-Lean braising cuts are your best choice: beef shin (osso buco-style), chuck steak, or stewing beef. These cuts are naturally lean, affordable, and become incredibly tender with slow cooking. Avoid pre-cut 'stewing beef' packs from supermarkets, they often contain fatty off-cuts. Better to buy a chuck steak and cut it yourself.
+Lean braising cuts are your best choice: beef shin, chuck steak, or stewing beef. These cuts are naturally lean, affordable, and become incredibly tender with slow cooking. Avoid pre-cut 'stewing beef' packs from supermarkets, they often contain fatty off-cuts. Better to buy a chuck steak and cut it yourself.
 
 ### Why is my goulash sauce thin?
 
@@ -60,8 +62,8 @@ Traditional goulash is actually quite broth-forward (it is technically a stew-so
 
 ### Can I make goulash without potatoes for a lower carb version?
 
-Yes, replace potatoes with celeriac (celery root) or turnips, which have a similar texture but far fewer carbohydrates. Or double the carrots and bell peppers. Without potatoes, this reduces the carbohydrate content to approximately 14g per serving.
+Yes, replace potatoes with celeriac (celery root) or turnips, which have a similar texture but far fewer carbohydrates. Or double the carrots and bell peppers. Without potatoes, the carbohydrate content drops to about 20g per serving.
 
 ### Is goulash the same thing as Irish beef stew?
 
-They are related cousins, both are slow-braised beef stews, but they taste completely different. Irish stew relies on the clean flavour of the beef and root vegetables. Goulash is dominated by Hungarian sweet paprika, which creates a completely different flavour profile: sweeter, spicier, more complex, and distinctly Central European.
+Only loosely. Both are slow-cooked stews, but they taste completely different. Irish stew is traditionally made with lamb or mutton and relies on the clean flavour of the meat, potatoes and onions. Goulash is dominated by Hungarian sweet paprika, which creates a completely different flavour profile: sweeter, spicier, more complex, and distinctly Central European.

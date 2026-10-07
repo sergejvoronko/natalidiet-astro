@@ -1,10 +1,10 @@
 ---
-title: "Healthy Baked Varenyky / Pierogi — Not Fried! (320 kcal)"
-description: "Varenyky and pierogi baked instead of fried, 320 calories for 5 dumplings. Includes full dough recipe, potato-cottage cheese filling, and how to freeze a full batch."
-metaTitle: "Healthy Baked Varenyky (Pierogi) — 320 kcal | Natali Diet"
-metaDescription: "Varenyky and pierogi baked instead of fried, 320 calories for 5 dumplings, with full dough recipe and freezing guide."
+title: "Healthy Baked Varenyky / Pierogi — Not Fried! (300 kcal)"
+description: "Varenyky and pierogi baked instead of fried, about 300 calories for 5 dumplings. Includes full dough recipe, potato-cottage cheese filling, and how to freeze a full batch."
+metaTitle: "Healthy Baked Varenyky (Pierogi) — 300 kcal | Natali Diet"
+metaDescription: "Varenyky and pierogi baked instead of fried, about 300 calories for 5 dumplings, with full dough recipe and freezing guide."
 category: "healthy-main-dishes"
-tags: ["varenyky", "pierogi", "ukrainian", "polish", "vegetarian", "baked", "dumplings", "320-calories"]
+tags: ["varenyky", "pierogi", "ukrainian", "polish", "vegetarian", "baked", "dumplings", "low-calorie"]
 pillar: 2
 publishDate: 2024-03-25
 featured: false
@@ -12,9 +12,11 @@ image: "/images/blog/healthy-baked-varenyky-pierogi-recipe.webp"
 ---
 
 Varenyky and pierogi are essentially the same beloved dumpling, varenyky (вареники) is the Ukrainian name, pierogi (pierogi) is Polish. Both are filled pasta pockets, usually stuffed with potato and cheese, sauerkraut and mushroom, or sweet cottage cheese. They are among the best-loved foods in Eastern Europe.
-Traditionally they are boiled and then pan-fried in butter until golden and crispy. Delicious, but calorie-dense. My healthy approach keeps the boiling step but replaces the butter-fry with a light oven bake, brushed with a tiny amount of olive oil. The outside gets beautifully golden and slightly crisp. The inside stays pillowy and creamy. And the calorie saving is significant.
+They are often boiled and then pan-fried in butter until golden and crispy, or served swimming in butter and fried onion. Delicious, but calorie-dense. This lighter approach keeps the boiling step but replaces the butter-fry with a light oven bake, brushed with a tiny amount of olive oil. The outside gets beautifully golden and slightly crisp. The inside stays pillowy and creamy. And the calorie saving is significant.
 
 ## Ingredients
+Makes about 30 varenyky (6 servings of 5).
+
 ### For the dough
 - 300g plain flour (or gluten-free flour blend + 1/2 tsp xanthan gum)
 - 1 egg
@@ -54,7 +56,7 @@ Traditionally they are boiled and then pan-fried in butter until golden and cris
 - Serve immediately with caramelised onion, a dollop of Greek yogurt, and fresh dill.
 
 ## Nutrition facts
-Per serving (5 varenyky with filling, light yogurt, no caramelised onion):
+Per serving (5 varenyky with filling, light yogurt, no caramelised onion): about 300 kcal, 12g protein, 5g fat, 52g carbohydrate. Values are estimates calculated from the ingredients.
 
 DIET LABELS: Vegetarian | Lower Fat than Traditional | Gluten-Free adaptable | Freezer-Friendly
 
@@ -68,11 +70,11 @@ The best way to have these on demand:
 
 ### How many calories are in traditional fried pierogi?
 
-Traditional boiled-then-pan-fried pierogi in butter typically contain 400–500 calories for 5 pieces, and even more with a full dollop of full-fat sour cream. This baked version brings that down to 320 calories for 5 pieces, a meaningful saving, especially if you eat them regularly.
+Traditional boiled-then-pan-fried pierogi in butter typically contain 400–500 calories for 5 pieces, and even more with a full dollop of full-fat sour cream. This baked version brings that down to about 300 calories for 5 pieces, a meaningful saving, especially if you eat them regularly.
 
 ### Can I make the dough without eggs?
 
-Yes, replace the egg with 2 extra tablespoons of warm water plus 1 teaspoon of olive oil. The dough will be slightly less elastic but still workable. Or use 1 tablespoon of aquafaba (the liquid from a can of chickpeas) as a binder, which works surprisingly well.
+Yes, replace the egg with 2 extra tablespoons of warm water plus 1 teaspoon of olive oil. The dough will be slightly less elastic but still workable. Or use 1 tablespoon of aquafaba (the liquid from a can of chickpeas) as a binder.
 
 ### What are other traditional fillings I can use?
 

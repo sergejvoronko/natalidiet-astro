@@ -11,37 +11,35 @@ featured: false
 image: "/images/blog/eastern-european-diet-vs-mediterranean-diet.webp"
 ---
 
-The Mediterranean diet has been voted the world's #1 healthiest diet by US News & World Report every year since 2018. It is backed by decades of clinical research and celebrated by nutritionists globally. So where does the Eastern European diet stand, a cuisine built on beets, buckwheat, fermented cabbage, kefir, and hearty broths?
-My answer may surprise you: for many people, particularly those of Eastern European heritage or living in colder climates, a thoughtfully constructed Eastern European diet can match or outperform the Mediterranean diet on several key health markers. The comparison is far more nuanced than most nutrition writing acknowledges.
+The Mediterranean diet has been ranked the best overall diet by US News & World Report every year since 2018, and it is backed by decades of research. So where does the Eastern European diet stand, a cuisine built on beets, buckwheat, fermented cabbage, kefir, and hearty broths?
+The honest answer: the Mediterranean diet has far stronger evidence behind it, but a thoughtfully built Eastern European diet shares many of its strengths, has a few of its own, and can borrow what it lacks. For people who grew up with this food, that can make it the easier diet to stick to.
 
-## Head-to-Head comparison
-
-## Where the Eastern European diet wins
-### 1. Probiotic Richness
-No major diet tradition comes close to Eastern Europe for daily fermented food consumption. Sauerkraut, kefir, naturally fermented pickles, fermented rye bread, these are eaten multiple times daily in traditional Eastern European households. A landmark 2021 study in Cell found that a high-fermented-food diet increased microbiome diversity and decreased inflammatory markers more effectively than a high-fibre diet alone.
+## Where the Eastern European diet does well
+### 1. Fermented foods
+Eastern Europe has one of the world's strongest fermented-food traditions, alongside places like Korea and Japan. Sauerkraut, kefir, naturally fermented pickles and sourdough rye bread are everyday foods in many households. A small 2021 study in the journal *Cell* found that ten weeks of a diet high in fermented foods increased gut microbiome diversity and lowered several inflammatory markers, while a high-fibre diet over the same period did not change diversity in the same way.
 ### 2. Affordability
-Buckwheat, rye bread, cabbage, beets, potatoes, dried mushrooms, and kefir are among the most affordable foods available. The Mediterranean diet's reliance on quality extra-virgin olive oil, fresh fatty fish three times a week, and a wide variety of nuts can become expensive. For families on a budget, or anyone in Northern Europe without easy access to Mediterranean produce, the Eastern European framework is far more practical.
-### 3. Cultural Sustainability for Eastern Europeans
-The strongest predictor of long-term diet success is adherence. For people of Eastern or Central European heritage, eating borscht and buckwheat is not a sacrifice, it is home. Sustained weight loss is dramatically more successful when the food is emotionally and culturally meaningful.
+Buckwheat, rye bread, cabbage, beets, potatoes, dried mushrooms, and kefir are among the most affordable foods available. The Mediterranean diet's reliance on quality extra-virgin olive oil, fresh fatty fish several times a week, and a wide variety of nuts can become expensive. For families on a budget, or anyone in Northern Europe without easy access to Mediterranean produce, the Eastern European framework is often more practical.
+### 3. Familiarity for people of Eastern European heritage
+Sticking with a way of eating is one of the strongest predictors of long-term success. For people of Eastern or Central European heritage, eating borscht and buckwheat is not a sacrifice, it is home, and familiar food is easier to keep eating week after week.
 
 ## Where the Mediterranean diet wins
 ### 1. Research Foundation
-The PREDIMED trial alone, which showed a 30% reduction in major cardiovascular events with a Mediterranean diet supplemented with olive oil or nuts, represents the kind of clinical evidence that does not yet exist for the Eastern European diet as a defined dietary pattern. The research gap is significant.
+The Mediterranean diet has a large body of evidence, including the PREDIMED trial, in which a Mediterranean diet supplemented with extra-virgin olive oil or nuts was linked to roughly 30% fewer major cardiovascular events. (The original 2013 paper was retracted and republished in 2018 after problems with how some participants were randomised; the corrected analysis reached similar conclusions.) Nothing comparable exists for the Eastern European diet as a defined pattern.
 ### 2. Omega-3 Fatty Acids
-The Mediterranean diet's emphasis on fatty fish (salmon, sardines, mackerel) two to three times per week provides exceptional EPA and DHA omega-3 levels, crucial for brain health, inflammation control, and cardiovascular protection. This is a genuine gap in the traditional Eastern European diet that should be addressed by adding oily fish to the weekly rotation.
+The Mediterranean diet's emphasis on fish, including oily fish such as sardines and mackerel, provides the omega-3 fats EPA and DHA, which matter for heart health. Traditional Eastern European cooking eats less oily fish, a gap that is easy to close by adding fish like mackerel, herring or salmon once or twice a week.
 ### 3. Plant Variety
-The Mediterranean diet recommendation of 30+ different plant foods per week dramatically increases microbiome diversity. Traditional Eastern European cooking, while heavy in fermented plants, tends to use a narrower vegetable range. Consciously widening the palette significantly improves the Eastern European approach.
+Mediterranean eating uses a wide range of vegetables, legumes, fruit, nuts and herbs. Research from the American Gut Project found that people who ate more than 30 different plant foods a week had more diverse gut bacteria than those who ate fewer than 10. Traditional Eastern European cooking tends to rely on a narrower set of vegetables, so consciously widening the range improves it.
 
 ## Frequently asked questions
 
 ### Is the Eastern European diet the same as Mediterranean?
 
-No, they are completely distinct dietary traditions. The Mediterranean diet is defined by olive oil, legumes, fish, and fresh southern European vegetables. Eastern European is built on fermented foods, buckwheat, rye, root vegetables, and hearty broths. They share the principle of whole, minimally processed food, but differ significantly in specific ingredients.
+No, they are distinct dietary traditions. The Mediterranean diet is defined by olive oil, legumes, fish, and fresh southern European vegetables. Eastern European is built on fermented foods, buckwheat, rye, root vegetables, and hearty broths. They share the principle of whole, minimally processed food, but differ significantly in specific ingredients.
 
 ### Can you follow the Eastern European diet and have good heart health?
 
-Yes, with modern adaptations. The key changes are: replacing lard with olive oil, choosing lean pork cuts, eating oily fish once or twice a week, and increasing the proportion of vegetables at every meal. With these adjustments the Eastern European diet pattern is heart-healthy.
+Yes, with modern adaptations. The key changes are: replacing lard with olive oil, choosing lean pork cuts, eating oily fish once or twice a week, and increasing the proportion of vegetables at every meal. Those changes move the Eastern European pattern much closer to what heart-health guidelines recommend.
 
 ### Is kefir as healthy as Greek yogurt?
 
-Both are excellent probiotic foods. Kefir typically contains 12+ strains of bacteria and yeasts versus 2–3 in commercial yogurt; it is also naturally lower in lactose. Greek yogurt wins on protein content per serving. Both are excellent daily foods and in this blog I use both.
+Both are good fermented foods. Kefir usually contains a wider mix of bacteria and yeasts than most yogurts, which are typically made with a handful of strains. Greek yogurt wins on protein content per serving. Both make good daily foods, and this blog uses both.

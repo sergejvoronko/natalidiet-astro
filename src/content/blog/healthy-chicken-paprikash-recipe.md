@@ -1,10 +1,10 @@
 ---
-title: "Healthy Chicken Paprikash — Low Calorie Hungarian Classic (310 kcal, 38g Protein)"
-description: "Chicken paprikash made healthy, 310 calories and 38g protein using Greek yogurt instead of sour cream. Authentic Hungarian flavour, gluten-free, ready in 45 minutes."
-metaTitle: "Healthy Chicken Paprikash — 310 kcal | Natali Diet"
-metaDescription: "Chicken paprikash at 310 calories and 38g protein, Greek yogurt replaces sour cream. Authentic, gluten-free, ready in 45 minutes."
+title: "Healthy Chicken Paprikash — Low Calorie Hungarian Classic (350 kcal, 45g Protein)"
+description: "Chicken paprikash made healthy, about 350 calories and 45g protein using Greek yogurt instead of sour cream. Authentic Hungarian flavour, gluten-free, ready in 45 minutes."
+metaTitle: "Healthy Chicken Paprikash — 350 kcal | Natali Diet"
+metaDescription: "Chicken paprikash at about 350 calories and 45g protein, Greek yogurt replaces sour cream. Authentic, gluten-free, ready in 45 minutes."
 category: "healthy-main-dishes"
-tags: ["chicken-paprikash", "hungarian", "gluten-free", "high-protein", "310-calories", "comfort-food"]
+tags: ["chicken-paprikash", "hungarian", "gluten-free", "high-protein", "low-calorie", "comfort-food"]
 pillar: 2
 publishDate: 2024-03-10
 featured: false
@@ -12,9 +12,11 @@ image: "/images/blog/healthy-chicken-paprikash-recipe.webp"
 ---
 
 Chicken paprikash, csirkepaprikás in Hungarian, is one of Central Europe's greatest comfort foods. Succulent chicken pieces cooked in a sauce so flavoured with sweet Hungarian paprika that the whole kitchen turns a gorgeous rust-red colour. Traditionally, the sauce is made rich and velvety with full-fat sour cream.
-My healthy version uses low-fat Greek yogurt added off the heat, a swap so seamless that even Hungarian grandmothers have been fooled. The result is 310 calories and 38 grams of protein per serving: a high-protein, satisfying meal that fits beautifully into any healthy eating or weight-loss plan.
+This lighter version uses low-fat Greek yogurt stirred in off the heat, which keeps the sauce creamy and tangy for far fewer calories. The result is about 350 calories and 45 grams of protein per serving: a high-protein, satisfying meal that fits easily into a healthy eating or weight-loss plan.
 
 ## Ingredients
+Serves 4.
+
 ### For the Paprikash
 - 800g boneless, skinless chicken thighs (or breasts, thighs stay juicier)
 - 1 large onion, finely diced
@@ -44,21 +46,21 @@ My healthy version uses low-fat Greek yogurt added off the heat, a swap so seaml
 - Critical step: Remove the pan from the heat briefly. Add the sweet paprika and smoked paprika. Stir into the onion for 30 seconds. The residual heat will bloom the paprika without burning it. Burnt paprika tastes bitter, this step prevents that.
 - Return to medium heat. Add diced bell pepper, stir for 2 minutes. Add chopped tomatoes and chicken broth. Stir well, scraping any browned bits from the bottom of the pan.
 - Return the seared chicken to the pan. Bring to a gentle simmer. Cover and cook on low heat for 30–35 minutes until chicken is completely tender and sauce has thickened.
-- Remove from heat. Mix Greek yogurt with cornstarch until completely smooth. Stir the yogurt mixture into the paprikash gradually. Serve immediately over cauliflower mash or noodles. Garnish with fresh dill.
+- Remove from heat. Mix Greek yogurt with the cornstarch slurry until completely smooth. Stir the yogurt mixture into the paprikash gradually. Serve immediately over cauliflower mash or noodles. Garnish with fresh dill.
 
 ## Nutrition facts
-Per serving of paprikash only (without sides):
+Per serving of paprikash only (serves 4, without sides): about 350 kcal, 45g protein, 10g fat, 16g carbohydrate. Values are estimates calculated from the ingredients.
 
-DIET LABELS: Gluten-Free | High Protein | Low-Fat | Diabetic-Friendly | Meal-Prep Friendly
+DIET LABELS: Gluten-Free (check your broth) | High Protein | Meal-Prep Friendly
 
 ## Serving ideas
-- Over cauliflower mash, saves ~150 calories vs. traditional egg noodles
-- With a simple cucumber-dill salad (slice 2 cucumbers, toss with 2 tbsp apple cider vinegar, dill, salt, zero calories)
-- Over whole-grain egg noodles (adds ~160 calories per 80g cooked portion)
+- Over cauliflower mash, about 70 calories less than a portion of egg noodles
+- With a simple cucumber-dill salad (slice 2 cucumbers, toss with 2 tbsp apple cider vinegar, dill, salt, almost no calories)
+- Over whole-grain egg noodles (adds roughly 110 calories per 80g cooked portion)
 - With steamed green beans or roasted courgette
 
 ## Storage & meal prep
-- Fridge: Store covered for up to 4 days. The flavour deepens beautifully overnight.
+- Fridge: Store covered for up to 3–4 days. The flavour deepens overnight.
 - Freeze: Freeze WITHOUT the yogurt sauce for up to 3 months. Add fresh yogurt when reheating.
 - Meal prep tip: Make a double batch on Sunday. Portion over cauliflower mash in containers, ready in 2 minutes each day.
 
@@ -66,11 +68,11 @@ DIET LABELS: Gluten-Free | High Protein | Low-Fat | Diabetic-Friendly | Meal-Pre
 
 ### What is the difference between chicken paprikash and goulash?
 
-Both are Hungarian paprika-based dishes, but they are quite different. Goulash is a beef-based stew, usually served as a soup or with potato. Paprikash uses chicken (or veal) in a creamy paprika-yogurt sauce, and is typically served over egg noodles or dumplings. Paprikash is lighter and creamier; goulash is bolder and beefier.
+Both are Hungarian paprika-based dishes, but they are quite different. Goulash is a beef-based dish, usually served as a soup. Paprikash uses chicken (or veal) in a creamy paprika sauce, and is typically served over egg noodles or small dumplings (nokedli). Paprikash is lighter and creamier; goulash is bolder and beefier.
 
 ### Can I use chicken breasts instead of thighs?
 
-Yes, but thighs are strongly preferred. Chicken thighs contain more connective tissue that breaks down during slow cooking, keeping the meat juicy and tender. Breasts can dry out quickly. If using breasts, reduce the cooking time after adding to the sauce to 20–25 minutes and avoid overcooking.
+Yes, but thighs are preferred. Chicken thighs have more fat and connective tissue, which keeps the meat juicy during simmering. Breasts can dry out quickly. If using breasts, reduce the cooking time after adding to the sauce to 20–25 minutes and avoid overcooking.
 
 ### Why is my paprikash sauce too thin?
 
@@ -78,7 +80,7 @@ A few fixes: (1) Cook uncovered for the last 10 minutes to let the sauce reduce.
 
 ### Is chicken paprikash a traditional weight-loss food?
 
-In traditional form, no, it was made with lard and full-fat sour cream. But the structure of the dish, lean chicken protein, vegetable-based sauce, minimal fat, makes it naturally suited to healthy cooking. In this version it comes to 310 calories a serving with 38g protein. Good for weight management.
+In traditional form, no, it was made with lard and full-fat sour cream. But the structure of the dish, lean chicken protein, a vegetable-based sauce and very little added fat, makes it easy to lighten. This version comes to about 350 calories a serving with 45g protein.
 
 ---
 

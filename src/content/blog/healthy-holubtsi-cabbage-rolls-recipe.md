@@ -15,6 +15,8 @@ Holubtsi, pronounced ho-LOOB-tsi, are Ukrainian stuffed cabbage rolls, and versi
 The traditional recipe is already surprisingly wholesome, it is essentially seasoned meat and rice wrapped in cabbage. My healthy version makes a few strategic tweaks: I use a lean beef and turkey mix, add more vegetables to the filling, and cook the rolls in a light tomato sauce rather than a heavy sour cream sauce. The result is 280 calories per serving (2 rolls) with excellent protein and fibre.
 
 ## Ingredients
+Makes 10–12 rolls (5–6 servings of 2).
+
 ### For the rolls
 - 1 large head white cabbage (about 1.5kg)
 - 400g extra-lean beef mince (5% fat)
@@ -57,13 +59,13 @@ The traditional recipe is already surprisingly wholesome, it is essentially seas
 - Check after 50 minutes: the rolls should be completely tender. A probe thermometer should read 75°C / 165°F in the centre.
 
 ## Nutrition facts
-Per serving (2 rolls with sauce):
+Per serving (2 rolls with sauce): about 280 kcal, 26g protein, 9g fat, 23g carbohydrate, 5g fibre. Values are estimates calculated from the ingredients.
 
-DIET LABELS: Gluten-Free | High Fibre | High Protein | Meal-Prep Friendly | Freezer-Friendly
+DIET LABELS: Gluten-Free (check your broth) | High Protein | Source of Fibre | Meal-Prep Friendly | Freezer-Friendly
 
 ## Meal prep & storage
 - These are ideal Sunday batch-cook food. Make a full pot (10–12 rolls) and refrigerate or freeze.
-- Fridge: Store in the sauce for up to 5 days. They improve significantly by day 2.
+- Fridge: Store in the sauce for up to 3–4 days. They taste even better on day 2.
 - Freeze: Cool completely, then freeze in the sauce in portions. Defrost overnight in the fridge. Reheat gently on the stovetop with a splash of water.
 - Reheat: Always reheat with the lid on to prevent drying out.
 
@@ -71,7 +73,7 @@ DIET LABELS: Gluten-Free | High Fibre | High Protein | Meal-Prep Friendly | Free
 
 ### Are cabbage rolls good for weight loss?
 
-Yes, cabbage rolls are an excellent weight-loss meal. Cabbage is extremely low in calories (about 25 kcal per 100g) and very high in volume and fibre. The meat and rice filling provides protein and slow-release carbohydrates. Two rolls at 280 calories is a very filling, high-protein, high-fibre meal that keeps you satisfied for hours.
+Yes, they are a good weight-loss meal. Cabbage is extremely low in calories (about 25 kcal per 100g) and very high in volume and fibre. The meat and rice filling provides protein and slow-release carbohydrates. Two rolls at about 280 calories make a filling, high-protein meal.
 
 ### Can I make holubtsi in a slow cooker?
 

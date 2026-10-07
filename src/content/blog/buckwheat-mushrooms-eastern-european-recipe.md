@@ -1,10 +1,10 @@
 ---
-title: "Buckwheat with Forest Mushrooms — Eastern European Superfood Bowl (Vegan, 290 kcal)"
-description: "Buckwheat with forest mushrooms, a earthy, completely plant-based Eastern European main dish. Vegan, gluten-free, 290 calories, 30 minutes, and one of the most nutritious meals you can make."
-metaTitle: "Buckwheat with Mushrooms — Vegan, 290 kcal | Natali Diet"
-metaDescription: "Earthy buckwheat with forest mushrooms, vegan, gluten-free Eastern European main at 290 calories, ready in 30 minutes."
+title: "Buckwheat with Forest Mushrooms — Eastern European Comfort Bowl (Vegan, 300 kcal)"
+description: "Buckwheat with forest mushrooms, an earthy, completely plant-based Eastern European main dish. Vegan, gluten-free, about 300 calories and ready in about 45 minutes."
+metaTitle: "Buckwheat with Mushrooms — Vegan, 300 kcal | Natali Diet"
+metaDescription: "Earthy buckwheat with forest mushrooms, vegan, gluten-free Eastern European main at about 300 calories."
 category: "healthy-main-dishes"
-tags: ["buckwheat", "mushrooms", "vegan", "gluten-free", "plant-based", "superfood", "290-calories"]
+tags: ["buckwheat", "mushrooms", "vegan", "gluten-free", "plant-based", "low-calorie"]
 pillar: 2
 publishDate: 2024-03-28
 featured: false
@@ -12,9 +12,11 @@ image: "/images/blog/buckwheat-mushrooms-eastern-european-recipe.webp"
 ---
 
 In Western countries, buckwheat is treated as a trendy health food or a gluten-free flour alternative. In Eastern Europe, Ukraine, Russia, Slovakia, Poland, buckwheat (grechka or pohanka) is everyday food. It has been a staple for centuries, and it is one of the more nutritious grains you can eat.
-Paired with forest mushrooms, another Eastern European staple, it turns into something worth cooking on purpose: earthy and savoury, high in plant protein and magnesium, vegan, gluten-free, and ready in 30 minutes. Comfort food that happens to be good for you.
+Paired with forest mushrooms, another Eastern European staple, it turns into something worth cooking on purpose: earthy and savoury, with useful plant protein, plenty of fibre and magnesium, vegan and gluten-free. Comfort food that happens to be good for you.
 
 ## Ingredients
+Serves 4.
+
 - 250g raw buckwheat groats (toasted/roasted kasha, the flavour is much better than raw)
 - 30g dried porcini mushrooms, soaked in 300ml warm water for 20 minutes
 - 300g fresh chestnut or cremini mushrooms, sliced
@@ -41,12 +43,12 @@ Paired with forest mushrooms, another Eastern European staple, it turns into som
 - Serve as is, or with a small dollop of light sour cream or coconut yogurt.
 
 ## Nutrition facts
-Per serving (without sour cream):
+Per serving (serves 4, without sour cream): about 300 kcal, 14g protein, 4g fat, 55g carbohydrate, 10g fibre. Values are estimates calculated from the ingredients.
 
-DIET LABELS: Vegan | Gluten-Free | High Fibre | High Magnesium | Plant-Based Protein | Diabetic-Friendly
+DIET LABELS: Vegan | Gluten-Free (check your broth) | High Fibre | High Magnesium
 
 ## Variations
-- ADD PROTEIN: Stir in 150g cooked lentils or chickpeas for an extra 9g protein per serving
+- ADD PROTEIN: Stir in 150g cooked lentils or chickpeas per person for about 13g extra protein
 - WITH EGG: A soft-poached egg on top adds 6g protein and makes a beautiful breakfast
 - CREAMY VERSION: Stir in 2 tbsp light cream cheese or cashew cream at the end
 - BUCKWHEAT BOWL: Serve cold over salad greens with a lemon-dill vinaigrette for a lunch salad
@@ -59,7 +61,7 @@ Not at all, despite the name, buckwheat is completely unrelated to wheat. Toaste
 
 ### Is buckwheat good for weight loss?
 
-Yes, buckwheat has a low glycaemic index, which means it causes a slow, sustained rise in blood sugar rather than a spike. This helps control hunger and reduces cravings. It is also high in fibre and protein for a grain, both of which increase satiety. Studies suggest that regular buckwheat consumption is associated with healthier blood sugar and body weight.
+It can help. Whole buckwheat has a low-to-moderate glycaemic index, so it raises blood sugar more gently than white rice or white bread, and it is high in fibre and protein for a grain, both of which make a meal more filling. Some studies link regular buckwheat eating with better blood sugar control, though the evidence is still limited.
 
 ### Where can I buy buckwheat groats?
 
