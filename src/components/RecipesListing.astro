@@ -12,6 +12,7 @@ interface Recipe {
     tags?: string[];
     image?: string;
     featured?: boolean;
+    ingredients?: { name: string }[];
   };
 }
 
@@ -24,6 +25,9 @@ const { recipes, activeCourse = '' } = Astro.props;
 
 const courses = ['breakfast', 'lunch', 'dinner', 'snack'];
 const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
+const searchText = (r: Recipe) =>
+  [r.data.title, r.data.description, r.data.course, ...(r.data.tags ?? []), ...(r.data.ingredients ?? []).map(i => i.name)]
+    .join(' ').replace(/-/g, ' ').toLowerCase();
 ---
 
 <div class="recipes-page">
@@ -53,6 +57,14 @@ const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
 
   <div class="recipes-content">
     {recipes.length > 0 ? (
+      <>
+      <div class="recipe-search" role="search">
+        <label for="recipe-q" class="sr-only">Search recipes</label>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="recipe-q" type="search" placeholder="Search recipes or ingredients: buckwheat, beetroot, kefir…" autocomplete="off" />
+        <span class="recipe-search-count" id="recipe-count" aria-live="polite"></span>
+      </div>
+      <p class="recipe-search-empty" id="recipe-empty" hidden>No recipes match that search. Try a single ingredient.</p>
       <div class="recipes-grid">
         {recipes.map(r => (
           <RecipeCard
@@ -65,9 +77,11 @@ const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
             tags={r.data.tags}
             image={r.data.image}
             featured={r.data.featured}
+            search={searchText(r)}
           />
         ))}
       </div>
+      </>
     ) : (
       <div class="empty-state">
         <div class="empty-emoji">🥗</div>
@@ -79,7 +93,49 @@ const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
   </div>
 </div>
 
+<script>
+  const q = document.getElementById('recipe-q') as HTMLInputElement | null;
+  if (q) {
+    const cards = Array.from(document.querySelectorAll<HTMLElement>('.recipes-grid [data-search]'));
+    const count = document.getElementById('recipe-count')!;
+    const empty = document.getElementById('recipe-empty')!;
+    const apply = () => {
+      const terms = q.value.toLowerCase().split(/\s+/).filter(Boolean);
+      let shown = 0;
+      for (const c of cards) {
+        const hit = terms.every(t => c.dataset.search!.includes(t));
+        c.style.display = hit ? '' : 'none';
+        if (hit) shown++;
+      }
+      count.textContent = terms.length ? `${shown} of ${cards.length}` : '';
+      empty.hidden = shown > 0;
+      const url = new URL(location.href);
+      if (terms.length) url.searchParams.set('q', q.value.trim()); else url.searchParams.delete('q');
+      history.replaceState(null, '', url);
+    };
+    q.value = new URLSearchParams(location.search).get('q') ?? '';
+    q.addEventListener('input', apply);
+    if (q.value) apply();
+  }
+</script>
+
 <style>
+  .recipe-search {
+    display: flex; align-items: center; gap: 10px;
+    max-width: 640px;
+    background: var(--nd-warm-white); border: 1px solid var(--nd-border); border-radius: 14px;
+    padding: 0 16px; margin-bottom: 32px; color: var(--nd-muted);
+    transition: border-color 0.2s;
+  }
+  .recipe-search:focus-within { border-color: var(--nd-terra); color: var(--nd-terra); }
+  .recipe-search input {
+    flex: 1; min-width: 0; border: none; outline: none; background: none;
+    padding: 14px 0; font-family: inherit; font-size: 16px; color: var(--nd-text);
+  }
+  .recipe-search-count { font-size: 13px; color: var(--nd-muted); white-space: nowrap; }
+  .recipe-search-empty { font-size: 16px; color: var(--nd-muted); margin-bottom: 24px; }
+  .recipe-search-empty[hidden] { display: none; }
+
   .page-header {
     background: var(--nd-forest) url('/images/hero-recipes.webp') center/cover no-repeat;
     padding: 72px 48px 80px;

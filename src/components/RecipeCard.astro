@@ -10,9 +10,10 @@ interface Props {
   tags?: string[];
   image?: string;
   featured?: boolean;
+  search?: string;
 }
 
-const { title, slug, description, course, calories, totalTime, tags = [], image, featured = false } = Astro.props;
+const { title, slug, description, course, calories, totalTime, tags = [], image, featured = false, search } = Astro.props;
 
 const courseColors: Record<string, string> = {
   breakfast: 'linear-gradient(150deg, #FFF0EB 0%, #FFDDD1 100%)',
@@ -29,7 +30,7 @@ const bg = courseColors[course] ?? courseColors.lunch;
 const emoji = courseEmojis[course] ?? '🍽️';
 ---
 
-<a href={`/recipes/${slug}/`} class:list={['recipe-card', 'card', { featured }]} aria-label={title}>
+<a href={`/recipes/${slug}/`} class:list={['recipe-card', 'card', { featured }]} aria-label={title} data-search={search}>
   <div class="recipe-visual" style={`background: ${bg}`}>
     {image
       ? <img src={image} srcset={srcsetFor(image)} sizes="(max-width: 640px) calc(100vw - 40px), (max-width: 1024px) 50vw, 380px" alt={title} width="400" height="280" loading="lazy" class="recipe-img" />
