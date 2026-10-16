@@ -1,5 +1,5 @@
 ---
-title: "How to Lose Weight on a Central European Diet — Complete Guide 2025"
+title: "How to Lose Weight on a Central European Diet: The Complete Guide"
 description: "The 5 rules for losing weight on Slovak, Czech, Hungarian, and Polish food, with a food list and a complete sample day at 1,450 calories."
 metaTitle: "Central European Diet to Lose Weight — Guide | Natali Diet"
 metaDescription: "The 5 rules for losing weight on Slovak, Czech, Hungarian, and Polish food, with a food list and a complete sample day at 1,450 calories."
@@ -11,8 +11,8 @@ featured: false
 image: "/images/blog/central-european-diet-to-lose-weight.webp"
 ---
 
-Slovakia, Czech Republic, Hungary, Poland, Central Europe is a region of magnificent food culture. Smoked paprika, caraway seeds, sauerkraut, hearty dumplings, dark rye bread. It is also a region where cardiovascular disease and obesity have long been more common than in much of Western Europe, linked to diets high in animal fat, fried foods, and refined carbohydrates.
-Here is the important nuance: the older, everyday Central European way of eating had a lot going for it. Fermented foods, whole grains, root vegetables, soups, and meat in modest amounts. The cuisine itself is not the problem. The problem is how much of it became fried, fatty, oversized and eaten daily.
+You can lose weight on Slovak, Czech, Hungarian and Polish food without giving it up. Five rules do most of the work: eat fermented foods at every meal, swap white bread and rice for buckwheat and rye, start the main meal with soup, choose lean pork cuts, and go back to traditional portion sizes. A sample day built on these rules comes to about 1,450 calories.
+The older, everyday Central European way of eating was built on fermented foods, whole grains, root vegetables, soups and modest amounts of meat. The cuisine itself is not the problem. Weight gain comes from how much of it became fried, fatty, oversized and eaten daily.
 
 ## The 5 rules of Central European weight loss
 ### Rule 1: fermented foods at every meal

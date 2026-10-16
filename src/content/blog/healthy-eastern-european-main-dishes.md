@@ -1,5 +1,5 @@
 ---
-title: "Healthy Eastern European Main Dishes: The Complete Guide (2025)"
+title: "Healthy Eastern European Main Dishes: The Complete Guide"
 description: "The complete guide to making Eastern European main dishes lighter, 6 recipes, master techniques, universal swaps, and a meal planning framework."
 metaTitle: "Healthy Eastern European Main Dishes — Guide | Natali Diet"
 metaDescription: "The complete guide to making Eastern European main dishes lighter, 6 recipes, master techniques, universal swaps, and a meal planning framework."
@@ -11,9 +11,9 @@ featured: false
 image: "/images/blog/healthy-eastern-european-main-dishes.webp"
 ---
 
-Eastern European main dishes have a reputation for being heavy, and the traditional versions often earn it. Goulash swimming in lard, cabbage rolls under a blanket of fatty sour cream, deep-fried pierogi. Nobody wants to give those up.
+You can make Eastern European main dishes light without losing their flavour. Cook the vegetable base in a teaspoon of olive oil instead of lard, finish with low-fat Greek yogurt instead of sour cream, bake instead of fry, and use less, leaner meat. With those changes, the six classics in this guide, from Hungarian goulash to Ukrainian holubtsi, each come in under 400 calories a serving.
 
-The good news is you do not have to. What makes this food taste the way it does is spice, slow cooking, fermentation and technique, not the fat. Change a few things and every dish in this guide lands under 400 calories a serving and still tastes like the real thing.
+The traditional versions earn their heavy reputation: goulash in lard, cabbage rolls under fatty sour cream, fried pierogi. But what makes this food taste the way it does is spice, slow cooking, fermentation and technique, not the fat.
 
 This is the cornerstone guide to the six main dishes in the pillar. Each has its own recipe page with step-by-step method, nutrition, prep tips and FAQs. Use this page as the map.
 

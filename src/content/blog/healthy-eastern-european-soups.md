@@ -1,5 +1,5 @@
 ---
-title: "Healthy Eastern European Soups: The Ultimate Guide (2025)"
+title: "Healthy Eastern European Soups: The Complete Guide"
 description: "The complete hub guide to healthy Eastern European soups, six recipes, healthy swaps, calorie counts, and everything you need to cook lighter versions of these traditional broths."
 metaTitle: "Healthy Eastern European Soups — Full Guide | Natali Diet"
 metaDescription: "Hub guide to healthy Eastern European soups, six recipes, healthy swaps and calorie counts for lighter traditional broths."
@@ -11,8 +11,7 @@ featured: false
 image: "/images/blog/healthy-eastern-european-soups.webp"
 ---
 
-If you grew up in Eastern or Central Europe, or have ever had a bowl of beet-red borscht on a cold evening, you already know this cuisine was built on soup. Long before anyone called it 'bone broth', soup was everyday food across the region. And soup happens to be the easiest place to eat well here: these are filling, nourishing meals that stay light without losing flavour.
-This guide covers the soups worth knowing from Ukraine, Slovakia, Poland, Hungary and across Central Europe, with a recipe link and nutrition numbers for each, plus how to lighten the traditional versions without wrecking them.
+Eastern European soups are some of the easiest healthy meals in the region: most are broth-based, built on beets, cabbage and root vegetables, and filling at 130 to 230 calories a bowl. This guide covers six of them, from Ukrainian borscht and Slovak kapustnica to Polish żurek, with calorie counts, a recipe link for each, and the swaps that make the traditional versions lighter.
 
 ## The Eastern European soup pantry, staple ingredients
 Before diving into individual recipes, let us look at the building blocks that make these soups so nutritious. If you keep these in your kitchen, you can make almost any Eastern European soup on a weekday:

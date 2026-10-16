@@ -1,5 +1,5 @@
 ---
-title: "Healthy Traditional Eastern European Food — The Complete Makeover Guide (2025)"
+title: "Healthy Traditional Eastern European Food: 4 Techniques to Make It Lighter"
 description: "The universal guide to making traditional Eastern European dishes healthier, four core techniques, a dish overview table, and principles applicable to any recipe in this tradition."
 metaTitle: "Healthy Eastern European Food — Makeover Guide | Natali Diet"
 metaDescription: "Four core techniques to make any traditional Eastern European dish healthier, with a dish-by-dish overview table."
@@ -11,8 +11,8 @@ featured: false
 image: "/images/blog/healthy-traditional-eastern-european-food.webp"
 ---
 
-Traditional Eastern European food is, in many ways, already healthy. Everyday cooking was built on grains, vegetables, soups and fermented foods, with meat and fat in modest amounts, while the richest dishes were kept for feasts. Today many of those festive dishes are eaten every day, in bigger portions, with more fat and more refined flour.
-This pillar is about getting back to the everyday core of these dishes: trimming the excess fat and oversized portions, and keeping the nourishing food underneath.
+Four techniques make most traditional Eastern European dishes healthier: start from the original everyday recipe, remove moisture before frying, sear briefly and finish in the oven, and swap full-fat sour cream for low-fat Greek yogurt off the heat. Applied together, they bring classics like goulash, holubtsi and paprikash under 400 calories a serving.
+Traditional Eastern European food was already fairly healthy. Everyday cooking was built on grains, vegetables, soups and fermented foods, with meat and fat in modest amounts, while the richest dishes were kept for feasts. Today many of those festive dishes are eaten every day, in bigger portions, with more fat and more refined flour.
 
 ## The six main dishes
 The main-dish guide rebuilds six classics so they land under 400 calories without losing what makes them worth cooking:

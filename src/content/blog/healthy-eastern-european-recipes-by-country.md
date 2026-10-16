@@ -1,5 +1,5 @@
 ---
-title: "Healthy Eastern European Recipes by Country — The Complete Guide (2025)"
+title: "Healthy Eastern European Recipes by Country: The Complete Guide"
 description: "A country-by-country guide to the healthiest dishes from Ukraine, Hungary, Slovakia, Czech Republic, Poland, and Romania, what makes each cuisine distinctive and how to cook it lighter."
 metaTitle: "Healthy Eastern European Recipes by Country | Natali Diet"
 metaDescription: "Country-by-country guide to the healthiest dishes of Ukraine, Hungary, Slovakia, Czechia, Poland and Romania, cooked lighter."
@@ -11,8 +11,7 @@ featured: false
 image: "/images/blog/healthy-eastern-european-recipes-by-country.webp"
 ---
 
-Eastern Europe is not a single cuisine, it is a fascinating mosaic of distinct national traditions, each shaped by its landscape, climate, history, and neighbours. Ukrainian food is different from Hungarian food, which is different from Polish food, which is different from Czech and Slovak cooking.
-What they share is a common thread of fermented foods, slow broths, root vegetables and lean proteins that, handled well, make for some very satisfying healthy eating. This guide introduces each national tradition and its best lighter dishes.
+The healthiest Eastern European dishes come from six national cuisines: Ukrainian, Hungarian, Slovak, Czech, Polish and Romanian. Each has its own lighter classics, such as Ukrainian borscht, Hungarian chicken paprikash and Romanian ciorbă sour soups. All six share the same healthy core: fermented foods, broth-based soups, root vegetables and buckwheat or rye. This guide covers what these cuisines have in common and how to cook their dishes lighter.
 
 ## What all these cuisines share
 ### Fermented foods as daily staples
