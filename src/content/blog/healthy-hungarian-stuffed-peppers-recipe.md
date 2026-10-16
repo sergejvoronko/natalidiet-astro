@@ -7,6 +7,7 @@ category: "traditional-foods-healthy"
 tags: ["stuffed-peppers", "hungarian", "töltött-paprika", "turkey", "gluten-free", "high-protein"]
 pillar: 4
 publishDate: 2024-05-20
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-hungarian-stuffed-peppers-recipe.webp"
 ---

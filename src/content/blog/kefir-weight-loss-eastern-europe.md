@@ -6,6 +6,7 @@ metaDescription: "What kefir can and cannot do for weight loss and gut health, w
 category: "nutrition"
 tags: ["kefir", "weight loss", "gut health", "probiotics", "eastern european diet"]
 publishDate: 2026-05-22
+updatedDate: 2026-10-07
 image: "/images/blog/kefir-weight-loss-eastern-europe.webp"
 featured: false
 ---

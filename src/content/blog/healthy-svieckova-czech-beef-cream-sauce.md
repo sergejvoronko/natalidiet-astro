@@ -7,6 +7,7 @@ category: "traditional-foods-healthy"
 tags: ["svíčková", "czech", "braised-beef", "cream-sauce", "high-protein", "special-occasion"]
 pillar: 4
 publishDate: 2024-05-28
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-svieckova-czech-beef-cream-sauce.webp"
 ---

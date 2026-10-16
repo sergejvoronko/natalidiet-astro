@@ -7,6 +7,7 @@ category: "meal-plans-guides"
 tags: ["central-european", "weight-loss", "diet-guide", "slovak", "czech", "hungarian", "polish"]
 pillar: 3
 publishDate: 2024-04-15
+updatedDate: 2026-10-16
 featured: false
 image: "/images/blog/central-european-diet-to-lose-weight.webp"
 ---

@@ -7,6 +7,7 @@ category: "healthy-main-dishes"
 tags: ["chicken-paprikash", "hungarian", "gluten-free", "high-protein", "low-calorie", "comfort-food"]
 pillar: 2
 publishDate: 2024-03-10
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-chicken-paprikash-recipe.webp"
 ---

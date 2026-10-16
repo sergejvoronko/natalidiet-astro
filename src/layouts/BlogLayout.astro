@@ -10,6 +10,7 @@ interface Props {
   headline?: string;
   description: string;
   publishDate: Date;
+  updatedDate?: Date;
   category: string;
   tags?: string[];
   image?: string;
@@ -18,7 +19,7 @@ interface Props {
   noIndex?: boolean;
 }
 
-const { title, headline = Astro.props.title, description, publishDate, category, tags = [], image, postId, canonical, noIndex } = Astro.props;
+const { title, headline = Astro.props.title, description, publishDate, updatedDate, category, tags = [], image, postId, canonical, noIndex } = Astro.props;
 
 const siteUrl = 'https://natalidiet.eu';
 const pageUrl = canonical ?? siteUrl + Astro.url.pathname;
@@ -29,7 +30,7 @@ const articleSchema = {
   description,
   image: image ? siteUrl + image : siteUrl + '/og-default.jpg',
   datePublished: publishDate.toISOString(),
-  dateModified: publishDate.toISOString(),
+  dateModified: (updatedDate ?? publishDate).toISOString(),
   url: pageUrl,
   mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
   author: {
@@ -56,6 +57,7 @@ const breadcrumbSchema = {
   ],
 };
 
+const formattedUpdated = updatedDate?.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
 const formattedDate = publishDate.toLocaleDateString('en-GB', {
   day: 'numeric', month: 'long', year: 'numeric',
 });
@@ -91,6 +93,7 @@ const relatedPosts = allPosts
         <p class="article-desc">{description}</p>
         <div class="article-byline">
           <time datetime={publishDate.toISOString()}>{formattedDate}</time>
+          {updatedDate && <><span>·</span><span>Updated <time datetime={updatedDate.toISOString()}>{formattedUpdated}</time></span></>}
           <span>·</span>
           <span>Natali</span>
         </div>

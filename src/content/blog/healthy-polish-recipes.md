@@ -7,6 +7,7 @@ category: "country-recipe-guides"
 tags: ["polish-recipes", "poland", "healthy", "bigos", "zurek", "pierogi", "barszcz", "fermented-foods"]
 pillar: 5
 publishDate: 2024-06-25
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-polish-recipes.webp"
 ---

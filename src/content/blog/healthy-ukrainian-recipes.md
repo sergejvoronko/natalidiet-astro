@@ -7,6 +7,7 @@ category: "country-recipe-guides"
 tags: ["ukrainian-recipes", "ukraine", "healthy", "borscht", "varenyky", "kefir", "buckwheat", "holubtsi"]
 pillar: 5
 publishDate: 2024-06-10
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-ukrainian-recipes.webp"
 ---

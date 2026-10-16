@@ -7,6 +7,7 @@ category: "healthy-soups"
 tags: ["rassolnik", "pickle-soup", "ukrainian", "barley", "low-calorie"]
 pillar: 1
 publishDate: 2024-02-25
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-rassolnik-recipe.webp"
 ---

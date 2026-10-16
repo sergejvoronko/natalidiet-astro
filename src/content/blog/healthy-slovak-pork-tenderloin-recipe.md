@@ -7,6 +7,7 @@ category: "healthy-main-dishes"
 tags: ["pork-tenderloin", "slovak", "high-protein", "gluten-free", "lean", "low-calorie", "caraway"]
 pillar: 2
 publishDate: 2024-03-28
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-slovak-pork-tenderloin-recipe.webp"
 ---

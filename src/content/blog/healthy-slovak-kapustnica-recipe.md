@@ -7,6 +7,7 @@ category: "healthy-soups"
 tags: ["kapustnica", "slovak", "sauerkraut", "gluten-free", "christmas", "low-calorie"]
 pillar: 1
 publishDate: 2024-02-20
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-slovak-kapustnica-recipe.webp"
 ---

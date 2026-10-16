@@ -7,6 +7,7 @@ category: "meal-plans-guides"
 tags: ["mediterranean-diet", "eastern-european-diet", "comparison", "heart-health", "weight-loss", "gut-health"]
 pillar: 3
 publishDate: 2024-04-10
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/eastern-european-diet-vs-mediterranean-diet.webp"
 ---

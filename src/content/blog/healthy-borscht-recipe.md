@@ -7,6 +7,7 @@ category: "healthy-soups"
 tags: ["borscht", "ukrainian", "beet-soup", "healthy", "gluten-free", "vegan", "weight-loss"]
 pillar: 1
 publishDate: 2024-02-10
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-borscht-recipe.webp"
 ---

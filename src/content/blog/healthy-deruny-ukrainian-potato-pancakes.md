@@ -7,6 +7,7 @@ category: "traditional-foods-healthy"
 tags: ["deruny", "potato-pancakes", "ukrainian", "baked", "gluten-free", "low-calorie"]
 pillar: 4
 publishDate: 2024-05-10
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-deruny-ukrainian-potato-pancakes.webp"
 ---

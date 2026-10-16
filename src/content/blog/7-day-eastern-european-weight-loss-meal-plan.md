@@ -7,6 +7,7 @@ category: "meal-plans-guides"
 tags: ["meal-plan", "weight-loss", "eastern-european", "7-day", "batch-cooking"]
 pillar: 3
 publishDate: 2024-04-05
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/7-day-eastern-european-weight-loss-meal-plan.webp"
 ---

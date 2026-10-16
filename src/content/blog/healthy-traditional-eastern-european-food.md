@@ -7,6 +7,7 @@ category: "traditional-foods-healthy"
 tags: ["traditional", "makeover", "eastern-european", "healthy-techniques", "pillar-guide"]
 pillar: 4
 publishDate: 2024-05-05
+updatedDate: 2026-10-16
 featured: false
 image: "/images/blog/healthy-traditional-eastern-european-food.webp"
 ---

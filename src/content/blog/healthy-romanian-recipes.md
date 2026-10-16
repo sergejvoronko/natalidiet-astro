@@ -7,6 +7,7 @@ category: "country-recipe-guides"
 tags: ["romanian-recipes", "romania", "healthy", "ciorbă", "sarmale", "mămăligă", "mici", "sour-soup"]
 pillar: 5
 publishDate: 2024-06-28
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-romanian-recipes.webp"
 ---

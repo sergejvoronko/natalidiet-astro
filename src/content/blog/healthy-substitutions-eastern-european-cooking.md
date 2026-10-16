@@ -7,6 +7,7 @@ category: "meal-plans-guides"
 tags: ["ingredient-swaps", "healthy-substitutions", "eastern-european", "calories", "tips", "lard", "sour-cream"]
 pillar: 3
 publishDate: 2024-04-25
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-substitutions-eastern-european-cooking.webp"
 ---

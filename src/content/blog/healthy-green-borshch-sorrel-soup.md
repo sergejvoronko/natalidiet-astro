@@ -7,6 +7,7 @@ category: "healthy-soups"
 tags: ["green-borshch", "sorrel-soup", "ukrainian", "spring", "gluten-free", "low-calorie"]
 pillar: 1
 publishDate: 2024-02-15
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-green-borshch-sorrel-soup.webp"
 ---

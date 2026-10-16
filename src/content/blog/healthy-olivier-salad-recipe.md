@@ -7,6 +7,7 @@ category: "traditional-foods-healthy"
 tags: ["olivier-salad", "eastern-european", "potato-salad", "yogurt-dressing", "low-calorie", "party-food"]
 pillar: 4
 publishDate: 2024-05-28
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-olivier-salad-recipe.webp"
 ---

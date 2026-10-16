@@ -7,6 +7,7 @@ category: "healthy-soups"
 tags: ["ukrainian", "soups", "weight-loss", "low-calorie"]
 pillar: 1
 publishDate: 2026-04-01
+updatedDate: 2026-10-07
 featured: true
 image: "/images/blog/10-healthy-ukrainian-soups-weight-loss.webp"
 ---

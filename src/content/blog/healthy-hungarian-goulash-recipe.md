@@ -7,6 +7,7 @@ category: "healthy-main-dishes"
 tags: ["goulash", "hungarian", "beef-stew", "gluten-free", "high-protein", "low-calorie"]
 pillar: 2
 publishDate: 2024-03-20
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-hungarian-goulash-recipe.webp"
 ---

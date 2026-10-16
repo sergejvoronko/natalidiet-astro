@@ -7,6 +7,7 @@ category: "country-recipe-guides"
 tags: ["slovak-recipes", "czech-recipes", "central-european", "healthy", "kapustnica", "bryndza", "svíčková", "kulajda"]
 pillar: 5
 publishDate: 2024-06-20
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-slovak-czech-recipes.webp"
 ---

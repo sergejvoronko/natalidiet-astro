@@ -7,6 +7,7 @@ category: "traditional-foods-healthy"
 tags: ["bigos", "polish", "hunters-stew", "sauerkraut", "gluten-free", "low-calorie"]
 pillar: 4
 publishDate: 2024-05-25
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-bigos-polish-hunters-stew.webp"
 ---

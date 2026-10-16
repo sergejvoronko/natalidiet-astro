@@ -7,6 +7,7 @@ category: "country-recipe-guides"
 tags: ["hungarian-recipes", "hungary", "healthy", "paprikash", "goulash", "paprika", "stuffed-peppers"]
 pillar: 5
 publishDate: 2024-06-15
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-hungarian-recipes.webp"
 ---

@@ -7,6 +7,7 @@ category: "healthy-soups"
 tags: ["soups", "eastern-european", "healthy", "broths", "weight-loss", "pillar-guide"]
 pillar: 1
 publishDate: 2024-02-05
+updatedDate: 2026-10-16
 featured: false
 image: "/images/blog/healthy-eastern-european-soups.webp"
 ---

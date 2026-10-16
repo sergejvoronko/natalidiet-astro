@@ -7,6 +7,7 @@ category: "healthy-main-dishes"
 tags: ["main-dishes", "eastern-european", "pillar-guide", "healthy", "weight-loss"]
 pillar: 2
 publishDate: 2024-03-05
+updatedDate: 2026-10-16
 featured: false
 image: "/images/blog/healthy-eastern-european-main-dishes.webp"
 ---

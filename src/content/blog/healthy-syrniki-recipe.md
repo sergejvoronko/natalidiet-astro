@@ -7,6 +7,7 @@ category: "traditional-foods-healthy"
 tags: ["syrniki", "cottage-cheese-pancakes", "ukrainian", "high-protein", "vegetarian", "breakfast", "low-calorie"]
 pillar: 4
 publishDate: 2024-05-15
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-syrniki-recipe.webp"
 canonical: "https://natalidiet.eu/recipes/syrniki-cottage-cheese-pancakes/"

@@ -7,6 +7,7 @@ category: "healthy-main-dishes"
 tags: ["holubtsi", "cabbage-rolls", "ukrainian", "gluten-free", "meal-prep", "freezer-friendly", "280-calories"]
 pillar: 2
 publishDate: 2024-03-15
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-holubtsi-cabbage-rolls-recipe.webp"
 ---

@@ -7,6 +7,7 @@ category: "healthy-main-dishes"
 tags: ["buckwheat", "mushrooms", "vegan", "gluten-free", "plant-based", "low-calorie"]
 pillar: 2
 publishDate: 2024-03-28
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/buckwheat-mushrooms-eastern-european-recipe.webp"
 ---

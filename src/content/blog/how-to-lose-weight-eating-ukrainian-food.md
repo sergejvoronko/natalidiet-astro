@@ -7,6 +7,7 @@ category: "meal-plans-guides"
 tags: ["ukrainian-food", "weight-loss", "diet", "borscht", "kefir", "traditional", "buckwheat"]
 pillar: 3
 publishDate: 2024-04-28
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/how-to-lose-weight-eating-ukrainian-food.webp"
 ---

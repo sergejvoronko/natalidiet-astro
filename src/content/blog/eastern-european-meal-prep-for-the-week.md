@@ -7,6 +7,7 @@ category: "meal-plans-guides"
 tags: ["meal-prep", "batch-cooking", "sunday", "eastern-european", "storage", "borscht", "paprikash"]
 pillar: 3
 publishDate: 2024-04-20
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/eastern-european-meal-prep-for-the-week.webp"
 ---

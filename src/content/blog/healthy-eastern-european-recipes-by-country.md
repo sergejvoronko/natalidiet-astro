@@ -7,6 +7,7 @@ category: "country-recipe-guides"
 tags: ["eastern-european-recipes", "country-guide", "ukraine", "hungary", "poland", "slovakia", "romania"]
 pillar: 5
 publishDate: 2024-06-05
+updatedDate: 2026-10-16
 featured: false
 image: "/images/blog/healthy-eastern-european-recipes-by-country.webp"
 ---

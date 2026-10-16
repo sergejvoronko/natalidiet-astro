@@ -7,6 +7,7 @@ category: "healthy-main-dishes"
 tags: ["varenyky", "pierogi", "ukrainian", "polish", "vegetarian", "baked", "dumplings", "low-calorie"]
 pillar: 2
 publishDate: 2024-03-25
+updatedDate: 2026-10-07
 featured: false
 image: "/images/blog/healthy-baked-varenyky-pierogi-recipe.webp"
 ---
