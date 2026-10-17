@@ -48,7 +48,17 @@ def graph(path, token, data=None, files=None):
         body, headers = None, {}
     sep = "&" if "?" in path else "?"
     req = urllib.request.Request(f"{GRAPH}{path}{sep}access_token={token}", body, headers)
-    return json.load(urllib.request.urlopen(req, timeout=120))
+    for attempt in range(3):
+        try:
+            return json.load(urllib.request.urlopen(req, timeout=120))
+        except urllib.error.HTTPError:
+            raise
+        except (urllib.error.URLError, TimeoutError):
+            # Connection-level failures (TLS handshake timeouts seen in practice) happen before
+            # Meta has the request, so a retry cannot double-post.
+            if attempt == 2:
+                raise
+            time.sleep(20)
 
 
 def posts():
